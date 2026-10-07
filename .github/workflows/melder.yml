@@ -1,0 +1,60 @@
+# Laat GitHub de melder draaien, ook als je laptop uit staat.
+# GitHub draait hooguit elke 5 minuten en start vaak later dan gepland,
+# dus een melding komt meestal 5-15 minuten na plaatsing. Zie LEESMIJ.md.
+name: schadeauto-melder
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:          # handmatig starten via het tabblad Actions
+    inputs:
+      test:
+        description: "Alleen een testmelding sturen"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write             # nodig om gezien.json terug te schrijven
+
+concurrency:
+  group: schadeauto-melder
+  cancel-in-progress: false
+
+jobs:
+  controleer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      WHATSAPP_TELEFOON: ${{ secrets.WHATSAPP_TELEFOON }}
+      WHATSAPP_APIKEY: ${{ secrets.WHATSAPP_APIKEY }}
+      MIN_BOUWJAAR: ${{ vars.MIN_BOUWJAAR }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}   # nieuwste gezien.json, ook als deze run moest wachten
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Testmelding sturen
+        if: ${{ inputs.test }}
+        run: python melder.py --test
+
+      - name: Controleer schadeautos.nl
+        if: ${{ !inputs.test }}
+        run: python melder.py
+
+      - name: Onthoud welke advertenties al gezien zijn
+        if: ${{ always() && !inputs.test }}
+        run: |
+          [ -f gezien.json ] || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gezien.json
+          git diff --cached --quiet && exit 0
+          git commit -m "gezien.json bijwerken"
+          git push || (git pull --rebase origin "${{ github.ref_name }}" && git push)
