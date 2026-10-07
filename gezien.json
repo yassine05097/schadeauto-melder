@@ -184,7 +184,8 @@
 "1813792",
 "1813796",
 "1813797",
-"1813798"
+"1813798",
+"1812877"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -193,6 +194,7 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1812877",
 "1813798",
 "1813797",
 "1813796",
@@ -203,8 +205,7 @@
 "1809322",
 "1799165",
 "1773881",
-"1751571",
-"1784259"
+"1751571"
 ]
 },
 "wachtrij": {
@@ -219,8 +220,8 @@
 "WhatsApp"
 ],
 "sinds": 1791404955.8668242,
-"laatst": 1791406740.4062943,
-"keer": 3
+"laatst": 1791407694.228262,
+"keer": 4
 },
 "1813797": {
 "melding": {
@@ -248,6 +249,20 @@
 ],
 "sinds": 1791406741.102745,
 "laatst": 1791406741.102745,
+"keer": 0
+},
+"1812877": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes EQB (2024)",
+"bericht": "MERCEDES-BENZ EQB 250+ AMG Panoramadak Ambiance 360 Camera\n€ 23.750 · 92.312 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-mercedes-benz-eqb-250-amg-panoramadak-ambiance-360-camera/o/1812877",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1812877/788602ac2a7068af3dcfdf892603e9a9~v191226527.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791407695.237248,
+"laatst": 1791407695.237248,
 "keer": 0
 }
 },
