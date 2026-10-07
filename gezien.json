@@ -185,15 +185,17 @@
 "1813796",
 "1813797",
 "1813798",
-"1812877"
+"1812877",
+"1813799"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813798,
+"hoogste_id": 1813799,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1813799",
 "1812877",
 "1813798",
 "1813797",
@@ -204,8 +206,7 @@
 "1812185",
 "1809322",
 "1799165",
-"1773881",
-"1751571"
+"1773881"
 ]
 },
 "wachtrij": {
@@ -220,8 +221,8 @@
 "WhatsApp"
 ],
 "sinds": 1791404955.8668242,
-"laatst": 1791407694.228262,
-"keer": 4
+"laatst": 1791408771.905828,
+"keer": 5
 },
 "1813797": {
 "melding": {
@@ -263,6 +264,20 @@
 ],
 "sinds": 1791407695.237248,
 "laatst": 1791407695.237248,
+"keer": 0
+},
+"1813799": {
+"melding": {
+"titel": "Mercedes EQB (2025)",
+"bericht": "MERCEDES-BENZ EQB 250+ AMG PANORAMA Leder HUD Burmeister 360view VOLLL\n€ 24.950 · 24.034 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-mercedes-benz-eqb-250-amg-panorama-leder-hud-burmeister-360view-volll/o/1813799",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1813799/a34b936ae2192f829c1d63f430b45722~v191407803.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791408773.1194935,
+"laatst": 1791408773.1194935,
 "keer": 0
 }
 },
