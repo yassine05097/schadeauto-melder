@@ -186,15 +186,21 @@
 "1813797",
 "1813798",
 "1812877",
-"1813799"
+"1813799",
+"1808431",
+"1813801",
+"1813800"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813799,
+"hoogste_id": 1813801,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1808431",
+"1813801",
+"1813800",
 "1813799",
 "1812877",
 "1813798",
@@ -203,10 +209,7 @@
 "1813792",
 "1813791",
 "1802458",
-"1812185",
-"1809322",
-"1799165",
-"1773881"
+"1812185"
 ]
 },
 "wachtrij": {
@@ -221,8 +224,8 @@
 "WhatsApp"
 ],
 "sinds": 1791404955.8668242,
-"laatst": 1791408771.905828,
-"keer": 5
+"laatst": 1791409761.5029192,
+"keer": 6
 },
 "1813797": {
 "melding": {
@@ -278,6 +281,34 @@
 ],
 "sinds": 1791408773.1194935,
 "laatst": 1791408773.1194935,
+"keer": 0
+},
+"1808431": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mini Cooper (2024)",
+"bericht": "MINI COOPER Cabrio Cooper John Cooper Works Camera\n€ 18.950 · 41.231 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-mini-cooper-cabrio-cooper-john-cooper-works-camera/o/1808431",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1808431/2879cb3c7a8550a9285bbd8952a78903~v190062967.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791409762.5409985,
+"laatst": 1791409762.5409985,
+"keer": 0
+},
+"1813800": {
+"melding": {
+"titel": "Volkswagen T-Roc (2025)",
+"bericht": "€ 16.950 · 21.355 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc/o/1813800",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1813800/749a67e064309abad9a4f975419a96c6~v191408924.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791409762.573013,
+"laatst": 1791409762.573013,
 "keer": 0
 }
 },
