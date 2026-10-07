@@ -181,15 +181,17 @@
 "1813562",
 "1813561",
 "1813791",
-"1813792"
+"1813792",
+"1813796"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813792,
+"hoogste_id": 1813796,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1813796",
 "1813792",
 "1813791",
 "1802458",
@@ -200,10 +202,24 @@
 "1751571",
 "1784259",
 "1785865",
-"1808544",
-"1789714"
+"1808544"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1813796": {
+"melding": {
+"titel": "Mercedes C-klasse (2022)",
+"bericht": "C 300e Limousine AMG PANORAMA LUFT Trekhaak HUD VOLLL\n€ 28.950 · 129.871 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c-300e-limousine-amg-panorama-luft-trekhaak-hud-volll/o/1813796",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1813796/c0b8f95fc88500a2981d38b557ee8cf2~v191404531.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791404955.8668242,
+"laatst": 1791404955.8668242,
+"keer": 1
+}
+},
 "storing": {}
 }
