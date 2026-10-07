@@ -1,0 +1,6 @@
+config.json
+gezien.json.bak
+melder.log*
+.gezien-*.tmp
+.melder.lock
+__pycache__/
