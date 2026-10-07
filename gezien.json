@@ -183,15 +183,17 @@
 "1813791",
 "1813792",
 "1813796",
-"1813797"
+"1813797",
+"1813798"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813797,
+"hoogste_id": 1813798,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1813798",
 "1813797",
 "1813796",
 "1813792",
@@ -202,8 +204,7 @@
 "1799165",
 "1773881",
 "1751571",
-"1784259",
-"1785865"
+"1784259"
 ]
 },
 "wachtrij": {
@@ -218,8 +219,8 @@
 "WhatsApp"
 ],
 "sinds": 1791404955.8668242,
-"laatst": 1791405947.2462957,
-"keer": 2
+"laatst": 1791406740.4062943,
+"keer": 3
 },
 "1813797": {
 "melding": {
@@ -233,6 +234,20 @@
 ],
 "sinds": 1791405948.2186086,
 "laatst": 1791405948.2186086,
+"keer": 0
+},
+"1813798": {
+"melding": {
+"titel": "Mercedes GLB (2022)",
+"bericht": "EQB 300+ 4Matic 7 Sitzer Ambiance Leder Camera\n€ 19.950 · 74.037 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glb-eqb-300-4matic-7-sitzer-ambiance-leder-camera/o/1813798",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1813798/91ca6a7db3ba5efd8597537b1c42a0c3~v191406535.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791406741.102745,
+"laatst": 1791406741.102745,
 "keer": 0
 }
 },
