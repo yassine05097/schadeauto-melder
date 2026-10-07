@@ -182,15 +182,17 @@
 "1813561",
 "1813791",
 "1813792",
-"1813796"
+"1813796",
+"1813797"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813796,
+"hoogste_id": 1813797,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1813797",
 "1813796",
 "1813792",
 "1813791",
@@ -201,8 +203,7 @@
 "1773881",
 "1751571",
 "1784259",
-"1785865",
-"1808544"
+"1785865"
 ]
 },
 "wachtrij": {
@@ -217,8 +218,22 @@
 "WhatsApp"
 ],
 "sinds": 1791404955.8668242,
-"laatst": 1791404955.8668242,
-"keer": 1
+"laatst": 1791405947.2462957,
+"keer": 2
+},
+"1813797": {
+"melding": {
+"titel": "Mercedes GLA (2024)",
+"bericht": "GLA 250e AMG PANORAMADAK HUD Burmeister 360view\n€ 20.950 · 36.211 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-gla-gla-250e-amg-panoramadak-hud-burmeister-360view/o/1813797",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1813797/971e65e529126af65464e064d5523da9~v191405096.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791405948.2186086,
+"laatst": 1791405948.2186086,
+"keer": 0
 }
 },
 "storing": {}
