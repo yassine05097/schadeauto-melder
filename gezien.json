@@ -399,27 +399,40 @@
 "1813997",
 "1813992",
 "1813991",
-"1813990"
+"1813990",
+"1812744",
+"1812753",
+"1809108",
+"1811127",
+"1814029",
+"1814031",
+"1814034",
+"1814032",
+"1806503",
+"1808954",
+"1814027",
+"1814028",
+"1814015"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814030,
+"hoogste_id": 1814034,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1813980",
-"1814030",
-"1813086",
-"1814022",
-"1813963",
-"1814026",
-"1814025",
-"1814023",
-"1814021",
-"1814019",
-"1814018",
-"1814017"
+"1812744",
+"1812753",
+"1809108",
+"1811127",
+"1814029",
+"1814031",
+"1814034",
+"1814032",
+"1806503",
+"1808954",
+"1813931",
+"1814027"
 ]
 },
 "wachtrij": {
@@ -434,8 +447,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791460402.6901753,
-"keer": 26
+"laatst": 1791461156.9016736,
+"keer": 27
 },
 "1813798": {
 "melding": {
@@ -1653,6 +1666,62 @@
 ],
 "sinds": 1791460407.2420251,
 "laatst": 1791460407.2420251,
+"keer": 0
+},
+"1814034": {
+"melding": {
+"titel": "Hyundai Bayon (2025)",
+"bericht": "AUTOMAAT GDI 100 PK NAVI AIRCO CAMERA LED VIRT DASH B.J 11/2025\n€ 12.950 · 1.800 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-automaat-gdi-100-pk-navi-airco-camera-led-virt-dash-b-j-11-2025/o/1814034",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814034/93673477d48ca44c99d379b87bb7423b~v191460611.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791461157.6325595,
+"laatst": 1791461157.6325595,
+"keer": 0
+},
+"1814032": {
+"melding": {
+"titel": "Volvo V-90 (2023)",
+"bericht": "B5 Automaat Plus Dark\nexportprijs € 12.500 · 147.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-90-b5-automaat-plus-dark/o/1814032",
+"foto": "https://www.schadeautos.nl/cache/picture/173/1814032/44d208175e4d29dade9a4a33a848d4b7~v191460491.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791461157.6735985,
+"laatst": 1791461157.6735985,
+"keer": 0
+},
+"1814028": {
+"melding": {
+"titel": "Volkswagen Polo (2024)",
+"bericht": "DSG - BENZINE - KLIMA\nexportprijs € 7.800 · 32.701 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-dsg-benzine-klima/o/1814028",
+"foto": "https://www.schadeautos.nl/cache/picture/967/1814028/ef3696f65f29bd8ce59028938436a119~v191460483.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791461160.3549645,
+"laatst": 1791461160.3549645,
+"keer": 0
+},
+"1814015": {
+"melding": {
+"titel": "BMW i4 (2024)",
+"bericht": "High Executive 84 kWh M-Sport LED ACC HUD LrHZ SHZ Merino Leder\n€ 23.950 · 76.660 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i4-high-executive-84-kwh-m-sport-led-acc-hud-lrhz-shz-merino-leder/o/1814015",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814015/19626bca15c37361efaa0dbfdd17fb32~v191459834.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791461162.899893,
+"laatst": 1791461162.899893,
 "keer": 0
 }
 },
