@@ -307,27 +307,35 @@
 "1804586",
 "1548467",
 "1804710",
-"1780616"
+"1780616",
+"1813926",
+"1813925",
+"1813922",
+"1813924",
+"1813923",
+"1736547",
+"1813919",
+"1813916"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813915,
+"hoogste_id": 1813926,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1813926",
+"1813925",
+"1813922",
+"1813924",
+"1813923",
+"1736547",
+"1813919",
+"1813916",
 "1783123",
 "1813915",
 "1813913",
-"1782816",
-"1813895",
-"1752168",
-"1813894",
-"1813893",
-"1804586",
-"1548467",
-"1804710",
-"1780616"
+"1782816"
 ]
 },
 "wachtrij": {
@@ -342,8 +350,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791450896.2819588,
-"keer": 17
+"laatst": 1791452099.9625306,
+"keer": 18
 },
 "1813798": {
 "melding": {
@@ -931,6 +939,48 @@
 ],
 "sinds": 1791450897.8006227,
 "laatst": 1791450897.8006227,
+"keer": 0
+},
+"1813925": {
+"melding": {
+"titel": "Mercedes GLC (2025)",
+"bericht": "300\nexportprijs € 29.900 · 3.119 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glc-300/o/1813925",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1813925/47abcf14670348753a5350a795b46676~v191451850.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791452100.945294,
+"laatst": 1791452100.945294,
+"keer": 0
+},
+"1813923": {
+"melding": {
+"titel": "Porsche 911 (2024)",
+"bericht": "GT3 RS Weissach PCCB/BOSE/LIFT/CHRONO\n€ 209.900 · 10.025 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-911-gt3-rs-weissach-pccb-bose-lift-chrono/o/1813923",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1813923/fdbd1f06f77b864810628c6a9205475b~v191451512.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791452101.0220976,
+"laatst": 1791452101.0220976,
+"keer": 0
+},
+"1736547": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Octavia (2025)",
+"bericht": "1.5TSI 85kW Automaat MHEV Business Edition\n€ 20.450 · 38.144 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-5tsi-85kw-automaat-mhev-business-edition/o/1736547",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1736547/15d47e1b5a9f6f2b69ed1c8edcc07a4f~v168553280.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791452101.1012836,
+"laatst": 1791452101.1012836,
 "keer": 0
 }
 },
