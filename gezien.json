@@ -197,15 +197,17 @@
 "1813806",
 "1813805",
 "1813804",
-"1813803"
+"1813803",
+"1813809"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813808,
+"hoogste_id": 1813809,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1813809",
 "1810337",
 "1813808",
 "1813807",
@@ -216,8 +218,7 @@
 "1803872",
 "1813783",
 "1808431",
-"1813801",
-"1813800"
+"1813801"
 ]
 },
 "wachtrij": {
@@ -232,8 +233,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791436560.0776014,
-"keer": 4
+"laatst": 1791437647.4638698,
+"keer": 5
 },
 "1813798": {
 "melding": {
@@ -345,6 +346,20 @@
 ],
 "sinds": 1791436561.0232804,
 "laatst": 1791436561.0232804,
+"keer": 0
+},
+"1813809": {
+"melding": {
+"titel": "BMW 2-serie (2026)",
+"bericht": "0d M Sport Pro 140KW Harman Individual BMW\n€ 18.900 · 7.225 km · hybride diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie-0d-m-sport-pro-140kw-harman-individual-bmw/o/1813809",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1813809/84c29c02503938c0575a2120750fa33b~v191437104.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791437648.7969174,
+"laatst": 1791437648.7969174,
 "keer": 0
 }
 },
