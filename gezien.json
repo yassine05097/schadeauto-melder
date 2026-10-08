@@ -583,15 +583,17 @@
 "1814235",
 "1753026",
 "1814237",
-"1808348"
+"1808348",
+"1814240"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814237,
+"hoogste_id": 1814240,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814240",
 "1808348",
 "1811830",
 "1753026",
@@ -602,41 +604,10 @@
 "1814234",
 "1814233",
 "1814232",
-"1813115",
-"1811741"
+"1813115"
 ]
 },
 "wachtrij": {
-"1814224": {
-"melding": {
-"titel": "Renault Trafic (2023)",
-"bericht": "exportprijs € 7.950 · 50.770 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-trafic/o/1814224",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814224/9bd274e9a6fe1edc8de60ecd41fc185a~v191476174.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791476534.5015867,
-"laatst": 1791487268.5783577,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814222": {
-"melding": {
-"titel": "Mazda 2 (2022)",
-"bericht": "exportprijs € 8.950 · 32.020 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-2/o/1814222",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814222/c04910232fba5e15d9b19c5ec3e758aa~v191476165.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791476534.530098,
-"laatst": 1791476534.530098,
-"keer": 0,
-"fout": ""
-},
 "1814227": {
 "melding": {
 "titel": "Volkswagen Polo (2026)",
@@ -648,9 +619,9 @@
 "WhatsApp"
 ],
 "sinds": 1791477729.1763198,
-"laatst": 1791477729.1763198,
-"keer": 0,
-"fout": ""
+"laatst": 1791488285.5896208,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814232": {
 "melding": {
