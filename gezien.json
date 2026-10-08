@@ -367,27 +367,32 @@
 "1797212",
 "1807808",
 "1798582",
-"1813961"
+"1813961",
+"1813969",
+"1813968",
+"1813971",
+"1813569",
+"1813964"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813961,
+"hoogste_id": 1813971,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1793828",
+"1813969",
+"1813968",
+"1813971",
+"1813569",
+"1813964",
 "1813958",
 "1813817",
 "1797212",
 "1807808",
 "1813720",
-"1798582",
-"1813961",
-"1812733",
-"1813957",
-"1813955",
-"1793828",
-"1813954"
+"1798582"
 ]
 },
 "wachtrij": {
@@ -402,8 +407,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791457221.8278055,
-"keer": 23
+"laatst": 1791458348.109072,
+"keer": 24
 },
 "1813798": {
 "melding": {
@@ -1397,6 +1402,34 @@
 ],
 "sinds": 1791457222.956719,
 "laatst": 1791457222.956719,
+"keer": 0
+},
+"1813968": {
+"melding": {
+"titel": "Dacia Jogger (2026)",
+"bericht": "HYBRIDE 1.8 AUTOMAAT 7 PERS EXTREEM NAVI CLIMA CAMERA CRUISE LED B.J 04-2026\n€ 16.950 · 5.950 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-hybride-1-8-automaat-7-pers-extreem-navi-clima-camera-cruise-led-b-j-04-2026/o/1813968",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1813968/7a610dc6820597e8d8de881d31df9dee~v191458236.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791458349.6797588,
+"laatst": 1791458349.6797588,
+"keer": 0
+},
+"1813569": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Picanto (2025)",
+"bericht": "1.0 DPI DynamicLine 5Drs Bjr.2025\n€ 5.900 · 5.543 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-dynamicline-5drs-bjr-2025/o/1813569",
+"foto": "https://www.schadeautos.nl/cache/picture/375/1813569/6abe7245d26d7de3b4ea84a1c0991925~v191455003.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791458349.7088318,
+"laatst": 1791458349.7088318,
 "keer": 0
 }
 },
