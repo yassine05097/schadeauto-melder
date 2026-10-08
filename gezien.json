@@ -585,15 +585,17 @@
 "1814237",
 "1808348",
 "1814240",
-"1814241"
+"1814241",
+"1814242"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814241,
+"hoogste_id": 1814242,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814242",
 "1814241",
 "1814240",
 "1808348",
@@ -604,41 +606,10 @@
 "1798421",
 "1784912",
 "1814234",
-"1814233",
-"1814232"
+"1814233"
 ]
 },
 "wachtrij": {
-"1798421": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 208 (2023)",
-"bericht": "1.2 PureTech 101PK Allure\n€ 8.950 · 30.996 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-101pk-allure/o/1798421",
-"foto": "https://www.schadeautos.nl/cache/picture/871/1798421/ffceaf24f201aeaa9702d19b92d79358~v187129599.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791482491.4372659,
-"laatst": 1791493227.7497394,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1784912": {
-"melding": {
-"titel": "Opnieuw geplaatst: Citroën C3 (2023)",
-"bericht": "1.2 PureTech 83PK Shine\n€ 5.750 · 58.982 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-83pk-shine/o/1784912",
-"foto": "https://www.schadeautos.nl/cache/picture/871/1784912/c62d8b0e6e1ca97d3d64b9e4726cb387~v182455482.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791482491.4636877,
-"laatst": 1791482491.4636877,
-"keer": 0,
-"fout": ""
-},
 "1814235": {
 "melding": {
 "titel": "Volkswagen ID.4 (2023)",
@@ -650,9 +621,9 @@
 "WhatsApp"
 ],
 "sinds": 1791485110.763891,
-"laatst": 1791485110.763891,
-"keer": 0,
-"fout": ""
+"laatst": 1791494354.2594783,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1753026": {
 "melding": {
@@ -696,6 +667,21 @@
 ],
 "sinds": 1791489236.9596953,
 "laatst": 1791489236.9596953,
+"keer": 0,
+"fout": ""
+},
+"1814242": {
+"melding": {
+"titel": "Volkswagen T-Roc (2022)",
+"bericht": "1.5 TSI R-line / PANODAK / AUTOMAAT / CAMERA / CRUISE / NAVI\n€ 15.950 · 58.581 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5-tsi-r-line-panodak-automaat-camera-cruise-navi/o/1814242",
+"foto": "https://www.schadeautos.nl/cache/picture/302/1814242/cb696e2a6df12fb8baacf62d7e797c37~v191493012.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791494360.6531174,
+"laatst": 1791494360.6531174,
 "keer": 0,
 "fout": ""
 }
