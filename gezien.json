@@ -580,15 +580,19 @@
 "1814233",
 "1798421",
 "1784912",
-"1814235"
+"1814235",
+"1753026",
+"1814237"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814235,
+"hoogste_id": 1814237,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1753026",
+"1814237",
 "1814235",
 "1798421",
 "1784912",
@@ -598,9 +602,7 @@
 "1813115",
 "1811741",
 "1804599",
-"1809372",
-"1787862",
-"1812734"
+"1809372"
 ]
 },
 "wachtrij": {
@@ -615,8 +617,8 @@
 "WhatsApp"
 ],
 "sinds": 1791476534.5015867,
-"laatst": 1791485109.895991,
-"keer": 1,
+"laatst": 1791486137.8796017,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814222": {
@@ -736,6 +738,36 @@
 ],
 "sinds": 1791485110.763891,
 "laatst": 1791485110.763891,
+"keer": 0,
+"fout": ""
+},
+"1753026": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW iX3 (2024)",
+"bericht": "M Sport Inspiring\n€ 17.303 · 45.737 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix3-m-sport-inspiring/o/1753026",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1753026/81b8e17321255af5dddaf2631d1dfbcb~v173071229.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791486138.809512,
+"laatst": 1791486138.809512,
+"keer": 0,
+"fout": ""
+},
+"1814237": {
+"melding": {
+"titel": "Audi A3 (2024)",
+"bericht": "Sportback 40 TFSI e Advanced\n€ 10.890 · 79.413 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-sportback-40-tfsi-e-advanced/o/1814237",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1814237/3f52f5fb18f2fe469bd1de4a94d9bef4~v191485059.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791486138.8402061,
+"laatst": 1791486138.8402061,
 "keer": 0,
 "fout": ""
 }
