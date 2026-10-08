@@ -520,101 +520,42 @@
 "1744708",
 "1775976",
 "1812340",
-"1813745"
+"1813745",
+"1676354",
+"1782997",
+"1782065",
+"1782061",
+"1727912",
+"1781622",
+"1780766",
+"1814178",
+"1814177",
+"1814176",
+"1814167",
+"1814175"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814174,
+"hoogste_id": 1814178,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814116",
-"1814174",
-"1814173",
-"1814172",
-"1814168",
-"1814169",
-"1814164",
-"1814159",
-"1814165",
-"1814146",
-"1814160",
-"1814162"
+"1676354",
+"1782997",
+"1782065",
+"1782061",
+"1727912",
+"1781622",
+"1780766",
+"1814178",
+"1814177",
+"1814176",
+"1814167",
+"1814175"
 ]
 },
 "wachtrij": {
-"1813984": {
-"melding": {
-"titel": "Dacia Jogger (2024)",
-"bericht": "EXTREEM 110 PK NAVI CLIMA CAMERA 5 P B.J 06-2024\n€ 11.990 · 38.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreem-110-pk-navi-clima-camera-5-p-b-j-06-2024/o/1813984",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1813984/bcc4fbdb6551dc0f08adf78fbe2aefb2~v191459301.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791459445.2938516,
-"laatst": 1791469882.6409373,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1813979": {
-"melding": {
-"titel": "Volkswagen T-Cross (2023)",
-"bericht": "AUTOMAAT 110 PK NAVI CLIMA CAMERA VIRT DASH B.J 09-2023\n€ 11.950 · 81 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-automaat-110-pk-navi-clima-camera-virt-dash-b-j-09-2023/o/1813979",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1813979/30309ec161063f12f5abf061c1cf6f0e~v191459051.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791459445.3655455,
-"laatst": 1791459445.3655455,
-"keer": 0
-},
-"1813977": {
-"melding": {
-"titel": "Volkswagen T-Cross (2024)",
-"bericht": "AUTOMAAT 116 PK NAVI CLIMA CAMERA LED B.J 06-2024 FACELIFT\n€ 14.950 · 17.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-automaat-116-pk-navi-clima-camera-led-b-j-06-2024-facelift/o/1813977",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1813977/cae50f862892e3e7ecc0d3ad6a76ab79~v191458786.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791459445.4414115,
-"laatst": 1791459445.4414115,
-"keer": 0
-},
-"1813973": {
-"melding": {
-"titel": "MG Marvel R (2022)",
-"bericht": "Luxury 70 kWh 180 pk\n€ 13.950 · 85.583 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-marvel-r-luxury-70-kwh-180-pk/o/1813973",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1813973/6a21817a4c1cdf088b9209e1660e8016~v191458453.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791459445.51668,
-"laatst": 1791459445.51668,
-"keer": 0
-},
-"1813974": {
-"melding": {
-"titel": "Volkswagen Tiguan (2024)",
-"bericht": "1.5 AUTOMAAT 150 PK NAVI CLIMA CAMERA VIR DASHBOARD LED TREKHAAK B.J 2024\n€ 18.950 · 51.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-automaat-150-pk-navi-clima-camera-vir-dashboard-led-trekhaak-b-j-2024/o/1813974",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1813974/caf464cd1f1363c7724773c48a9a17c6~v191458481.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791459445.600994,
-"laatst": 1791459445.600994,
-"keer": 0
-},
 "1813980": {
 "melding": {
 "titel": "Toyota Yaris (2024)",
@@ -626,8 +567,9 @@
 "WhatsApp"
 ],
 "sinds": 1791460403.822382,
-"laatst": 1791460403.822382,
-"keer": 0
+"laatst": 1791471111.110557,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814030": {
 "melding": {
@@ -1439,6 +1381,36 @@
 ],
 "sinds": 1791469884.1544514,
 "laatst": 1791469884.1544514,
+"keer": 0,
+"fout": ""
+},
+"1814178": {
+"melding": {
+"titel": "Hyundai I-20 (2024)",
+"bericht": "Trend\n€ 10.500 · 13.104 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-trend/o/1814178",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1814178/276ad763071f72d5fb5f8aaef9f88ba7~v191470477.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791471112.1376987,
+"laatst": 1791471112.1376987,
+"keer": 0,
+"fout": ""
+},
+"1814167": {
+"melding": {
+"titel": "Renault Espace (2025)",
+"bericht": "VI Iconic E-Tech Hybrid\n€ 19.800 · 26.691 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-espace-vi-iconic-e-tech-hybrid/o/1814167",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1814167/ce06c33ee360807b8ba842c0eb5ad2af~v191469578.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791471112.287531,
+"laatst": 1791471112.287531,
 "keer": 0,
 "fout": ""
 }
