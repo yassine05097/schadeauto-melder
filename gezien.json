@@ -239,27 +239,43 @@
 "1813836",
 "1813832",
 "1813831",
-"1813829"
+"1813829",
+"1790413",
+"1813522",
+"1749289",
+"1695909",
+"1809727",
+"1598305",
+"1549664",
+"1808183",
+"1810520",
+"1813844",
+"1779888",
+"1420154",
+"1813840",
+"1771026",
+"1777185",
+"1813839"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813838,
+"hoogste_id": 1813844,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1813838",
-"1806533",
-"1813837",
-"1813836",
-"1813832",
-"1813831",
-"1813829",
-"1719480",
-"1808468",
-"1762538",
-"1795517",
-"1786533"
+"1790413",
+"1813522",
+"1749289",
+"1695909",
+"1809727",
+"1598305",
+"1549664",
+"1808183",
+"1810520",
+"1813844",
+"1779888",
+"1420154"
 ]
 },
 "wachtrij": {
@@ -274,8 +290,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791444513.2687309,
-"keer": 11
+"laatst": 1791445644.5251093,
+"keer": 12
 },
 "1813798": {
 "melding": {
@@ -583,6 +599,90 @@
 ],
 "sinds": 1791444513.9399304,
 "laatst": 1791444513.9399304,
+"keer": 0
+},
+"1790413": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 2-serie (2022)",
+"bericht": "218i Aut Active Tourer Climat Leer Navi Camera.....\n€ 9.600 · 95.397 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie-218i-aut-active-tourer-climat-leer-navi-camera/o/1790413",
+"foto": "https://www.schadeautos.nl/cache/picture/739/1790413/81559e2d110d48370cde807587f62baa~v184110689.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791445645.4296765,
+"laatst": 1791445645.4296765,
+"keer": 0
+},
+"1813522": {
+"melding": {
+"titel": "Opnieuw geplaatst: Citroën C5 Aircross (2023)",
+"bericht": "1.5BlueHdi 130 AUT.S&S VirtualCockpit Leer/Alcantara Keyless-Go StoelVerwarming Navi>Android auto\nexportprijs € 8.250 · 116.797 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c5-aircross-1-5bluehdi-130-aut-s-s-virtualcockpit-leer-alcantara-keyless-go-stoelverwarming-navi-android-auto/o/1813522",
+"foto": "https://www.schadeautos.nl/cache/picture/739/1813522/42f955c3a28fad8b9af7a26cba606b92~v191363333.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791445645.4614885,
+"laatst": 1791445645.4614885,
+"keer": 0
+},
+"1749289": {
+"melding": {
+"titel": "Opnieuw geplaatst: Dacia (2025)",
+"bericht": "BIGSTER MildHybrid 140 20.890km!! Climatronic Navi Camera .....\n€ 10.950 · 20.890 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-bigster-mildhybrid-140-20-890km-climatronic-navi-camera/o/1749289",
+"foto": "https://www.schadeautos.nl/cache/picture/739/1749289/5b692b388b9b1cc9eda954ea3215880d~v172036320.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791445645.4901295,
+"laatst": 1791445645.4901295,
+"keer": 0
+},
+"1809727": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi A4 Avant (2024)",
+"bericht": "2.0TDI S Tronic Aut. S-LINE HalfLeer Navi Trekhaak-Klapbaar.....\nexportprijs € 15.800 · 99.193 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-2-0tdi-s-tronic-aut-s-line-halfleer-navi-trekhaak-klapbaar/o/1809727",
+"foto": "https://www.schadeautos.nl/cache/picture/739/1809727/4e0d9c4def437836e4cbfca9f0fb7a88~v190329244.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791445645.5182388,
+"laatst": 1791445645.5182388,
+"keer": 0
+},
+"1808183": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 3-serie (2023)",
+"bericht": "330e xDrive 215KW Pano Clima Navi Hud\n€ 22.950 · 105.551 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-330e-xdrive-215kw-pano-clima-navi-hud/o/1808183",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1808183/03f66f50f16b6641bdf33eb03e937d5a~v190236409.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791445645.5470314,
+"laatst": 1791445645.5470314,
+"keer": 0
+},
+"1777185": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volvo V-90 (2025)",
+"bericht": "2.0 T8 Plug-in hybrid AWD Ultra Dark\n€ 16.950 · 17.638 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-90-2-0-t8-plug-in-hybrid-awd-ultra-dark/o/1777185",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1777185/83bc438c046856e4a44141f872959664~v180392094.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791445648.0679433,
+"laatst": 1791445648.0679433,
 "keer": 0
 }
 },
