@@ -380,27 +380,46 @@
 "1813977",
 "1813221",
 "1813973",
-"1813974"
+"1813974",
+"1813980",
+"1814030",
+"1813086",
+"1814022",
+"1813963",
+"1814026",
+"1814025",
+"1814023",
+"1814021",
+"1814019",
+"1814018",
+"1814017",
+"1814009",
+"1813994",
+"1814001",
+"1813997",
+"1813992",
+"1813991",
+"1813990"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813984,
+"hoogste_id": 1814030,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1813984",
-"1752827",
-"1813979",
-"1813966",
-"1813977",
-"1813221",
-"1813973",
-"1813974",
-"1793828",
-"1813969",
-"1813968",
-"1813971"
+"1813980",
+"1814030",
+"1813086",
+"1814022",
+"1813963",
+"1814026",
+"1814025",
+"1814023",
+"1814021",
+"1814019",
+"1814018",
+"1814017"
 ]
 },
 "wachtrij": {
@@ -415,8 +434,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791459444.2579556,
-"keer": 25
+"laatst": 1791460402.6901753,
+"keer": 26
 },
 "1813798": {
 "melding": {
@@ -1508,6 +1527,132 @@
 ],
 "sinds": 1791459445.600994,
 "laatst": 1791459445.600994,
+"keer": 0
+},
+"1813980": {
+"melding": {
+"titel": "Toyota Yaris (2024)",
+"bericht": "1.5i-VVTi Airco Camera CruiseControl Pdc Navi>android Auto/Carplay\nexportprijs € 8.200 · 60.337 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5i-vvti-airco-camera-cruisecontrol-pdc-navi-android-auto-carplay/o/1813980",
+"foto": "https://www.schadeautos.nl/cache/picture/739/1813980/475b8ae979b3ff4a5dddf9312ce6e3c0~v191460326.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791460403.822382,
+"laatst": 1791460403.822382,
+"keer": 0
+},
+"1814030": {
+"melding": {
+"titel": "Hyundai Kona (2023)",
+"bericht": "N-LINE SPORT 1.0 T-GDI CLIMA CAMERA APP LED B.J 04-2023\n€ 11.950 · 13.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-n-line-sport-1-0-t-gdi-clima-camera-app-led-b-j-04-2023/o/1814030",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814030/893c63384d4576a950902c3d7e405551~v191460387.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791460403.9338791,
+"laatst": 1791460403.9338791,
+"keer": 0
+},
+"1814026": {
+"melding": {
+"titel": "Volkswagen T-Cross (2022)",
+"bericht": "STYLE 110 PK NAVI CLIMA CAMERA VIRT DASH B.J 09-2022\n€ 10.990 · 57.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-style-110-pk-navi-clima-camera-virt-dash-b-j-09-2022/o/1814026",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814026/9ad1349a1548677d2a822bbc5251bd91~v191460137.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791460404.0333395,
+"laatst": 1791460404.0333395,
+"keer": 0
+},
+"1814019": {
+"melding": {
+"titel": "Audi A6 (2025)",
+"bericht": "Avant e-Tron Performance S-Line Performance 100 kWh Pano ACC HUD B&O 360° AHK\n€ 38.950 · 54.796 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-e-tron-performance-s-line-performance-100-kwh-pano-acc-hud-b-o-360-ahk/o/1814019",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814019/87fd7d043ba6719029dfd3efd6a46db6~v191459904.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791460404.1322768,
+"laatst": 1791460404.1322768,
+"keer": 0
+},
+"1814018": {
+"melding": {
+"titel": "Renault Captur (2022)",
+"bericht": "1.0 TCe Zen PDC Airco Navi AHK Cruise LED\n€ 7.450 · 202.268 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-1-0-tce-zen-pdc-airco-navi-ahk-cruise-led/o/1814018",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814018/eebac3787965779b1cfb4ed6181ea7ac~v191459889.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791460404.2314622,
+"laatst": 1791460404.2314622,
+"keer": 0
+},
+"1814017": {
+"melding": {
+"titel": "Land Rover Range Rover (2024)",
+"bericht": "3.0 P460e Autobiography PHEV Pano ACC Meridian HUD SBL 4X Memory\n€ 74.950 · 91.198 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-range-rover-3-0-p460e-autobiography-phev-pano-acc-meridian-hud-sbl-4x-memory/o/1814017",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814017/b0e9ea2e0861280a41b208a895b6e397~v191459865.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791460404.3332763,
+"laatst": 1791460404.3332763,
+"keer": 0
+},
+"1813994": {
+"melding": {
+"titel": "Hyundai I-20 (2024)",
+"bericht": "AUTOMAAT 100 PK PREMIUM SPORT BOSE NAVI CLIMA CAMERA LED B.J 12-2024\n€ 13.500 · 16.295 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-automaat-100-pk-premium-sport-bose-navi-clima-camera-led-b-j-12-2024/o/1813994",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1813994/f1d8bb94fdf955da3dc64a7860725a96~v191459712.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791460407.0247498,
+"laatst": 1791460407.0247498,
+"keer": 0
+},
+"1814001": {
+"melding": {
+"titel": "Mini Cooper (2026)",
+"bericht": "S 2.0 Cooper S JCW XL 5-Drs Pano HUD 360° Memory H/K Massage LrHZ SHZ LED\n€ 30.950 · 12.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-2-0-cooper-s-jcw-xl-5-drs-pano-hud-360-memory-h-k-massage-lrhz-shz-led/o/1814001",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814001/cc8995e9cffcff144636a5cae722b4bf~v191459606.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791460407.1312277,
+"laatst": 1791460407.1312277,
+"keer": 0
+},
+"1813990": {
+"melding": {
+"titel": "Peugeot 3008 (2022)",
+"bericht": "1.2 PureTech GT ACC Navi SHZ Virtual Apple/Android Camera PDC AHK Clima\n€ 10.950 · 43.806 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-3008-1-2-puretech-gt-acc-navi-shz-virtual-apple-android-camera-pdc-ahk-clima/o/1813990",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1813990/eed8bc60ab63a8fd467f67081cda5cba~v191459495.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791460407.2420251,
+"laatst": 1791460407.2420251,
 "keer": 0
 }
 },
