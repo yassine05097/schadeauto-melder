@@ -255,27 +255,36 @@
 "1813840",
 "1771026",
 "1777185",
-"1813839"
+"1813839",
+"1757766",
+"1810092",
+"1813850",
+"1810114",
+"1780175",
+"1810277",
+"1813847",
+"1811697",
+"1813845"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813844,
+"hoogste_id": 1813850,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1757766",
+"1810092",
+"1813850",
+"1810114",
+"1780175",
+"1810277",
+"1813847",
+"1811697",
+"1813845",
 "1790413",
 "1813522",
-"1749289",
-"1695909",
-"1809727",
-"1598305",
-"1549664",
-"1808183",
-"1810520",
-"1813844",
-"1779888",
-"1420154"
+"1749289"
 ]
 },
 "wachtrij": {
@@ -290,8 +299,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791445644.5251093,
-"keer": 12
+"laatst": 1791446497.3886037,
+"keer": 13
 },
 "1813798": {
 "melding": {
@@ -683,6 +692,48 @@
 ],
 "sinds": 1791445648.0679433,
 "laatst": 1791445648.0679433,
+"keer": 0
+},
+"1757766": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes E-klasse (2024)",
+"bericht": "300e Hybrid 268pk aut + f1 AMG-Line - pano - sfeerverl - memory l+r - front + line + side assist - 16dkm\n€ 39.250 · 16.803 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-300e-hybrid-268pk-aut-f1-amg-line-pano-sfeerverl-memory-l-r-front-line-side-assist-16dkm/o/1757766",
+"foto": "https://www.schadeautos.nl/cache/picture/707/1757766/662a6137bfb036555cb9e93cd076076f~v174440752.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791446498.1276364,
+"laatst": 1791446498.1276364,
+"keer": 0
+},
+"1810092": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes B-klasse (2023)",
+"bericht": "250e 163pk aut + f1 Lux Line - pano - nap - 1e eig - widescreen - sfeerverl - leer - memory l+r\n€ 19.650 · 80.269 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-b-klasse-250e-163pk-aut-f1-lux-line-pano-nap-1e-eig-widescreen-sfeerverl-leer-memory-l-r/o/1810092",
+"foto": "https://www.schadeautos.nl/cache/picture/707/1810092/e89f31795d5de14661f3e4cfbf641f41~v190419569.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791446498.1560748,
+"laatst": 1791446498.1560748,
+"keer": 0
+},
+"1810277": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 3008 (2022)",
+"bericht": "1.6 Hybrid Autom.165KW Allure Pack Business Clima Navi Camera Led NAP\n€ 11.750 · 107.988 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-3008-1-6-hybrid-autom-165kw-allure-pack-business-clima-navi-camera-led-nap/o/1810277",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1810277/eed4dcdce76b334a6896880ce5497a8a~v190588445.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791446498.1818013,
+"laatst": 1791446498.1818013,
 "keer": 0
 }
 },
