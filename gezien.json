@@ -577,7 +577,9 @@
 "1812680",
 "1795532",
 "1814234",
-"1814233"
+"1814233",
+"1798421",
+"1784912"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -586,6 +588,8 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1798421",
+"1784912",
 "1814234",
 "1814233",
 "1814232",
@@ -595,42 +599,10 @@
 "1809372",
 "1787862",
 "1812734",
-"1812680",
-"1795532",
-"1813929"
+"1812680"
 ]
 },
 "wachtrij": {
-"1814178": {
-"melding": {
-"titel": "Hyundai I-20 (2024)",
-"bericht": "Trend\n€ 10.500 · 13.104 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-trend/o/1814178",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1814178/276ad763071f72d5fb5f8aaef9f88ba7~v191470477.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791471112.1376987,
-"laatst": 1791481874.2112842,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814167": {
-"melding": {
-"titel": "Renault Espace (2025)",
-"bericht": "VI Iconic E-Tech Hybrid\n€ 19.800 · 26.691 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-espace-vi-iconic-e-tech-hybrid/o/1814167",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1814167/ce06c33ee360807b8ba842c0eb5ad2af~v191469578.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791471112.287531,
-"laatst": 1791471112.287531,
-"keer": 0,
-"fout": ""
-},
 "1814182": {
 "melding": {
 "titel": "Audi Q8 (2024)",
@@ -642,9 +614,9 @@
 "WhatsApp"
 ],
 "sinds": 1791471848.7186027,
-"laatst": 1791471848.7186027,
-"keer": 0,
-"fout": ""
+"laatst": 1791482490.4130921,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814198": {
 "melding": {
@@ -808,6 +780,36 @@
 ],
 "sinds": 1791481882.7681296,
 "laatst": 1791481882.7681296,
+"keer": 0,
+"fout": ""
+},
+"1798421": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2023)",
+"bericht": "1.2 PureTech 101PK Allure\n€ 8.950 · 30.996 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-101pk-allure/o/1798421",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1798421/ffceaf24f201aeaa9702d19b92d79358~v187129599.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791482491.4372659,
+"laatst": 1791482491.4372659,
+"keer": 0,
+"fout": ""
+},
+"1784912": {
+"melding": {
+"titel": "Opnieuw geplaatst: Citroën C3 (2023)",
+"bericht": "1.2 PureTech 83PK Shine\n€ 5.750 · 58.982 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-83pk-shine/o/1784912",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1784912/c62d8b0e6e1ca97d3d64b9e4726cb387~v182455482.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791482491.4636877,
+"laatst": 1791482491.4636877,
 "keer": 0,
 "fout": ""
 }
