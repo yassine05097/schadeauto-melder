@@ -340,27 +340,42 @@
 "1807680",
 "1785472",
 "1803912",
-"1812290"
+"1812290",
+"1813952",
+"1811462",
+"1791032",
+"1623118",
+"1783039",
+"1813947",
+"1778683",
+"1711302",
+"1803235",
+"1780966",
+"1792524",
+"1807420",
+"1810857",
+"1810848",
+"1813945"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813941,
+"hoogste_id": 1813952,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1809364",
-"1813941",
-"1809461",
-"1807680",
-"1785472",
-"1803912",
-"1812290",
-"1813940",
-"1813920",
-"1813939",
-"1813934",
-"1813935"
+"1813952",
+"1811462",
+"1791032",
+"1623118",
+"1783039",
+"1813947",
+"1778683",
+"1711302",
+"1803235",
+"1780966",
+"1792524",
+"1807420"
 ]
 },
 "wachtrij": {
@@ -375,8 +390,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791454012.8497982,
-"keer": 20
+"laatst": 1791455281.1523185,
+"keer": 21
 },
 "1813798": {
 "melding": {
@@ -1132,6 +1147,90 @@
 ],
 "sinds": 1791454014.5717409,
 "laatst": 1791454014.5717409,
+"keer": 0
+},
+"1813952": {
+"melding": {
+"titel": "Citroën C5 Aircross (2025)",
+"bericht": "exportprijs € 5.950 · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c5-aircross/o/1813952",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1813952/2cb3e32fbc82c38323ced71d04360d0d~v191455275.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791455282.402683,
+"laatst": 1791455282.402683,
+"keer": 0
+},
+"1623118": {
+"melding": {
+"titel": "Opnieuw geplaatst: DS Automobiles (2024)",
+"bericht": "DS 7 E-Tense 225 Opéra Panoramadak Navi Clima\n€ 18.750 · 8.335 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ds-automobiles-ds-7-e-tense-225-opera-panoramadak-navi-clima/o/1623118",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1623118/33dec1b2e9342e221c8046ebd14f2f28~v187835362.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791455282.4341915,
+"laatst": 1791455282.4341915,
+"keer": 0
+},
+"1783039": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes B-klasse (2024)",
+"bericht": "180 Luxury Line Panoramadak Navi clima\n€ 20.750 · 36.297 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-b-klasse-180-luxury-line-panoramadak-navi-clima/o/1783039",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1783039/9bb7f2d085bb99f54fd26c8716e77ace~v191454792.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791455282.46128,
+"laatst": 1791455282.46128,
+"keer": 0
+},
+"1711302": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Tiguan (2023)",
+"bericht": "1.5 TSI DSG R-Line Business Navi Clima\n€ 9.950 · 85.724 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-tsi-dsg-r-line-business-navi-clima/o/1711302",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1711302/5b9cea32e26f7d2ba46d49aff0b2ff54~v160522070.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791455282.4909317,
+"laatst": 1791455282.4909317,
+"keer": 0
+},
+"1810857": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 2008 (2022)",
+"bericht": "1.2 PureTech Allure\n€ 7.950 · 53.017 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-allure/o/1810857",
+"foto": "https://www.schadeautos.nl/cache/picture/1028/1810857/70954d6d0acc31a0da4cc9353e168290~v190690496.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791455285.2896247,
+"laatst": 1791455285.2896247,
+"keer": 0
+},
+"1810848": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Focus (2023)",
+"bericht": "Wagon 1.0 Ecoboost Hybrid Titanium\n€ 9.950 · 101.279 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon-1-0-ecoboost-hybrid-titanium/o/1810848",
+"foto": "https://www.schadeautos.nl/cache/picture/1028/1810848/7bfde0ae561c8f9b78bf56a63cfb38f3~v190689932.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791455285.3217134,
+"laatst": 1791455285.3217134,
 "keer": 0
 }
 },
