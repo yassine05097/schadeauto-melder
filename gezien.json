@@ -191,27 +191,33 @@
 "1813801",
 "1813800",
 "1803872",
-"1813783"
+"1813783",
+"1813808",
+"1813807",
+"1813806",
+"1813805",
+"1813804",
+"1813803"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813801,
+"hoogste_id": 1813808,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1810337",
+"1813808",
+"1813807",
+"1813806",
+"1813805",
+"1813804",
+"1813803",
 "1803872",
 "1813783",
 "1808431",
 "1813801",
-"1813800",
-"1813799",
-"1812877",
-"1813798",
-"1813797",
-"1813796",
-"1813792",
-"1813791"
+"1813800"
 ]
 },
 "wachtrij": {
@@ -226,8 +232,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791435552.8352828,
-"keer": 3
+"laatst": 1791436560.0776014,
+"keer": 4
 },
 "1813798": {
 "melding": {
@@ -311,6 +317,34 @@
 ],
 "sinds": 1791432454.535603,
 "laatst": 1791432454.535603,
+"keer": 0
+},
+"1813807": {
+"melding": {
+"titel": "Hyundai I-20 (2026)",
+"bericht": "€ 13.915 · 775 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20/o/1813807",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1813807/84c3cf933109097fb26cf749dd5d511d~v191435624.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791436560.9143832,
+"laatst": 1791436560.9143832,
+"keer": 0
+},
+"1813805": {
+"melding": {
+"titel": "BMW 1-serie (2022)",
+"bericht": "I\n€ 8.600 · 51.115 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-i/o/1813805",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1813805/1deade7f367eaefccbd5b6cc01621f6e~v191435620.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791436561.0232804,
+"laatst": 1791436561.0232804,
 "keer": 0
 }
 },
