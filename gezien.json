@@ -444,87 +444,42 @@
 "1781833",
 "1814063",
 "1814059",
-"1732285"
+"1732285",
+"1807014",
+"1813103",
+"1810623",
+"1814101",
+"1814065",
+"1814083",
+"1814090",
+"1814093",
+"1814094",
+"1814091",
+"1810489",
+"1814092"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814082,
+"hoogste_id": 1814101,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1798155",
-"1814069",
-"1814082",
-"1814081",
-"1814080",
-"1814079",
-"1813823",
-"1814078",
-"1814077",
-"1814076",
-"1814045",
-"1814056"
+"1807014",
+"1813103",
+"1810623",
+"1814101",
+"1814065",
+"1814083",
+"1814090",
+"1814093",
+"1814094",
+"1814091",
+"1810489",
+"1814092"
 ]
 },
 "wachtrij": {
-"1813941": {
-"melding": {
-"titel": "Audi A4 (2023)",
-"bericht": "Limo MHEV 35 TFSi 110-KW S-Tronic S-Line\nexportprijs € 14.900 · 36.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-limo-mhev-35-tfsi-110-kw-s-tronic-s-line/o/1813941",
-"foto": "https://www.schadeautos.nl/cache/picture/28/1813941/492be812411aaa86ada229029ae01627~v191453529.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791454013.9434466,
-"laatst": 1791464195.3074687,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1807680": {
-"melding": {
-"titel": "Opnieuw geplaatst: Toyota Yaris Cross (2023)",
-"bericht": "1.5 AUTOMAAT HYBRIDE NAVI CLIMA CAMERA PDC B.J 06-2023\n€ 14.990 · 79.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-1-5-automaat-hybride-navi-clima-camera-pdc-b-j-06-2023/o/1807680",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1807680/ec52544c51296628ab3257f1a8959a08~v189727035.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791454014.155758,
-"laatst": 1791454014.155758,
-"keer": 0
-},
-"1785472": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen T-Cross (2022)",
-"bericht": "1.0 TSI Life Automaat 110 PK\n€ 10.500 · 87.390 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-1-0-tsi-life-automaat-110-pk/o/1785472",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1785472/8139adc7e3b0d986eed3fa232dfea954~v182738213.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791454014.3592362,
-"laatst": 1791454014.3592362,
-"keer": 0
-},
-"1812290": {
-"melding": {
-"titel": "Opnieuw geplaatst: Ford Ranger (2025)",
-"bericht": "RAPTOR 2.3T HYBRIDE AUTOMAAT 278 PK\nexportprijs € 25.500 · 18.821 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-raptor-2-3t-hybride-automaat-278-pk/o/1812290",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1812290/6a1321e4e442ec46d23ba8db1224164f~v190950296.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791454014.5717409,
-"laatst": 1791454014.5717409,
-"keer": 0
-},
 "1813952": {
 "melding": {
 "titel": "Citroën C5 Aircross (2025)",
@@ -536,8 +491,9 @@
 "WhatsApp"
 ],
 "sinds": 1791455282.402683,
-"laatst": 1791455282.402683,
-"keer": 0
+"laatst": 1791465323.547372,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1623118": {
 "melding": {
@@ -1265,6 +1221,66 @@
 ],
 "sinds": 1791464198.7969568,
 "laatst": 1791464198.7969568,
+"keer": 0,
+"fout": ""
+},
+"1814083": {
+"melding": {
+"titel": "Volkswagen Polo (2022)",
+"bericht": "1.0 TSI Life Business\n€ 9.250 · 122.737 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-business/o/1814083",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1814083/54a4ccbc568465e96c004ac3a2f742d3~v191464504.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791465324.9333646,
+"laatst": 1791465324.9333646,
+"keer": 0,
+"fout": ""
+},
+"1814090": {
+"melding": {
+"titel": "Renault Mégane (2023)",
+"bericht": "EV60 Optimum Charge Evolution\n€ 13.250 · 103.598 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-ev60-optimum-charge-evolution/o/1814090",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1814090/0a5dfec0812e381a7a9c270b67f19398~v191464418.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791465325.1625705,
+"laatst": 1791465325.1625705,
+"keer": 0,
+"fout": ""
+},
+"1814094": {
+"melding": {
+"titel": "Dacia Sandero (2024)",
+"bericht": "STEPWAY 110 PK EXTREEM NAVI CLIMA CAMERA LED B.J 2024 FACELIFT\n€ 10.750 · 23.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-stepway-110-pk-extreem-navi-clima-camera-led-b-j-2024-facelift/o/1814094",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814094/9f3b5cf1554be0703f0eb603d874edcd~v191464604.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791465325.3837085,
+"laatst": 1791465325.3837085,
+"keer": 0,
+"fout": ""
+},
+"1810489": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Golf (2026)",
+"bericht": "NEW! 1.5 eTSI 150PK DSG7 Energy\n€ 15.990 · 2.325 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-new-1-5-etsi-150pk-dsg7-energy/o/1810489",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1810489/3efac2cb6a63a162e5462880a7e56902~v191462834.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791465325.612273,
+"laatst": 1791465325.612273,
 "keer": 0,
 "fout": ""
 }
