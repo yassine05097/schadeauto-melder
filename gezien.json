@@ -232,27 +232,34 @@
 "1811683",
 "1813826",
 "1813824",
-"1807584"
+"1807584",
+"1813838",
+"1806533",
+"1813837",
+"1813836",
+"1813832",
+"1813831",
+"1813829"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813826,
+"hoogste_id": 1813838,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1813838",
+"1806533",
+"1813837",
+"1813836",
+"1813832",
+"1813831",
+"1813829",
 "1719480",
 "1808468",
 "1762538",
 "1795517",
-"1786533",
-"1796970",
-"1811719",
-"1813815",
-"1811683",
-"1813826",
-"1813824",
-"1807584"
+"1786533"
 ]
 },
 "wachtrij": {
@@ -267,8 +274,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791443243.6319866,
-"keer": 10
+"laatst": 1791444513.2687309,
+"keer": 11
 },
 "1813798": {
 "melding": {
@@ -548,6 +555,34 @@
 ],
 "sinds": 1791443245.3378205,
 "laatst": 1791443245.3378205,
+"keer": 0
+},
+"1813838": {
+"melding": {
+"titel": "Skoda Elroq (2025)",
+"bericht": "85 Business Edition N.A.P NL AUTO PRACHTIG!!!\n€ 13.900 · 27.830 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-elroq-85-business-edition-n-a-p-nl-auto-prachtig/o/1813838",
+"foto": "https://www.schadeautos.nl/cache/picture/158/1813838/6ad89368ecbc7ad37954a9d13da3a205~v191444348.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791444513.9129932,
+"laatst": 1791444513.9129932,
+"keer": 0
+},
+"1806533": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes EQE (2025)",
+"bericht": "SUV 350 91kWh 215KW Pano 4Matic Sport Edition Sfeerverlichting Hud NAP\n€ 32.950 · 56.896 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqe-suv-350-91kwh-215kw-pano-4matic-sport-edition-sfeerverlichting-hud-nap/o/1806533",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1806533/ad4acbede755e14c3793805fae27f7e9~v191444112.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791444513.9399304,
+"laatst": 1791444513.9399304,
 "keer": 0
 }
 },
