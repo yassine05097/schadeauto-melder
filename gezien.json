@@ -333,27 +333,34 @@
 "1791717",
 "1813930",
 "1813928",
-"1813927"
+"1813927",
+"1809364",
+"1813941",
+"1809461",
+"1807680",
+"1785472",
+"1803912",
+"1812290"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813940,
+"hoogste_id": 1813941,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1809364",
+"1813941",
+"1809461",
+"1807680",
+"1785472",
+"1803912",
+"1812290",
 "1813940",
 "1813920",
 "1813939",
-"1813936",
 "1813934",
-"1813935",
-"1813938",
-"1813937",
-"1813917",
-"1694882",
-"1813931",
-"1810504"
+"1813935"
 ]
 },
 "wachtrij": {
@@ -368,8 +375,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791453222.901746,
-"keer": 19
+"laatst": 1791454012.8497982,
+"keer": 20
 },
 "1813798": {
 "melding": {
@@ -1069,6 +1076,62 @@
 ],
 "sinds": 1791453227.4939806,
 "laatst": 1791453227.4939806,
+"keer": 0
+},
+"1813941": {
+"melding": {
+"titel": "Audi A4 (2023)",
+"bericht": "Limo MHEV 35 TFSi 110-KW S-Tronic S-Line\nexportprijs € 14.900 · 36.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-limo-mhev-35-tfsi-110-kw-s-tronic-s-line/o/1813941",
+"foto": "https://www.schadeautos.nl/cache/picture/28/1813941/492be812411aaa86ada229029ae01627~v191453529.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791454013.9434466,
+"laatst": 1791454013.9434466,
+"keer": 0
+},
+"1807680": {
+"melding": {
+"titel": "Opnieuw geplaatst: Toyota Yaris Cross (2023)",
+"bericht": "1.5 AUTOMAAT HYBRIDE NAVI CLIMA CAMERA PDC B.J 06-2023\n€ 14.990 · 79.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-1-5-automaat-hybride-navi-clima-camera-pdc-b-j-06-2023/o/1807680",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1807680/ec52544c51296628ab3257f1a8959a08~v189727035.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791454014.155758,
+"laatst": 1791454014.155758,
+"keer": 0
+},
+"1785472": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen T-Cross (2022)",
+"bericht": "1.0 TSI Life Automaat 110 PK\n€ 10.500 · 87.390 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-1-0-tsi-life-automaat-110-pk/o/1785472",
+"foto": "https://www.schadeautos.nl/cache/picture/104/1785472/8139adc7e3b0d986eed3fa232dfea954~v182738213.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791454014.3592362,
+"laatst": 1791454014.3592362,
+"keer": 0
+},
+"1812290": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Ranger (2025)",
+"bericht": "RAPTOR 2.3T HYBRIDE AUTOMAAT 278 PK\nexportprijs € 25.500 · 18.821 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-raptor-2-3t-hybride-automaat-278-pk/o/1812290",
+"foto": "https://www.schadeautos.nl/cache/picture/104/1812290/6a1321e4e442ec46d23ba8db1224164f~v190950296.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791454014.5717409,
+"laatst": 1791454014.5717409,
 "keer": 0
 }
 },
