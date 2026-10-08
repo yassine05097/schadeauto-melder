@@ -584,15 +584,17 @@
 "1753026",
 "1814237",
 "1808348",
-"1814240"
+"1814240",
+"1814241"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814240,
+"hoogste_id": 1814241,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814241",
 "1814240",
 "1808348",
 "1811830",
@@ -603,26 +605,10 @@
 "1784912",
 "1814234",
 "1814233",
-"1814232",
-"1813115"
+"1814232"
 ]
 },
 "wachtrij": {
-"1814227": {
-"melding": {
-"titel": "Volkswagen Polo (2026)",
-"bericht": "10.985 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo/o/1814227",
-"foto": "https://www.schadeautos.nl/cache/picture/964/1814227/fe6cadcd1e84b0911a4be830d65d3bd6~v191477019.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791477729.1763198,
-"laatst": 1791488285.5896208,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1814232": {
 "melding": {
 "titel": "Fiat Scudo (2023)",
@@ -634,9 +620,9 @@
 "WhatsApp"
 ],
 "sinds": 1791480854.9925144,
-"laatst": 1791480854.9925144,
-"keer": 0,
-"fout": ""
+"laatst": 1791489235.7681813,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814234": {
 "melding": {
@@ -740,6 +726,21 @@
 ],
 "sinds": 1791486138.8402061,
 "laatst": 1791486138.8402061,
+"keer": 0,
+"fout": ""
+},
+"1814241": {
+"melding": {
+"titel": "Lynk & Co 01 (2023)",
+"bericht": "1.5\n€ 13.500 · 71.656 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5/o/1814241",
+"foto": "https://www.schadeautos.nl/cache/picture/289/1814241/9c616a2d3dc6b0cf71b01032bcb2b65c~v191488633.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791489236.9596953,
+"laatst": 1791489236.9596953,
 "keer": 0,
 "fout": ""
 }
