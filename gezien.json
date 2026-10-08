@@ -566,120 +566,39 @@
 "1814222",
 "1814220",
 "1752964",
-"1814227"
+"1814227",
+"1814232",
+"1813115",
+"1811741",
+"1804599",
+"1809372",
+"1787862",
+"1812734",
+"1812680",
+"1795532"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814227,
+"hoogste_id": 1814232,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814232",
+"1813115",
+"1811741",
+"1804599",
+"1809372",
+"1787862",
+"1812734",
+"1812680",
+"1795532",
 "1813929",
 "1813916",
-"1752964",
-"1814227",
-"1814224",
-"1814223",
-"1814222",
-"1814220",
-"1814219",
-"1814218",
-"1814202",
-"1814217"
+"1752964"
 ]
 },
 "wachtrij": {
-"1814173": {
-"melding": {
-"titel": "Renault Clio (2026)",
-"bericht": "exportprijs € 4.950 · 21.716 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio/o/1814173",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814173/e2aa8b5573de69fa538713ec93f59722~v191469734.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791469883.6023097,
-"laatst": 1791479774.3466227,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814172": {
-"melding": {
-"titel": "MG 3 (2025)",
-"bericht": "MG\nexportprijs € 4.400 · 33.874 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-3-mg/o/1814172",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814172/f82f46c061ce245f53f6ce7e013a349b~v191469728.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791469883.7069008,
-"laatst": 1791469883.7069008,
-"keer": 0,
-"fout": ""
-},
-"1814169": {
-"melding": {
-"titel": "Mercedes Sprinter (2024)",
-"bericht": "exportprijs € 10.300 · 39.146 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-sprinter/o/1814169",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814169/f6b21e4dcdcb2124174c352092d57e82~v191469455.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791469883.812612,
-"laatst": 1791469883.812612,
-"keer": 0,
-"fout": ""
-},
-"1814164": {
-"melding": {
-"titel": "Toyota Yaris Cross (2022)",
-"bericht": "1.5 Hybrid Executive FULL OPTIONS ! 56dkm NAP\n€ 15.950 · 56 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-1-5-hybrid-executive-full-options-56dkm-nap/o/1814164",
-"foto": "https://www.schadeautos.nl/cache/picture/1063/1814164/94096053533c7c335f2b655eed63333e~v191469286.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791469883.9250815,
-"laatst": 1791469883.9250815,
-"keer": 0,
-"fout": ""
-},
-"1814146": {
-"melding": {
-"titel": "Renault Clio (2024)",
-"bericht": "V Techno\n€ 11.979 · 26.692 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-v-techno/o/1814146",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1814146/1fcda2f364062e64ecc0de6fbb979a88~v191468175.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791469884.0430446,
-"laatst": 1791469884.0430446,
-"keer": 0,
-"fout": ""
-},
-"1814162": {
-"melding": {
-"titel": "Toyota Yaris (2022)",
-"bericht": "exportprijs € 3.950 · 58.123 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris/o/1814162",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814162/9ab4fb35861ad80bbfa94eb5d1aaa2e7~v191469055.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791469884.1544514,
-"laatst": 1791469884.1544514,
-"keer": 0,
-"fout": ""
-},
 "1814178": {
 "melding": {
 "titel": "Hyundai I-20 (2024)",
@@ -691,9 +610,9 @@
 "WhatsApp"
 ],
 "sinds": 1791471112.1376987,
-"laatst": 1791471112.1376987,
-"keer": 0,
-"fout": ""
+"laatst": 1791480853.4342947,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814167": {
 "melding": {
@@ -842,6 +761,21 @@
 ],
 "sinds": 1791477729.1763198,
 "laatst": 1791477729.1763198,
+"keer": 0,
+"fout": ""
+},
+"1814232": {
+"melding": {
+"titel": "Fiat Scudo (2023)",
+"bericht": "74.518 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-scudo/o/1814232",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1814232/de8abbaafd01b87494b2be3565c8923a~v191480616.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791480854.9925144,
+"laatst": 1791480854.9925144,
 "keer": 0,
 "fout": ""
 }
