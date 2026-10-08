@@ -548,105 +548,40 @@
 "1814203",
 "1814198",
 "1807649",
-"1814199"
+"1814199",
+"1814202",
+"1814217",
+"1814216",
+"1814215",
+"1814214",
+"1814213",
+"1814154",
+"1814204",
+"1814208",
+"1814197"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814209,
+"hoogste_id": 1814217,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814202",
+"1814217",
+"1814216",
+"1814215",
+"1814214",
+"1814213",
+"1814154",
+"1814204",
+"1814208",
 "1814205",
 "1814209",
-"1814207",
-"1814206",
-"1814200",
-"1774623",
-"1785957",
-"1814203",
-"1814198",
-"1807649",
-"1814199",
-"1808121"
+"1814207"
 ]
 },
 "wachtrij": {
-"1814055": {
-"melding": {
-"titel": "Volkswagen Taigo (2023)",
-"bericht": "€ 8.400 · 66.710 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-taigo/o/1814055",
-"foto": "https://www.schadeautos.nl/cache/picture/1026/1814055/2d3a6cfbbcd61024aa328b50ec746a10~v191462241.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791462710.098463,
-"laatst": 1791473077.1058927,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814047": {
-"melding": {
-"titel": "Hyundai IONIQ 6 (2023)",
-"bericht": "First Edition AWD 77.4 kWh AUTOMAAT 325PK\n€ 16.500 · 325 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-ioniq-6-first-edition-awd-77-4-kwh-automaat-325pk/o/1814047",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1814047/22efee8d33d5a3928a4fbf23189b7487~v191462250.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791462710.1265295,
-"laatst": 1791462710.1265295,
-"keer": 0,
-"fout": ""
-},
-"1814053": {
-"melding": {
-"titel": "Skoda Octavia (2024)",
-"bericht": "AUTOMAAT HYBRIDE NAVI CLIMA VIRT DASH CAMERA TREKHAAK LED B.J 12-2024\n€ 13.990 · 11.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-automaat-hybride-navi-clima-virt-dash-camera-trekhaak-led-b-j-12-2024/o/1814053",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1814053/e5da677478f3e81d92770094a4b31d27~v191462375.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791462710.157648,
-"laatst": 1791462710.157648,
-"keer": 0,
-"fout": ""
-},
-"1740621": {
-"melding": {
-"titel": "Opnieuw geplaatst: Hyundai I-10 (2022)",
-"bericht": "1.0 Comfort Smart\n€ 3.475 · 80.619 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-smart/o/1740621",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1740621/8e9214f2306bb4fb5880997acdb29caa~v169679756.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791462710.186304,
-"laatst": 1791462710.186304,
-"keer": 0,
-"fout": ""
-},
-"1814039": {
-"melding": {
-"titel": "Kia Stonic (2023)",
-"bericht": "1.0 T-GDi Mhev GT-L Motor loopt onregelmatig\n€ 12.500 · 169.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-stonic-1-0-t-gdi-mhev-gt-l-motor-loopt-onregelmatig/o/1814039",
-"foto": "https://www.schadeautos.nl/cache/picture/173/1814039/d787a96f96c14bac7c90791aab5506e7~v191461347.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791462712.9235952,
-"laatst": 1791462712.9235952,
-"keer": 0,
-"fout": ""
-},
 "1798155": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen Passat (2024)",
@@ -658,9 +593,9 @@
 "WhatsApp"
 ],
 "sinds": 1791464195.8822587,
-"laatst": 1791464195.8822587,
-"keer": 0,
-"fout": ""
+"laatst": 1791474229.1802,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814069": {
 "melding": {
@@ -1274,6 +1209,66 @@
 ],
 "sinds": 1791473077.951724,
 "laatst": 1791473077.951724,
+"keer": 0,
+"fout": ""
+},
+"1814217": {
+"melding": {
+"titel": "Nissan X-Trail (2025)",
+"bericht": "1.5 e POWER\n€ 19.450 · 18.753 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-x-trail-1-5-e-power/o/1814217",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1814217/fcb68216f928f36e001b5a55386c10e6~v191473989.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791474230.2110379,
+"laatst": 1791474230.2110379,
+"keer": 0,
+"fout": ""
+},
+"1814216": {
+"melding": {
+"titel": "Toyota Mirai (2022)",
+"bericht": "HYDROGENE\n104.069 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-mirai-hydrogene/o/1814216",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1814216/e20e8a630a237eaee598258c5893f3dc~v191473917.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791474230.3680744,
+"laatst": 1791474230.3680744,
+"keer": 0,
+"fout": ""
+},
+"1814215": {
+"melding": {
+"titel": "Peugeot 408 (2023)",
+"bericht": "1.2 AUTOMATIQUE\n119.730 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-408-1-2-automatique/o/1814215",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1814215/28a603b988e1e0b341597169f4decf2e~v191473644.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791474230.5347106,
+"laatst": 1791474230.5347106,
+"keer": 0,
+"fout": ""
+},
+"1814208": {
+"melding": {
+"titel": "Honda Civic (2022)",
+"bericht": "2.0 e:HEV Advance\n€ 16.500 · 55.125 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-civic-2-0-e-hev-advance/o/1814208",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1814208/55f594ba65ed6b02bc52d2d7fdbf0b9f~v191473304.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791474230.6800878,
+"laatst": 1791474230.6800878,
 "keer": 0,
 "fout": ""
 }
