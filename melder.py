@@ -57,6 +57,8 @@ MAX_ONTHOUDEN = 20000            # zoveel advertentie-ID's onthouden we maximaal
 MAX_WACHTTIJD = 6 * 3600         # een melding die zo lang blijft mislukken geven we op...
 MIN_POGINGEN = 30                # ...maar pas na minstens zoveel echte pogingen (laptop kan uit staan)
 VERZEND_BUDGET = 200             # na zoveel seconden versturen: rest volgende ronde
+MAX_WHATSAPP_PER_RONDE = 5       # gratis CallMeBot niet overspoelen (anders pauzeren ze je)
+OUD_DUBBEL = 3 * 3600            # al via een ander kanaal gemeld en ouder dan dit: niet meer nasturen
 STORING_MELDEN_NA = 30 * 60      # website zo lang onleesbaar: stuur één waarschuwing
 # Advertentie-ID's lopen op. Staat er bovenaan een ID dat ruim onder het hoogste bekende
 # ID ligt, dan is het een oudere advertentie die opnieuw geplaatst is (vaak prijsverlaging).
@@ -196,7 +198,7 @@ def kanalen(config):
 
 def nieuwe_status():
     return {"gezien": [], "gestart": {}, "hoogste_id": 0, "nulmeting_id": 0,
-            "vorige_top": {}, "wachtrij": {}, "storing": {}}
+            "vorige_top": {}, "wachtrij": {}, "storing": {}, "kanaal_storing": {}}
 
 
 def laad_status():
@@ -228,6 +230,7 @@ def laad_status():
         status["wachtrij"] = {str(k): v for k, v in data.get("wachtrij", {}).items()
                               if isinstance(v, dict) and "melding" in v}
         status["storing"] = dict(data.get("storing", {}))
+        status["kanaal_storing"] = dict(data.get("kanaal_storing", {}))
         return status
     except (ValueError, TypeError, AttributeError) as fout:
         log.error("Kon %s niet lezen (%s); begin opnieuw met een nulmeting.",
@@ -480,10 +483,20 @@ def verstuur(config, melding, alleen=None, overslaan=()):
         try:
             VERZENDERS[naam](config, melding)
             gelukt.add(naam)
+            LAATSTE_SUCCES[naam] = time.time()
         except Exception as fout:  # noqa: BLE001 - nooit de hele run laten crashen op één melding
             log.error("%s-melding mislukt: %s", naam, fout)
+            LAATSTE_FOUT[naam] = str(fout)
             mislukt.add(naam)
     return gelukt, mislukt
+
+
+LAATSTE_FOUT = {}    # laatste foutmelding per kanaal (voor de waarschuwing aan de gebruiker)
+LAATSTE_SUCCES = {}  # tijdstip van de laatste geslaagde melding per kanaal (deze run)
+
+
+def _fouttekst(kanaal_namen):
+    return "; ".join(LAATSTE_FOUT[k] for k in sorted(kanaal_namen) if k in LAATSTE_FOUT)[:400]
 
 
 def stuur_melding(config, melding):
@@ -520,26 +533,39 @@ def _markeer_gezien(status, gezien, advertentie_id):
         status["gezien"].append(advertentie_id)
 
 
-def _in_wachtrij(status, advertentie_id, melding, kanaal_namen, keer):
+def _in_wachtrij(status, advertentie_id, melding, kanaal_namen, keer, fout=""):
     nu = time.time()
     status["wachtrij"][advertentie_id] = {
         "melding": melding, "kanalen": sorted(kanaal_namen), "sinds": nu, "laatst": nu,
-        "keer": keer}
+        "keer": keer, "fout": fout}
+
+
+def _overslaan(ronde):
+    """Kanalen die deze ronde niet meer geprobeerd worden."""
+    extra = {"WhatsApp"} if ronde["wa"] >= MAX_WHATSAPP_PER_RONDE else set()
+    return set(ronde["kapot"]) | extra
+
+
+def _na_versturen(ronde, gelukt, mislukt):
+    ronde["kapot"] |= mislukt
+    if "WhatsApp" in gelukt:
+        ronde["wa"] += 1
 
 
 def _meld(config, status, gezien, ronde, advertentie_id, melding, later=False):
     """Stuur een melding; kanalen die niet lukken gaan in de wachtrij om later opnieuw te proberen."""
-    al_kapot = set(ronde["kapot"])
+    al_kapot = _overslaan(ronde)
     gelukt, mislukt = verstuur(config, melding, overslaan=al_kapot)
-    ronde["kapot"] |= mislukt
+    _na_versturen(ronde, gelukt, mislukt)
     if gelukt:
         log.info("Gemeld%s via %s: %s %s", " (later)" if later else "",
                  ", ".join(sorted(gelukt)), melding["titel"], melding["link"])
         _markeer_gezien(status, gezien, advertentie_id)
         ronde["verstuurd"] += 1
     if mislukt:
+        echt = mislukt - al_kapot
         _in_wachtrij(status, advertentie_id, melding, mislukt,
-                     keer=1 if mislukt - al_kapot else 0)
+                     keer=1 if echt else 0, fout=_fouttekst(echt))
     return bool(gelukt)
 
 
@@ -557,12 +583,20 @@ def _verwerk_wachtrij(config, status, gezien, ronde):
             _markeer_gezien(status, gezien, advertentie_id)
             bewaar_status(status)
             continue
-        if set(open_kanalen) <= ronde["kapot"]:
+        if (advertentie_id in gezien
+                and time.time() - item.get("sinds", 0) > OUD_DUBBEL):
+            # Al via een ander kanaal gemeld en inmiddels oud nieuws: niet meer nasturen.
+            log.info("%s voor %s overgeslagen: al eerder via een ander kanaal gemeld.",
+                     ", ".join(open_kanalen), item["melding"]["link"])
+            status["wachtrij"].pop(advertentie_id, None)
+            bewaar_status(status)
+            continue
+        al_kapot = _overslaan(ronde)
+        if set(open_kanalen) <= al_kapot:
             continue  # deze kanalen lukten deze ronde al niet; volgende ronde weer
-        al_kapot = set(ronde["kapot"])
         gelukt, mislukt = verstuur(config, item["melding"], alleen=open_kanalen,
                                    overslaan=al_kapot)
-        ronde["kapot"] |= mislukt
+        _na_versturen(ronde, gelukt, mislukt)
         if gelukt:
             log.info("Gemeld (later) via %s: %s %s", ", ".join(sorted(gelukt)),
                      item["melding"]["titel"], item["melding"]["link"])
@@ -575,6 +609,7 @@ def _verwerk_wachtrij(config, status, gezien, ronde):
             if mislukt - al_kapot:  # er is echt geprobeerd
                 item["keer"] = item.get("keer", 0) + 1
                 item["laatst"] = time.time()
+                item["fout"] = _fouttekst(mislukt - al_kapot)
             if (item.get("keer", 0) >= MIN_POGINGEN
                     and time.time() - item.get("sinds", 0) > MAX_WACHTTIJD):
                 log.error("Melding via %s voor %s lukt na %d pogingen nog steeds niet; "
@@ -594,7 +629,7 @@ def controleer(config, dry_run=False):
     # Gemaakt met een oudere versie (te kleine nulmeting)? Dan één keer stil opnieuw.
     opnieuw_nulmeting = not eerste_keer and status["nulmeting_id"] == 0
     gezien = set(status["gezien"])
-    ronde = {"start": time.monotonic(), "verstuurd": 0, "kapot": set()}
+    ronde = {"start": time.monotonic(), "verstuurd": 0, "kapot": set(), "wa": 0}
 
     def opslaan():
         if not dry_run:
@@ -748,6 +783,46 @@ def _storing_voorbij(config):
     bewaar_status(status)
 
 
+def _controleer_kanalen(config):
+    """Lukt één kanaal steeds niet (bijv. WhatsApp op pauze), waarschuw dan één keer via de andere."""
+    status = laad_status()
+    if status is None:
+        return
+    ks = status["kanaal_storing"]
+    actief = kanalen(config)
+    veranderd = False
+    for naam in actief:
+        items = [i for i in status["wachtrij"].values() if naam in i.get("kanalen", [])]
+        vast = [i for i in items if i.get("keer", 0) >= 3]
+        anderen = [k for k in actief if k != naam]
+        if vast and not ks.get(naam) and anderen:
+            fout = max(vast, key=lambda i: i.get("laatst", 0)).get("fout") or "onbekende fout"
+            gelukt, _ = verstuur(config, {
+                "titel": "{}-meldingen lukken niet".format(naam),
+                "bericht": "{} geeft een fout: {}\nJe krijgt de auto's wel via {}.".format(
+                    naam, fout[:300], ", ".join(anderen)),
+                "link": "", "foto": "", "tag": "warning", "emoji": "⚠️",
+            }, alleen=anderen)
+            if gelukt:
+                ks[naam] = {"sinds": time.time()}
+                veranderd = True
+        elif ks.get(naam) and LAATSTE_SUCCES.get(naam, 0) > ks[naam]["sinds"]:
+            # Het kanaal heeft deze ronde weer iets afgeleverd.
+            verstuur(config, {
+                "titel": "{} werkt weer".format(naam),
+                "bericht": "{}-meldingen komen weer aan.".format(naam),
+                "link": "", "foto": "", "tag": "white_check_mark", "emoji": "✅",
+            })
+            ks.pop(naam, None)
+            veranderd = True
+    for naam in list(ks):
+        if naam not in actief:
+            ks.pop(naam)
+            veranderd = True
+    if veranderd:
+        bewaar_status(status)
+
+
 def controleer_veilig(config, dry_run=False):
     with Slot() as slot:
         if not slot.gelukt:
@@ -762,6 +837,7 @@ def controleer_veilig(config, dry_run=False):
             raise
         if not dry_run:
             _storing_voorbij(config)
+            _controleer_kanalen(config)
         return verstuurd
 
 
@@ -950,10 +1026,13 @@ def main():
             if not isinstance(fout, (WebsiteFout, *NETWERKFOUTEN)):
                 log.exception("Controle mislukt")
             sys.exit(1)
-        # Blijft een melding steeds mislukken, eindig dan met een fout: op GitHub wordt de
-        # run dan rood en krijg je een e-mail. (De Windows-taak negeert dit.)
+        # Komt een auto via géén enkel kanaal aan, eindig dan met een fout: op GitHub wordt de
+        # run dan rood en krijg je een e-mail. (Lukt één kanaal niet maar een ander wel, dan
+        # krijg je daarover een melding via dat andere kanaal. De Windows-taak negeert dit.)
         status = laad_status() or nieuwe_status()
-        vast = [i for i in status["wachtrij"].values() if i.get("keer", 0) >= 3]
+        gezien = set(status["gezien"])
+        vast = [i for k, i in status["wachtrij"].items()
+                if i.get("keer", 0) >= 3 and k not in gezien]
         if vast and not args.dry_run:
             log.error("%d melding(en) lukken al een paar keer niet via %s.", len(vast),
                       ", ".join(sorted({k for i in vast for k in i.get("kanalen", [])})))

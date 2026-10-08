@@ -95,6 +95,11 @@ meldingen tot het is hersteld.
 - **Melding lukt even niet** (storing bij ntfy, WhatsApp of Telegram): de melder
   probeert alleen die app elke minuut opnieuw, zolang hij draait. Hij geeft pas op
   na minstens 30 pogingen én 6 uur; dat staat dan in `melder.log`.
+- **Eén app blijft mislukken** (bijvoorbeeld WhatsApp): je krijgt één waarschuwing via
+  de andere app, met de reden. Zet CallMeBot je op pauze ("Your Account is Paused"),
+  stuur dan via WhatsApp het woord `resume` naar de CallMeBot-bot. Om dat te voorkomen
+  stuurt de melder hooguit 5 WhatsApp-berichten per ronde, en WhatsApp-kopieën die
+  ouder zijn dan 3 uur (en die je al via een andere app kreeg) slaat hij over.
 - **schadeautos.nl onbereikbaar of veranderd:** na een half uur krijg je één
   waarschuwing *"Schadeauto-melder: storing"*, en een bericht zodra het weer werkt.
 - **Testmelding sturen:** `python melder.py --test` (opdrachtvenster in deze map).
