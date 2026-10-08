@@ -537,87 +537,41 @@
 "1814193",
 "1814182",
 "1814187",
-"1814186"
+"1814186",
+"1814205",
+"1814209",
+"1814207",
+"1814206",
+"1814200",
+"1774623",
+"1785957",
+"1814203",
+"1814198",
+"1807649",
+"1814199"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814196,
+"hoogste_id": 1814209,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814196",
-"1814193",
-"1814182",
-"1814187",
-"1814186",
-"1676354",
-"1782997",
-"1782065",
-"1782061",
-"1727912",
-"1781622",
-"1780766"
+"1814205",
+"1814209",
+"1814207",
+"1814206",
+"1814200",
+"1774623",
+"1785957",
+"1814203",
+"1814198",
+"1807649",
+"1814199",
+"1808121"
 ]
 },
 "wachtrij": {
-"1814034": {
-"melding": {
-"titel": "Hyundai Bayon (2025)",
-"bericht": "AUTOMAAT GDI 100 PK NAVI AIRCO CAMERA LED VIRT DASH B.J 11/2025\n€ 12.950 · 1.800 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-automaat-gdi-100-pk-navi-airco-camera-led-virt-dash-b-j-11-2025/o/1814034",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1814034/93673477d48ca44c99d379b87bb7423b~v191460611.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791461157.6325595,
-"laatst": 1791471847.6800866,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814032": {
-"melding": {
-"titel": "Volvo V-90 (2023)",
-"bericht": "B5 Automaat Plus Dark\nexportprijs € 12.500 · 147.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-90-b5-automaat-plus-dark/o/1814032",
-"foto": "https://www.schadeautos.nl/cache/picture/173/1814032/44d208175e4d29dade9a4a33a848d4b7~v191460491.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791461157.6735985,
-"laatst": 1791461157.6735985,
-"keer": 0
-},
-"1814028": {
-"melding": {
-"titel": "Volkswagen Polo (2024)",
-"bericht": "DSG - BENZINE - KLIMA\nexportprijs € 7.800 · 32.701 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-dsg-benzine-klima/o/1814028",
-"foto": "https://www.schadeautos.nl/cache/picture/967/1814028/ef3696f65f29bd8ce59028938436a119~v191460483.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791461160.3549645,
-"laatst": 1791461160.3549645,
-"keer": 0
-},
-"1814015": {
-"melding": {
-"titel": "BMW i4 (2024)",
-"bericht": "High Executive 84 kWh M-Sport LED ACC HUD LrHZ SHZ Merino Leder\n€ 23.950 · 76.660 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i4-high-executive-84-kwh-m-sport-led-acc-hud-lrhz-shz-merino-leder/o/1814015",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1814015/19626bca15c37361efaa0dbfdd17fb32~v191459834.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791461162.899893,
-"laatst": 1791461162.899893,
-"keer": 0
-},
 "1814055": {
 "melding": {
 "titel": "Volkswagen Taigo (2023)",
@@ -629,9 +583,9 @@
 "WhatsApp"
 ],
 "sinds": 1791462710.098463,
-"laatst": 1791462710.098463,
-"keer": 0,
-"fout": ""
+"laatst": 1791473077.1058927,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814047": {
 "melding": {
@@ -1305,6 +1259,21 @@
 ],
 "sinds": 1791471848.7186027,
 "laatst": 1791471848.7186027,
+"keer": 0,
+"fout": ""
+},
+"1814198": {
+"melding": {
+"titel": "Toyota Corolla Touring Sports (2025)",
+"bericht": "Touring Sports Hybrid 140 Active\n€ 18.000 · 26.113 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-corolla-touring-sports-touring-sports-hybrid-140-active/o/1814198",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1814198/dc76f1f0bd93fbc661cdd50d9badeaec~v191472447.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791473077.951724,
+"laatst": 1791473077.951724,
 "keer": 0,
 "fout": ""
 }
