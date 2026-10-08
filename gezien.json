@@ -558,15 +558,19 @@
 "1814154",
 "1814204",
 "1814208",
-"1814197"
+"1814197",
+"1814219",
+"1814218"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814217,
+"hoogste_id": 1814219,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814219",
+"1814218",
 "1814202",
 "1814217",
 "1814216",
@@ -576,162 +580,10 @@
 "1814154",
 "1814204",
 "1814208",
-"1814205",
-"1814209",
-"1814207"
+"1814205"
 ]
 },
 "wachtrij": {
-"1798155": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Passat (2024)",
-"bericht": "1.5 e-TSI R-Line Business\n€ 5.650 · 57.205 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-1-5-e-tsi-r-line-business/o/1798155",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1798155/99aa23f45d7f88b953a9e110f45e466e~v187058718.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791464195.8822587,
-"laatst": 1791474229.1802,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814069": {
-"melding": {
-"titel": "Peugeot 2008 (2026)",
-"bericht": "1.2 Hybrid 145 GT\n€ 16.500 · 3.264 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-hybrid-145-gt/o/1814069",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1814069/29515228e6016575793de3364c8c484a~v191463664.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791464195.9090104,
-"laatst": 1791464195.9090104,
-"keer": 0,
-"fout": ""
-},
-"1814082": {
-"melding": {
-"titel": "Volkswagen Golf (2022)",
-"bericht": "8 TSI 110 PK NAVI CLIMA PDC CRUISE B.J 09-2022\n€ 11.500 · 48.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-pdc-cruise-b-j-09-2022/o/1814082",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1814082/1af0427fed7974274e32e423a8b7f1bd~v191464001.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791464195.9371762,
-"laatst": 1791464195.9371762,
-"keer": 0,
-"fout": ""
-},
-"1813823": {
-"melding": {
-"titel": "Porsche Taycan (2024)",
-"bericht": "Cross Turismo 4 105kWh AWD 320kW Luchtvering Pano\n€ 58.700 · 31.038 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-cross-turismo-4-105kwh-awd-320kw-luchtvering-pano/o/1813823",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1813823/a647d3c0c0fc76ee6616b450ce7052b4~v191442319.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791464195.9634638,
-"laatst": 1791464195.9634638,
-"keer": 0,
-"fout": ""
-},
-"1814076": {
-"melding": {
-"titel": "Volkswagen Golf (2023)",
-"bericht": "8 TSI 110 PK NAVI CLIMA CAMERA LED PDC PRIVACY GLASS B.J 04-2023\n€ 12.950 · 51.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-camera-led-pdc-privacy-glass-b-j-04-2023/o/1814076",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1814076/15b8b3c3502dd84148075d4b5fe75dbe~v191463677.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791464195.9915938,
-"laatst": 1791464195.9915938,
-"keer": 0,
-"fout": ""
-},
-"1814056": {
-"melding": {
-"titel": "Alfa Romeo Tonale (2022)",
-"bericht": "1.5T Hybrid Veloce\n€ 10.750 · 32.109 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-tonale-1-5t-hybrid-veloce/o/1814056",
-"foto": "https://www.schadeautos.nl/cache/picture/334/1814056/1eb8c0088aceb7eb144b8477af5ce2c9~v191463046.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791464196.0212145,
-"laatst": 1791464196.0212145,
-"keer": 0,
-"fout": ""
-},
-"1814066": {
-"melding": {
-"titel": "Opel Corsa (2024)",
-"bericht": "GS SPORT 100 PK NAVI CLIMA CAMERA VIRT DASH LED B.J 2024\n€ 9.500 · 9.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-sport-100-pk-navi-clima-camera-virt-dash-led-b-j-2024/o/1814066",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1814066/c25f5f203ad94e741195d53b913e0d30~v191463096.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791464198.708682,
-"laatst": 1791464198.708682,
-"keer": 0,
-"fout": ""
-},
-"1814068": {
-"melding": {
-"titel": "Peugeot 208 (2023)",
-"bericht": "exportprijs € 3.300 · 40.392 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1814068",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814068/e03929d00f3fb7312b25f635921ca444~v191462989.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791464198.7372925,
-"laatst": 1791464198.7372925,
-"keer": 0,
-"fout": ""
-},
-"1814067": {
-"melding": {
-"titel": "Ford Puma (2022)",
-"bericht": "exportprijs € 7.300 · 53.267 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma/o/1814067",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814067/082a80e3b67c13baa8a3c3768c67cda4~v191462948.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791464198.7668257,
-"laatst": 1791464198.7668257,
-"keer": 0,
-"fout": ""
-},
-"1781833": {
-"melding": {
-"titel": "Opnieuw geplaatst: Ford Focus (2022)",
-"bericht": "1.0 EcoBoost Hybrid Navi Titanium X\n€ 7.450 · 146.073 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-navi-titanium-x/o/1781833",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1781833/caaf850a0c3afb5c9440a0c4dbd379da~v181611998.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791464198.7969568,
-"laatst": 1791464198.7969568,
-"keer": 0,
-"fout": ""
-},
 "1814083": {
 "melding": {
 "titel": "Volkswagen Polo (2022)",
@@ -743,9 +595,9 @@
 "WhatsApp"
 ],
 "sinds": 1791465324.9333646,
-"laatst": 1791465324.9333646,
-"keer": 0,
-"fout": ""
+"laatst": 1791475234.204352,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814090": {
 "melding": {
