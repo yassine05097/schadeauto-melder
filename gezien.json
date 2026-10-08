@@ -284,27 +284,38 @@
 "1813880",
 "1813879",
 "1813878",
-"1762698"
+"1762698",
+"1752085",
+"1654372",
+"1813891",
+"1804582",
+"1804592",
+"1804588",
+"1813886",
+"1486179",
+"1813890",
+"1754657",
+"1795943"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813884,
+"hoogste_id": 1813891,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1795883",
-"1813882",
-"1813884",
-"1795948",
-"1813877",
-"1813883",
-"1791364",
-"1813880",
-"1813879",
-"1813878",
-"1762698",
-"1813862"
+"1752085",
+"1654372",
+"1813891",
+"1804582",
+"1804592",
+"1804588",
+"1813886",
+"1486179",
+"1813890",
+"1754657",
+"1795943",
+"1795883"
 ]
 },
 "wachtrij": {
@@ -319,8 +330,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791448857.5350618,
-"keer": 15
+"laatst": 1791449903.3639798,
+"keer": 16
 },
 "1813798": {
 "melding": {
@@ -838,6 +849,34 @@
 ],
 "sinds": 1791448858.4569466,
 "laatst": 1791448858.4569466,
+"keer": 0
+},
+"1804582": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2026)",
+"bericht": "1.2 Hybrid 145 e-DCS6 GT ACC Massage Camera Navi Clima SHZ Virtual Apple/Android\n€ 15.950 · 11.762 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-hybrid-145-e-dcs6-gt-acc-massage-camera-navi-clima-shz-virtual-apple-android/o/1804582",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1804582/5cd9c785b5925381f03ecfe6281c4840~v191449512.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791449904.4769557,
+"laatst": 1791449904.4769557,
+"keer": 0
+},
+"1754657": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW X5 (2023)",
+"bericht": "xDrive45e M-Sport Pano LED ACC Leder Memory HUD Camera Lucht AHK\n€ 39.950 · 22.855 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5-xdrive45e-m-sport-pano-led-acc-leder-memory-hud-camera-lucht-ahk/o/1754657",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1754657/6fa148deea33fe9328dddfa3c99d8889~v191448868.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791449904.6517715,
+"laatst": 1791449904.6517715,
 "keer": 0
 }
 },
