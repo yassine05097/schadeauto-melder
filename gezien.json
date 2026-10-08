@@ -273,27 +273,38 @@
 "1812331",
 "1810575",
 "1813073",
-"1813849"
+"1813849",
+"1795883",
+"1813882",
+"1813884",
+"1795948",
+"1813877",
+"1813883",
+"1791364",
+"1813880",
+"1813879",
+"1813878",
+"1762698"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813862,
+"hoogste_id": 1813884,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1813862",
-"1759907",
-"1813855",
-"1813854",
-"1813857",
-"1812331",
-"1810575",
-"1813073",
-"1813849",
-"1757766",
-"1810092",
-"1813850"
+"1795883",
+"1813882",
+"1813884",
+"1795948",
+"1813877",
+"1813883",
+"1791364",
+"1813880",
+"1813879",
+"1813878",
+"1762698",
+"1813862"
 ]
 },
 "wachtrij": {
@@ -308,8 +319,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791447759.1999907,
-"keer": 14
+"laatst": 1791448857.5350618,
+"keer": 15
 },
 "1813798": {
 "melding": {
@@ -771,6 +782,62 @@
 ],
 "sinds": 1791447760.3685782,
 "laatst": 1791447760.3685782,
+"keer": 0
+},
+"1791364": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen ID.7 (2025)",
+"bericht": "77kWh 210kW Tourer Pro Limited Edition\n€ 32.350 · 8.481 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-7-77kwh-210kw-tourer-pro-limited-edition/o/1791364",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1791364/c118e671066fba73198f81be7d160159~v184362626.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791448858.3767867,
+"laatst": 1791448858.3767867,
+"keer": 0
+},
+"1813880": {
+"melding": {
+"titel": "Audi Q2 (2025)",
+"bericht": "exportprijs € 11.500 · 72.915 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q2/o/1813880",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1813880/19b73d8d97639a5ac629c306ae47ea8d~v191447980.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791448858.4038608,
+"laatst": 1791448858.4038608,
+"keer": 0
+},
+"1813879": {
+"melding": {
+"titel": "Hyundai Tucson (2025)",
+"bericht": "exportprijs € 8.400 · 52.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson/o/1813879",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1813879/13a2b9aa0fea72fc1e0c88db7b6f88aa~v191447961.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791448858.4301698,
+"laatst": 1791448858.4301698,
+"keer": 0
+},
+"1813878": {
+"melding": {
+"titel": "Toyota ProAce (2025)",
+"bericht": "exportprijs € 7.950 · 21.601 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-proace/o/1813878",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1813878/f5811ec097dd4cf1d4313bbb03c9e0b2~v191447909.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791448858.4569466,
+"laatst": 1791448858.4569466,
 "keer": 0
 }
 },
