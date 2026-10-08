@@ -426,143 +426,48 @@
 "1814033",
 "1814037",
 "1740621",
-"1814039"
+"1814039",
+"1798155",
+"1814069",
+"1814082",
+"1814081",
+"1814080",
+"1814079",
+"1813823",
+"1814078",
+"1814077",
+"1814076",
+"1814056",
+"1814066",
+"1814068",
+"1814067",
+"1781833",
+"1814063",
+"1814059",
+"1732285"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814058,
+"hoogste_id": 1814082,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814058",
-"1814055",
-"1814047",
-"1757299",
-"1814053",
-"1814054",
-"1814048",
+"1798155",
+"1814069",
+"1814082",
+"1814081",
+"1814080",
+"1814079",
+"1813823",
+"1814078",
+"1814077",
+"1814076",
 "1814045",
-"1814049",
-"1814033",
-"1814037",
-"1740621"
+"1814056"
 ]
 },
 "wachtrij": {
-"1813925": {
-"melding": {
-"titel": "Mercedes GLC (2025)",
-"bericht": "300\nexportprijs € 29.900 · 3.119 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glc-300/o/1813925",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1813925/47abcf14670348753a5350a795b46676~v191451850.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791452100.945294,
-"laatst": 1791462709.0086088,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1813923": {
-"melding": {
-"titel": "Porsche 911 (2024)",
-"bericht": "GT3 RS Weissach PCCB/BOSE/LIFT/CHRONO\n€ 209.900 · 10.025 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-911-gt3-rs-weissach-pccb-bose-lift-chrono/o/1813923",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1813923/fdbd1f06f77b864810628c6a9205475b~v191451512.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791452101.0220976,
-"laatst": 1791452101.0220976,
-"keer": 0
-},
-"1736547": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Octavia (2025)",
-"bericht": "1.5TSI 85kW Automaat MHEV Business Edition\n€ 20.450 · 38.144 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-5tsi-85kw-automaat-mhev-business-edition/o/1736547",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1736547/15d47e1b5a9f6f2b69ed1c8edcc07a4f~v168553280.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791452101.1012836,
-"laatst": 1791452101.1012836,
-"keer": 0
-},
-"1813939": {
-"melding": {
-"titel": "Renault Symbioz (2025)",
-"bericht": "1.6 E-TECH PANO AUTOMAAT HYBRIDE NAVI CLIMA CAMERA B.J 11-2025\n€ 18.950 · 4.925 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-symbioz-1-6-e-tech-pano-automaat-hybride-navi-clima-camera-b-j-11-2025/o/1813939",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791453223.921609,
-"laatst": 1791453223.921609,
-"keer": 0
-},
-"1813938": {
-"melding": {
-"titel": "Peugeot 208 (2023)",
-"bericht": "exportprijs € 4.400 · 75.920 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1813938",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1813938/5959f45687b4f8aa0f93db21bf7a58aa~v191452909.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791453224.0963557,
-"laatst": 1791453224.0963557,
-"keer": 0
-},
-"1813937": {
-"melding": {
-"titel": "Citroën C5 Aircross (2025)",
-"bericht": "exportprijs € 5.950 · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c5-aircross/o/1813937",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1813937/dc90e80319e7b4bbaef602afe6bff259~v191452901.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791453224.2698154,
-"laatst": 1791453224.2698154,
-"keer": 0
-},
-"1810504": {
-"melding": {
-"titel": "Opnieuw geplaatst: Dacia Bigster (2025)",
-"bericht": "1.8 Hybrid 155 Aut. Limited Edition PANO VOL!\n€ 14.800 · 30.786 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-bigster-1-8-hybrid-155-aut-limited-edition-pano-vol/o/1810504",
-"foto": "https://www.schadeautos.nl/cache/picture/871/1810504/0016b68d86217233bda140ef14532202~v191451123.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791453224.442425,
-"laatst": 1791453224.442425,
-"keer": 0
-},
-"1813928": {
-"melding": {
-"titel": "Renault Austral (2024)",
-"bericht": "1.2 E TECH FULL HYBRIDE 200 PANO AUTOMAAT B.J 11/2024\n€ 16.950 · 15.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral-1-2-e-tech-full-hybride-200-pano-automaat-b-j-11-2024/o/1813928",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1813928/1a51aadb39aa390cdf5effb37714820f~v191452247.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791453227.4939806,
-"laatst": 1791453227.4939806,
-"keer": 0
-},
 "1813941": {
 "melding": {
 "titel": "Audi A4 (2023)",
@@ -574,8 +479,9 @@
 "WhatsApp"
 ],
 "sinds": 1791454013.9434466,
-"laatst": 1791454013.9434466,
-"keer": 0
+"laatst": 1791464195.3074687,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1807680": {
 "melding": {
@@ -1209,6 +1115,156 @@
 ],
 "sinds": 1791462712.9235952,
 "laatst": 1791462712.9235952,
+"keer": 0,
+"fout": ""
+},
+"1798155": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Passat (2024)",
+"bericht": "1.5 e-TSI R-Line Business\n€ 5.650 · 57.205 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-1-5-e-tsi-r-line-business/o/1798155",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1798155/99aa23f45d7f88b953a9e110f45e466e~v187058718.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791464195.8822587,
+"laatst": 1791464195.8822587,
+"keer": 0,
+"fout": ""
+},
+"1814069": {
+"melding": {
+"titel": "Peugeot 2008 (2026)",
+"bericht": "1.2 Hybrid 145 GT\n€ 16.500 · 3.264 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-hybrid-145-gt/o/1814069",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1814069/29515228e6016575793de3364c8c484a~v191463664.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791464195.9090104,
+"laatst": 1791464195.9090104,
+"keer": 0,
+"fout": ""
+},
+"1814082": {
+"melding": {
+"titel": "Volkswagen Golf (2022)",
+"bericht": "8 TSI 110 PK NAVI CLIMA PDC CRUISE B.J 09-2022\n€ 11.500 · 48.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-pdc-cruise-b-j-09-2022/o/1814082",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814082/1af0427fed7974274e32e423a8b7f1bd~v191464001.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791464195.9371762,
+"laatst": 1791464195.9371762,
+"keer": 0,
+"fout": ""
+},
+"1813823": {
+"melding": {
+"titel": "Porsche Taycan (2024)",
+"bericht": "Cross Turismo 4 105kWh AWD 320kW Luchtvering Pano\n€ 58.700 · 31.038 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-cross-turismo-4-105kwh-awd-320kw-luchtvering-pano/o/1813823",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1813823/a647d3c0c0fc76ee6616b450ce7052b4~v191442319.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791464195.9634638,
+"laatst": 1791464195.9634638,
+"keer": 0,
+"fout": ""
+},
+"1814076": {
+"melding": {
+"titel": "Volkswagen Golf (2023)",
+"bericht": "8 TSI 110 PK NAVI CLIMA CAMERA LED PDC PRIVACY GLASS B.J 04-2023\n€ 12.950 · 51.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-camera-led-pdc-privacy-glass-b-j-04-2023/o/1814076",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814076/15b8b3c3502dd84148075d4b5fe75dbe~v191463677.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791464195.9915938,
+"laatst": 1791464195.9915938,
+"keer": 0,
+"fout": ""
+},
+"1814056": {
+"melding": {
+"titel": "Alfa Romeo Tonale (2022)",
+"bericht": "1.5T Hybrid Veloce\n€ 10.750 · 32.109 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-tonale-1-5t-hybrid-veloce/o/1814056",
+"foto": "https://www.schadeautos.nl/cache/picture/334/1814056/1eb8c0088aceb7eb144b8477af5ce2c9~v191463046.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791464196.0212145,
+"laatst": 1791464196.0212145,
+"keer": 0,
+"fout": ""
+},
+"1814066": {
+"melding": {
+"titel": "Opel Corsa (2024)",
+"bericht": "GS SPORT 100 PK NAVI CLIMA CAMERA VIRT DASH LED B.J 2024\n€ 9.500 · 9.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-sport-100-pk-navi-clima-camera-virt-dash-led-b-j-2024/o/1814066",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814066/c25f5f203ad94e741195d53b913e0d30~v191463096.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791464198.708682,
+"laatst": 1791464198.708682,
+"keer": 0,
+"fout": ""
+},
+"1814068": {
+"melding": {
+"titel": "Peugeot 208 (2023)",
+"bericht": "exportprijs € 3.300 · 40.392 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1814068",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814068/e03929d00f3fb7312b25f635921ca444~v191462989.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791464198.7372925,
+"laatst": 1791464198.7372925,
+"keer": 0,
+"fout": ""
+},
+"1814067": {
+"melding": {
+"titel": "Ford Puma (2022)",
+"bericht": "exportprijs € 7.300 · 53.267 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma/o/1814067",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814067/082a80e3b67c13baa8a3c3768c67cda4~v191462948.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791464198.7668257,
+"laatst": 1791464198.7668257,
+"keer": 0,
+"fout": ""
+},
+"1781833": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Focus (2022)",
+"bericht": "1.0 EcoBoost Hybrid Navi Titanium X\n€ 7.450 · 146.073 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-navi-titanium-x/o/1781833",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1781833/caaf850a0c3afb5c9440a0c4dbd379da~v181611998.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791464198.7969568,
+"laatst": 1791464198.7969568,
 "keer": 0,
 "fout": ""
 }
