@@ -480,101 +480,50 @@
 "1814123",
 "1814122",
 "1814119",
-"1814125"
+"1814125",
+"1814151",
+"1814121",
+"1814150",
+"1814149",
+"1797637",
+"1814148",
+"1813960",
+"1813985",
+"1814110",
+"1813944",
+"1813950",
+"1813918",
+"1813962",
+"1813965",
+"1814084",
+"1813972",
+"1814143",
+"1810225",
+"1758176",
+"1814139"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814141,
+"hoogste_id": 1814151,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814130",
-"1814141",
-"1814140",
-"1814136",
-"1814135",
-"1814134",
-"1814128",
-"1810370",
-"1814132",
-"1814127",
-"1814129",
-"1814123"
+"1814151",
+"1814121",
+"1814150",
+"1814149",
+"1797637",
+"1814148",
+"1813960",
+"1813985",
+"1814110",
+"1813944",
+"1813950",
+"1813918"
 ]
 },
 "wachtrij": {
-"1813958": {
-"melding": {
-"titel": "Toyota Yaris (2022)",
-"bericht": "1.5 Hybrid Dynamic\n€ 4.350 · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5-hybrid-dynamic/o/1813958",
-"foto": "https://www.schadeautos.nl/cache/picture/5/1813958/6a4d4fe95a0df4546780fbc1f30e4008~v191456588.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791457222.8435261,
-"laatst": 1791467670.47333,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1813817": {
-"melding": {
-"titel": "Cupra Leon (2022)",
-"bericht": "1.4e-Hybrid 110kW Automaat Sportstourer VZ Adrenaline\n€ 15.500 · 137.495 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-1-4e-hybrid-110kw-automaat-sportstourer-vz-adrenaline/o/1813817",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1813817/7ea17c3d6490d80f84e9b9a51eeae592~v191441660.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791457222.8722067,
-"laatst": 1791457222.8722067,
-"keer": 0
-},
-"1797212": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW 2-serie (2023)",
-"bericht": "BMW 218D M 2023\n€ 13.250 · 174.975 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie-bmw-218d-m-2023/o/1797212",
-"foto": "https://www.schadeautos.nl/cache/picture/982/1797212/920d4dbf5fbbdb74d188e8d1b43c8587~v186700520.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791457222.900033,
-"laatst": 1791457222.900033,
-"keer": 0
-},
-"1807808": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 508 (2022)",
-"bericht": "PEUGEOT 508 HYBRID 2022\n€ 9.100 · 179.039 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-508-peugeot-508-hybrid-2022/o/1807808",
-"foto": "https://www.schadeautos.nl/cache/picture/982/1807808/83d9fbb0286246bae526e294315a1eff~v189743098.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791457222.9283073,
-"laatst": 1791457222.9283073,
-"keer": 0
-},
-"1798582": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Caddy maxi (2024)",
-"bericht": "VW CADDY 1.5TSI DSG 2024 7 ZIT\n€ 24.500 · 41.026 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-maxi-vw-caddy-1-5tsi-dsg-2024-7-zit/o/1798582",
-"foto": "https://www.schadeautos.nl/cache/picture/982/1798582/7acf8de752e20fc0531d5746b15d6f10~v190171004.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791457222.956719,
-"laatst": 1791457222.956719,
-"keer": 0
-},
 "1813968": {
 "melding": {
 "titel": "Dacia Jogger (2026)",
@@ -586,8 +535,9 @@
 "WhatsApp"
 ],
 "sinds": 1791458349.6797588,
-"laatst": 1791458349.6797588,
-"keer": 0
+"laatst": 1791468550.9330416,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1813569": {
 "melding": {
@@ -1332,6 +1282,81 @@
 ],
 "sinds": 1791467675.3544574,
 "laatst": 1791467675.3544574,
+"keer": 0,
+"fout": ""
+},
+"1814149": {
+"melding": {
+"titel": "Volkswagen T-Cross (2024)",
+"bericht": "T-CROSS AUTOMAAT 116 PK NAVI CLIMA CAMERA B.J 12-2024 FACELIFT\n€ 15.900 · 19.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-t-cross-automaat-116-pk-navi-clima-camera-b-j-12-2024-facelift/o/1814149",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814149/198fcda2d1fbc8367e60d174f8fd3462~v191468474.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791468552.275293,
+"laatst": 1791468552.275293,
+"keer": 0,
+"fout": ""
+},
+"1797637": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche 911 (2026)",
+"bericht": "992.2 3.6 Turbo S Ceramic 711pk\n€ 226.000 · 1.383 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-911-992-2-3-6-turbo-s-ceramic-711pk/o/1797637",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1797637/6eefaf8498c0967a5dafc9a3c708d1eb~v186966643.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791468552.455861,
+"laatst": 1791468552.455861,
+"keer": 0,
+"fout": ""
+},
+"1813985": {
+"melding": {
+"titel": "Tesla Model S (2023)",
+"bericht": "Plaid AWD 932 kW 75.431 km NAP\n€ 28.340 · 75.431 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-s-plaid-awd-932-kw-75-431-km-nap/o/1813985",
+"foto": "https://www.schadeautos.nl/cache/picture/66/1813985/421735e5455c0a7c2db46b1f2c27977c~v191460347.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791468552.631061,
+"laatst": 1791468552.631061,
+"keer": 0,
+"fout": ""
+},
+"1813918": {
+"melding": {
+"titel": "Opel Corsa (2025)",
+"bericht": "1.2 Hybrid Automaat 15.483 km Camera Clima\n€ 8.830 · 15.483 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-hybrid-automaat-15-483-km-camera-clima/o/1813918",
+"foto": "https://www.schadeautos.nl/cache/picture/66/1813918/90b86ea7f7a21ca0734254ce7fc0538d~v191459351.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791468552.8070798,
+"laatst": 1791468552.8070798,
+"keer": 0,
+"fout": ""
+},
+"1814139": {
+"melding": {
+"titel": "Opel Corsa (2025)",
+"bericht": "1.2 Turbo Edition\n€ 12.950 · 15.296 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-edition/o/1814139",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1814139/589339a25b0982d52568b4410527c59d~v191467601.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791468555.857762,
+"laatst": 1791468555.857762,
 "keer": 0,
 "fout": ""
 }
