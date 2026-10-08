@@ -198,7 +198,9 @@
 "1813805",
 "1813804",
 "1813803",
-"1813809"
+"1813809",
+"1776652",
+"1728695"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -207,6 +209,8 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1776652",
+"1728695",
 "1813809",
 "1810337",
 "1813808",
@@ -216,9 +220,7 @@
 "1813804",
 "1813803",
 "1803872",
-"1813783",
-"1808431",
-"1813801"
+"1813783"
 ]
 },
 "wachtrij": {
@@ -233,8 +235,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791438633.3770747,
-"keer": 6
+"laatst": 1791439332.4265828,
+"keer": 7
 },
 "1813798": {
 "melding": {
@@ -360,6 +362,20 @@
 ],
 "sinds": 1791437648.7969174,
 "laatst": 1791437648.7969174,
+"keer": 0
+},
+"1776652": {
+"melding": {
+"titel": "Opnieuw geplaatst: Cupra Formentor (2025)",
+"bericht": "2.0 VZ 245 KW AKRA PANO SFEER\n€ 24.950 · 6.154 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-formentor-2-0-vz-245-kw-akra-pano-sfeer/o/1776652",
+"foto": "https://www.schadeautos.nl/cache/picture/984/1776652/30a7a25b2c5f935ba0f2392bfa1769fd~v180239676.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791439333.2373548,
+"laatst": 1791439333.2373548,
 "keer": 0
 }
 },
