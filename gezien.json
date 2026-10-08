@@ -220,27 +220,39 @@
 "1809954",
 "1808889",
 "1813811",
-"1760679"
+"1760679",
+"1719480",
+"1808468",
+"1762538",
+"1795517",
+"1786533",
+"1796970",
+"1811719",
+"1813815",
+"1811683",
+"1813826",
+"1813824",
+"1807584"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813822,
+"hoogste_id": 1813826,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1813822",
-"1813821",
-"1813820",
-"1810539",
-"1753215",
-"1807185",
-"1808256",
-"1809954",
-"1808889",
-"1813811",
-"1760679",
-"1805673"
+"1719480",
+"1808468",
+"1762538",
+"1795517",
+"1786533",
+"1796970",
+"1811719",
+"1813815",
+"1811683",
+"1813826",
+"1813824",
+"1807584"
 ]
 },
 "wachtrij": {
@@ -255,8 +267,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791442317.0748117,
-"keer": 9
+"laatst": 1791443243.6319866,
+"keer": 10
 },
 "1813798": {
 "melding": {
@@ -424,6 +436,118 @@
 ],
 "sinds": 1791442317.9092455,
 "laatst": 1791442317.9092455,
+"keer": 0
+},
+"1719480": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Frontera (2025)",
+"bericht": "Electric GS 44 kWh bj 2025\n€ 9.950 · 4.664 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-frontera-electric-gs-44-kwh-bj-2025/o/1719480",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1719480/c88429ff8929287814e1eb2e1b9e476d~v162869845.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791443244.6213655,
+"laatst": 1791443244.6213655,
+"keer": 0
+},
+"1808468": {
+"melding": {
+"titel": "Opnieuw geplaatst: Nissan Juke (2023)",
+"bericht": "1.0 DIG-T N-Design\n€ 11.400 · 100.762 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-juke-1-0-dig-t-n-design/o/1808468",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1808468/0e332e0e816e5360c01bb567f5f0232b~v190066454.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791443244.7344985,
+"laatst": 1791443244.7344985,
+"keer": 0
+},
+"1762538": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Niro (2024)",
+"bericht": "1.6GDi 77kW Hybrid DynamicPlusLine\n€ 14.350 · 30.215 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-1-6gdi-77kw-hybrid-dynamicplusline/o/1762538",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1762538/9cd150d53931fc971b459bd03bada791~v175822266.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791443244.8369553,
+"laatst": 1791443244.8369553,
+"keer": 0
+},
+"1795517": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes EQB (2024)",
+"bericht": "300 4MATIC AMG Line 67 kWh\n€ 20.900 · 43.353 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-300-4matic-amg-line-67-kwh/o/1795517",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1795517/1ad9fbdc9b2f9adcbb134e88c702f112~v187894358.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791443244.9365444,
+"laatst": 1791443244.9365444,
+"keer": 0
+},
+"1786533": {
+"melding": {
+"titel": "Opnieuw geplaatst: Jaecoo 7 (2025)",
+"bericht": "1.5 GDI SHS-P Exclusive\n€ 17.900 · 11.046 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/jaecoo-7-1-5-gdi-shs-p-exclusive/o/1786533",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1786533/caad95e6f054a14af635d11296199227~v182981020.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791443245.041613,
+"laatst": 1791443245.041613,
+"keer": 0
+},
+"1811719": {
+"melding": {
+"titel": "Opnieuw geplaatst: Lynk & Co (2025)",
+"bericht": "08 1.5 More Hybride\n€ 14.750 · 11.005 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-08-1-5-more-hybride/o/1811719",
+"foto": "https://www.schadeautos.nl/cache/picture/163/1811719/7fbb317af39eb50c5b6d99cc83a9cfbc~v190857222.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791443245.1328733,
+"laatst": 1791443245.1328733,
+"keer": 0
+},
+"1813815": {
+"melding": {
+"titel": "Hyundai Bayon (2023)",
+"bericht": "1.0 T-GDI AUTOMAAT Premium Sky (SUV 5-dr.)\n€ 9.750 · 142.103 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-1-0-t-gdi-automaat-premium-sky-suv-5-dr/o/1813815",
+"foto": "https://www.schadeautos.nl/cache/picture/180/1813815/b5fceb98bb59c549ec9e66606605224f~v191441433.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791443245.2348442,
+"laatst": 1791443245.2348442,
+"keer": 0
+},
+"1813824": {
+"melding": {
+"titel": "Renault Arkana (2023)",
+"bericht": "E-TECH\n€ 10.500 · 141.458 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-arkana-e-tech/o/1813824",
+"foto": "https://www.schadeautos.nl/cache/picture/1040/1813824/4060eccfdbcd1aa75aec7cfdf315abc4~v191442519.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791443245.3378205,
+"laatst": 1791443245.3378205,
 "keer": 0
 }
 },
