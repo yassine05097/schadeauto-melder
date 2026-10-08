@@ -264,27 +264,36 @@
 "1810277",
 "1813847",
 "1811697",
-"1813845"
+"1813845",
+"1813862",
+"1759907",
+"1813855",
+"1813854",
+"1813857",
+"1812331",
+"1810575",
+"1813073",
+"1813849"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813850,
+"hoogste_id": 1813862,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1813862",
+"1759907",
+"1813855",
+"1813854",
+"1813857",
+"1812331",
+"1810575",
+"1813073",
+"1813849",
 "1757766",
 "1810092",
-"1813850",
-"1810114",
-"1780175",
-"1810277",
-"1813847",
-"1811697",
-"1813845",
-"1790413",
-"1813522",
-"1749289"
+"1813850"
 ]
 },
 "wachtrij": {
@@ -299,8 +308,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791446497.3886037,
-"keer": 13
+"laatst": 1791447759.1999907,
+"keer": 14
 },
 "1813798": {
 "melding": {
@@ -734,6 +743,34 @@
 ],
 "sinds": 1791446498.1818013,
 "laatst": 1791446498.1818013,
+"keer": 0
+},
+"1759907": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Karoq (2024)",
+"bericht": "1.5TSI 110kW Automaat ACT Business Edition\n€ 18.500 · 24.818 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-karoq-1-5tsi-110kw-automaat-act-business-edition/o/1759907",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1759907/433c30a97009532195335ff771284898~v175035138.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791447760.1926403,
+"laatst": 1791447760.1926403,
+"keer": 0
+},
+"1813073": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2025)",
+"bericht": "1.2 Hybrid 136pk aut + f1 GT-Line - 7451km nap - navi - keyless - camera v+a - sfeerverl - line + side assist\n€ 15.450 · 7.451 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-hybrid-136pk-aut-f1-gt-line-7451km-nap-navi-keyless-camera-v-a-sfeerverl-line-side-assist/o/1813073",
+"foto": "https://www.schadeautos.nl/cache/picture/707/1813073/8531ce5d471b63a16b111a8b80e153d5~v191282237.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791447760.3685782,
+"laatst": 1791447760.3685782,
 "keer": 0
 }
 },
