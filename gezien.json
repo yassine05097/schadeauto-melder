@@ -355,27 +355,33 @@
 "1807420",
 "1810857",
 "1810848",
-"1813945"
+"1813945",
+"1812733",
+"1813957",
+"1813955",
+"1793828",
+"1813954",
+"1813953"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1813952,
+"hoogste_id": 1813957,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1812733",
+"1813957",
+"1813955",
+"1793828",
+"1813954",
+"1813953",
 "1813952",
 "1811462",
 "1791032",
 "1623118",
 "1783039",
-"1813947",
-"1778683",
-"1711302",
-"1803235",
-"1780966",
-"1792524",
-"1807420"
+"1813947"
 ]
 },
 "wachtrij": {
@@ -390,8 +396,8 @@
 "WhatsApp"
 ],
 "sinds": 1791405948.2186086,
-"laatst": 1791455281.1523185,
-"keer": 21
+"laatst": 1791456374.9423678,
+"keer": 22
 },
 "1813798": {
 "melding": {
@@ -1231,6 +1237,90 @@
 ],
 "sinds": 1791455285.3217134,
 "laatst": 1791455285.3217134,
+"keer": 0
+},
+"1812733": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volvo EX30 (2024)",
+"bericht": "69kWh 200kW Single Motor Extended Range Plus\n€ 18.500 · 63.692 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-ex30-69kwh-200kw-single-motor-extended-range-plus/o/1812733",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1812733/b2336ec1efdea0f43229e9ae32c179b0~v191205033.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791456376.450347,
+"laatst": 1791456376.450347,
+"keer": 0
+},
+"1813957": {
+"melding": {
+"titel": "Mercedes B-klasse (2023)",
+"bericht": "€ 8.600 · 175.000 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-b-klasse/o/1813957",
+"foto": "https://www.schadeautos.nl/cache/picture/173/1813957/c1c8feb534bdf44b9a1e6d5c0b13501b~v191455759.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791456376.5567286,
+"laatst": 1791456376.5567286,
+"keer": 0
+},
+"1813955": {
+"melding": {
+"titel": "Peugeot 208 (2023)",
+"bericht": "1.2 PureTech Active\n€ 7.750 · 70.422 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-active/o/1813955",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1813955/864c34c5dcbc109d5917e564e66ce79e~v191455745.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791456376.6641178,
+"laatst": 1791456376.6641178,
+"keer": 0
+},
+"1793828": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Sportage (2022)",
+"bericht": "1.6 T-GDI Hybrid GT-PLUSLINE PANODAK / EXPORT PRIJS\n€ 9.950 · 153.104 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-1-6-t-gdi-hybrid-gt-plusline-panodak-export-prijs/o/1793828",
+"foto": "https://www.schadeautos.nl/cache/picture/302/1793828/d346311dfb39f97c67755ebf23ffc89f~v185358045.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791456376.7619154,
+"laatst": 1791456376.7619154,
+"keer": 0
+},
+"1813954": {
+"melding": {
+"titel": "Peugeot 208 (2023)",
+"bericht": "exportprijs € 4.400 · 75.920 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1813954",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1813954/635a1c4f876a79515675359fd2d4aa02~v191455286.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791456376.8592665,
+"laatst": 1791456376.8592665,
+"keer": 0
+},
+"1813953": {
+"melding": {
+"titel": "Opel Corsa (2026)",
+"bericht": "exportprijs € 4.300 · 16.838 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa/o/1813953",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1813953/4d5cc2711e13b9cf416e37802703b443~v191455281.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791456376.965246,
+"laatst": 1791456376.965246,
 "keer": 0
 }
 },
