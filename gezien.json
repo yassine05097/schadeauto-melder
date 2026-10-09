@@ -913,7 +913,9 @@
 "1779621",
 "1787272",
 "1780705",
-"1814557"
+"1814557",
+"1808392",
+"1802406"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -922,6 +924,8 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1808392",
+"1802406",
 "1814557",
 "1783969",
 "1779621",
@@ -931,42 +935,10 @@
 "1814555",
 "1812466",
 "1814553",
-"1814551",
-"1814550",
-"1813414"
+"1814551"
 ]
 },
 "wachtrij": {
-"1814551": {
-"melding": {
-"titel": "Citroën C4 (2023)",
-"bericht": "CITROEN C4 1.5D 2023\n€ 7.700 · 110.407 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-citroen-c4-1-5d-2023/o/1814551",
-"foto": "https://www.schadeautos.nl/cache/picture/982/1814551/f1c91004782979e7f80d5c8e2af03ab4~v191565222.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791565331.3977416,
-"laatst": 1791575949.6397736,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1813414": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Enyaq (2025)",
-"bericht": "iV 85 FACELIFT 286PK Aut. Sportline VOL!\n€ 32.990 · 79.129 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-enyaq-iv-85-facelift-286pk-aut-sportline-vol/o/1813414",
-"foto": "https://www.schadeautos.nl/cache/picture/871/1813414/bc301a8c4e6222368ffebb9ea0100e32~v191317712.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791565331.4998002,
-"laatst": 1791565331.4998002,
-"keer": 0,
-"fout": ""
-},
 "1814553": {
 "melding": {
 "titel": "Peugeot 308 (2022)",
@@ -978,9 +950,9 @@
 "WhatsApp"
 ],
 "sinds": 1791566356.3730476,
-"laatst": 1791566356.3730476,
-"keer": 0,
-"fout": ""
+"laatst": 1791576878.581241,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814555": {
 "melding": {
