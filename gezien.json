@@ -709,75 +709,35 @@
 "1814339",
 "1805434",
 "1814334",
-"1788003"
+"1788003",
+"1814354",
+"1814349",
+"1814351",
+"1814345",
+"1814350"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814347,
+"hoogste_id": 1814354,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814354",
+"1814349",
+"1814351",
+"1814345",
+"1814350",
 "1814335",
 "1814347",
 "1783335",
 "1783327",
 "1814342",
 "1780700",
-"1814336",
-"1814344",
-"1808529",
-"1807258",
-"1805438",
-"1805419"
+"1814336"
 ]
 },
 "wachtrij": {
-"1812543": {
-"melding": {
-"titel": "Opnieuw geplaatst: Citroën C5 Aircross (2024)",
-"bericht": "Feel 1.2 Puretech S&S\nexportprijs € 10.850 · 15.416 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c5-aircross-feel-1-2-puretech-s-s/o/1812543",
-"foto": "https://www.schadeautos.nl/cache/picture/451/1812543/ea199771ae263d1bbb5d68185283ff2b~v191184970.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791528405.8294153,
-"laatst": 1791538344.0937119,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1775318": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi Q2 (2022)",
-"bericht": "S-Line / Leer / Panorama\nexportprijs € 7.850 · 118.311 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q2-s-line-leer-panorama/o/1775318",
-"foto": "https://www.schadeautos.nl/cache/picture/451/1775318/7a1ed6e9fa555386df2a690661e1d43d~v179873454.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791528405.8708878,
-"laatst": 1791528405.8708878,
-"keer": 0,
-"fout": ""
-},
-"1747955": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Kodiaq (2022)",
-"bericht": "1.5 TSI Business Edition\n€ 18.400 · 129.816 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-1-5-tsi-business-edition/o/1747955",
-"foto": "https://www.schadeautos.nl/cache/picture/219/1747955/f5d4ec6f26c7eb6c1e02d0b84906bb2f~v171662376.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791528405.9089122,
-"laatst": 1791528405.9089122,
-"keer": 0,
-"fout": ""
-},
 "1814280": {
 "melding": {
 "titel": "Tesla Model Y (2025)",
@@ -789,9 +749,9 @@
 "WhatsApp"
 ],
 "sinds": 1791530760.9695973,
-"laatst": 1791530760.9695973,
-"keer": 0,
-"fout": ""
+"laatst": 1791539464.3981059,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1671342": {
 "melding": {
@@ -1225,6 +1185,21 @@
 ],
 "sinds": 1791538344.9076848,
 "laatst": 1791538344.9076848,
+"keer": 0,
+"fout": ""
+},
+"1814345": {
+"melding": {
+"titel": "Volkswagen T-Roc (2024)",
+"bericht": "T-ROC 1.5 TSI Life Edition\n€ 17.250 · 56.757 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-t-roc-1-5-tsi-life-edition/o/1814345",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1814345/97d4a963b542eba13adf172f417c4b77~v191538835.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791539465.455717,
+"laatst": 1791539465.455717,
 "keer": 0,
 "fout": ""
 }
