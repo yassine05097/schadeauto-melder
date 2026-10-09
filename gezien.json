@@ -682,45 +682,38 @@
 "1804962",
 "1796258",
 "1796363",
-"1812283"
+"1812283",
+"1796208",
+"1814331",
+"1814330",
+"1804954",
+"1805083",
+"1805088",
+"1814325",
+"1814327"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814324,
+"hoogste_id": 1814331,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1796208",
+"1814331",
+"1814330",
+"1804954",
+"1805083",
+"1805088",
+"1814325",
+"1814327",
 "1814324",
 "1784666",
 "1741516",
-"1720062",
-"1796049",
-"1804956",
-"1796257",
-"1798599",
-"1811830",
-"1814319",
-"1797598",
-"1793040"
+"1720062"
 ]
 },
 "wachtrij": {
-"1811969": {
-"melding": {
-"titel": "Opnieuw geplaatst: Ford Transit (2025)",
-"bericht": "Custom Kasten 280 L2 AUTOMATIC CAM\n€ 16.698 · 39.512 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit-custom-kasten-280-l2-automatic-cam/o/1811969",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1811969/287a85874a58a787afda8a7586fc596e~v191524704.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791525582.414942,
-"laatst": 1791536184.112743,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1812543": {
 "melding": {
 "titel": "Opnieuw geplaatst: Citroën C5 Aircross (2024)",
@@ -732,9 +725,9 @@
 "WhatsApp"
 ],
 "sinds": 1791528405.8294153,
-"laatst": 1791528405.8294153,
-"keer": 0,
-"fout": ""
+"laatst": 1791537119.059897,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1775318": {
 "melding": {
@@ -1048,6 +1041,66 @@
 ],
 "sinds": 1791536187.8756301,
 "laatst": 1791536187.8756301,
+"keer": 0,
+"fout": ""
+},
+"1814331": {
+"melding": {
+"titel": "Seat Leon (2022)",
+"bericht": "exportprijs € 5.500 · 44.361 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon/o/1814331",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814331/7a40804ff8e38e5a9ba267268e95579b~v191536740.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791537120.1035173,
+"laatst": 1791537120.1035173,
+"keer": 0,
+"fout": ""
+},
+"1814330": {
+"melding": {
+"titel": "Renault Austral (2023)",
+"bericht": "exportprijs € 5.750 · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral/o/1814330",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814330/8bfeab7bb1b5532313f72f56526f44e4~v191536718.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791537120.2846272,
+"laatst": 1791537120.2846272,
+"keer": 0,
+"fout": ""
+},
+"1804954": {
+"melding": {
+"titel": "Opnieuw geplaatst: Nissan Qashqai (2024)",
+"bericht": "1.3 MHEV Xtronic Business Executive ACC 360° Navi SHZ LrHZ Leder Memory Apple/Android Clima\n€ 6.950 · 17.517 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-1-3-mhev-xtronic-business-executive-acc-360-navi-shz-lrhz-leder-memory-apple-android-clima/o/1804954",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1804954/74e9579525320f3eafd3347295608a8b~v191536384.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791537120.4668407,
+"laatst": 1791537120.4668407,
+"keer": 0,
+"fout": ""
+},
+"1805083": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mitsubishi Colt (2025)",
+"bericht": "1.6 HEV Intense Cruise Clima Virtual Apple/Android Camera PDC\n€ 12.450 · 73.010 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-colt-1-6-hev-intense-cruise-clima-virtual-apple-android-camera-pdc/o/1805083",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1805083/621365c7561b7fc24038f23529512cf9~v191536301.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791537120.6490724,
+"laatst": 1791537120.6490724,
 "keer": 0,
 "fout": ""
 }
