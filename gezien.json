@@ -908,7 +908,11 @@
 "1814553",
 "1814554",
 "1814556",
-"1814555"
+"1814555",
+"1783969",
+"1779621",
+"1787272",
+"1780705"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -917,6 +921,10 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1783969",
+"1779621",
+"1787272",
+"1780705",
 "1814556",
 "1814555",
 "1814554",
@@ -924,74 +932,10 @@
 "1814553",
 "1814551",
 "1814550",
-"1813414",
-"1814547",
-"1814549",
-"1802668",
-"1806690"
+"1813414"
 ]
 },
 "wachtrij": {
-"1814529": {
-"melding": {
-"titel": "Audi A1 (2022)",
-"bericht": "A1\n€ 12.705 · 49.408 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-a1/o/1814529",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1814529/afb0111387a38a61bf86a6e137290a3c~v191559824.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791560281.0085168,
-"laatst": 1791570228.5311673,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814526": {
-"melding": {
-"titel": "Renault Mégane (2022)",
-"bericht": "IV GRANDTOUR CORPORA\n€ 5.400 · 123.755 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-iv-grandtour-corpora/o/1814526",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1814526/eb957b6eeb68fce6db3f840c1d3f1e2f~v191559816.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791560281.0362225,
-"laatst": 1791560281.0362225,
-"keer": 0,
-"fout": ""
-},
-"1814524": {
-"melding": {
-"titel": "Peugeot Expert (2022)",
-"bericht": "exportprijs € 7.500 · 164.263 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-expert/o/1814524",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814524/7a99b4ae951a844ff026851a6a8cce9e~v191559598.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791560281.0620968,
-"laatst": 1791560281.0620968,
-"keer": 0,
-"fout": ""
-},
-"1814522": {
-"melding": {
-"titel": "Audi Q3 (2023)",
-"bericht": "exportprijs € 10.400 · 76.582 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q3/o/1814522",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814522/43dfcc94f46eb2705e9febf7f3bba910~v191559591.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791560281.0897121,
-"laatst": 1791560281.0897121,
-"keer": 0,
-"fout": ""
-},
 "1814540": {
 "melding": {
 "titel": "Ford Focus (2022)",
@@ -1003,9 +947,9 @@
 "WhatsApp"
 ],
 "sinds": 1791561331.8564641,
-"laatst": 1791561331.8564641,
-"keer": 0,
-"fout": ""
+"laatst": 1791571429.958053,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814538": {
 "melding": {
@@ -1214,6 +1158,66 @@
 ],
 "sinds": 1791570229.3221195,
 "laatst": 1791570229.3221195,
+"keer": 0,
+"fout": ""
+},
+"1783969": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen T-Roc (2025)",
+"bericht": "Volkswagen T-Roc 1.5 TSI DSG 2x R-Line AHK Camera ACC VOLL\n€ 18.950 · 17.068 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-volkswagen-t-roc-1-5-tsi-dsg-2x-r-line-ahk-camera-acc-voll/o/1783969",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1783969/f06ac5c60c926a3482cae479be287202~v182228288.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791571431.1663036,
+"laatst": 1791571431.1663036,
+"keer": 0,
+"fout": ""
+},
+"1779621": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen T-Roc (2026)",
+"bericht": "Volkswagen T-Roc 1.5 TSI DSG R-Line PANO AHK Camera IQ Lights VOL!!\n€ 21.950 · 8.044 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-volkswagen-t-roc-1-5-tsi-dsg-r-line-pano-ahk-camera-iq-lights-vol/o/1779621",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1779621/4c24752c14d61ab318989c5bca895ae3~v181004901.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791571431.2694914,
+"laatst": 1791571431.2694914,
+"keer": 0,
+"fout": ""
+},
+"1787272": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen T-Roc (2026)",
+"bericht": "T-Roc R-Line 1.5 TSI DSG PANORAMA IQ-Light Camera VOL\n€ 19.950 · 6.123 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-t-roc-r-line-1-5-tsi-dsg-panorama-iq-light-camera-vol/o/1787272",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1787272/49d2899758e92342e5b96ef72a2dde67~v183111655.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791571431.370239,
+"laatst": 1791571431.370239,
+"keer": 0,
+"fout": ""
+},
+"1780705": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen T-Roc (2025)",
+"bericht": "T-Roc R-Line 1.5 TSI DSG Camera Trekhaak ACC Lane Assist VOL\n€ 20.950 · 8.731 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-t-roc-r-line-1-5-tsi-dsg-camera-trekhaak-acc-lane-assist-vol/o/1780705",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1780705/1c7e21d24e05f21b699a19eda96fa445~v181206335.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791571431.4823296,
+"laatst": 1791571431.4823296,
 "keer": 0,
 "fout": ""
 }
