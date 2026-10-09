@@ -889,15 +889,17 @@
 "1814535",
 "1814534",
 "1814533",
-"1814532"
+"1814532",
+"1814541"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814540,
+"hoogste_id": 1814541,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814541",
 "1814540",
 "1814539",
 "1814538",
@@ -908,56 +910,10 @@
 "1814533",
 "1814532",
 "1814525",
-"1814530",
-"1814529"
+"1814530"
 ]
 },
 "wachtrij": {
-"1798227": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche Macan (2026)",
-"bericht": "GTS 100kwh\n€ 76.500 · 7.597 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-macan-gts-100kwh/o/1798227",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1798227/648efd72f28ad82a6b9c6ee05efe9854~v187063553.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791550993.142554,
-"laatst": 1791561331.2135475,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1746783": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A3 (2023)",
-"bericht": "BERLINE\n€ 9.800 · 52.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-berline/o/1746783",
-"foto": "https://www.schadeautos.nl/cache/picture/977/1746783/cd70b77b3db2098ba077fd96989a4ca0~v191549921.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791550993.3503008,
-"laatst": 1791550993.3503008,
-"keer": 0,
-"fout": ""
-},
-"1813006": {
-"melding": {
-"titel": "Opnieuw geplaatst: Toyota Aygo (2026)",
-"bericht": "X 1.5 Hybrid 115 pulse\n€ 13.450 · 8.460 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-5-hybrid-115-pulse/o/1813006",
-"foto": "https://www.schadeautos.nl/cache/picture/239/1813006/7448d3e428a7cd92ef2dbd7a0b26fab1~v191546835.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791550993.5723417,
-"laatst": 1791550993.5723417,
-"keer": 0,
-"fout": ""
-},
 "1814481": {
 "melding": {
 "titel": "Opel Corsa (2025)",
@@ -969,9 +925,9 @@
 "WhatsApp"
 ],
 "sinds": 1791552322.5074775,
-"laatst": 1791552322.5074775,
-"keer": 0,
-"fout": ""
+"laatst": 1791562191.4083395,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814479": {
 "melding": {
@@ -1285,6 +1241,21 @@
 ],
 "sinds": 1791561332.138701,
 "laatst": 1791561332.138701,
+"keer": 0,
+"fout": ""
+},
+"1814541": {
+"melding": {
+"titel": "Toyota CH-R (2022)",
+"bericht": "Hybrid Lounge\n€ 11.495 · 67.540 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-ch-r-hybrid-lounge/o/1814541",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1814541/f4852b23bc605d5b23c7c0684ecfb02b~v191561621.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791562192.592912,
+"laatst": 1791562192.592912,
 "keer": 0,
 "fout": ""
 }
