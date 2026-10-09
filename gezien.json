@@ -906,15 +906,19 @@
 "1814547",
 "1812466",
 "1814553",
-"1814554"
+"1814554",
+"1814556",
+"1814555"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814554,
+"hoogste_id": 1814556,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814556",
+"1814555",
 "1814554",
 "1812466",
 "1814553",
@@ -924,72 +928,10 @@
 "1814547",
 "1814549",
 "1802668",
-"1806690",
-"1814548",
-"1814543"
+"1806690"
 ]
 },
 "wachtrij": {
-"1814518": {
-"melding": {
-"titel": "Mazda CX-5 (2023)",
-"bericht": "2.0 Skyactive-G 165 Homura Limited-AUTOMAAT-CAMERA-NAVI\nexportprijs € 8.950 · 162.500 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-5-2-0-skyactive-g-165-homura-limited-automaat-camera-navi/o/1814518",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1814518/5030977f87aa8f5be88a5e61c4e5dcf2~v191559007.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791559203.259409,
-"laatst": 1791568953.412256,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814517": {
-"melding": {
-"titel": "Mercedes C-klasse (2026)",
-"bericht": "180 Business Line Hybride\n€ 32.500 · 3.183 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-180-business-line-hybride/o/1814517",
-"foto": "https://www.schadeautos.nl/cache/picture/963/1814517/ca7beb899e7274655a8846267af054e9~v191558752.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791559203.4405606,
-"laatst": 1791559203.4405606,
-"keer": 0,
-"fout": ""
-},
-"1814519": {
-"melding": {
-"titel": "Peugeot e-208 (2023)",
-"bericht": "exportprijs € 4.700 · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-e-208/o/1814519",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814519/56cb09da4c5b2d392c9438ad74403a8f~v191558766.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791559203.6239228,
-"laatst": 1791559203.6239228,
-"keer": 0,
-"fout": ""
-},
-"1814515": {
-"melding": {
-"titel": "Citroën C3 (2024)",
-"bericht": "exportprijs € 7.500 · 14.440 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1814515",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814515/6486246c5bfcdfa1001e85efa5293990~v191558317.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791559203.7976553,
-"laatst": 1791559203.7976553,
-"keer": 0,
-"fout": ""
-},
 "1814529": {
 "melding": {
 "titel": "Audi A1 (2022)",
@@ -1001,9 +943,9 @@
 "WhatsApp"
 ],
 "sinds": 1791560281.0085168,
-"laatst": 1791560281.0085168,
-"keer": 0,
-"fout": ""
+"laatst": 1791570228.5311673,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814526": {
 "melding": {
@@ -1257,6 +1199,21 @@
 ],
 "sinds": 1791566356.3730476,
 "laatst": 1791566356.3730476,
+"keer": 0,
+"fout": ""
+},
+"1814555": {
+"melding": {
+"titel": "Volkswagen Caddy (2025)",
+"bericht": "V 1.5 MPV 116 PK CLIMA CAMERA TREKHAAK B.J 05-2025\n€ 16.500 · 28.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-v-1-5-mpv-116-pk-clima-camera-trekhaak-b-j-05-2025/o/1814555",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814555/38fa45433c4d159284ba8dbfefe019e1~v191569104.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791570229.3221195,
+"laatst": 1791570229.3221195,
 "keer": 0,
 "fout": ""
 }
