@@ -740,60 +740,52 @@
 "1814382",
 "1814380",
 "1814378",
-"1814379"
+"1814379",
+"1814417",
+"1814415",
+"1814412",
+"1814409",
+"1814408",
+"1814404",
+"1814403",
+"1814400",
+"1814402",
+"1814401",
+"1814399",
+"1813444",
+"1813367",
+"1814391",
+"1812857",
+"1814389",
+"1814388",
+"1814387",
+"1814386",
+"1814383",
+"1814384",
+"1806497"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814382,
+"hoogste_id": 1814417,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814382",
-"1814380",
-"1814378",
-"1814379",
-"1814376",
-"1787658",
-"1814365",
-"1787926",
-"1814368",
-"1774544",
-"1814367",
-"1805528"
+"1814417",
+"1814415",
+"1814412",
+"1814409",
+"1814408",
+"1814404",
+"1814403",
+"1814400",
+"1814402",
+"1814401",
+"1814399",
+"1813444"
 ]
 },
 "wachtrij": {
-"1814304": {
-"melding": {
-"titel": "BMW 1-serie (2022)",
-"bericht": "118i 1.5 TWINPOWER 12V AUT BENZ 1.499CC 100KW 136PK\n€ 10.950 · 90.123 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-118i-1-5-twinpower-12v-aut-benz-1-499cc-100kw-136pk/o/1814304",
-"foto": "https://www.schadeautos.nl/cache/picture/489/1814304/b7fd56d6d9eb889db2dd24afc2ecf3f9~v191533850.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791533996.760186,
-"laatst": 1791544322.4188256,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1785183": {
-"melding": {
-"titel": "Opnieuw geplaatst: Seat Leon (2023)",
-"bericht": "1.0eTSI 81kW Automaat Business Intense FR\n€ 9.900 · 85.608 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon-1-0etsi-81kw-automaat-business-intense-fr/o/1785183",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1785183/c8ae64ac56261e5def0e016704d05186~v182555074.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791533996.9718316,
-"laatst": 1791533996.9718316,
-"keer": 0,
-"fout": ""
-},
 "1796253": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volvo V-60 (2024)",
@@ -805,9 +797,9 @@
 "WhatsApp"
 ],
 "sinds": 1791535183.057032,
-"laatst": 1791535183.057032,
-"keer": 0,
-"fout": ""
+"laatst": 1791545342.3262923,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1773044": {
 "melding": {
@@ -1181,6 +1173,186 @@
 ],
 "sinds": 1791543445.0548797,
 "laatst": 1791543445.0548797,
+"keer": 0,
+"fout": ""
+},
+"1814415": {
+"melding": {
+"titel": "Seat Tarraco (2024)",
+"bericht": "1.4 TSI PHEV DSG FR Business ACC Memory Camera Clima LrHZ LED\n€ 25.950 · 73.174 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-tarraco-1-4-tsi-phev-dsg-fr-business-acc-memory-camera-clima-lrhz-led/o/1814415",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814415/9a6a7679f81b5cf4f74e366f5d6fafba~v191545101.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545348.4851186,
+"laatst": 1791545348.4851186,
+"keer": 0,
+"fout": ""
+},
+"1814412": {
+"melding": {
+"titel": "Kia Picanto (2023)",
+"bericht": "1.0 DPi ComfortLine 5 Drs. Airco Cruise\n€ 6.450 · 83.143 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline-5-drs-airco-cruise/o/1814412",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814412/7dca5c9c5808fb000b1d7ad1c27a4a91~v191545064.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545348.5256937,
+"laatst": 1791545348.5256937,
+"keer": 0,
+"fout": ""
+},
+"1814409": {
+"melding": {
+"titel": "Kia e-Niro (2024)",
+"bericht": "DynamicLine 64.8 kWh Camera LED Clima Apple/Android Navi\n€ 15.950 · 55.655 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-e-niro-dynamicline-64-8-kwh-camera-led-clima-apple-android-navi/o/1814409",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814409/1c92b890592be8903c07e27fbf902416~v191545006.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545348.5657096,
+"laatst": 1791545348.5657096,
+"keer": 0,
+"fout": ""
+},
+"1814408": {
+"melding": {
+"titel": "Skoda Superb (2024)",
+"bericht": "2.0 TDI 4x4 Laurin & Klement Canton Camera Memory Leder AHK ACC LrHZ SHZ Navi\n€ 20.950 · 97.468 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-2-0-tdi-4x4-laurin-klement-canton-camera-memory-leder-ahk-acc-lrhz-shz-navi/o/1814408",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814408/6ebaf4323c989116c22c41f1f059ba35~v191544991.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545348.6049895,
+"laatst": 1791545348.6049895,
+"keer": 0,
+"fout": ""
+},
+"1814402": {
+"melding": {
+"titel": "Cupra Formentor (2025)",
+"bericht": "VZ Performance 2.0 TSI 4Drive DSG Sabelt Pano AHK Sennheiser ACC LrHZ\n€ 23.950 · 24.546 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-formentor-vz-performance-2-0-tsi-4drive-dsg-sabelt-pano-ahk-sennheiser-acc-lrhz/o/1814402",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814402/570973ed43cdcc765aadf4b512391c68~v191544880.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545348.644584,
+"laatst": 1791545348.644584,
+"keer": 0,
+"fout": ""
+},
+"1814401": {
+"melding": {
+"titel": "Kia Picanto (2023)",
+"bericht": "1.0 DPi DynamicLine Cruise Camera Apple/Android Airco\n€ 7.950 · 59.361 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-dynamicline-cruise-camera-apple-android-airco/o/1814401",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814401/a30cab178c58096fbbbdf8467f2864e6~v191544866.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545348.6841946,
+"laatst": 1791545348.6841946,
+"keer": 0,
+"fout": ""
+},
+"1812857": {
+"melding": {
+"titel": "Opnieuw geplaatst: Citroën C3 (2025)",
+"bericht": "CITROEN C3 1.2I 2025\n€ 9.900 · 29.616 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-citroen-c3-1-2i-2025/o/1812857",
+"foto": "https://www.schadeautos.nl/cache/picture/982/1812857/854864d0aea4ad8b08c302d4abc990c7~v191223072.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545351.1831994,
+"laatst": 1791545351.1831994,
+"keer": 0,
+"fout": ""
+},
+"1814389": {
+"melding": {
+"titel": "Mercedes V-klasse (2022)",
+"bericht": "300 d 4Matic Lang AMG Line 6p. 360° Memory SHZ SBL AHK Burmester ACC\n€ 42.950 · 60.260 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-v-klasse-300-d-4matic-lang-amg-line-6p-360-memory-shz-sbl-ahk-burmester-acc/o/1814389",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814389/7bca99b34e733688389f9fe554e71920~v191544689.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545351.2228386,
+"laatst": 1791545351.2228386,
+"keer": 0,
+"fout": ""
+},
+"1814388": {
+"melding": {
+"titel": "Audi A5 (2024)",
+"bericht": "Sportback 40 TFSI DSG S-Line Pano Camera SHZ ACC Virtual Clima Apple/Android\n€ 24.950 · 24.942 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a5-sportback-40-tfsi-dsg-s-line-pano-camera-shz-acc-virtual-clima-apple-android/o/1814388",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814388/1a94026e2817217f316b23ee1af82823~v191544669.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545351.2608528,
+"laatst": 1791545351.2608528,
+"keer": 0,
+"fout": ""
+},
+"1814386": {
+"melding": {
+"titel": "Skoda Octavia (2025)",
+"bericht": "Combi Selection 2.0 TDI DSG HUD AHK ACC Camera SHZ LrHZ Virtual\n€ 18.950 · 34.996 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-combi-selection-2-0-tdi-dsg-hud-ahk-acc-camera-shz-lrhz-virtual/o/1814386",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814386/7581af06a688967412ae9bfdc9c9248e~v191545146.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545351.2998216,
+"laatst": 1791545351.2998216,
+"keer": 0,
+"fout": ""
+},
+"1814384": {
+"melding": {
+"titel": "Fiat Panda (2026)",
+"bericht": "4.800 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-panda/o/1814384",
+"foto": "https://www.schadeautos.nl/cache/picture/987/1814384/a59b3157dfdd0be7921a3f0b2fa4597b~v191544516.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545351.338866,
+"laatst": 1791545351.338866,
+"keer": 0,
+"fout": ""
+},
+"1806497": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 5-serie (2022)",
+"bericht": "520 e Automaat Business Edition Plus [ nieuwste type Hybrid Elektriciteit 2022 vol optie\n€ 15.500 · 156.000 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-520-e-automaat-business-edition-plus-nieuwste-type-hybrid-elektriciteit-2022-vol-optie/o/1806497",
+"foto": "https://www.schadeautos.nl/cache/picture/360/1806497/f706f69e5cb7c944b414e30934aa1b9e~v191544500.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791545351.3776972,
+"laatst": 1791545351.3776972,
 "keer": 0,
 "fout": ""
 }
