@@ -890,120 +890,38 @@
 "1814534",
 "1814533",
 "1814532",
-"1814541"
+"1814541",
+"1802668",
+"1806690",
+"1814548",
+"1814543",
+"1814546",
+"1814545",
+"1814544",
+"1814542"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814541,
+"hoogste_id": 1814548,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1802668",
+"1806690",
+"1814548",
+"1814543",
+"1814546",
+"1814545",
+"1814544",
+"1814542",
 "1814541",
 "1814540",
 "1814539",
-"1814538",
-"1814537",
-"1814536",
-"1814535",
-"1814534",
-"1814533",
-"1814532",
-"1814525",
-"1814530"
+"1814538"
 ]
 },
 "wachtrij": {
-"1814481": {
-"melding": {
-"titel": "Opel Corsa (2025)",
-"bericht": "GS line Automaat led stoelverwarming achteruitrijcamera\n€ 11.500 · 25.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-line-automaat-led-stoelverwarming-achteruitrijcamera/o/1814481",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1814481/7b7edb5ef4182aa1cec57a1f8140b63e~v191552065.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791552322.5074775,
-"laatst": 1791562191.4083395,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814479": {
-"melding": {
-"titel": "Kia Ceed (2024)",
-"bericht": "GT Line Business DIESEL HYBRIDE PANO LEDER LED\n11.688 km · hybride diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-gt-line-business-diesel-hybride-pano-leder-led/o/1814479",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1814479/7b557b286717fdd2d8f435a8da344e77~v191551923.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791552322.5351624,
-"laatst": 1791552322.5351624,
-"keer": 0,
-"fout": ""
-},
-"1814477": {
-"melding": {
-"titel": "Hyundai I-30 (2024)",
-"bericht": "N 280pk Kuipstoelen Panoramadak LED Full\n13.850 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-n-280pk-kuipstoelen-panoramadak-led-full/o/1814477",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1814477/6b2c179c231b27bfa6afc8912df941be~v191551698.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791552322.5607762,
-"laatst": 1791552322.5607762,
-"keer": 0,
-"fout": ""
-},
-"1814472": {
-"melding": {
-"titel": "Cupra Leon (2025)",
-"bericht": "Nederlandse Kenteken 150pk Led Leder Nederlandse Kenteken\n€ 21.950 · 23.300 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-nederlandse-kenteken-150pk-led-leder-nederlandse-kenteken/o/1814472",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1814472/3a449d3758cbe6e1382c9fa2e83ae03a~v191551434.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791552322.5870497,
-"laatst": 1791552322.5870497,
-"keer": 0,
-"fout": ""
-},
-"1814471": {
-"melding": {
-"titel": "Skoda Scala (2024)",
-"bericht": "Monte Carlo 1.0 85 kw Pano automaat\n€ 11.500 · 26.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-monte-carlo-1-0-85-kw-pano-automaat/o/1814471",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1814471/9d4a2bb9295cdd12ba87b68e16a7e6cf~v191551228.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791552322.6136675,
-"laatst": 1791552322.6136675,
-"keer": 0,
-"fout": ""
-},
-"1801122": {
-"melding": {
-"titel": "Opnieuw geplaatst: Fiat 500 (2023)",
-"bericht": "Abarth 595 Turismo Autom. Navi Clima\n€ 15.950 · 39.132 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-abarth-595-turismo-autom-navi-clima/o/1801122",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1801122/9e42d35aff4e2a0a7f1f24dcc569cad4~v187826486.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791552322.6406353,
-"laatst": 1791552322.6406353,
-"keer": 0,
-"fout": ""
-},
 "1802578": {
 "melding": {
 "titel": "Opnieuw geplaatst: Mercedes GLC (2024)",
@@ -1015,9 +933,9 @@
 "WhatsApp"
 ],
 "sinds": 1791554503.1876361,
-"laatst": 1791554503.1876361,
-"keer": 0,
-"fout": ""
+"laatst": 1791563320.9643242,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814373": {
 "melding": {
@@ -1256,6 +1174,81 @@
 ],
 "sinds": 1791562192.592912,
 "laatst": 1791562192.592912,
+"keer": 0,
+"fout": ""
+},
+"1802668": {
+"melding": {
+"titel": "Opnieuw geplaatst: Hyundai Tucson (2026)",
+"bericht": "1.6 T-GDI N Line DCT\n€ 18.500 · 6.241 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-n-line-dct/o/1802668",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1802668/6e0010b0004255ea2a9d28bfcdd1d01e~v188279488.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791563322.234913,
+"laatst": 1791563322.234913,
+"keer": 0,
+"fout": ""
+},
+"1814548": {
+"melding": {
+"titel": "Nissan Qashqai (2024)",
+"bericht": "exportprijs € 10.600 · 85.271 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai/o/1814548",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814548/48385d328a3c1b3cc24f2f056bc224cf~v191562772.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791563322.4470804,
+"laatst": 1791563322.4470804,
+"keer": 0,
+"fout": ""
+},
+"1814543": {
+"melding": {
+"titel": "Nissan Juke (2025)",
+"bericht": "N-Design\n€ 10.800 · 25.221 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-juke-n-design/o/1814543",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1814543/f2d3a9bc8653116488e805dcd1ff987a~v191562253.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791563322.6577652,
+"laatst": 1791563322.6577652,
+"keer": 0,
+"fout": ""
+},
+"1814545": {
+"melding": {
+"titel": "DS Automobiles DS 4 Crossback (2023)",
+"bericht": "DS4 Crossback\nexportprijs € 4.300 · 28.811 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ds-automobiles-ds-4-crossback-ds4-crossback/o/1814545",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814545/b226fc68c6aa2060043ecd690fa2f5c6~v191562321.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791563322.8709624,
+"laatst": 1791563322.8709624,
+"keer": 0,
+"fout": ""
+},
+"1814542": {
+"melding": {
+"titel": "Mini Electric (2022)",
+"bericht": "33kwh Xenon Led Pano Harman Kardon FULL ! NAP\n€ 13.250 · 50.425 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-electric-33kwh-xenon-led-pano-harman-kardon-full-nap/o/1814542",
+"foto": "https://www.schadeautos.nl/cache/picture/1063/1814542/135c4ad11e811673f2fb56b8c36bc478~v191562113.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791563323.0909245,
+"laatst": 1791563323.0909245,
 "keer": 0,
 "fout": ""
 }
