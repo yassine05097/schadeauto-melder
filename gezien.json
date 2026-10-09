@@ -806,75 +806,41 @@
 "1814457",
 "1814460",
 "1746783",
-"1813006"
+"1813006",
+"1814481",
+"1814479",
+"1814480",
+"1814477",
+"1814478",
+"1814472",
+"1814471",
+"1801122",
+"1814468",
+"1814152",
+"1814469"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814462,
+"hoogste_id": 1814481,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1809623",
-"1810642",
-"1787345",
-"1777695",
-"1814378",
-"1814462",
-"1814453",
-"1798227",
-"1814457",
-"1814460",
-"1746783",
-"1813006"
+"1814481",
+"1814479",
+"1814480",
+"1814477",
+"1814478",
+"1814472",
+"1814471",
+"1801122",
+"1814468",
+"1814152",
+"1814469",
+"1809623"
 ]
 },
 "wachtrij": {
-"1814355": {
-"melding": {
-"titel": "Toyota Corolla (2023)",
-"bericht": "exportprijs € 9.300 · 24.352 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-corolla/o/1814355",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814355/9e1c4dd55a72ea30a8153ea96afd9ac3~v191539689.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791540200.9811213,
-"laatst": 1791550991.7219806,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814363": {
-"melding": {
-"titel": "BMW iX3 (2024)",
-"bericht": "exportprijs € 18.800 · 55.144 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix3/o/1814363",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814363/e41de626f6afb72f1e5934fd8fe08bf8~v191540750.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791541448.9237814,
-"laatst": 1791541448.9237814,
-"keer": 0,
-"fout": ""
-},
-"1814359": {
-"melding": {
-"titel": "Opel Astra (2024)",
-"bericht": "exportprijs € 4.400 · 21.045 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra/o/1814359",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814359/d0118414f99f459c164badddc3ea81a3~v191540290.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791541449.005639,
-"laatst": 1791541449.005639,
-"keer": 0,
-"fout": ""
-},
 "1774544": {
 "melding": {
 "titel": "Opnieuw geplaatst: Audi Q3 (2025)",
@@ -886,9 +852,9 @@
 "WhatsApp"
 ],
 "sinds": 1791542509.042463,
-"laatst": 1791542509.042463,
-"keer": 0,
-"fout": ""
+"laatst": 1791552321.4576936,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814367": {
 "melding": {
@@ -1367,6 +1333,96 @@
 ],
 "sinds": 1791550993.5723417,
 "laatst": 1791550993.5723417,
+"keer": 0,
+"fout": ""
+},
+"1814481": {
+"melding": {
+"titel": "Opel Corsa (2025)",
+"bericht": "GS line Automaat led stoelverwarming achteruitrijcamera\n€ 11.500 · 25.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-line-automaat-led-stoelverwarming-achteruitrijcamera/o/1814481",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1814481/7b7edb5ef4182aa1cec57a1f8140b63e~v191552065.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791552322.5074775,
+"laatst": 1791552322.5074775,
+"keer": 0,
+"fout": ""
+},
+"1814479": {
+"melding": {
+"titel": "Kia Ceed (2024)",
+"bericht": "GT Line Business DIESEL HYBRIDE PANO LEDER LED\n11.688 km · hybride diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-gt-line-business-diesel-hybride-pano-leder-led/o/1814479",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1814479/7b557b286717fdd2d8f435a8da344e77~v191551923.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791552322.5351624,
+"laatst": 1791552322.5351624,
+"keer": 0,
+"fout": ""
+},
+"1814477": {
+"melding": {
+"titel": "Hyundai I-30 (2024)",
+"bericht": "N 280pk Kuipstoelen Panoramadak LED Full\n13.850 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-n-280pk-kuipstoelen-panoramadak-led-full/o/1814477",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1814477/6b2c179c231b27bfa6afc8912df941be~v191551698.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791552322.5607762,
+"laatst": 1791552322.5607762,
+"keer": 0,
+"fout": ""
+},
+"1814472": {
+"melding": {
+"titel": "Cupra Leon (2025)",
+"bericht": "Nederlandse Kenteken 150pk Led Leder Nederlandse Kenteken\n€ 21.950 · 23.300 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-nederlandse-kenteken-150pk-led-leder-nederlandse-kenteken/o/1814472",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1814472/3a449d3758cbe6e1382c9fa2e83ae03a~v191551434.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791552322.5870497,
+"laatst": 1791552322.5870497,
+"keer": 0,
+"fout": ""
+},
+"1814471": {
+"melding": {
+"titel": "Skoda Scala (2024)",
+"bericht": "Monte Carlo 1.0 85 kw Pano automaat\n€ 11.500 · 26.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-monte-carlo-1-0-85-kw-pano-automaat/o/1814471",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1814471/9d4a2bb9295cdd12ba87b68e16a7e6cf~v191551228.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791552322.6136675,
+"laatst": 1791552322.6136675,
+"keer": 0,
+"fout": ""
+},
+"1801122": {
+"melding": {
+"titel": "Opnieuw geplaatst: Fiat 500 (2023)",
+"bericht": "Abarth 595 Turismo Autom. Navi Clima\n€ 15.950 · 39.132 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-abarth-595-turismo-autom-navi-clima/o/1801122",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1801122/9e42d35aff4e2a0a7f1f24dcc569cad4~v187826486.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791552322.6406353,
+"laatst": 1791552322.6406353,
 "keer": 0,
 "fout": ""
 }
