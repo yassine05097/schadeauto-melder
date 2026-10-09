@@ -860,75 +860,40 @@
 "1806603",
 "1779260",
 "1814513",
-"1795580"
+"1795580",
+"1814518",
+"1790686",
+"1814517",
+"1814520",
+"1814519",
+"1814516",
+"1798096",
+"1814515",
+"1814514",
+"1790311"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814513,
+"hoogste_id": 1814520,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814518",
+"1790686",
+"1814517",
+"1814520",
+"1814519",
+"1814516",
+"1798096",
+"1814515",
+"1814514",
+"1790311",
 "1794532",
-"1808121",
-"1814512",
-"1806603",
-"1779260",
-"1814513",
-"1795580",
-"1814502",
-"1814510",
-"1814509",
-"1814505",
-"1814503"
+"1808121"
 ]
 },
 "wachtrij": {
-"1814431": {
-"melding": {
-"titel": "Kia Niro (2023)",
-"bericht": "EV ExecutiveLine 64.8 kWh\n€ 17.700 · 83.224 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-ev-executiveline-64-8-kwh/o/1814431",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1814431/26ee8c54a3d4de85e30abe3bf9b540be~v191547578.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791548386.4482813,
-"laatst": 1791558074.705797,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1801451": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW iX1 (2025)",
-"bericht": "eDrive20 LEDER/KAM/NAVI\n€ 27.900 · 6.351 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-edrive20-leder-kam-navi/o/1801451",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1801451/c003ae21587aa0d5a4f022e1167cc582~v191547508.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791548386.6256046,
-"laatst": 1791548386.6256046,
-"keer": 0,
-"fout": ""
-},
-"1795887": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes C-klasse (2026)",
-"bericht": "d Edition AMG Line PANO/AHK/360/NAVI\n€ 32.900 · 7.961 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-d-edition-amg-line-pano-ahk-360-navi/o/1795887",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1795887/cb32296ee6bb50b33fd580222fd2a882~v191547505.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791548386.8100457,
-"laatst": 1791548386.8100457,
-"keer": 0,
-"fout": ""
-},
 "1814452": {
 "melding": {
 "titel": "Dacia Duster (2023)",
@@ -940,9 +905,9 @@
 "WhatsApp"
 ],
 "sinds": 1791549831.9708622,
-"laatst": 1791549831.9708622,
-"keer": 0,
-"fout": ""
+"laatst": 1791559196.6623964,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814449": {
 "melding": {
@@ -1226,6 +1191,66 @@
 ],
 "sinds": 1791555806.6271176,
 "laatst": 1791555806.6271176,
+"keer": 0,
+"fout": ""
+},
+"1814518": {
+"melding": {
+"titel": "Mazda CX-5 (2023)",
+"bericht": "2.0 Skyactive-G 165 Homura Limited-AUTOMAAT-CAMERA-NAVI\nexportprijs € 8.950 · 162.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-5-2-0-skyactive-g-165-homura-limited-automaat-camera-navi/o/1814518",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1814518/5030977f87aa8f5be88a5e61c4e5dcf2~v191559007.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791559203.259409,
+"laatst": 1791559203.259409,
+"keer": 0,
+"fout": ""
+},
+"1814517": {
+"melding": {
+"titel": "Mercedes C-klasse (2026)",
+"bericht": "180 Business Line Hybride\n€ 32.500 · 3.183 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-180-business-line-hybride/o/1814517",
+"foto": "https://www.schadeautos.nl/cache/picture/963/1814517/ca7beb899e7274655a8846267af054e9~v191558752.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791559203.4405606,
+"laatst": 1791559203.4405606,
+"keer": 0,
+"fout": ""
+},
+"1814519": {
+"melding": {
+"titel": "Peugeot e-208 (2023)",
+"bericht": "exportprijs € 4.700 · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-e-208/o/1814519",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814519/56cb09da4c5b2d392c9438ad74403a8f~v191558766.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791559203.6239228,
+"laatst": 1791559203.6239228,
+"keer": 0,
+"fout": ""
+},
+"1814515": {
+"melding": {
+"titel": "Citroën C3 (2024)",
+"bericht": "exportprijs € 7.500 · 14.440 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1814515",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814515/6486246c5bfcdfa1001e85efa5293990~v191558317.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791559203.7976553,
+"laatst": 1791559203.7976553,
 "keer": 0,
 "fout": ""
 }
