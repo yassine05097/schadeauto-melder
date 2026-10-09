@@ -870,27 +870,37 @@
 "1798096",
 "1814515",
 "1814514",
-"1790311"
+"1790311",
+"1814525",
+"1814530",
+"1814529",
+"1814528",
+"1814527",
+"1814526",
+"1814524",
+"1814523",
+"1814522",
+"1814521"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814520,
+"hoogste_id": 1814530,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814525",
+"1814530",
+"1814529",
+"1814528",
+"1814527",
+"1814526",
+"1814524",
+"1814523",
+"1814522",
+"1814521",
 "1814518",
-"1790686",
-"1814517",
-"1814520",
-"1814519",
-"1814516",
-"1798096",
-"1814515",
-"1814514",
-"1790311",
-"1794532",
-"1808121"
+"1790686"
 ]
 },
 "wachtrij": {
@@ -905,8 +915,8 @@
 "WhatsApp"
 ],
 "sinds": 1791549831.9708622,
-"laatst": 1791559196.6623964,
-"keer": 1,
+"laatst": 1791560280.428375,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814449": {
@@ -1251,6 +1261,66 @@
 ],
 "sinds": 1791559203.7976553,
 "laatst": 1791559203.7976553,
+"keer": 0,
+"fout": ""
+},
+"1814529": {
+"melding": {
+"titel": "Audi A1 (2022)",
+"bericht": "A1\n€ 12.705 · 49.408 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-a1/o/1814529",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1814529/afb0111387a38a61bf86a6e137290a3c~v191559824.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791560281.0085168,
+"laatst": 1791560281.0085168,
+"keer": 0,
+"fout": ""
+},
+"1814526": {
+"melding": {
+"titel": "Renault Mégane (2022)",
+"bericht": "IV GRANDTOUR CORPORA\n€ 5.400 · 123.755 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-iv-grandtour-corpora/o/1814526",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1814526/eb957b6eeb68fce6db3f840c1d3f1e2f~v191559816.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791560281.0362225,
+"laatst": 1791560281.0362225,
+"keer": 0,
+"fout": ""
+},
+"1814524": {
+"melding": {
+"titel": "Peugeot Expert (2022)",
+"bericht": "exportprijs € 7.500 · 164.263 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-expert/o/1814524",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814524/7a99b4ae951a844ff026851a6a8cce9e~v191559598.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791560281.0620968,
+"laatst": 1791560281.0620968,
+"keer": 0,
+"fout": ""
+},
+"1814522": {
+"melding": {
+"titel": "Audi Q3 (2023)",
+"bericht": "exportprijs € 10.400 · 76.582 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q3/o/1814522",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814522/43dfcc94f46eb2705e9febf7f3bba910~v191559591.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791560281.0897121,
+"laatst": 1791560281.0897121,
 "keer": 0,
 "fout": ""
 }
