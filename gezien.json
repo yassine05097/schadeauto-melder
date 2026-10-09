@@ -817,60 +817,43 @@
 "1801122",
 "1814468",
 "1814152",
-"1814469"
+"1814469",
+"1814489",
+"1814488",
+"1787747",
+"1789460",
+"1814487",
+"1789451",
+"1747997",
+"1789456",
+"1789449",
+"1814474",
+"1814486",
+"1812743",
+"1814485"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814481,
+"hoogste_id": 1814489,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814481",
-"1814479",
-"1814480",
-"1814477",
-"1814478",
-"1814472",
-"1814471",
-"1801122",
-"1814468",
-"1814152",
-"1814469",
-"1809623"
+"1814489",
+"1814488",
+"1787747",
+"1789460",
+"1814487",
+"1789451",
+"1747997",
+"1789456",
+"1789449",
+"1814474",
+"1814486",
+"1812743"
 ]
 },
 "wachtrij": {
-"1774544": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi Q3 (2025)",
-"bericht": "Sportback 35 TFSI Autom. S-Line Navi Clima\n€ 27.750 · 19.795 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q3-sportback-35-tfsi-autom-s-line-navi-clima/o/1774544",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1774544/0d591ca9b6d694d83ebbcf04bf3b04ce~v179444475.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791542509.042463,
-"laatst": 1791552321.4576936,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814367": {
-"melding": {
-"titel": "Dacia Sandero (2023)",
-"bericht": "exportprijs € 3.950 · 20.046 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero/o/1814367",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814367/3933f898f6d565273e9502df6d5d5ce2~v191541560.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791542509.2161613,
-"laatst": 1791542509.2161613,
-"keer": 0,
-"fout": ""
-},
 "1814376": {
 "melding": {
 "titel": "Cupra Born (2025)",
@@ -882,9 +865,9 @@
 "WhatsApp"
 ],
 "sinds": 1791543445.0548797,
-"laatst": 1791543445.0548797,
-"keer": 0,
-"fout": ""
+"laatst": 1791553449.8349512,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814415": {
 "melding": {
