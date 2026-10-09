@@ -734,15 +734,19 @@
 "1805528",
 "1810328",
 "1813148",
-"1812863"
+"1812863",
+"1814376",
+"1787658"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814368,
+"hoogste_id": 1814376,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814376",
+"1787658",
 "1814365",
 "1787926",
 "1814368",
@@ -752,72 +756,10 @@
 "1810328",
 "1813148",
 "1812863",
-"1728914",
-"1810466",
-"1806877"
+"1728914"
 ]
 },
 "wachtrij": {
-"1811460": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Golf (2023)",
-"bericht": "GTE 204 PK PLUG IN HYBRIDE AUTOMAAT STYLE NAVI CLIMA CAMERA LED B.J 2023\n€ 14.950 · 21.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-gte-204-pk-plug-in-hybride-automaat-style-navi-clima-camera-led-b-j-2023/o/1811460",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1811460/171d80b872f3e9ec903fdee27c7861da~v190836670.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791531834.3269,
-"laatst": 1791542507.4975915,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1812066": {
-"melding": {
-"titel": "Opnieuw geplaatst: Tesla Model Y (2022)",
-"bericht": "75 kWh Long Range AWD 258KW Pano Clima Navi\n€ 23.750 · 111.295 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-75-kwh-long-range-awd-258kw-pano-clima-navi/o/1812066",
-"foto": "https://www.schadeautos.nl/cache/picture/585/1812066/730d75d60a0a2c54ae150bdf2386d44a~v191366563.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791531834.4340363,
-"laatst": 1791531834.4340363,
-"keer": 0,
-"fout": ""
-},
-"1692840": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Ceed (2023)",
-"bericht": "1.0T-GDi 88kW Automaat MHEV Dynamicline\n€ 9.950 · 70.203 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0t-gdi-88kw-automaat-mhev-dynamicline/o/1692840",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1692840/fbaae150dd97ef62e8bd59161f5b32be~v155244991.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791531834.5495598,
-"laatst": 1791531834.5495598,
-"keer": 0,
-"fout": ""
-},
-"1809502": {
-"melding": {
-"titel": "Opnieuw geplaatst: MG MG4 (2023)",
-"bericht": "ELECTIC 51 KWH\n€ 10.995 · 35.112 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-mg4-electic-51-kwh/o/1809502",
-"foto": "https://www.schadeautos.nl/cache/picture/985/1809502/74052eef336ca403ae776596fe56fa5e~v190256991.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791531834.664036,
-"laatst": 1791531834.664036,
-"keer": 0,
-"fout": ""
-},
 "1783406": {
 "melding": {
 "titel": "Opnieuw geplaatst: Citroën C5 Aircross (2023)",
@@ -829,9 +771,9 @@
 "WhatsApp"
 ],
 "sinds": 1791532814.7372632,
-"laatst": 1791532814.7372632,
-"keer": 0,
-"fout": ""
+"laatst": 1791543444.3140113,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1734122": {
 "melding": {
@@ -1265,6 +1207,21 @@
 ],
 "sinds": 1791542509.2161613,
 "laatst": 1791542509.2161613,
+"keer": 0,
+"fout": ""
+},
+"1814376": {
+"melding": {
+"titel": "Cupra Born (2025)",
+"bericht": "Business Limited 63 kWh 170 PK\n€ 16.950 · 36.229 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-born-business-limited-63-kwh-170-pk/o/1814376",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1814376/8c71532f41864f6a21de804b4e68b0c0~v191543299.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791543445.0548797,
+"laatst": 1791543445.0548797,
 "keer": 0,
 "fout": ""
 }
