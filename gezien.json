@@ -725,60 +725,39 @@
 "1812614",
 "1814363",
 "1814362",
-"1814359"
+"1814359",
+"1814365",
+"1787926",
+"1814368",
+"1774544",
+"1814367",
+"1805528",
+"1810328",
+"1813148",
+"1812863"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814363,
+"hoogste_id": 1814368,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814365",
+"1787926",
+"1814368",
+"1774544",
+"1814367",
+"1805528",
+"1810328",
+"1813148",
+"1812863",
 "1728914",
 "1810466",
-"1806877",
-"1809623",
-"1802342",
-"1800175",
-"1812614",
-"1814363",
-"1814362",
-"1814359",
-"1814355",
-"1814354"
+"1806877"
 ]
 },
 "wachtrij": {
-"1814280": {
-"melding": {
-"titel": "Tesla Model Y (2025)",
-"bericht": "256pk 58kwh navi leer clima\n€ 28.000 · 17.428 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-256pk-58kwh-navi-leer-clima/o/1814280",
-"foto": "https://www.schadeautos.nl/cache/picture/109/1814280/5ad9433b4f3b1da388e672d7433195df~v191530700.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791530760.9695973,
-"laatst": 1791541448.1225798,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1671342": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volvo XC40 (2022)",
-"bericht": "70kWh Recharge 170kW Core\n€ 12.250 · 64.664 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc40-70kwh-recharge-170kw-core/o/1671342",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1671342/5eab3c8a047766ad4ddab379efdcbc37~v190063515.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791530761.0672026,
-"laatst": 1791530761.0672026,
-"keer": 0,
-"fout": ""
-},
 "1811460": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen Golf (2023)",
@@ -790,9 +769,9 @@
 "WhatsApp"
 ],
 "sinds": 1791531834.3269,
-"laatst": 1791531834.3269,
-"keer": 0,
-"fout": ""
+"laatst": 1791542507.4975915,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1812066": {
 "melding": {
@@ -1256,6 +1235,36 @@
 ],
 "sinds": 1791541449.005639,
 "laatst": 1791541449.005639,
+"keer": 0,
+"fout": ""
+},
+"1774544": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi Q3 (2025)",
+"bericht": "Sportback 35 TFSI Autom. S-Line Navi Clima\n€ 27.750 · 19.795 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q3-sportback-35-tfsi-autom-s-line-navi-clima/o/1774544",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1774544/0d591ca9b6d694d83ebbcf04bf3b04ce~v179444475.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791542509.042463,
+"laatst": 1791542509.042463,
+"keer": 0,
+"fout": ""
+},
+"1814367": {
+"melding": {
+"titel": "Dacia Sandero (2023)",
+"bericht": "exportprijs € 3.950 · 20.046 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero/o/1814367",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814367/3933f898f6d565273e9502df6d5d5ce2~v191541560.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791542509.2161613,
+"laatst": 1791542509.2161613,
 "keer": 0,
 "fout": ""
 }
