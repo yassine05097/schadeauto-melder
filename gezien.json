@@ -668,27 +668,41 @@
 "1813457",
 "1814314",
 "1773044",
-"1770162"
+"1770162",
+"1814324",
+"1784666",
+"1741516",
+"1720062",
+"1796049",
+"1804956",
+"1796257",
+"1814319",
+"1797598",
+"1793040",
+"1804962",
+"1796258",
+"1796363",
+"1812283"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814315,
+"hoogste_id": 1814324,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1757766",
-"1810092",
-"1814315",
-"1809065",
-"1814210",
-"1796271",
-"1814219",
-"1728071",
-"1796253",
-"1813457",
-"1814314",
-"1773044"
+"1814324",
+"1784666",
+"1741516",
+"1720062",
+"1796049",
+"1804956",
+"1796257",
+"1798599",
+"1811830",
+"1814319",
+"1797598",
+"1793040"
 ]
 },
 "wachtrij": {
@@ -703,8 +717,8 @@
 "WhatsApp"
 ],
 "sinds": 1791525582.414942,
-"laatst": 1791535181.9467127,
-"keer": 2,
+"laatst": 1791536184.112743,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1812543": {
@@ -959,6 +973,81 @@
 ],
 "sinds": 1791535185.8442478,
 "laatst": 1791535185.8442478,
+"keer": 0,
+"fout": ""
+},
+"1720062": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Karoq (2023)",
+"bericht": "1.0 TSI Business Edition 110PK\n€ 9.950 · 104.128 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-karoq-1-0-tsi-business-edition-110pk/o/1720062",
+"foto": "https://www.schadeautos.nl/cache/picture/104/1720062/82d0788f209801f4aaeca222c6a76566~v181611242.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791536184.9155173,
+"laatst": 1791536184.9155173,
+"keer": 0,
+"fout": ""
+},
+"1804956": {
+"melding": {
+"titel": "Opnieuw geplaatst: Cupra Leon (2026)",
+"bericht": "2.0 TDI DSG ACC Navi Clima SHZ Virtual Apple/Android PDC AHK\n€ 15.450 · 48.298 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-2-0-tdi-dsg-acc-navi-clima-shz-virtual-apple-android-pdc-ahk/o/1804956",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1804956/9edfda55c252822ac7ab01b0dbae8371~v191535711.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791536185.018333,
+"laatst": 1791536185.018333,
+"keer": 0,
+"fout": ""
+},
+"1804962": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi S3 (2025)",
+"bericht": "Sportback 2.0 TFSI DSG quattro ACC SHZ Virtual Apple/Android Camera PDC\n€ 25.450 · 8.978 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-s3-sportback-2-0-tfsi-dsg-quattro-acc-shz-virtual-apple-android-camera-pdc/o/1804962",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1804962/9601aebd1f9920603b9374e3e93c5d47~v191535130.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791536187.6614432,
+"laatst": 1791536187.6614432,
+"keer": 0,
+"fout": ""
+},
+"1796258": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 4-serie (2022)",
+"bericht": "Gran Coupé M440i DCT xDrive H/K ACC SHZ Laser Memory LrHZ Leder SHZ AHK Camera\n€ 19.950 · 113.245 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-4-serie-gran-coupe-m440i-dct-xdrive-h-k-acc-shz-laser-memory-lrhz-leder-shz-ahk-camera/o/1796258",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1796258/a2de62a06c30cc9370e83c8728731a94~v191535088.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791536187.7622943,
+"laatst": 1791536187.7622943,
+"keer": 0,
+"fout": ""
+},
+"1796363": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW X2 (2024)",
+"bericht": "sDrive20i M Sport H/K ACC Navi HUD Memory Apple/Android Camera 360° PDC\n€ 9.950 · 26.311 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x2-sdrive20i-m-sport-h-k-acc-navi-hud-memory-apple-android-camera-360-pdc/o/1796363",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1796363/a568de069f9690b00be789ae2bf2bb72~v191535045.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791536187.8756301,
+"laatst": 1791536187.8756301,
 "keer": 0,
 "fout": ""
 }
