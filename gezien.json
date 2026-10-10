@@ -944,15 +944,22 @@
 "1724261",
 "1814589",
 "1814592",
-"1808408"
+"1808408",
+"1797188",
+"1810368",
+"1814594"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814592,
+"hoogste_id": 1814594,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1797188",
+"1810092",
+"1810368",
+"1814594",
 "1814592",
 "1806533",
 "1808408",
@@ -960,11 +967,7 @@
 "1724261",
 "1814589",
 "1814587",
-"1789451",
-"1789460",
-"1787745",
-"1814585",
-"1762837"
+"1789451"
 ]
 },
 "wachtrij": {
@@ -979,8 +982,8 @@
 "WhatsApp"
 ],
 "sinds": 1791615697.6437619,
-"laatst": 1791624879.7184303,
-"keer": 1,
+"laatst": 1791625757.5586941,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1811391": {
@@ -995,6 +998,36 @@
 ],
 "sinds": 1791622818.9744418,
 "laatst": 1791622818.9744418,
+"keer": 0,
+"fout": ""
+},
+"1797188": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Vivaro (2022)",
+"bericht": "vivaro Zafira 2.0 CDTI L3 H1 9 persoons\n€ 7.950 · 175.211 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vivaro-vivaro-zafira-2-0-cdti-l3-h1-9-persoons/o/1797188",
+"foto": "https://www.schadeautos.nl/cache/picture/201/1797188/0a28a0cc324425f1ecb275c14e6c9708~v190098099.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791625758.529285,
+"laatst": 1791625758.529285,
+"keer": 0,
+"fout": ""
+},
+"1810368": {
+"melding": {
+"titel": "Opnieuw geplaatst: Lynk & Co 01 (2023)",
+"bericht": "1.5 Plug-In Hybrid 220pk 7-traps aut - pano - nap - 360cam - 2x laadkabels - keyless - front + line + side assist\n€ 15.999 · 88.526 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-plug-in-hybrid-220pk-7-traps-aut-pano-nap-360cam-2x-laadkabels-keyless-front-line-side-assist/o/1810368",
+"foto": "https://www.schadeautos.nl/cache/picture/707/1810368/19f2ff30c30093135479f6f39b107d21~v190598745.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791625758.6362498,
+"laatst": 1791625758.6362498,
 "keer": 0,
 "fout": ""
 }
