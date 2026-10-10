@@ -949,15 +949,23 @@
 "1810368",
 "1814594",
 "1698899",
-"1814598"
+"1814598",
+"1814605",
+"1814346",
+"1814604",
+"1814600"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814598,
+"hoogste_id": 1814605,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814605",
+"1814346",
+"1814604",
+"1814600",
 "1698899",
 "1814598",
 "1797188",
@@ -965,29 +973,10 @@
 "1810368",
 "1814594",
 "1814592",
-"1806533",
-"1808408",
-"1811391",
-"1724261",
-"1814589"
+"1806533"
 ]
 },
 "wachtrij": {
-"1693065": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 308 (2023)",
-"bericht": "1.2PureTech 96kW Active Pack Business\n€ 7.950 · 68.380 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2puretech-96kw-active-pack-business/o/1693065",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1693065/639eb0535acb261e6a93f9b4cff01654~v155332813.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791615697.6437619,
-"laatst": 1791626424.0029016,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1811391": {
 "melding": {
 "titel": "Opnieuw geplaatst: Dacia Duster (2024)",
@@ -999,9 +988,9 @@
 "WhatsApp"
 ],
 "sinds": 1791622818.9744418,
-"laatst": 1791622818.9744418,
-"keer": 0,
-"fout": ""
+"laatst": 1791627427.5437696,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1797188": {
 "melding": {
@@ -1030,6 +1019,21 @@
 ],
 "sinds": 1791625758.6362498,
 "laatst": 1791625758.6362498,
+"keer": 0,
+"fout": ""
+},
+"1814604": {
+"melding": {
+"titel": "Peugeot Expert (2024)",
+"bericht": "exportprijs € 11.500 · 36.417 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-expert/o/1814604",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814604/2f3b1282c48b5ce620f8f0835708e3a7~v191627093.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791627429.2252676,
+"laatst": 1791627429.2252676,
 "keer": 0,
 "fout": ""
 }
