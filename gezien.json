@@ -959,27 +959,33 @@
 "1814608",
 "1814607",
 "1814609",
-"1814610"
+"1814610",
+"1814588",
+"1814599",
+"1814590",
+"1814602",
+"1814596",
+"1814612"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814610,
+"hoogste_id": 1814612,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814588",
+"1814599",
+"1814590",
+"1814602",
+"1814596",
+"1814612",
 "1814610",
 "1814609",
 "1814608",
 "1814607",
 "1814603",
-"1814606",
-"1814605",
-"1814346",
-"1814604",
-"1814600",
-"1698899",
-"1814598"
+"1814606"
 ]
 },
 "wachtrij": {
@@ -994,8 +1000,8 @@
 "WhatsApp"
 ],
 "sinds": 1791622818.9744418,
-"laatst": 1791630747.3866003,
-"keer": 5,
+"laatst": 1791631675.2322917,
+"keer": 6,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1797188": {
@@ -1040,6 +1046,66 @@
 ],
 "sinds": 1791627429.2252676,
 "laatst": 1791627429.2252676,
+"keer": 0,
+"fout": ""
+},
+"1814588": {
+"melding": {
+"titel": "Peugeot 208 (2026)",
+"bericht": "1.2 Hybrid 145 e-DCS6 GT Automaat Pano 3244 Km NAP !\n€ 16.650 · 3.244 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-hybrid-145-e-dcs6-gt-automaat-pano-3244-km-nap/o/1814588",
+"foto": "https://www.schadeautos.nl/cache/picture/364/1814588/2fb378ae2880b55207de17ab3be7b4d1~v191621657.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791631675.899398,
+"laatst": 1791631675.899398,
+"keer": 0,
+"fout": ""
+},
+"1814599": {
+"melding": {
+"titel": "Seat Leon (2023)",
+"bericht": "1.0 eTSI FR Intense Automaat Navi Clima NAP !\n€ 13.350 · 95.281 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon-1-0-etsi-fr-intense-automaat-navi-clima-nap/o/1814599",
+"foto": "https://www.schadeautos.nl/cache/picture/364/1814599/c815b398b016711c2b82b7446972c72c~v191625931.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791631675.9372866,
+"laatst": 1791631675.9372866,
+"keer": 0,
+"fout": ""
+},
+"1814602": {
+"melding": {
+"titel": "Hyundai Bayon (2022)",
+"bericht": "1.0 T-GDI Comfort Navi Airco NAP !\n€ 9.450 · 98.798 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-1-0-t-gdi-comfort-navi-airco-nap/o/1814602",
+"foto": "https://www.schadeautos.nl/cache/picture/364/1814602/d660a5dada9f8575644fb2e180076995~v191627030.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791631675.9744103,
+"laatst": 1791631675.9744103,
+"keer": 0,
+"fout": ""
+},
+"1814596": {
+"melding": {
+"titel": "Fiat 500 (2022)",
+"bericht": "1.0 Hybrid Dolcevita Pano Leder Navi 54741 Km NAP !\n€ 6.950 · 54.741 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybrid-dolcevita-pano-leder-navi-54741-km-nap/o/1814596",
+"foto": "https://www.schadeautos.nl/cache/picture/364/1814596/c1cd35e13d17a3eb232e163ebbca38bc~v191624896.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791631676.0255356,
+"laatst": 1791631676.0255356,
 "keer": 0,
 "fout": ""
 }
