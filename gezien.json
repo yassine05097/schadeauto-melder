@@ -986,15 +986,19 @@
 "1746621",
 "1794874",
 "1805549",
-"1808658"
+"1808658",
+"1814653",
+"1814652"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814640,
+"hoogste_id": 1814653,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814653",
+"1814652",
 "1805549",
 "1808658",
 "1746621",
@@ -1004,9 +1008,7 @@
 "1814638",
 "1814637",
 "1814521",
-"1813091",
-"1814633",
-"1814625"
+"1813091"
 ]
 },
 "wachtrij": {
@@ -1021,9 +1023,24 @@
 "WhatsApp"
 ],
 "sinds": 1791704263.8067005,
-"laatst": 1791707893.5349514,
-"keer": 5,
+"laatst": 1791708791.627221,
+"keer": 6,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1814653": {
+"melding": {
+"titel": "Ford Transit (2024)",
+"bericht": "COURIER TREND\n€ 10.104 · 85.000 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit-courier-trend/o/1814653",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1814653/1f9177d93e0fa5a15ea62c81c294cfaf~v191708401.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791708792.8817222,
+"laatst": 1791708792.8817222,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
