@@ -1026,15 +1026,20 @@
 "1793824",
 "1814672",
 "1814674",
-"1814673"
+"1814673",
+"1812344",
+"1814675"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814674,
+"hoogste_id": 1814675,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1812344",
+"1698899",
+"1814675",
 "1814674",
 "1814673",
 "1812331",
@@ -1043,43 +1048,10 @@
 "1810114",
 "1814350",
 "1762902",
-"1794611",
-"1793824",
-"1814672",
-"1814671"
+"1794611"
 ]
 },
 "wachtrij": {
-"1802178": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mitsubishi Space-star (2022)",
-"bericht": "1.2 COOL+ 71PK - AIRCO - CENTRAAL\n€ 5.000 · 103.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star-1-2-cool-71pk-airco-centraal/o/1802178",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1802178/ccf8c09a95d994bfd700e9e7a87ff650~v188185126.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791726670.2167706,
-"laatst": 1791737383.7485535,
-"keer": 9,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1804294": {
-"melding": {
-"titel": "Opnieuw geplaatst: Hyundai I-10 (2023)",
-"bericht": "1.0 COMFORT CRUISE - AIRCO\n€ 7.650 · 185.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-cruise-airco/o/1804294",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1804294/9dafbb80b9f0b07d129e8f607bc8d40f~v188791507.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791726670.242337,
-"laatst": 1791726670.242337,
-"keer": 0,
-"fout": ""
-},
 "1806043": {
 "melding": {
 "titel": "Opnieuw geplaatst: Suzuki Vitara (2026)",
@@ -1091,9 +1063,9 @@
 "WhatsApp"
 ],
 "sinds": 1791728318.6037066,
-"laatst": 1791728318.6037066,
-"keer": 0,
-"fout": ""
+"laatst": 1791738054.0835142,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1810415": {
 "melding": {
