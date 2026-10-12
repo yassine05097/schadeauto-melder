@@ -1208,90 +1208,67 @@
 "1814848",
 "1814849",
 "1759174",
-"1805797"
+"1805797",
+"1814893",
+"1805796",
+"1814894",
+"1814880",
+"1806224",
+"1814862",
+"1794019",
+"1814890",
+"1814884",
+"1797339",
+"1814887",
+"1814885",
+"1814871",
+"1814878",
+"1748358",
+"1796943",
+"1809764",
+"1810339",
+"1810638",
+"1810834",
+"1810894",
+"1814873",
+"1814859",
+"1814875",
+"1814876",
+"1814874",
+"1814872",
+"1814864",
+"1814858",
+"1814860",
+"1814866",
+"1814865",
+"1814861",
+"1814863",
+"1814854",
+"1796354",
+"1486444"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814857,
+"hoogste_id": 1814894,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814857",
-"1654356",
-"1814852",
-"1809065",
-"1805778",
-"1796923",
-"1814848",
-"1814849",
-"1759174",
-"1805797",
-"1809936",
-"1783724"
+"1814893",
+"1805796",
+"1814894",
+"1814880",
+"1806224",
+"1814862",
+"1794019",
+"1814890",
+"1814884",
+"1797339",
+"1814887",
+"1814885"
 ]
 },
 "wachtrij": {
-"1814780": {
-"melding": {
-"titel": "Opel Mokka (2024)",
-"bericht": "exportprijs € 5.500 · 54.348 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-mokka/o/1814780",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814780/aa96039dca705e30ceaf645ce89d609f~v191796819.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791797016.3071892,
-"laatst": 1791806581.792096,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814779": {
-"melding": {
-"titel": "Peugeot e-208 (2023)",
-"bericht": "exportprijs € 5.500 · 14.617 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-e-208/o/1814779",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814779/9316666821b14343388d787fcb860e61~v191796793.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791797016.4818692,
-"laatst": 1791797016.4818692,
-"keer": 0,
-"fout": ""
-},
-"1814768": {
-"melding": {
-"titel": "Hyundai Tucson (2026)",
-"bericht": "€ 23.400 · 8.212 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson/o/1814768",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1814768/fa6234f86ce0556a97adf76df0f27ea0~v191795325.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791797016.6582296,
-"laatst": 1791797016.6582296,
-"keer": 0,
-"fout": ""
-},
-"1804206": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A1 (2023)",
-"bericht": "25 TFSI Pro Line AIRCO - CRUISE - LMV\n€ 7.000 · 46.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-25-tfsi-pro-line-airco-cruise-lmv/o/1804206",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1804206/d022d08f988e1edfba82ee86c1e0e07c~v188783339.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791797019.6154826,
-"laatst": 1791797019.6154826,
-"keer": 0,
-"fout": ""
-},
 "1769045": {
 "melding": {
 "titel": "Opnieuw geplaatst: Peugeot e-3008 (2025)",
@@ -1303,9 +1280,9 @@
 "WhatsApp"
 ],
 "sinds": 1791798350.377333,
-"laatst": 1791798350.377333,
-"keer": 0,
-"fout": ""
+"laatst": 1791808711.512293,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814777": {
 "melding": {
@@ -1784,6 +1761,141 @@
 ],
 "sinds": 1791806583.4432037,
 "laatst": 1791806583.4432037,
+"keer": 0,
+"fout": ""
+},
+"1814894": {
+"melding": {
+"titel": "Volkswagen Golf (2023)",
+"bericht": "8 TSI 110 PK NAVI CLIMA CAMERA LED PDC PRIVACY GLASS B.J 04-2023\n€ 12.950 · 50.800 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-camera-led-pdc-privacy-glass-b-j-04-2023/o/1814894",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814894/1fbd70ebfd5302bfac36c708765bf754~v191808623.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791808712.9101322,
+"laatst": 1791808712.9101322,
+"keer": 0,
+"fout": ""
+},
+"1814862": {
+"melding": {
+"titel": "Kia Niro (2023)",
+"bericht": "Kia NIRO 1.6 GDi PHEV DynamicLine\n€ 7.750 · 48.115 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-kia-niro-1-6-gdi-phev-dynamicline/o/1814862",
+"foto": "https://www.schadeautos.nl/cache/picture/10/1814862/6a38c640a3c7654a102ee060a6ca6c57~v191807717.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791808713.1270418,
+"laatst": 1791808713.1270418,
+"keer": 0,
+"fout": ""
+},
+"1814887": {
+"melding": {
+"titel": "Hyundai Inster (2026)",
+"bericht": "exportprijs € 7.600 · 1.046 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-inster/o/1814887",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1814887/86b182f80d4bbdc1eef3714ad098705f~v191807895.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791808713.3441308,
+"laatst": 1791808713.3441308,
+"keer": 0,
+"fout": ""
+},
+"1814885": {
+"melding": {
+"titel": "Opel Corsa (2024)",
+"bericht": "GS SPORT 100 PK NAVI CLIMA CAMERA VIRT DASH LED B.J 2024\n€ 9.700 · 8.900 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-sport-100-pk-navi-clima-camera-virt-dash-led-b-j-2024/o/1814885",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814885/70477c19f873dd1ba5bf1937217550fb~v191807985.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791808713.5596166,
+"laatst": 1791808713.5596166,
+"keer": 0,
+"fout": ""
+},
+"1748358": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 5-serie (2024)",
+"bericht": "530e M-Sport Pro Leder ACC H/K Camera SHZ\n€ 33.950 · 25.190 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530e-m-sport-pro-leder-acc-h-k-camera-shz/o/1748358",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1748358/63b5752dce9fa3a0be66e382e577f5ec~v191807585.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791808716.818878,
+"laatst": 1791808716.818878,
+"keer": 0,
+"fout": ""
+},
+"1814875": {
+"melding": {
+"titel": "Renault Clio (2024)",
+"bericht": "1.0 TCE 90 Airco Navi\n€ 10.950 · 86.949 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-90-airco-navi/o/1814875",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1814875/e43c4e9a6892cf337f459e429c4e7c57~v191807150.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791808719.9129984,
+"laatst": 1791808719.9129984,
+"keer": 0,
+"fout": ""
+},
+"1814872": {
+"melding": {
+"titel": "Hyundai I-10 (2024)",
+"bericht": "1.0 Comfort Airco\n€ 8.750 · 83.586 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-airco/o/1814872",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1814872/fac31e56eaeb98775b892a4d0b3e286f~v191807024.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791808720.132519,
+"laatst": 1791808720.132519,
+"keer": 0,
+"fout": ""
+},
+"1814865": {
+"melding": {
+"titel": "Ford Ranger (2022)",
+"bericht": "Wildtrak Doppelk. 4x4 156 Bi-Turbo\n€ 12.100 · 132.093 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-wildtrak-doppelk-4x4-156-bi-turbo/o/1814865",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1814865/ca6c9970554fe5bfa27610aff1221575~v191806720.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791808720.3432832,
+"laatst": 1791808720.3432832,
+"keer": 0,
+"fout": ""
+},
+"1814861": {
+"melding": {
+"titel": "Audi (2026)",
+"bericht": "",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi/o/1814861",
+"foto": "https://www.schadeautos.nl/cache/picture/8/1814861/2295530aca780a9ceaf2a3fcbb572258~v191806692.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791808720.5604236,
+"laatst": 1791808720.5604236,
 "keer": 0,
 "fout": ""
 }
