@@ -1078,27 +1078,35 @@
 "1814711",
 "1814719",
 "1814709",
-"1811210"
+"1811210",
+"1814746",
+"1814741",
+"1814742",
+"1794314",
+"1814728",
+"1814739",
+"1814735",
+"1814704"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814737,
+"hoogste_id": 1814746,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814055",
+"1814746",
+"1814741",
+"1814742",
+"1794314",
+"1814728",
+"1814739",
+"1814735",
 "1814737",
 "1660677",
 "1814730",
-"1814713",
-"1814711",
-"1814719",
-"1809727",
-"1813980",
-"1813522",
-"1814709",
-"1810370",
-"1811210"
+"1814713"
 ]
 },
 "wachtrij": {
@@ -1113,8 +1121,8 @@
 "WhatsApp"
 ],
 "sinds": 1791784633.9160647,
-"laatst": 1791791844.859275,
-"keer": 1,
+"laatst": 1791792983.7957401,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814692": {
@@ -1249,6 +1257,66 @@
 ],
 "sinds": 1791791846.4582195,
 "laatst": 1791791846.4582195,
+"keer": 0,
+"fout": ""
+},
+"1814746": {
+"melding": {
+"titel": "Volkswagen Golf (2022)",
+"bericht": "8 TSI 110 PK NAVI CLIMA PDC CRUISE B.J 09-2022\n€ 11.450 · 48.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-pdc-cruise-b-j-09-2022/o/1814746",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814746/8c28364cc205d01df25255810cc2f4b7~v191792750.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791792984.844092,
+"laatst": 1791792984.844092,
+"keer": 0,
+"fout": ""
+},
+"1814741": {
+"melding": {
+"titel": "Audi A5 (2022)",
+"bericht": "Sportback 35 TFSI S-Line NAP Nederlandse Auto\n€ 13.500 · 100.563 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a5-sportback-35-tfsi-s-line-nap-nederlandse-auto/o/1814741",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1814741/49cb543dfcbe8701b1a310cd1b770447~v191792826.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791792985.0435727,
+"laatst": 1791792985.0435727,
+"keer": 0,
+"fout": ""
+},
+"1814728": {
+"melding": {
+"titel": "Hyundai Tucson (2022)",
+"bericht": "1.6 T-GDI PHEV Plug In Hybrid N-Line 4Wd\n€ 14.750 · 200.442 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-phev-plug-in-hybrid-n-line-4wd/o/1814728",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1814728/404191a4a030889634753cef8a532e45~v191791947.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791792985.2244582,
+"laatst": 1791792985.2244582,
+"keer": 0,
+"fout": ""
+},
+"1814739": {
+"melding": {
+"titel": "Peugeot 208 (2023)",
+"bericht": "€ 5.300 · 18.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1814739",
+"foto": "https://www.schadeautos.nl/cache/picture/1026/1814739/c5e66a5b620ce7af2da0347e8ec8c23a~v191792018.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791792985.4882786,
+"laatst": 1791792985.4882786,
 "keer": 0,
 "fout": ""
 }
