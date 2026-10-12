@@ -1168,45 +1168,37 @@
 "1814802",
 "1814803",
 "1814797",
-"1814799"
+"1814799",
+"1814830",
+"1814829",
+"1805424",
+"1791196",
+"1814816",
+"1749471",
+"1800360"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814819,
+"hoogste_id": 1814830,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814830",
+"1814829",
+"1805424",
+"1791196",
+"1814816",
+"1749471",
+"1800360",
 "1814815",
 "1814819",
 "1814818",
 "1814817",
-"1812420",
-"1814801",
-"1787753",
-"1663927",
-"1789460",
-"1789451",
-"1762837",
-"1789449"
+"1812420"
 ]
 },
 "wachtrij": {
-"1712349": {
-"melding": {
-"titel": "Opnieuw geplaatst: Zeekr X (2024)",
-"bericht": "Long Range rwd 200 KW Automaat ( 4924 Km )\n€ 9.750 · 4.924 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/zeekr-x-long-range-rwd-200-kw-automaat-4924-km/o/1712349",
-"foto": "https://www.schadeautos.nl/cache/picture/38/1712349/6b6b374788f320fb9fcc23cce1630803~v160772981.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791790586.353894,
-"laatst": 1791800713.908302,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1814730": {
 "melding": {
 "titel": "Mercedes C-klasse (2022)",
@@ -1218,9 +1210,9 @@
 "WhatsApp"
 ],
 "sinds": 1791791846.4302862,
-"laatst": 1791791846.4302862,
-"keer": 0,
-"fout": ""
+"laatst": 1791801910.2173734,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814709": {
 "melding": {
@@ -1729,6 +1721,51 @@
 ],
 "sinds": 1791800719.2152178,
 "laatst": 1791800719.2152178,
+"keer": 0,
+"fout": ""
+},
+"1805424": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Octavia (2024)",
+"bericht": "Combi 2.0 TDI DSG Sportline Canton HUD ACC Navi Clima SHZ LrHZ Virtual Apple/Android Camera\n€ 17.950 · 60.444 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-combi-2-0-tdi-dsg-sportline-canton-hud-acc-navi-clima-shz-lrhz-virtual-apple-android-camera/o/1805424",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1805424/52cc15ac49b2b121d210cce711e411e1~v191801230.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791801911.8176699,
+"laatst": 1791801911.8176699,
+"keer": 0,
+"fout": ""
+},
+"1749471": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Mokka (2025)",
+"bericht": "1.2 TSI SPORT TWO-TOWN NAVI 102PK\n€ 13.950 · 15.906 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-mokka-1-2-tsi-sport-two-town-navi-102pk/o/1749471",
+"foto": "https://www.schadeautos.nl/cache/picture/104/1749471/ff32d00b24ab43afb76ad763a09afc2d~v180565593.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791801911.8448257,
+"laatst": 1791801911.8448257,
+"keer": 0,
+"fout": ""
+},
+"1800360": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mazda 3 (2023)",
+"bericht": "2.0 e-SKYACTIV-G M HYBRID 150PK\n€ 14.500 · 67.461 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-3-2-0-e-skyactiv-g-m-hybrid-150pk/o/1800360",
+"foto": "https://www.schadeautos.nl/cache/picture/104/1800360/660ff9856d2e5ef13de2fae736493d69~v187658961.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791801911.8731804,
+"laatst": 1791801911.8731804,
 "keer": 0,
 "fout": ""
 }
