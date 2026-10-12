@@ -1339,60 +1339,49 @@
 "1814166",
 "1814888",
 "1814956",
-"1814953"
+"1814953",
+"1814567",
+"1814989",
+"1814987",
+"1814988",
+"1814957",
+"1814990",
+"1814984",
+"1814978",
+"1814972",
+"1814980",
+"1814974",
+"1814979",
+"1814971",
+"1814969",
+"1814973",
+"1779016",
+"1814963",
+"1814970",
+"1813464"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814968,
+"hoogste_id": 1814990,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814967",
-"1775543",
-"1788531",
-"1796257",
-"1814723",
-"1814747",
-"1814740",
-"1814968",
-"1814751",
-"1814765",
-"1814961",
-"1814966"
+"1814567",
+"1814989",
+"1814987",
+"1814988",
+"1814957",
+"1814990",
+"1814984",
+"1814978",
+"1814972",
+"1814980",
+"1814974",
+"1814979"
 ]
 },
 "wachtrij": {
-"1813025": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A1 (2024)",
-"bericht": "25 TFSI Automaat PDC\n€ 14.950 · 29.415 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-25-tfsi-automaat-pdc/o/1813025",
-"foto": "https://www.schadeautos.nl/cache/picture/877/1813025/7c279ac2e1e1a72027f3c5df625a44fa~v191277749.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791804225.6588697,
-"laatst": 1791814228.2506828,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814835": {
-"melding": {
-"titel": "BMW X3 (2022)",
-"bericht": "xDrive 30e M Sport\n€ 14.900 · 151.892 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x3-xdrive-30e-m-sport/o/1814835",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791804225.6879299,
-"laatst": 1791804225.6879299,
-"keer": 0,
-"fout": ""
-},
 "1814231": {
 "melding": {
 "titel": "Skoda Kodiaq (2026)",
@@ -1404,9 +1393,9 @@
 "WhatsApp"
 ],
 "sinds": 1791805443.7613153,
-"laatst": 1791805443.7613153,
-"keer": 0,
-"fout": ""
+"laatst": 1791815754.9168322,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1796933": {
 "melding": {
@@ -2065,6 +2054,111 @@
 ],
 "sinds": 1791814233.9529543,
 "laatst": 1791814233.9529543,
+"keer": 0,
+"fout": ""
+},
+"1814567": {
+"melding": {
+"titel": "Skoda Superb (2023)",
+"bericht": "1.4TSI 115kW iV Automaat Sportline Business\n€ 16.350 · 192.965 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-1-4tsi-115kw-iv-automaat-sportline-business/o/1814567",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1814567/bf294352879f3c1ed7b5a276238f8084~v191615386.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791815756.292816,
+"laatst": 1791815756.292816,
+"keer": 0,
+"fout": ""
+},
+"1814989": {
+"melding": {
+"titel": "Renault Arkana (2024)",
+"bericht": "E-TECH\n€ 11.250 · 101.259 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-arkana-e-tech/o/1814989",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1814989/c798d24bedffbfc490ffed6293682a61~v191815384.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791815756.453184,
+"laatst": 1791815756.453184,
+"keer": 0,
+"fout": ""
+},
+"1814987": {
+"melding": {
+"titel": "Dacia Jogger (2024)",
+"bericht": "EXTREEM 110 PK NAVI CLIMA CAMERA 5 P B.J 06-2024\n€ 11.990 · 38.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreem-110-pk-navi-clima-camera-5-p-b-j-06-2024/o/1814987",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814987/2475079bebda105695c0e88c689f05be~v191815306.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791815756.6123536,
+"laatst": 1791815756.6123536,
+"keer": 0,
+"fout": ""
+},
+"1814988": {
+"melding": {
+"titel": "Audi A5 (2023)",
+"bericht": "Sportback 35 TFSI S line\n€ 16.698 · 139.164 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a5-sportback-35-tfsi-s-line/o/1814988",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1814988/27f6b9d20a657ae7a654fbd1e2b57657~v191815307.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791815756.7730856,
+"laatst": 1791815756.7730856,
+"keer": 0,
+"fout": ""
+},
+"1814957": {
+"melding": {
+"titel": "Ford Focus (2023)",
+"bericht": "Wagon 1.0 Hybrid ST Line X Navi Clima\n€ 11.450 · 86.408 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon-1-0-hybrid-st-line-x-navi-clima/o/1814957",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1814957/0ebc84eaa3cd99d9808db24b843a5b6b~v191813616.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791815756.934026,
+"laatst": 1791815756.934026,
+"keer": 0,
+"fout": ""
+},
+"1814974": {
+"melding": {
+"titel": "Dacia Sandero (2024)",
+"bericht": "STEPWAY 110 PK EXTREEM NAVI CLIMA CAMERA LED B.J 2024 FACELIFT\n€ 10.500 · 23.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-stepway-110-pk-extreem-navi-clima-camera-led-b-j-2024-facelift/o/1814974",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814974/aa59862e8ebba4c66cbacd4ff95be0bf~v191814763.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791815757.0945597,
+"laatst": 1791815757.0945597,
+"keer": 0,
+"fout": ""
+},
+"1814973": {
+"melding": {
+"titel": "Opel Mokka (2023)",
+"bericht": "ULTIMATE/AUTOMAAT\n55.568 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-mokka-ultimate-automaat/o/1814973",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1814973/a924561b2c94cf9ddf8ae595f54c73ef~v191814516.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791815760.3105211,
+"laatst": 1791815760.3105211,
 "keer": 0,
 "fout": ""
 }
