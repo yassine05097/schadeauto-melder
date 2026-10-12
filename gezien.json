@@ -1093,45 +1093,42 @@
 "1814749",
 "1814753",
 "1749858",
-"1814752"
+"1814752",
+"1814772",
+"1794021",
+"1814761",
+"1814766",
+"1814767",
+"1814759",
+"1814762",
+"1813132",
+"1779693",
+"1808915",
+"1808727",
+"1784574"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814758,
+"hoogste_id": 1814772,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1812445",
-"1808889",
-"1807288",
-"1807185",
-"1814758",
-"1814749",
-"1814753",
-"1749858",
-"1814752",
-"1814055",
-"1814746",
-"1814741"
+"1814772",
+"1794021",
+"1814761",
+"1814766",
+"1814767",
+"1814759",
+"1814762",
+"1814059",
+"1813132",
+"1779693",
+"1808915",
+"1808727"
 ]
 },
 "wachtrij": {
-"1814690": {
-"melding": {
-"titel": "Audi Q8 (2024)",
-"bericht": "60 TFSIe Quattro S-Line Pano 360CAM Matrix AC\n€ 47.900 · 40.771 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q8-60-tfsie-quattro-s-line-pano-360cam-matrix-ac/o/1814690",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1814690/4d6b5a7d3d7fc142229f5a85ce4d5264~v191783843.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791784633.9160647,
-"laatst": 1791794535.0769956,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1814692": {
 "melding": {
 "titel": "BMW M5 (2025)",
@@ -1143,9 +1140,9 @@
 "WhatsApp"
 ],
 "sinds": 1791785903.9365747,
-"laatst": 1791785903.9365747,
-"keer": 0,
-"fout": ""
+"laatst": 1791795722.6786056,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814693": {
 "melding": {
@@ -1354,6 +1351,66 @@
 ],
 "sinds": 1791794536.351256,
 "laatst": 1791794536.351256,
+"keer": 0,
+"fout": ""
+},
+"1814761": {
+"melding": {
+"titel": "Ford Kuga (2022)",
+"bericht": "2.5 PHEV Vignale ST-Line\n€ 10.600 · 156.110 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-2-5-phev-vignale-st-line/o/1814761",
+"foto": "https://www.schadeautos.nl/cache/picture/375/1814761/d1a2f9f3e76604a819618c050c82edc7~v191794293.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791795729.0636168,
+"laatst": 1791795729.0636168,
+"keer": 0,
+"fout": ""
+},
+"1814766": {
+"melding": {
+"titel": "Renault Arkana (2022)",
+"bericht": "RS LINE\n€ 6.900 · 119.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-arkana-rs-line/o/1814766",
+"foto": "https://www.schadeautos.nl/cache/picture/1026/1814766/3c5bd18d0205c47fabefec35bd0636bd~v191795111.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791795729.1405156,
+"laatst": 1791795729.1405156,
+"keer": 0,
+"fout": ""
+},
+"1814762": {
+"melding": {
+"titel": "Kia Picanto (2023)",
+"bericht": "1.0 DPI Comfortline -AIRCO-67 PK\n€ 6.950 · 96.493 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline-airco-67-pk/o/1814762",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1814762/c3eccfbf9ff3e770023f26675d0d1732~v191794605.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791795729.2212474,
+"laatst": 1791795729.2212474,
+"keer": 0,
+"fout": ""
+},
+"1779693": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Niro (2024)",
+"bericht": "1.6GDI 77kW Hybrid Automaat DynamicLine\n€ 19.250 · 74.085 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-1-6gdi-77kw-hybrid-automaat-dynamicline/o/1779693",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1779693/1abef9cb4e1843b140e3b46a77bdf9ae~v181010129.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791795729.2976286,
+"laatst": 1791795729.2976286,
 "keer": 0,
 "fout": ""
 }
