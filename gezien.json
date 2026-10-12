@@ -1453,68 +1453,7 @@
 "1815075"
 ]
 },
-"wachtrij": {
-"1798539": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi Q5 (2022)",
-"bericht": "50 TFSI e S edition 195KW Autom. Clima Navi Camera Quattro NAP\n€ 22.500 · 66.943 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q5-50-tfsi-e-s-edition-195kw-autom-clima-navi-camera-quattro-nap/o/1798539",
-"foto": "https://www.schadeautos.nl/cache/picture/585/1798539/cc4ab8eb9c4a1caafaedb8adada4fa05~v190837184.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791827074.8880775,
-"laatst": 1791836797.175752,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1802029": {
-"melding": {
-"titel": "Opnieuw geplaatst: Renault Austral (2023)",
-"bericht": "1.2 E-Tech Fyll Hybrid 200 Techno Esprit Alpine Led Clima Navi\n€ 8.950 · 150.067 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral-1-2-e-tech-fyll-hybrid-200-techno-esprit-alpine-led-clima-navi/o/1802029",
-"foto": "https://www.schadeautos.nl/cache/picture/585/1802029/d1c8fc5643d29ae29d6416607d5b742d~v188170833.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791827075.0697668,
-"laatst": 1791827075.0697668,
-"keer": 0,
-"fout": ""
-},
-"1815074": {
-"melding": {
-"titel": "BMW 1-serie (2023)",
-"bericht": "€ 9.800 · 58.827 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie/o/1815074",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1815074/e7f32f9e426db26e262e2a317e613ebf~v191826221.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791827075.2433784,
-"laatst": 1791827075.2433784,
-"keer": 0,
-"fout": ""
-},
-"1815073": {
-"melding": {
-"titel": "BMW 5-serie (2023)",
-"bericht": "E M SPORT\n€ 14.550 · 59.392 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-e-m-sport/o/1815073",
-"foto": "https://www.schadeautos.nl/cache/picture/965/1815073/63ff60631d1039a59c004d90fc7cf2d8~v191826217.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791827078.4317977,
-"laatst": 1791827078.4317977,
-"keer": 0,
-"fout": ""
-}
-},
+"wachtrij": {},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
