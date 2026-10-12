@@ -1045,15 +1045,17 @@
 "1814686",
 "1814689",
 "1814691",
-"1814690"
+"1814690",
+"1814692"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814691,
+"hoogste_id": 1814692,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814692",
 "1814691",
 "1814690",
 "1813824",
@@ -1064,8 +1066,7 @@
 "1814685",
 "1814683",
 "1812871",
-"1811417",
-"1814682"
+"1811417"
 ]
 },
 "wachtrij": {
@@ -1080,8 +1081,8 @@
 "WhatsApp"
 ],
 "sinds": 1791780190.8861532,
-"laatst": 1791784632.7960832,
-"keer": 5,
+"laatst": 1791785900.693366,
+"keer": 6,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814690": {
@@ -1096,6 +1097,21 @@
 ],
 "sinds": 1791784633.9160647,
 "laatst": 1791784633.9160647,
+"keer": 0,
+"fout": ""
+},
+"1814692": {
+"melding": {
+"titel": "BMW M5 (2025)",
+"bericht": "Limo 535KW Carbon Paket MARINA BAY\n€ 63.900 · 43.521 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m5-limo-535kw-carbon-paket-marina-bay/o/1814692",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1814692/bc68134729b7c676fc00f261f768bffa~v191785104.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791785903.9365747,
+"laatst": 1791785903.9365747,
 "keer": 0,
 "fout": ""
 }
