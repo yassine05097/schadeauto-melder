@@ -1382,165 +1382,39 @@
 "1815009",
 "1805773",
 "1778806",
-"1783558"
+"1783558",
+"1815034",
+"1815033",
+"1815031",
+"1815030",
+"1815027",
+"1815018",
+"1815023",
+"1809134",
+"1733240"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815019,
+"hoogste_id": 1815034,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1815034",
+"1815033",
+"1815031",
+"1815030",
+"1815027",
+"1815018",
+"1815023",
+"1809134",
+"1733240",
 "1815019",
 "1815011",
-"1815013",
-"1815014",
-"1814453",
-"1815012",
-"1815009",
-"1808121",
-"1805773",
-"1778806",
-"1783558",
-"1815008"
+"1815013"
 ]
 },
 "wachtrij": {
-"1814894": {
-"melding": {
-"titel": "Volkswagen Golf (2023)",
-"bericht": "8 TSI 110 PK NAVI CLIMA CAMERA LED PDC PRIVACY GLASS B.J 04-2023\n€ 12.950 · 50.800 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-camera-led-pdc-privacy-glass-b-j-04-2023/o/1814894",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1814894/1fbd70ebfd5302bfac36c708765bf754~v191808623.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791808712.9101322,
-"laatst": 1791818361.4999354,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814862": {
-"melding": {
-"titel": "Kia Niro (2023)",
-"bericht": "Kia NIRO 1.6 GDi PHEV DynamicLine\n€ 7.750 · 48.115 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-kia-niro-1-6-gdi-phev-dynamicline/o/1814862",
-"foto": "https://www.schadeautos.nl/cache/picture/10/1814862/6a38c640a3c7654a102ee060a6ca6c57~v191807717.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791808713.1270418,
-"laatst": 1791808713.1270418,
-"keer": 0,
-"fout": ""
-},
-"1814887": {
-"melding": {
-"titel": "Hyundai Inster (2026)",
-"bericht": "exportprijs € 7.600 · 1.046 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-inster/o/1814887",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814887/86b182f80d4bbdc1eef3714ad098705f~v191807895.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791808713.3441308,
-"laatst": 1791808713.3441308,
-"keer": 0,
-"fout": ""
-},
-"1814885": {
-"melding": {
-"titel": "Opel Corsa (2024)",
-"bericht": "GS SPORT 100 PK NAVI CLIMA CAMERA VIRT DASH LED B.J 2024\n€ 9.700 · 8.900 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-sport-100-pk-navi-clima-camera-virt-dash-led-b-j-2024/o/1814885",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1814885/70477c19f873dd1ba5bf1937217550fb~v191807985.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791808713.5596166,
-"laatst": 1791808713.5596166,
-"keer": 0,
-"fout": ""
-},
-"1748358": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW 5-serie (2024)",
-"bericht": "530e M-Sport Pro Leder ACC H/K Camera SHZ\n€ 33.950 · 25.190 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530e-m-sport-pro-leder-acc-h-k-camera-shz/o/1748358",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1748358/63b5752dce9fa3a0be66e382e577f5ec~v191807585.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791808716.818878,
-"laatst": 1791808716.818878,
-"keer": 0,
-"fout": ""
-},
-"1814875": {
-"melding": {
-"titel": "Renault Clio (2024)",
-"bericht": "1.0 TCE 90 Airco Navi\n€ 10.950 · 86.949 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-90-airco-navi/o/1814875",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1814875/e43c4e9a6892cf337f459e429c4e7c57~v191807150.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791808719.9129984,
-"laatst": 1791808719.9129984,
-"keer": 0,
-"fout": ""
-},
-"1814872": {
-"melding": {
-"titel": "Hyundai I-10 (2024)",
-"bericht": "1.0 Comfort Airco\n€ 8.750 · 83.586 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-airco/o/1814872",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1814872/fac31e56eaeb98775b892a4d0b3e286f~v191807024.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791808720.132519,
-"laatst": 1791808720.132519,
-"keer": 0,
-"fout": ""
-},
-"1814865": {
-"melding": {
-"titel": "Ford Ranger (2022)",
-"bericht": "Wildtrak Doppelk. 4x4 156 Bi-Turbo\n€ 12.100 · 132.093 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-wildtrak-doppelk-4x4-156-bi-turbo/o/1814865",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1814865/ca6c9970554fe5bfa27610aff1221575~v191806720.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791808720.3432832,
-"laatst": 1791808720.3432832,
-"keer": 0,
-"fout": ""
-},
-"1814861": {
-"melding": {
-"titel": "Audi (2026)",
-"bericht": "",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi/o/1814861",
-"foto": "https://www.schadeautos.nl/cache/picture/8/1814861/2295530aca780a9ceaf2a3fcbb572258~v191806692.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791808720.5604236,
-"laatst": 1791808720.5604236,
-"keer": 0,
-"fout": ""
-},
 "1814917": {
 "melding": {
 "titel": "Audi A4 (2023)",
@@ -1552,9 +1426,9 @@
 "WhatsApp"
 ],
 "sinds": 1791811073.4111648,
-"laatst": 1791811073.4111648,
-"keer": 0,
-"fout": ""
+"laatst": 1791819676.259235,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814914": {
 "melding": {
@@ -2168,6 +2042,51 @@
 ],
 "sinds": 1791818362.7379704,
 "laatst": 1791818362.7379704,
+"keer": 0,
+"fout": ""
+},
+"1815034": {
+"melding": {
+"titel": "Citroën C3 (2023)",
+"bericht": "exportprijs € 4.300 · 72.210 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1815034",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815034/93500721344e55446a820fe1b06049c4~v191819430.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791819677.3829832,
+"laatst": 1791819677.3829832,
+"keer": 0,
+"fout": ""
+},
+"1815033": {
+"melding": {
+"titel": "Volkswagen T-Cross (2024)",
+"bericht": "exportprijs € 14.600 · 12.437 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross/o/1815033",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815033/a633a6f4f4a5e320f46aa638ecf61cd2~v191819345.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791819677.4238856,
+"laatst": 1791819677.4238856,
+"keer": 0,
+"fout": ""
+},
+"1815030": {
+"melding": {
+"titel": "Renault Kangoo (2024)",
+"bericht": "71.320 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-kangoo/o/1815030",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1815030/e8cf57d235ce2adc76f6afda691635b7~v191819176.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791819677.4671803,
+"laatst": 1791819677.4671803,
 "keer": 0,
 "fout": ""
 }
