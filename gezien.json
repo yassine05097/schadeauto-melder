@@ -1140,60 +1140,41 @@
 "1748588",
 "1749002",
 "1693766",
-"1745878"
+"1745878",
+"1814798",
+"1810246",
+"1814800",
+"1783328",
+"1796582",
+"1814796",
+"1814750",
+"1790795",
+"1814793",
+"1810452",
+"1638249"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814794,
+"hoogste_id": 1814800,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1812329",
-"1807918",
-"1803017",
-"1796338",
-"1814794",
-"1769045",
-"1814790",
-"1814777",
-"1814789",
-"1814784",
-"1772806",
-"1764833"
+"1814798",
+"1810246",
+"1814800",
+"1783328",
+"1796582",
+"1814796",
+"1814750",
+"1790795",
+"1814793",
+"1814164",
+"1810452",
+"1812329"
 ]
 },
 "wachtrij": {
-"1814693": {
-"melding": {
-"titel": "Volvo V-60 (2024)",
-"bericht": "2.0 B3 Automaat Essential Edition\n€ 13.750 · 106.390 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-0-b3-automaat-essential-edition/o/1814693",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791787880.262812,
-"laatst": 1791798349.169764,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1775319": {
-"melding": {
-"titel": "Opnieuw geplaatst: Renault Mégane E-Tech (2025)",
-"bericht": "60kWh 160kW Comfort Range Techno\n€ 13.800 · 22.401 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-e-tech-60kwh-160kw-comfort-range-techno/o/1775319",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1775319/3f86b14b7e4dd0fcd77202a0381cca43~v179873269.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791787880.2888744,
-"laatst": 1791787880.2888744,
-"keer": 0,
-"fout": ""
-},
 "1803283": {
 "melding": {
 "titel": "Opnieuw geplaatst: Audi Q6 (2026)",
@@ -1205,9 +1186,9 @@
 "WhatsApp"
 ],
 "sinds": 1791789132.2922072,
-"laatst": 1791789132.2922072,
-"keer": 0,
-"fout": ""
+"laatst": 1791799418.285439,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814698": {
 "melding": {
@@ -1581,6 +1562,66 @@
 ],
 "sinds": 1791798353.4843185,
 "laatst": 1791798353.4843185,
+"keer": 0,
+"fout": ""
+},
+"1810246": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia EV9 (2024)",
+"bericht": "99.8kWh 150kW AIR\n€ 37.500 · 39.542 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev9-99-8kwh-150kw-air/o/1810246",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1810246/2be6133e9c16e3a61227d39e2266e012~v190584049.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791799419.3158183,
+"laatst": 1791799419.3158183,
+"keer": 0,
+"fout": ""
+},
+"1783328": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi SQ2 (2023)",
+"bericht": "2.0 TFSI Quattro Pano LED ACC Sonos Virtual Apple/Android Camera SHZ\n€ 18.450 · 66.190 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-sq2-2-0-tfsi-quattro-pano-led-acc-sonos-virtual-apple-android-camera-shz/o/1783328",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1783328/e7ea80013a44f0fd6d2fc94929c09132~v191798718.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791799419.4320362,
+"laatst": 1791799419.4320362,
+"keer": 0,
+"fout": ""
+},
+"1790795": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Golf (2023)",
+"bericht": "1.5TSI 96kW Life Business\n€ 16.950 · 164.294 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5tsi-96kw-life-business/o/1790795",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1790795/67ddbfbc4c7b20366a3baa16d40a37b1~v184200193.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791799419.5545094,
+"laatst": 1791799419.5545094,
+"keer": 0,
+"fout": ""
+},
+"1638249": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Tiguan (2023)",
+"bericht": "1.5 TSI DSG Navi Clima\n€ 19.950 · 28.430 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-tsi-dsg-navi-clima/o/1638249",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1638249/2cff39fff29ded2be7958d682061ae4d~v138771778.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791799422.2779298,
+"laatst": 1791799422.2779298,
 "keer": 0,
 "fout": ""
 }
