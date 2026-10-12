@@ -1416,135 +1416,42 @@
 "1815071",
 "1815070",
 "1815069",
-"1812860"
+"1812860",
+"1798539",
+"1802029",
+"1802547",
+"1814133",
+"1811199",
+"1814131",
+"1815078",
+"1815077",
+"1815076",
+"1815075",
+"1815074",
+"1815073"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815071,
+"hoogste_id": 1815078,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815071",
-"1815070",
-"1815069",
-"1815011",
-"1812860",
-"1814639",
-"1814728",
-"1814939",
-"1814713",
-"1814741",
-"1814638",
-"1814667"
+"1798539",
+"1802029",
+"1802547",
+"1814145",
+"1814133",
+"1811199",
+"1814131",
+"1815078",
+"1815077",
+"1815076",
+"1815075",
+"1815074"
 ]
 },
 "wachtrij": {
-"1814567": {
-"melding": {
-"titel": "Skoda Superb (2023)",
-"bericht": "1.4TSI 115kW iV Automaat Sportline Business\n€ 16.350 · 192.965 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-1-4tsi-115kw-iv-automaat-sportline-business/o/1814567",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1814567/bf294352879f3c1ed7b5a276238f8084~v191615386.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791815756.292816,
-"laatst": 1791825977.9352322,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814989": {
-"melding": {
-"titel": "Renault Arkana (2024)",
-"bericht": "E-TECH\n€ 11.250 · 101.259 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-arkana-e-tech/o/1814989",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1814989/c798d24bedffbfc490ffed6293682a61~v191815384.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791815756.453184,
-"laatst": 1791815756.453184,
-"keer": 0,
-"fout": ""
-},
-"1814987": {
-"melding": {
-"titel": "Dacia Jogger (2024)",
-"bericht": "EXTREEM 110 PK NAVI CLIMA CAMERA 5 P B.J 06-2024\n€ 11.990 · 38.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreem-110-pk-navi-clima-camera-5-p-b-j-06-2024/o/1814987",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1814987/2475079bebda105695c0e88c689f05be~v191815306.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791815756.6123536,
-"laatst": 1791815756.6123536,
-"keer": 0,
-"fout": ""
-},
-"1814988": {
-"melding": {
-"titel": "Audi A5 (2023)",
-"bericht": "Sportback 35 TFSI S line\n€ 16.698 · 139.164 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a5-sportback-35-tfsi-s-line/o/1814988",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1814988/27f6b9d20a657ae7a654fbd1e2b57657~v191815307.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791815756.7730856,
-"laatst": 1791815756.7730856,
-"keer": 0,
-"fout": ""
-},
-"1814957": {
-"melding": {
-"titel": "Ford Focus (2023)",
-"bericht": "Wagon 1.0 Hybrid ST Line X Navi Clima\n€ 11.450 · 86.408 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon-1-0-hybrid-st-line-x-navi-clima/o/1814957",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1814957/0ebc84eaa3cd99d9808db24b843a5b6b~v191813616.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791815756.934026,
-"laatst": 1791815756.934026,
-"keer": 0,
-"fout": ""
-},
-"1814974": {
-"melding": {
-"titel": "Dacia Sandero (2024)",
-"bericht": "STEPWAY 110 PK EXTREEM NAVI CLIMA CAMERA LED B.J 2024 FACELIFT\n€ 10.500 · 23.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-stepway-110-pk-extreem-navi-clima-camera-led-b-j-2024-facelift/o/1814974",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1814974/aa59862e8ebba4c66cbacd4ff95be0bf~v191814763.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791815757.0945597,
-"laatst": 1791815757.0945597,
-"keer": 0,
-"fout": ""
-},
-"1814973": {
-"melding": {
-"titel": "Opel Mokka (2023)",
-"bericht": "ULTIMATE/AUTOMAAT\n55.568 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-mokka-ultimate-automaat/o/1814973",
-"foto": "https://www.schadeautos.nl/cache/picture/926/1814973/a924561b2c94cf9ddf8ae595f54c73ef~v191814516.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791815760.3105211,
-"laatst": 1791815760.3105211,
-"keer": 0,
-"fout": ""
-},
 "1814467": {
 "melding": {
 "titel": "Renault Clio (2023)",
@@ -1556,9 +1463,9 @@
 "WhatsApp"
 ],
 "sinds": 1791817157.3905237,
-"laatst": 1791817157.3905237,
-"keer": 0,
-"fout": ""
+"laatst": 1791827073.634338,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1813819": {
 "melding": {
@@ -1857,6 +1764,66 @@
 ],
 "sinds": 1791825979.5272307,
 "laatst": 1791825979.5272307,
+"keer": 0,
+"fout": ""
+},
+"1798539": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi Q5 (2022)",
+"bericht": "50 TFSI e S edition 195KW Autom. Clima Navi Camera Quattro NAP\n€ 22.500 · 66.943 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q5-50-tfsi-e-s-edition-195kw-autom-clima-navi-camera-quattro-nap/o/1798539",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1798539/cc4ab8eb9c4a1caafaedb8adada4fa05~v190837184.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791827074.8880775,
+"laatst": 1791827074.8880775,
+"keer": 0,
+"fout": ""
+},
+"1802029": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Austral (2023)",
+"bericht": "1.2 E-Tech Fyll Hybrid 200 Techno Esprit Alpine Led Clima Navi\n€ 8.950 · 150.067 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral-1-2-e-tech-fyll-hybrid-200-techno-esprit-alpine-led-clima-navi/o/1802029",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1802029/d1c8fc5643d29ae29d6416607d5b742d~v188170833.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791827075.0697668,
+"laatst": 1791827075.0697668,
+"keer": 0,
+"fout": ""
+},
+"1815074": {
+"melding": {
+"titel": "BMW 1-serie (2023)",
+"bericht": "€ 9.800 · 58.827 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie/o/1815074",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1815074/e7f32f9e426db26e262e2a317e613ebf~v191826221.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791827075.2433784,
+"laatst": 1791827075.2433784,
+"keer": 0,
+"fout": ""
+},
+"1815073": {
+"melding": {
+"titel": "BMW 5-serie (2023)",
+"bericht": "E M SPORT\n€ 14.550 · 59.392 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-e-m-sport/o/1815073",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1815073/63ff60631d1039a59c004d90fc7cf2d8~v191826217.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791827078.4317977,
+"laatst": 1791827078.4317977,
 "keer": 0,
 "fout": ""
 }
