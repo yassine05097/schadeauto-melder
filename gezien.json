@@ -1179,60 +1179,50 @@
 "1814831",
 "1814814",
 "1813025",
-"1814835"
+"1814835",
+"1783724",
+"1814842",
+"1814847",
+"1814845",
+"1806876",
+"1814231",
+"1782845",
+"1777402",
+"1796933",
+"1796926",
+"1805787",
+"1796805",
+"1814840",
+"1797010",
+"1814837",
+"1814838",
+"1814839",
+"1796682",
+"1812115",
+"1796804"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814835,
+"hoogste_id": 1814847,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814814",
-"1813025",
-"1814835",
-"1814831",
-"1814830",
-"1814829",
-"1805424",
-"1791196",
-"1814816",
-"1749471",
-"1800360",
-"1814815"
+"1809936",
+"1783724",
+"1814842",
+"1814847",
+"1814845",
+"1806876",
+"1814231",
+"1782845",
+"1777402",
+"1811830",
+"1808392",
+"1796933"
 ]
 },
 "wachtrij": {
-"1814753": {
-"melding": {
-"titel": "Peugeot 5008 (2026)",
-"bericht": "exportprijs € 20.900 · 4.486 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-5008/o/1814753",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1814753/70d5bd19eecf71e799b07338e9a9dfcc~v191793566.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791794536.2556024,
-"laatst": 1791804224.7698762,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1749858": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia EV3 (2025)",
-"bericht": "58.3 kWh 150kW Plus\n€ 13.950 · 8.980 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev3-58-3-kwh-150kw-plus/o/1749858",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1749858/d70038db9656b847b0aa4fa4d05ac8a2~v172183044.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791794536.351256,
-"laatst": 1791794536.351256,
-"keer": 0,
-"fout": ""
-},
 "1814761": {
 "melding": {
 "titel": "Ford Kuga (2022)",
@@ -1244,9 +1234,9 @@
 "WhatsApp"
 ],
 "sinds": 1791795729.0636168,
-"laatst": 1791795729.0636168,
-"keer": 0,
-"fout": ""
+"laatst": 1791805442.6261606,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814766": {
 "melding": {
@@ -1710,6 +1700,96 @@
 ],
 "sinds": 1791804225.6879299,
 "laatst": 1791804225.6879299,
+"keer": 0,
+"fout": ""
+},
+"1814231": {
+"melding": {
+"titel": "Skoda Kodiaq (2026)",
+"bericht": "1.5TSI PHEV 110kW Sportline Business Memoryseat\n€ 26.950 · 12.968 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-1-5tsi-phev-110kw-sportline-business-memoryseat/o/1814231",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1814231/f11535e9037b2cc57fce9484c3c467af~v191478753.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791805443.7613153,
+"laatst": 1791805443.7613153,
+"keer": 0,
+"fout": ""
+},
+"1796933": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Golf (2022)",
+"bericht": "1.4 eHybrid GTE Pano Schuif/Kantel ACC Navi Clima SHZ Apple/Android Camera PDC\n€ 13.950 · 36.254 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-4-ehybrid-gte-pano-schuif-kantel-acc-navi-clima-shz-apple-android-camera-pdc/o/1796933",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1796933/f8594ecbc4245c946e6f2af696e5cdd7~v191804814.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791805443.8673806,
+"laatst": 1791805443.8673806,
+"keer": 0,
+"fout": ""
+},
+"1796926": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Golf (2026)",
+"bericht": "Variant R 2.0 TSI 335 PK DSG 4Motion R-Line ACC Navi Clima SHZ LrHZ Apple/Android Virtual Camera 360° PDC\n€ 26.950 · 2.939 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-variant-r-2-0-tsi-335-pk-dsg-4motion-r-line-acc-navi-clima-shz-lrhz-apple-android-virtual-camera-360-pdc/o/1796926",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1796926/8d31379415db35a99f779fb7847f3013~v191804752.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791805446.7760856,
+"laatst": 1791805446.7760856,
+"keer": 0,
+"fout": ""
+},
+"1814838": {
+"melding": {
+"titel": "Volkswagen Caddy maxi (2024)",
+"bericht": "Caddy Cargo Maxi 2.0TDI Automatik Navi+\n€ 9.900 · 131.134 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-maxi-caddy-cargo-maxi-2-0tdi-automatik-navi/o/1814838",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1814838/e488c77b9e4bfea71b73945bb97f6f74~v191804314.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791805446.8811035,
+"laatst": 1791805446.8811035,
+"keer": 0,
+"fout": ""
+},
+"1814839": {
+"melding": {
+"titel": "Tesla Model Y (2023)",
+"bericht": "220KW RWD Panorama Leder CAM\n€ 9.900 · 161.837 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-220kw-rwd-panorama-leder-cam/o/1814839",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791805446.9815521,
+"laatst": 1791805446.9815521,
+"keer": 0,
+"fout": ""
+},
+"1796682": {
+"melding": {
+"titel": "Opnieuw geplaatst: Tesla Model Y (2022)",
+"bericht": "RWD 58 kWh Pano LED ACC LRHZ Camera AHK\n€ 14.950 · 92.879 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-rwd-58-kwh-pano-led-acc-lrhz-camera-ahk/o/1796682",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1796682/25b4a12de885415991179b056a675e84~v191803966.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791805449.9408765,
+"laatst": 1791805449.9408765,
 "keer": 0,
 "fout": ""
 }
