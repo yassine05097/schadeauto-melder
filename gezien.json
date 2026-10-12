@@ -1053,27 +1053,35 @@
 "1814693",
 "1809681",
 "1775319",
-"1808636"
+"1808636",
+"1814699",
+"1806858",
+"1803283",
+"1752399",
+"1735073",
+"1812673",
+"1814698",
+"1814696"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814694,
+"hoogste_id": 1814699,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814699",
+"1806858",
+"1803283",
+"1752399",
+"1813719",
+"1811697",
+"1735073",
+"1812673",
+"1814698",
+"1814696",
 "1814694",
-"1801239",
-"1800422",
-"1814693",
-"1809681",
-"1775319",
-"1808636",
-"1814692",
-"1814691",
-"1814690",
-"1813824",
-"1814689"
+"1801239"
 ]
 },
 "wachtrij": {
@@ -1088,8 +1096,8 @@
 "WhatsApp"
 ],
 "sinds": 1791780190.8861532,
-"laatst": 1791787879.3344967,
-"keer": 7,
+"laatst": 1791789131.6635447,
+"keer": 8,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814690": {
@@ -1149,6 +1157,51 @@
 ],
 "sinds": 1791787880.2888744,
 "laatst": 1791787880.2888744,
+"keer": 0,
+"fout": ""
+},
+"1803283": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi Q6 (2026)",
+"bericht": "SUV E-TRON 100KWH S-LINE 7300KM\n€ 31.400 · 7.300 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q6-suv-e-tron-100kwh-s-line-7300km/o/1803283",
+"foto": "https://www.schadeautos.nl/cache/picture/33/1803283/6686b8d15d730a8a6f533b82a164e1d0~v188430695.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791789132.2922072,
+"laatst": 1791789132.2922072,
+"keer": 0,
+"fout": ""
+},
+"1814698": {
+"melding": {
+"titel": "Skoda Kodiaq (2023)",
+"bericht": "1.5 TSI Business Edition ( 7 persoons )\n€ 15.250 · 131.237 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-1-5-tsi-business-edition-7-persoons/o/1814698",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791789132.3182096,
+"laatst": 1791789132.3182096,
+"keer": 0,
+"fout": ""
+},
+"1814696": {
+"melding": {
+"titel": "Skoda Kamiq (2024)",
+"bericht": "1.0 TSI Business Edition\n€ 11.750 · 27.659 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-1-0-tsi-business-edition/o/1814696",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791789132.343645,
+"laatst": 1791789132.343645,
 "keer": 0,
 "fout": ""
 }
