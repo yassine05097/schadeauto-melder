@@ -1373,75 +1373,39 @@
 "1814983",
 "1814991",
 "1814994",
-"1802615"
+"1802615",
+"1815019",
+"1815011",
+"1815013",
+"1815014",
+"1815012",
+"1815009",
+"1805773",
+"1778806",
+"1783558"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815008,
+"hoogste_id": 1815019,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815008",
-"1815007",
-"1814467",
-"1815006",
-"1779034",
-"1815005",
-"1815001",
-"1813819",
-"1814999",
-"1814996",
-"1814975",
-"1814983"
+"1815019",
+"1815011",
+"1815013",
+"1815014",
+"1814453",
+"1815012",
+"1815009",
+"1808121",
+"1805773",
+"1778806",
+"1783558",
+"1815008"
 ]
 },
 "wachtrij": {
-"1814857": {
-"melding": {
-"titel": "Volkswagen Tiguan (2024)",
-"bericht": "1.5 AUTOMAAT 150 PK NAVI CLIMA CAMERA VIR DASHBOARD LED TREKHAAK B.J 2024\n€ 19.500 · 51.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-automaat-150-pk-navi-clima-camera-vir-dashboard-led-trekhaak-b-j-2024/o/1814857",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791806583.235411,
-"laatst": 1791817156.0830889,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814849": {
-"melding": {
-"titel": "Lexus NX (2022)",
-"bericht": "450h+ Plug-In-Hybrid 227-KW Automaat AWD\nexportprijs € 23.900 · 78.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lexus-nx-450h-plug-in-hybrid-227-kw-automaat-awd/o/1814849",
-"foto": "https://www.schadeautos.nl/cache/picture/28/1814849/4f2151fe51b248b7f7845bed5360d0bd~v191805666.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791806583.3416626,
-"laatst": 1791806583.3416626,
-"keer": 0,
-"fout": ""
-},
-"1805797": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Polo (2024)",
-"bericht": "1.0 TSI Life Edition ACC Airco Virtual Apple/Android PDC\n€ 8.450 · 61.967 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-edition-acc-airco-virtual-apple-android-pdc/o/1805797",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1805797/fdb6f1cc648f0f1ecb0271f6e6da9b10~v191805076.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791806583.4432037,
-"laatst": 1791806583.4432037,
-"keer": 0,
-"fout": ""
-},
 "1814894": {
 "melding": {
 "titel": "Volkswagen Golf (2023)",
@@ -1453,9 +1417,9 @@
 "WhatsApp"
 ],
 "sinds": 1791808712.9101322,
-"laatst": 1791808712.9101322,
-"keer": 0,
-"fout": ""
+"laatst": 1791818361.4999354,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814862": {
 "melding": {
@@ -2159,6 +2123,51 @@
 ],
 "sinds": 1791817161.0930946,
 "laatst": 1791817161.0930946,
+"keer": 0,
+"fout": ""
+},
+"1805773": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ferrari 12Cilindri (2025)",
+"bericht": "6.5 V12 Lift Full-Carbon 360­° Pano Pass-Display Daytona Burmester LHRZ Massage Two-tone\n€ 399.950 · 10.525 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ferrari-12cilindri-6-5-v12-lift-full-carbon-360-pano-pass-display-daytona-burmester-lhrz-massage-two-tone/o/1805773",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1805773/14777f8a96b52b945969bd8e3ec27c74~v191817095.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791818362.5254643,
+"laatst": 1791818362.5254643,
+"keer": 0,
+"fout": ""
+},
+"1778806": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche 911 (2024)",
+"bericht": "992 GT3 RS 4.0 Weissach PCCB Lift Bose PDLS+ Camera Cruise\n€ 240.950 · 12.431 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-911-992-gt3-rs-4-0-weissach-pccb-lift-bose-pdls-camera-cruise/o/1778806",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1778806/630af38abadf32174f7bff603dbfe497~v191817052.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791818362.6237202,
+"laatst": 1791818362.6237202,
+"keer": 0,
+"fout": ""
+},
+"1783558": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 1-serie (2022)",
+"bericht": "M-PACK\n€ 13.150 · 80.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-m-pack/o/1783558",
+"foto": "https://www.schadeautos.nl/cache/picture/977/1783558/112625b86331ab805df4cb46587cd0d3~v191817222.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791818362.7379704,
+"laatst": 1791818362.7379704,
 "keer": 0,
 "fout": ""
 }
