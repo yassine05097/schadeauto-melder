@@ -1199,90 +1199,39 @@
 "1814839",
 "1796682",
 "1812115",
-"1796804"
+"1796804",
+"1814857",
+"1654356",
+"1814852",
+"1805778",
+"1796923",
+"1814848",
+"1814849",
+"1759174",
+"1805797"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814847,
+"hoogste_id": 1814857,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814857",
+"1654356",
+"1814852",
+"1809065",
+"1805778",
+"1796923",
+"1814848",
+"1814849",
+"1759174",
+"1805797",
 "1809936",
-"1783724",
-"1814842",
-"1814847",
-"1814845",
-"1806876",
-"1814231",
-"1782845",
-"1777402",
-"1811830",
-"1808392",
-"1796933"
+"1783724"
 ]
 },
 "wachtrij": {
-"1814761": {
-"melding": {
-"titel": "Ford Kuga (2022)",
-"bericht": "2.5 PHEV Vignale ST-Line\n€ 10.600 · 156.110 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-2-5-phev-vignale-st-line/o/1814761",
-"foto": "https://www.schadeautos.nl/cache/picture/375/1814761/d1a2f9f3e76604a819618c050c82edc7~v191794293.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791795729.0636168,
-"laatst": 1791805442.6261606,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1814766": {
-"melding": {
-"titel": "Renault Arkana (2022)",
-"bericht": "RS LINE\n€ 6.900 · 119.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-arkana-rs-line/o/1814766",
-"foto": "https://www.schadeautos.nl/cache/picture/1026/1814766/3c5bd18d0205c47fabefec35bd0636bd~v191795111.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791795729.1405156,
-"laatst": 1791795729.1405156,
-"keer": 0,
-"fout": ""
-},
-"1814762": {
-"melding": {
-"titel": "Kia Picanto (2023)",
-"bericht": "1.0 DPI Comfortline -AIRCO-67 PK\n€ 6.950 · 96.493 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline-airco-67-pk/o/1814762",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1814762/c3eccfbf9ff3e770023f26675d0d1732~v191794605.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791795729.2212474,
-"laatst": 1791795729.2212474,
-"keer": 0,
-"fout": ""
-},
-"1779693": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Niro (2024)",
-"bericht": "1.6GDI 77kW Hybrid Automaat DynamicLine\n€ 19.250 · 74.085 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-1-6gdi-77kw-hybrid-automaat-dynamicline/o/1779693",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1779693/1abef9cb4e1843b140e3b46a77bdf9ae~v181010129.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791795729.2976286,
-"laatst": 1791795729.2976286,
-"keer": 0,
-"fout": ""
-},
 "1814780": {
 "melding": {
 "titel": "Opel Mokka (2024)",
@@ -1294,9 +1243,9 @@
 "WhatsApp"
 ],
 "sinds": 1791797016.3071892,
-"laatst": 1791797016.3071892,
-"keer": 0,
-"fout": ""
+"laatst": 1791806581.792096,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814779": {
 "melding": {
@@ -1790,6 +1739,51 @@
 ],
 "sinds": 1791805449.9408765,
 "laatst": 1791805449.9408765,
+"keer": 0,
+"fout": ""
+},
+"1814857": {
+"melding": {
+"titel": "Volkswagen Tiguan (2024)",
+"bericht": "1.5 AUTOMAAT 150 PK NAVI CLIMA CAMERA VIR DASHBOARD LED TREKHAAK B.J 2024\n€ 19.500 · 51.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-automaat-150-pk-navi-clima-camera-vir-dashboard-led-trekhaak-b-j-2024/o/1814857",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791806583.235411,
+"laatst": 1791806583.235411,
+"keer": 0,
+"fout": ""
+},
+"1814849": {
+"melding": {
+"titel": "Lexus NX (2022)",
+"bericht": "450h+ Plug-In-Hybrid 227-KW Automaat AWD\nexportprijs € 23.900 · 78.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lexus-nx-450h-plug-in-hybrid-227-kw-automaat-awd/o/1814849",
+"foto": "https://www.schadeautos.nl/cache/picture/28/1814849/4f2151fe51b248b7f7845bed5360d0bd~v191805666.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791806583.3416626,
+"laatst": 1791806583.3416626,
+"keer": 0,
+"fout": ""
+},
+"1805797": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Polo (2024)",
+"bericht": "1.0 TSI Life Edition ACC Airco Virtual Apple/Android PDC\n€ 8.450 · 61.967 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-edition-acc-airco-virtual-apple-android-pdc/o/1805797",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1805797/fdb6f1cc648f0f1ecb0271f6e6da9b10~v191805076.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791806583.4432037,
+"laatst": 1791806583.4432037,
 "keer": 0,
 "fout": ""
 }
