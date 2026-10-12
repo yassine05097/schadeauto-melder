@@ -1317,27 +1317,49 @@
 "1814851",
 "1797412",
 "1814922",
-"1798059"
+"1798059",
+"1814967",
+"1775543",
+"1788531",
+"1814723",
+"1814747",
+"1814740",
+"1814968",
+"1814751",
+"1814765",
+"1814961",
+"1814966",
+"1814748",
+"1814738",
+"1814754",
+"1814960",
+"1814924",
+"1814959",
+"1814954",
+"1814166",
+"1814888",
+"1814956",
+"1814953"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1814955,
+"hoogste_id": 1814968,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1778361",
-"1814955",
-"1814939",
-"1814925",
-"1814147",
-"1814948",
-"1811840",
-"1814145",
-"1814938",
-"1814935",
-"1814947",
-"1811424"
+"1814967",
+"1775543",
+"1788531",
+"1796257",
+"1814723",
+"1814747",
+"1814740",
+"1814968",
+"1814751",
+"1814765",
+"1814961",
+"1814966"
 ]
 },
 "wachtrij": {
@@ -1352,8 +1374,8 @@
 "WhatsApp"
 ],
 "sinds": 1791804225.6588697,
-"laatst": 1791813025.084286,
-"keer": 1,
+"laatst": 1791814228.2506828,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1814835": {
@@ -1938,6 +1960,111 @@
 ],
 "sinds": 1791813032.7712266,
 "laatst": 1791813032.7712266,
+"keer": 0,
+"fout": ""
+},
+"1814967": {
+"melding": {
+"titel": "Ford Focus (2025)",
+"bericht": "1.0 EcoBoost Hybrid ST Line\n€ 16.250 · 36.330 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line/o/1814967",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1814967/a9ccfd11a92cc57801c5b81575a35673~v191813955.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791814229.8827126,
+"laatst": 1791814229.8827126,
+"keer": 0,
+"fout": ""
+},
+"1775543": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Focus (2024)",
+"bericht": "1.0 EBH Titanium\n€ 9.950 · 59.395 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ebh-titanium/o/1775543",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1775543/1040f22c78048b4da3100c60a33bffcf~v179892517.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791814229.9736853,
+"laatst": 1791814229.9736853,
+"keer": 0,
+"fout": ""
+},
+"1788531": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2022)",
+"bericht": "1.2 PureTech Allure\n€ 6.250 · 51.399 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-allure/o/1788531",
+"foto": "https://www.schadeautos.nl/cache/picture/942/1788531/47b12a371d8e44565e4fa07db4dcb5b3~v183523965.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791814230.0634246,
+"laatst": 1791814230.0634246,
+"keer": 0,
+"fout": ""
+},
+"1814966": {
+"melding": {
+"titel": "Dacia Sandero (2023)",
+"bericht": "III EXPRESSI\n€ 7.000 · 52.435 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-iii-expressi/o/1814966",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1814966/9a0ca26f117895e0dc061743e346a682~v191813659.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791814230.1499333,
+"laatst": 1791814230.1499333,
+"keer": 0,
+"fout": ""
+},
+"1814754": {
+"melding": {
+"titel": "Hyundai I-10 (2025)",
+"bericht": "1.0 Automaat 19.574 km Navi Camera Airco Comfort\n€ 8.870 · 19.574 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-automaat-19-574-km-navi-camera-airco-comfort/o/1814754",
+"foto": "https://www.schadeautos.nl/cache/picture/66/1814754/a50714d5f021e5f871b98eb0351aac30~v191803754.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791814233.801597,
+"laatst": 1791814233.801597,
+"keer": 0,
+"fout": ""
+},
+"1814960": {
+"melding": {
+"titel": "Skoda Octavia (2024)",
+"bericht": "AUTOMAAT HYBRIDE NAVI CLIMA VIRT DASH CAMERA TREKHAAK LED B.J 12-2024\n€ 14.500 · 11.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-automaat-hybride-navi-clima-virt-dash-camera-trekhaak-led-b-j-12-2024/o/1814960",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1814960/769444b97c67aacc7d72db5b9be1db70~v191813587.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791814233.8768985,
+"laatst": 1791814233.8768985,
+"keer": 0,
+"fout": ""
+},
+"1814959": {
+"melding": {
+"titel": "Hyundai I-30 (2026)",
+"bericht": "N-LINE PANORAMADAK\n€ 4.900 · 1.980 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-n-line-panoramadak/o/1814959",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1814959/d85b26064a0bc62949da6b8685e18291~v191813270.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791814233.9529543,
+"laatst": 1791814233.9529543,
 "keer": 0,
 "fout": ""
 }
