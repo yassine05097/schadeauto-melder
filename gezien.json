@@ -1810,75 +1810,39 @@
 "1815454",
 "1815451",
 "1815462",
-"1801534"
+"1801534",
+"1815463",
+"1815469",
+"1815468",
+"1815467",
+"1815466",
+"1812226",
+"1815465",
+"1815464",
+"1799124"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815462,
+"hoogste_id": 1815469,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1815463",
+"1803772",
+"1815469",
+"1815468",
+"1815467",
+"1815466",
+"1812226",
+"1815465",
+"1815464",
+"1799124",
 "1815462",
-"1801534",
-"1798600",
-"1815461",
-"1815460",
-"1815459",
-"1815458",
-"1815457",
-"1815456",
-"1815455",
-"1815454",
-"1815451"
+"1801534"
 ]
 },
 "wachtrij": {
-"1815388": {
-"melding": {
-"titel": "Volkswagen T-Cross (2023)",
-"bericht": "AUTOMAAT 110 PK NAVI CLIMA CAMERA VIRT DASH B.J 09-2023\n€ 11.950 · 57.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-automaat-110-pk-navi-clima-camera-virt-dash-b-j-09-2023/o/1815388",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1815388/fa5fc1119aea3d50bf7ba00696447c83~v191897346.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791897859.5710897,
-"laatst": 1791907849.8757899,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815383": {
-"melding": {
-"titel": "Volkswagen T-Cross (2024)",
-"bericht": "AUTOMAAT 116 PK NAVI CLIMA CAMERA B.J 12-2024 FACELIFT\n€ 15.950 · 19.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-automaat-116-pk-navi-clima-camera-b-j-12-2024-facelift/o/1815383",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1815383/1cbf8daf24e7966ecdba25413740ded0~v191896669.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791897859.5977225,
-"laatst": 1791897859.5977225,
-"keer": 0,
-"fout": ""
-},
-"1815382": {
-"melding": {
-"titel": "Toyota Corolla Cross (2025)",
-"bericht": "Cross Hybrid FWD\n€ 17.908 · 29.094 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-corolla-cross-cross-hybrid-fwd/o/1815382",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1815382/5131294443c0ca9db854c683aa670608~v191896347.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791897859.6247802,
-"laatst": 1791897859.6247802,
-"keer": 0,
-"fout": ""
-},
 "1815395": {
 "melding": {
 "titel": "Hyundai Tucson (2023)",
@@ -1890,9 +1854,9 @@
 "WhatsApp"
 ],
 "sinds": 1791899353.1253486,
-"laatst": 1791899353.1253486,
-"keer": 0,
-"fout": ""
+"laatst": 1791909157.9942658,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1786892": {
 "melding": {
@@ -2281,6 +2245,66 @@
 ],
 "sinds": 1791907850.8917253,
 "laatst": 1791907850.8917253,
+"keer": 0,
+"fout": ""
+},
+"1815469": {
+"melding": {
+"titel": "Volkswagen Transporter (2023)",
+"bericht": "T6.1 Combi\nexportprijs € 13.900 · 145.626 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-transporter-t6-1-combi/o/1815469",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815469/42743436cd3453a6fed9966d48270d14~v191908895.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791909159.2334516,
+"laatst": 1791909159.2334516,
+"keer": 0,
+"fout": ""
+},
+"1815467": {
+"melding": {
+"titel": "Dacia Sandero (2025)",
+"bericht": "exportprijs € 10.900 · 23.303 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero/o/1815467",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815467/28d0f35d6407ac98215b3193e5df784b~v191908869.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791909159.4637344,
+"laatst": 1791909159.4637344,
+"keer": 0,
+"fout": ""
+},
+"1815466": {
+"melding": {
+"titel": "Volkswagen Crafter (2025)",
+"bericht": "exportprijs € 13.400 · 20.980 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-crafter/o/1815466",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815466/a78e542ce2d452d1cb2f6cd0718d876f~v191908804.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791909159.6882606,
+"laatst": 1791909159.6882606,
+"keer": 0,
+"fout": ""
+},
+"1815465": {
+"melding": {
+"titel": "BMW 1-serie (2023)",
+"bericht": "116\nexportprijs € 9.900 · 21.282 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116/o/1815465",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815465/7c7b8e40ac046b7564025bfb8333555f~v191908322.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791909159.9060044,
+"laatst": 1791909159.9060044,
 "keer": 0,
 "fout": ""
 }
