@@ -1526,90 +1526,54 @@
 "1801092",
 "1815150",
 "1815145",
-"1781773"
+"1781773",
+"1810956",
+"1815197",
+"1774936",
+"1810099",
+"1769285",
+"1780914",
+"1815196",
+"1815195",
+"1815193",
+"1815194",
+"1696203",
+"1815192",
+"1761930",
+"1815189",
+"1766839",
+"1805361",
+"1598610",
+"1804658",
+"1738737",
+"1815179",
+"1815174",
+"1815173",
+"1815134",
+"1815133"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815190,
+"hoogste_id": 1815197,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814553",
-"1814134",
-"1812857",
-"1815190",
-"1815172",
-"1815169",
-"1815171",
-"1814829",
-"1814766",
-"1815187",
-"1815186",
-"1812547"
+"1810956",
+"1815197",
+"1774936",
+"1810099",
+"1769285",
+"1780914",
+"1815196",
+"1815195",
+"1815193",
+"1815194",
+"1696203",
+"1815192"
 ]
 },
 "wachtrij": {
-"1815091": {
-"melding": {
-"titel": "Mercedes C-klasse (2025)",
-"bericht": "C180 Aut. AMG Line Pano Stoelverw Led\n€ 25.350 · 35.855 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c180-aut-amg-line-pano-stoelverw-led/o/1815091",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1815091/f0e90e8f121aa2d4f0f06a1e4c294f52~v191869339.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791869968.758545,
-"laatst": 1791880500.6366506,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815089": {
-"melding": {
-"titel": "Skoda Octavia (2025)",
-"bericht": "1.5 TSI Aut. Bussines Ed.\n€ 13.950 · 41.161 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-5-tsi-aut-bussines-ed/o/1815089",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1815089/7eedc116e5e21f3960bb0a7ec6432202~v191869124.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791869968.8832066,
-"laatst": 1791869968.8832066,
-"keer": 0,
-"fout": ""
-},
-"1815087": {
-"melding": {
-"titel": "Hyundai I-30 (2023)",
-"bericht": "1.5 T-GDI Aut. Nline Stoelverw Navi Led\n€ 12.450 · 154.760 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-1-5-t-gdi-aut-nline-stoelverw-navi-led/o/1815087",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1815087/d5023c1c337ccb7065eeb0aaf9ee6260~v191868899.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791869969.0065725,
-"laatst": 1791869969.0065725,
-"keer": 0,
-"fout": ""
-},
-"1815086": {
-"melding": {
-"titel": "Kia Xceed (2023)",
-"bericht": "1.6 GDi PHEV DynamicLine\n€ 15.950 · 63.180 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-xceed-1-6-gdi-phev-dynamicline/o/1815086",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1815086/c9f9e6a95b122555915e0f13152d5e8c~v191868697.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791869969.1299043,
-"laatst": 1791869969.1299043,
-"keer": 0,
-"fout": ""
-},
 "1790794": {
 "melding": {
 "titel": "Opnieuw geplaatst: Skoda Kamiq (2023)",
@@ -1621,9 +1585,9 @@
 "WhatsApp"
 ],
 "sinds": 1791875389.4704914,
-"laatst": 1791875389.4704914,
-"keer": 0,
-"fout": ""
+"laatst": 1791881719.828892,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815106": {
 "melding": {
@@ -1877,6 +1841,96 @@
 ],
 "sinds": 1791880509.958317,
 "laatst": 1791880509.958317,
+"keer": 0,
+"fout": ""
+},
+"1815197": {
+"melding": {
+"titel": "Nissan Micra (2022)",
+"bericht": "1.0 IG-T N- Design\n€ 2.950 · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-micra-1-0-ig-t-n-design/o/1815197",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1815197/85eceddda119a98d65eaf478f73a41a3~v191881450.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791881721.4597812,
+"laatst": 1791881721.4597812,
+"keer": 0,
+"fout": ""
+},
+"1774936": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes B-klasse (2024)",
+"bericht": "180 100kW Automaat Luxury Line Pano\n€ 16.350 · 29.508 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-b-klasse-180-100kw-automaat-luxury-line-pano/o/1774936",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1774936/e7ff33dad843284c695a015c1bd7c5db~v179781550.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791881721.6334548,
+"laatst": 1791881721.6334548,
+"keer": 0,
+"fout": ""
+},
+"1810099": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Polo (2023)",
+"bericht": "exportprijs € 6.700 · 220.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo/o/1810099",
+"foto": "https://www.schadeautos.nl/cache/picture/173/1810099/4d2d9ea2b2cf4eb48637b4cf4bcaa0b0~v190420356.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791881721.807628,
+"laatst": 1791881721.807628,
+"keer": 0,
+"fout": ""
+},
+"1815193": {
+"melding": {
+"titel": "Volkswagen Caddy (2025)",
+"bericht": "1.5 GEEL KENTEKEN 116 PK CLIMA CAMERA TREKHAAK B.J 05-2025\n€ 16.750 · 28.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-1-5-geel-kenteken-116-pk-clima-camera-trekhaak-b-j-05-2025/o/1815193",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1815193/12e8a8292508bfc1db1d02097ce5334c~v191881112.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791881721.9882915,
+"laatst": 1791881721.9882915,
+"keer": 0,
+"fout": ""
+},
+"1696203": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Stonic (2024)",
+"bericht": "1.0 T-GDi DynamicPlusLine\n€ 12.000 · 47.744 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-stonic-1-0-t-gdi-dynamicplusline/o/1696203",
+"foto": "https://www.schadeautos.nl/cache/picture/270/1696203/f0e70358f71eab607e3454b9c13d3383~v156286782.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791881722.1613402,
+"laatst": 1791881722.1613402,
+"keer": 0,
+"fout": ""
+},
+"1761930": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Captur (2023)",
+"bericht": "1.6 E-Tech Hybrid 145 SL Rive Gauche\n€ 11.350 · 40.047 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-1-6-e-tech-hybrid-145-sl-rive-gauche/o/1761930",
+"foto": "https://www.schadeautos.nl/cache/picture/548/1761930/3e1b7fde963f66c28c46cf55183140ef~v175655359.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791881725.3349338,
+"laatst": 1791881725.3349338,
 "keer": 0,
 "fout": ""
 }
