@@ -1724,135 +1724,49 @@
 "1814482",
 "1815383",
 "1815375",
-"1815382"
+"1815382",
+"1813544",
+"1768359",
+"1815107",
+"1815304",
+"1785432",
+"1815404",
+"1815350",
+"1815393",
+"1815401",
+"1815385",
+"1815395",
+"1786892",
+"1815400",
+"1721499",
+"1769635",
+"1815399",
+"1815394",
+"1767890",
+"1815306"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815388,
+"hoogste_id": 1815404,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1778742",
-"1791556",
-"1810638",
-"1811842",
-"1815388",
-"1814482",
-"1815383",
-"1815375",
-"1815382",
-"1785638",
-"1810230",
-"1815377"
+"1814444",
+"1813544",
+"1768359",
+"1815107",
+"1815304",
+"1785432",
+"1815404",
+"1815350",
+"1815393",
+"1815401",
+"1815385",
+"1815395"
 ]
 },
 "wachtrij": {
-"1815249": {
-"melding": {
-"titel": "BMW iX1 (2024)",
-"bericht": "xDrive30 M Sport Pro HUD/AHK/360/NAVI\n€ 29.900 · 42.782 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-xdrive30-m-sport-pro-hud-ahk-360-navi/o/1815249",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1815249/eac7a1d30dc76ed6a96b93c5501427b4~v191887251.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791887316.1829367,
-"laatst": 1791897858.6301453,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1726564": {
-"melding": {
-"titel": "Opnieuw geplaatst: Opel Corsa (2022)",
-"bericht": "F Elegance Panorama / LED\n€ 4.500 · 40.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-f-elegance-panorama-led/o/1726564",
-"foto": "https://www.schadeautos.nl/cache/picture/669/1726564/3db49b830f8c3c75d5c49f1f3a275287~v191887112.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791887316.3322983,
-"laatst": 1791887316.3322983,
-"keer": 0,
-"fout": ""
-},
-"1726563": {
-"melding": {
-"titel": "Opnieuw geplaatst: Opel Corsa (2022)",
-"bericht": "F GS Line LED / Navigation\n€ 4.500 · 37.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-f-gs-line-led-navigation/o/1726563",
-"foto": "https://www.schadeautos.nl/cache/picture/669/1726563/5680dfe18a2110bd0cb051070bc746a2~v191887109.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791887316.4783268,
-"laatst": 1791887316.4783268,
-"keer": 0,
-"fout": ""
-},
-"1815247": {
-"melding": {
-"titel": "BMW i5 (2026)",
-"bericht": "eDrive40 Touring M Sport Pro PANO/HUD/360/AHK\n€ 45.900 · 19.279 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i5-edrive40-touring-m-sport-pro-pano-hud-360-ahk/o/1815247",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1815247/aca6369305760e81bba71946601c1820~v191887106.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791887316.622626,
-"laatst": 1791887316.622626,
-"keer": 0,
-"fout": ""
-},
-"1815246": {
-"melding": {
-"titel": "Peugeot Expert (2023)",
-"bericht": "exportprijs € 8.600 · 96.101 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-expert/o/1815246",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815246/bc0704271d1b8f73f5c8a447618ec1e5~v191887082.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791887316.780915,
-"laatst": 1791887316.780915,
-"keer": 0,
-"fout": ""
-},
-"1815238": {
-"melding": {
-"titel": "Citroën C3 (2023)",
-"bericht": "exportprijs € 2.650 · 33.419 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1815238",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815238/6b44ab968a3d30f0fddfd4979ffd7f5d~v191886847.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791887316.9310308,
-"laatst": 1791887316.9310308,
-"keer": 0,
-"fout": ""
-},
-"1815229": {
-"melding": {
-"titel": "BMW 1-serie (2026)",
-"bericht": "120 M sport Design Edition AUTOMAAT\n€ 26.950 · 4.080 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-120-m-sport-design-edition-automaat/o/1815229",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1815229/8b36e919a5c9676110fb22ea05693d3d~v191886036.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791887319.8350375,
-"laatst": 1791887319.8350375,
-"keer": 0,
-"fout": ""
-},
 "1774140": {
 "melding": {
 "titel": "Opnieuw geplaatst: BYD Seal U (2025)",
@@ -1864,9 +1778,9 @@
 "WhatsApp"
 ],
 "sinds": 1791888583.636316,
-"laatst": 1791888583.636316,
-"keer": 0,
-"fout": ""
+"laatst": 1791899351.221624,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1727308": {
 "melding": {
@@ -2480,6 +2394,51 @@
 ],
 "sinds": 1791897859.6247802,
 "laatst": 1791897859.6247802,
+"keer": 0,
+"fout": ""
+},
+"1815395": {
+"melding": {
+"titel": "Hyundai Tucson (2023)",
+"bericht": "1.6 T-GDI PHEV N Line Sky 4WD 179Pk *Navi/Clima/Camera/Stoelverwarming\n€ 19.950 · 217.947 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-phev-n-line-sky-4wd-179pk-navi-clima-camera-stoelverwarming/o/1815395",
+"foto": "https://www.schadeautos.nl/cache/picture/711/1815395/b045ea144881228d40fd07cbba442f7e~v191898041.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791899353.1253486,
+"laatst": 1791899353.1253486,
+"keer": 0,
+"fout": ""
+},
+"1786892": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Clio (2025)",
+"bericht": "V EVOLUTION\n€ 10.650 · 37.752 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-v-evolution/o/1786892",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1786892/d108f0e97a6fe9c8dc104a30059d7733~v191898251.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791899356.1745791,
+"laatst": 1791899356.1745791,
+"keer": 0,
+"fout": ""
+},
+"1815306": {
+"melding": {
+"titel": "Skoda Enyaq (2022)",
+"bericht": "80kWh 150kW 80iV\n€ 12.500 · 196.046 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-enyaq-80kwh-150kw-80iv/o/1815306",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1815306/08363337dbfb76355ca2ae45b05fac52~v191892476.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791899356.2145061,
+"laatst": 1791899356.2145061,
 "keer": 0,
 "fout": ""
 }
