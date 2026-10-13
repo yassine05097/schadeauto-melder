@@ -1759,135 +1759,42 @@
 "1815409",
 "1815386",
 "1806196",
-"1806015"
+"1806015",
+"1815424",
+"1815423",
+"1783010",
+"1815420",
+"1778205",
+"1771149",
+"1815422",
+"1815421",
+"1771493",
+"1783861",
+"1815416",
+"1815411"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815409,
+"hoogste_id": 1815424,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815408",
-"1806012",
-"1806020",
-"1806017",
-"1815283",
-"1815286",
-"1815289",
-"1815280",
-"1815273",
-"1815277",
-"1815276",
-"1815387"
+"1815424",
+"1815423",
+"1783010",
+"1815420",
+"1778205",
+"1771149",
+"1815422",
+"1815421",
+"1771493",
+"1783861",
+"1815416",
+"1815411"
 ]
 },
 "wachtrij": {
-"1815288": {
-"melding": {
-"titel": "Skoda Karoq (2024)",
-"bericht": "Sportline 4x4 2.0 TFSI PANO/360/NAVI\n€ 25.900 · 19.889 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-karoq-sportline-4x4-2-0-tfsi-pano-360-navi/o/1815288",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1815288/ab902d3c9605eb5788d47cadc7770137~v191890730.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791890776.3688347,
-"laatst": 1791900503.3155956,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815284": {
-"melding": {
-"titel": "Porsche Cayenne (2024)",
-"bericht": "E-Hybrid CHRONO/PANO/HUD/360/AHK/NAVI\n€ 64.900 · 27.476 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-e-hybrid-chrono-pano-hud-360-ahk-navi/o/1815284",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1815284/d804321524f27261859fd5d2b09f39fe~v191890724.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791890776.577992,
-"laatst": 1791890776.577992,
-"keer": 0,
-"fout": ""
-},
-"1760025": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Polo (2023)",
-"bericht": "1.0 TSI 95pk aut + f1 Life 5drs - 69dkm nap - carplay - front + line assist - airco - cruise contr - virtual cockpit\n€ 9.850 · 69.833 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-95pk-aut-f1-life-5drs-69dkm-nap-carplay-front-line-assist-airco-cruise-contr-virtual-cockpit/o/1760025",
-"foto": "https://www.schadeautos.nl/cache/picture/707/1760025/1f9ad4176a7fda04b5b83aa6ff3c5df5~v175048234.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791890776.789258,
-"laatst": 1791890776.789258,
-"keer": 0,
-"fout": ""
-},
-"1815272": {
-"melding": {
-"titel": "Renault 5 (2026)",
-"bericht": "RENAULT R 5 E-Tech electric Camera VOL Fahrbereit\n€ 19.950 · 16.511 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-5-renault-r-5-e-tech-electric-camera-vol-fahrbereit/o/1815272",
-"foto": "https://www.schadeautos.nl/cache/picture/1024/1815272/e20ec5f33d59dd7090b2f2dde3acb297~v191889909.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791890776.9990544,
-"laatst": 1791890776.9990544,
-"keer": 0,
-"fout": ""
-},
-"1800111": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Scala (2022)",
-"bericht": "1.0 TSI 110pk 6-bak Ambition - nap - 1e eig - navi - virtual - front + line assist - trekh - pdc - all season\n€ 9.900 · 117.503 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-1-0-tsi-110pk-6-bak-ambition-nap-1e-eig-navi-virtual-front-line-assist-trekh-pdc-all-season/o/1800111",
-"foto": "https://www.schadeautos.nl/cache/picture/707/1800111/bed7c365423835f53b11fa6e4f846da7~v187608785.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791890777.2070384,
-"laatst": 1791890777.2070384,
-"keer": 0,
-"fout": ""
-},
-"1815268": {
-"melding": {
-"titel": "Mercedes AMG (2024)",
-"bericht": "€ 61.900 · 33.062 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-amg/o/1815268",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1815268/b6c8f6e0897c18710c5a4a192ed54319~v191889510.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791890780.9347548,
-"laatst": 1791890780.9347548,
-"keer": 0,
-"fout": ""
-},
-"1815267": {
-"melding": {
-"titel": "Mercedes GLC (2025)",
-"bericht": "400e 4Matic Coupe Edition AMG Line PANO/HUD\n€ 34.900 · 18.091 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glc-400e-4matic-coupe-edition-amg-line-pano-hud/o/1815267",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1815267/495b4b9f15f30bf94485f6ae2669ad01~v191889506.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791890781.1417747,
-"laatst": 1791890781.1417747,
-"keer": 0,
-"fout": ""
-},
 "1815301": {
 "melding": {
 "titel": "Skoda Kodiaq (2025)",
@@ -1899,9 +1806,9 @@
 "WhatsApp"
 ],
 "sinds": 1791891950.874963,
-"laatst": 1791891950.874963,
-"keer": 0,
-"fout": ""
+"laatst": 1791901886.294223,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815294": {
 "melding": {
@@ -2395,6 +2302,96 @@
 ],
 "sinds": 1791900507.6985016,
 "laatst": 1791900507.6985016,
+"keer": 0,
+"fout": ""
+},
+"1815423": {
+"melding": {
+"titel": "BMW 3-serie (2022)",
+"bericht": "330i TOURING XDRIVE M-SPORT SCHUIFDAK LEER LED\n€ 6.400 · 77.245 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-330i-touring-xdrive-m-sport-schuifdak-leer-led/o/1815423",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1815423/cb74bc6caeee0396f18eb9b3f969ee4d~v191901869.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791901890.6899889,
+"laatst": 1791901890.6899889,
+"keer": 0,
+"fout": ""
+},
+"1778205": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Superb (2024)",
+"bericht": "Combi 2.0 TDI 200 PK DSG SportLine LED ACC Virtual Camera LRHZ AHK\n€ 16.450 · 60.534 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-combi-2-0-tdi-200-pk-dsg-sportline-led-acc-virtual-camera-lrhz-ahk/o/1778205",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1778205/64ec02bf21e8dfeb64f418201aa83406~v191901532.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791901890.896515,
+"laatst": 1791901890.896515,
+"keer": 0,
+"fout": ""
+},
+"1771149": {
+"melding": {
+"titel": "Opnieuw geplaatst: Lucid Motors Air (2024)",
+"bericht": "Touring 92 kWh LED ACC Leder Memory\n€ 38.950 · 43.536 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lucid-motors-air-touring-92-kwh-led-acc-leder-memory/o/1771149",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1771149/c18d40e5f65fb85a82bedb3ab5a671da~v191901410.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791901891.6158714,
+"laatst": 1791901891.6158714,
+"keer": 0,
+"fout": ""
+},
+"1815422": {
+"melding": {
+"titel": "Ford Transit (2026)",
+"bericht": "Courier Active Automatic Navi 92KW\n€ 8.900 · 15.427 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit-courier-active-automatic-navi-92kw/o/1815422",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791901891.831647,
+"laatst": 1791901891.831647,
+"keer": 0,
+"fout": ""
+},
+"1815421": {
+"melding": {
+"titel": "Lynk & Co 01 (2022)",
+"bericht": "1.5 TD PHEV 192 kW Panorama LED\n€ 8.900 · 1 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-td-phev-192-kw-panorama-led/o/1815421",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1815421/ff8ac3802b2301f644e91205f9deda63~v191901505.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791901892.0469499,
+"laatst": 1791901892.0469499,
+"keer": 0,
+"fout": ""
+},
+"1771493": {
+"melding": {
+"titel": "Opnieuw geplaatst: Land Rover Discovery (2024)",
+"bericht": "5 3.0 D300 Dynamic SE 7p. Pano LED ACC Meridian Memory SHZ AHK\n€ 35.750 · 10.267 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-discovery-5-3-0-d300-dynamic-se-7p-pano-led-acc-meridian-memory-shz-ahk/o/1771493",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1771493/fe705c51dba66a2b53c94635e61c2b0b~v191901190.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791901892.2612698,
+"laatst": 1791901892.2612698,
 "keer": 0,
 "fout": ""
 }
