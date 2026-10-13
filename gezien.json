@@ -1808,15 +1808,19 @@
 "1815456",
 "1815455",
 "1815454",
-"1815451"
+"1815451",
+"1815462",
+"1801534"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815461,
+"hoogste_id": 1815462,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1815462",
+"1801534",
 "1798600",
 "1815461",
 "1815460",
@@ -1826,87 +1830,10 @@
 "1815456",
 "1815455",
 "1815454",
-"1815451",
-"1815453",
-"1815450"
+"1815451"
 ]
 },
 "wachtrij": {
-"1810230": {
-"melding": {
-"titel": "Opnieuw geplaatst: Hyundai ioniq 5 (2023)",
-"bericht": "77.4kWh 168kW Style\n€ 14.500 · 226.324 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-ioniq-5-77-4kwh-168kw-style/o/1810230",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1810230/dc8ad0bcb4cefb26c5f4123133285ff7~v190582973.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791896367.8043919,
-"laatst": 1791906907.5579896,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815377": {
-"melding": {
-"titel": "Kia EV6 (2023)",
-"bericht": "77.4 Kwh Plus 228Pk 3Fase Soh 99% *Navi/Clima/Camera/Leder/Stoelverwarming\n€ 20.250 · 249.348 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev6-77-4-kwh-plus-228pk-3fase-soh-99-navi-clima-camera-leder-stoelverwarming/o/1815377",
-"foto": "https://www.schadeautos.nl/cache/picture/711/1815377/8134737eae283416b9b2e55e879dc48e~v191895479.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791896367.9814942,
-"laatst": 1791896367.9814942,
-"keer": 0,
-"fout": ""
-},
-"1815372": {
-"melding": {
-"titel": "Hyundai I-20 (2025)",
-"bericht": "N Line\n€ 9.200 · 18.545 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-n-line/o/1815372",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1815372/5189567a2cfe155c6aced1644a8165ee~v191895161.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791896368.156067,
-"laatst": 1791896368.156067,
-"keer": 0,
-"fout": ""
-},
-"1806140": {
-"melding": {
-"titel": "Opnieuw geplaatst: Nio (2024)",
-"bericht": "ET5 100kWh 360kW AWD (ex Accu)\n€ 16.400 · 63.300 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nio-et5-100kwh-360kw-awd-ex-accu/o/1806140",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1806140/1e6a10705aac511df64021e0d3aff371~v189383034.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791896368.3326263,
-"laatst": 1791896368.3326263,
-"keer": 0,
-"fout": ""
-},
-"1815362": {
-"melding": {
-"titel": "Land Rover Defender (2024)",
-"bericht": "2.0 P300e 110 S X-Dynamic 360° Luftfed. AHK ACC LrHZ LED Clima\n€ 44.950 · 26.523 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-defender-2-0-p300e-110-s-x-dynamic-360-luftfed-ahk-acc-lrhz-led-clima/o/1815362",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1815362/e497e81ada211a0234a1023581ee99bb~v191894617.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791896371.3048513,
-"laatst": 1791896371.3048513,
-"keer": 0,
-"fout": ""
-},
 "1815388": {
 "melding": {
 "titel": "Volkswagen T-Cross (2023)",
@@ -1918,9 +1845,9 @@
 "WhatsApp"
 ],
 "sinds": 1791897859.5710897,
-"laatst": 1791897859.5710897,
-"keer": 0,
-"fout": ""
+"laatst": 1791907849.8757899,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815383": {
 "melding": {
@@ -2339,6 +2266,21 @@
 ],
 "sinds": 1791906913.228002,
 "laatst": 1791906913.228002,
+"keer": 0,
+"fout": ""
+},
+"1815462": {
+"melding": {
+"titel": "Opel Corsa (2022)",
+"bericht": "1.2 Elegance\n€ 6.250 · 93.685 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-elegance/o/1815462",
+"foto": "https://www.schadeautos.nl/cache/picture/125/1815462/214eee544af28e635ec647cd591d320b~v191907150.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791907850.8917253,
+"laatst": 1791907850.8917253,
 "keer": 0,
 "fout": ""
 }
