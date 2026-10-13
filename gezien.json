@@ -1821,7 +1821,8 @@
 "1815464",
 "1799124",
 "1815470",
-"1815471"
+"1815471",
+"1814891"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -1830,6 +1831,9 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1814891",
+"1801451",
+"1800152",
 "1815471",
 "1815470",
 "1815463",
@@ -1838,103 +1842,10 @@
 "1815468",
 "1815467",
 "1815466",
-"1812226",
-"1815465",
-"1815464",
-"1799124"
+"1812226"
 ]
 },
 "wachtrij": {
-"1815423": {
-"melding": {
-"titel": "BMW 3-serie (2022)",
-"bericht": "330i TOURING XDRIVE M-SPORT SCHUIFDAK LEER LED\n€ 6.400 · 77.245 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-330i-touring-xdrive-m-sport-schuifdak-leer-led/o/1815423",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1815423/cb74bc6caeee0396f18eb9b3f969ee4d~v191901869.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791901890.6899889,
-"laatst": 1791912469.195194,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1778205": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Superb (2024)",
-"bericht": "Combi 2.0 TDI 200 PK DSG SportLine LED ACC Virtual Camera LRHZ AHK\n€ 16.450 · 60.534 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-combi-2-0-tdi-200-pk-dsg-sportline-led-acc-virtual-camera-lrhz-ahk/o/1778205",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1778205/64ec02bf21e8dfeb64f418201aa83406~v191901532.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791901890.896515,
-"laatst": 1791901890.896515,
-"keer": 0,
-"fout": ""
-},
-"1771149": {
-"melding": {
-"titel": "Opnieuw geplaatst: Lucid Motors Air (2024)",
-"bericht": "Touring 92 kWh LED ACC Leder Memory\n€ 38.950 · 43.536 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lucid-motors-air-touring-92-kwh-led-acc-leder-memory/o/1771149",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1771149/c18d40e5f65fb85a82bedb3ab5a671da~v191901410.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791901891.6158714,
-"laatst": 1791901891.6158714,
-"keer": 0,
-"fout": ""
-},
-"1815422": {
-"melding": {
-"titel": "Ford Transit (2026)",
-"bericht": "Courier Active Automatic Navi 92KW\n€ 8.900 · 15.427 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit-courier-active-automatic-navi-92kw/o/1815422",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791901891.831647,
-"laatst": 1791901891.831647,
-"keer": 0,
-"fout": ""
-},
-"1815421": {
-"melding": {
-"titel": "Lynk & Co 01 (2022)",
-"bericht": "1.5 TD PHEV 192 kW Panorama LED\n€ 8.900 · 1 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-td-phev-192-kw-panorama-led/o/1815421",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1815421/ff8ac3802b2301f644e91205f9deda63~v191901505.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791901892.0469499,
-"laatst": 1791901892.0469499,
-"keer": 0,
-"fout": ""
-},
-"1771493": {
-"melding": {
-"titel": "Opnieuw geplaatst: Land Rover Discovery (2024)",
-"bericht": "5 3.0 D300 Dynamic SE 7p. Pano LED ACC Meridian Memory SHZ AHK\n€ 35.750 · 10.267 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-discovery-5-3-0-d300-dynamic-se-7p-pano-led-acc-meridian-memory-shz-ahk/o/1771493",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1771493/fe705c51dba66a2b53c94635e61c2b0b~v191901190.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791901892.2612698,
-"laatst": 1791901892.2612698,
-"keer": 0,
-"fout": ""
-},
 "1803307": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen ID.4 (2024)",
@@ -1946,9 +1857,9 @@
 "WhatsApp"
 ],
 "sinds": 1791903315.2941253,
-"laatst": 1791903315.2941253,
-"keer": 0,
-"fout": ""
+"laatst": 1791913598.2426424,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1784816": {
 "melding": {
@@ -2217,6 +2128,21 @@
 ],
 "sinds": 1791912470.6348338,
 "laatst": 1791912470.6348338,
+"keer": 0,
+"fout": ""
+},
+"1814891": {
+"melding": {
+"titel": "Volvo XC40 (2024)",
+"bericht": "2.0B4 145kW Automaat Core\n€ 22.950 · 150.256 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc40-2-0b4-145kw-automaat-core/o/1814891",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1814891/627d94794e9aae707fa930573dd5ecde~v191808490.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791913599.4992707,
+"laatst": 1791913599.4992707,
 "keer": 0,
 "fout": ""
 }
