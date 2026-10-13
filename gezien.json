@@ -1564,27 +1564,32 @@
 "1786648",
 "1802386",
 "1759226",
-"1806284"
+"1806284",
+"1815211",
+"1815208",
+"1804702",
+"1815199",
+"1771537"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815200,
+"hoogste_id": 1815211,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1815211",
+"1815208",
+"1738737",
+"1804702",
+"1815199",
+"1784666",
+"1811830",
+"1771537",
 "1665594",
 "1810720",
 "1774218",
-"1807301",
-"1810205",
-"1802396",
-"1787577",
-"1786610",
-"1748081",
-"1815200",
-"1814932",
-"1786648"
+"1807301"
 ]
 },
 "wachtrij": {
@@ -1599,8 +1604,8 @@
 "WhatsApp"
 ],
 "sinds": 1791875389.4704914,
-"laatst": 1791882644.4628787,
-"keer": 2,
+"laatst": 1791883966.820565,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815106": {
