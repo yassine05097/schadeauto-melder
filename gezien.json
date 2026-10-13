@@ -1843,7 +1843,9 @@
 "1815481",
 "1815483",
 "1815485",
-"1815486"
+"1815486",
+"1815487",
+"1815480"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -1852,6 +1854,8 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1815487",
+"1815480",
 "1815482",
 "1815497",
 "1815481",
@@ -1861,27 +1865,10 @@
 "1793123",
 "1726624",
 "1726564",
-"1726563",
-"1789486",
-"1813442"
+"1726563"
 ]
 },
 "wachtrij": {
-"1815478": {
-"melding": {
-"titel": "Cupra Terramar (2026)",
-"bericht": "NEW! 2.0 TSI 4Drive 265PK DSG Performance\n€ 31.990 · 4.107 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-terramar-new-2-0-tsi-4drive-265pk-dsg-performance/o/1815478",
-"foto": "https://www.schadeautos.nl/cache/picture/871/1815478/19c9b92d0b6e67163ab379f7c23e474b~v191916902.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791917794.543687,
-"laatst": 1791928131.1679265,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1815489": {
 "melding": {
 "titel": "Ford Transit (2025)",
@@ -1893,9 +1880,9 @@
 "WhatsApp"
 ],
 "sinds": 1791919479.1217577,
-"laatst": 1791919479.1217577,
-"keer": 0,
-"fout": ""
+"laatst": 1791929414.8423014,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815488": {
 "melding": {
@@ -1984,6 +1971,21 @@
 ],
 "sinds": 1791928132.4209378,
 "laatst": 1791928132.4209378,
+"keer": 0,
+"fout": ""
+},
+"1815487": {
+"melding": {
+"titel": "Hyundai I-10 (2026)",
+"bericht": "1.0 Comfort | 15.697 km!!\n€ 12.400 · 15.697 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-15-697-km/o/1815487",
+"foto": "https://www.schadeautos.nl/cache/picture/341/1815487/c73f66e689e3bbe31d38813ef58c3912~v191917662.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791929415.7059371,
+"laatst": 1791929415.7059371,
 "keer": 0,
 "fout": ""
 }
