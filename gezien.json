@@ -1588,60 +1588,47 @@
 "1786580",
 "1799684",
 "1815223",
-"1815206"
+"1815206",
+"1811469",
+"1815249",
+"1815240",
+"1815239",
+"1649365",
+"1726624",
+"1726564",
+"1726563",
+"1815247",
+"1815246",
+"1815238",
+"1815236",
+"1815237",
+"1815229",
+"1725055",
+"1815228",
+"1815230"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815223,
+"hoogste_id": 1815249,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1793123",
-"1785151",
-"1768860",
-"1815219",
-"1786580",
-"1799684",
-"1814160",
-"1807014",
-"1813103",
-"1815223",
-"1810857",
-"1810848"
+"1813734",
+"1811469",
+"1815249",
+"1815240",
+"1815239",
+"1649365",
+"1726624",
+"1726564",
+"1726563",
+"1815247",
+"1815246",
+"1815238"
 ]
 },
 "wachtrij": {
-"1790794": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Kamiq (2023)",
-"bericht": "1.0 AMBITION\n€ 6.500 · 12.630 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-1-0-ambition/o/1790794",
-"foto": "https://www.schadeautos.nl/cache/picture/915/1790794/3e8cceac8b41dfe87b465582ca70d569~v191874815.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791875389.4704914,
-"laatst": 1791886011.5782096,
-"keer": 5,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815106": {
-"melding": {
-"titel": "Renault Scenic (2024)",
-"bericht": "EV60 comfort range evolution 170PK\n€ 14.500 · 49.578 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-ev60-comfort-range-evolution-170pk/o/1815106",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1815106/c0d89c9da6dc22c13ee497eb08ff1359~v191874396.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791875391.956696,
-"laatst": 1791875391.956696,
-"keer": 0,
-"fout": ""
-},
 "1795466": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen Tiguan (2026)",
@@ -1653,9 +1640,9 @@
 "WhatsApp"
 ],
 "sinds": 1791876855.6439776,
-"laatst": 1791876855.6439776,
-"keer": 0,
-"fout": ""
+"laatst": 1791887314.359386,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815121": {
 "melding": {
@@ -2074,6 +2061,111 @@
 ],
 "sinds": 1791885196.4674187,
 "laatst": 1791885196.4674187,
+"keer": 0,
+"fout": ""
+},
+"1815249": {
+"melding": {
+"titel": "BMW iX1 (2024)",
+"bericht": "xDrive30 M Sport Pro HUD/AHK/360/NAVI\n€ 29.900 · 42.782 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-xdrive30-m-sport-pro-hud-ahk-360-navi/o/1815249",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1815249/eac7a1d30dc76ed6a96b93c5501427b4~v191887251.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791887316.1829367,
+"laatst": 1791887316.1829367,
+"keer": 0,
+"fout": ""
+},
+"1726564": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Corsa (2022)",
+"bericht": "F Elegance Panorama / LED\n€ 4.500 · 40.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-f-elegance-panorama-led/o/1726564",
+"foto": "https://www.schadeautos.nl/cache/picture/669/1726564/3db49b830f8c3c75d5c49f1f3a275287~v191887112.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791887316.3322983,
+"laatst": 1791887316.3322983,
+"keer": 0,
+"fout": ""
+},
+"1726563": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Corsa (2022)",
+"bericht": "F GS Line LED / Navigation\n€ 4.500 · 37.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-f-gs-line-led-navigation/o/1726563",
+"foto": "https://www.schadeautos.nl/cache/picture/669/1726563/5680dfe18a2110bd0cb051070bc746a2~v191887109.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791887316.4783268,
+"laatst": 1791887316.4783268,
+"keer": 0,
+"fout": ""
+},
+"1815247": {
+"melding": {
+"titel": "BMW i5 (2026)",
+"bericht": "eDrive40 Touring M Sport Pro PANO/HUD/360/AHK\n€ 45.900 · 19.279 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i5-edrive40-touring-m-sport-pro-pano-hud-360-ahk/o/1815247",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1815247/aca6369305760e81bba71946601c1820~v191887106.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791887316.622626,
+"laatst": 1791887316.622626,
+"keer": 0,
+"fout": ""
+},
+"1815246": {
+"melding": {
+"titel": "Peugeot Expert (2023)",
+"bericht": "exportprijs € 8.600 · 96.101 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-expert/o/1815246",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815246/bc0704271d1b8f73f5c8a447618ec1e5~v191887082.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791887316.780915,
+"laatst": 1791887316.780915,
+"keer": 0,
+"fout": ""
+},
+"1815238": {
+"melding": {
+"titel": "Citroën C3 (2023)",
+"bericht": "exportprijs € 2.650 · 33.419 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1815238",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815238/6b44ab968a3d30f0fddfd4979ffd7f5d~v191886847.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791887316.9310308,
+"laatst": 1791887316.9310308,
+"keer": 0,
+"fout": ""
+},
+"1815229": {
+"melding": {
+"titel": "BMW 1-serie (2026)",
+"bericht": "120 M sport Design Edition AUTOMAAT\n€ 26.950 · 4.080 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-120-m-sport-design-edition-automaat/o/1815229",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1815229/8b36e919a5c9676110fb22ea05693d3d~v191886036.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791887319.8350375,
+"laatst": 1791887319.8350375,
 "keer": 0,
 "fout": ""
 }
