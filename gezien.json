@@ -1446,27 +1446,35 @@
 "1813197",
 "1780001",
 "1806520",
-"1810538"
+"1810538",
+"1641979",
+"1815092",
+"1815091",
+"1815090",
+"1815089",
+"1815088",
+"1815087",
+"1815086"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815082,
+"hoogste_id": 1815092,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1641979",
+"1815092",
+"1815091",
+"1815090",
+"1815089",
+"1815088",
+"1815087",
+"1815086",
 "1811969",
 "1735828",
 "1802458",
-"1786533",
-"1813197",
-"1806500",
-"1803318",
-"1780001",
-"1806520",
-"1810538",
-"1812785",
-"1813305"
+"1786533"
 ]
 },
 "wachtrij": {
@@ -1481,8 +1489,8 @@
 "WhatsApp"
 ],
 "sinds": 1791865058.4863126,
-"laatst": 1791868687.6074395,
-"keer": 4,
+"laatst": 1791869961.6765368,
+"keer": 5,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1726231": {
@@ -1512,6 +1520,66 @@
 ],
 "sinds": 1791866459.8869805,
 "laatst": 1791866459.8869805,
+"keer": 0,
+"fout": ""
+},
+"1815091": {
+"melding": {
+"titel": "Mercedes C-klasse (2025)",
+"bericht": "C180 Aut. AMG Line Pano Stoelverw Led\n€ 25.350 · 35.855 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c180-aut-amg-line-pano-stoelverw-led/o/1815091",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1815091/f0e90e8f121aa2d4f0f06a1e4c294f52~v191869339.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791869968.758545,
+"laatst": 1791869968.758545,
+"keer": 0,
+"fout": ""
+},
+"1815089": {
+"melding": {
+"titel": "Skoda Octavia (2025)",
+"bericht": "1.5 TSI Aut. Bussines Ed.\n€ 13.950 · 41.161 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-5-tsi-aut-bussines-ed/o/1815089",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1815089/7eedc116e5e21f3960bb0a7ec6432202~v191869124.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791869968.8832066,
+"laatst": 1791869968.8832066,
+"keer": 0,
+"fout": ""
+},
+"1815087": {
+"melding": {
+"titel": "Hyundai I-30 (2023)",
+"bericht": "1.5 T-GDI Aut. Nline Stoelverw Navi Led\n€ 12.450 · 154.760 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-1-5-t-gdi-aut-nline-stoelverw-navi-led/o/1815087",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1815087/d5023c1c337ccb7065eeb0aaf9ee6260~v191868899.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791869969.0065725,
+"laatst": 1791869969.0065725,
+"keer": 0,
+"fout": ""
+},
+"1815086": {
+"melding": {
+"titel": "Kia Xceed (2023)",
+"bericht": "1.6 GDi PHEV DynamicLine\n€ 15.950 · 63.180 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-xceed-1-6-gdi-phev-dynamicline/o/1815086",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1815086/c9f9e6a95b122555915e0f13152d5e8c~v191868697.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791869969.1299043,
+"laatst": 1791869969.1299043,
 "keer": 0,
 "fout": ""
 }
