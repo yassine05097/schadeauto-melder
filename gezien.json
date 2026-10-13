@@ -1430,7 +1430,18 @@
 "1815074",
 "1815073",
 "1786010",
-"1815082"
+"1815082",
+"1812785",
+"1813305",
+"1812941",
+"1803390",
+"1812203",
+"1783818",
+"1770543",
+"1726231",
+"1747200",
+"1801098",
+"1798186"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -1439,21 +1450,52 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815082",
-"1786010",
-"1798539",
-"1802029",
-"1802547",
-"1814133",
-"1811199",
-"1814131",
-"1815078",
-"1815077",
-"1815076",
-"1815075"
+"1812785",
+"1813305",
+"1812941",
+"1803390",
+"1812203",
+"1783818",
+"1770543",
+"1726231",
+"1747200",
+"1801098",
+"1798186",
+"1815082"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1812785": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 5-serie (2023)",
+"bericht": "530e AUTOMAAT Business Edition Plus\n€ 25.700 · 116.991 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530e-automaat-business-edition-plus/o/1812785",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1812785/db68346121bf5a4ac6e71bb6204fd193~v191208344.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791865058.4863126,
+"laatst": 1791865058.4863126,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1726231": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 1-serie (2023)",
+"bericht": "116i AUTOMAAT Introduction Edition BJ 2023 78510\n€ 14.950 · 78.510 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116i-automaat-introduction-edition-bj-2023-78510/o/1726231",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1726231/e2bdd908bb04afa5b9a33d858150dc36~v164841023.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791865058.703995,
+"laatst": 1791865058.703995,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
