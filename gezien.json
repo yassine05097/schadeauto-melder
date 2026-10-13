@@ -1569,27 +1569,38 @@
 "1815208",
 "1804702",
 "1815199",
-"1771537"
+"1771537",
+"1815222",
+"1797336",
+"1794039",
+"1815218",
+"1815212",
+"1815215",
+"1764561",
+"1815216",
+"1815207",
+"1815213",
+"1815214"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815211,
+"hoogste_id": 1815222,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815211",
-"1815208",
-"1738737",
-"1804702",
-"1815199",
-"1784666",
-"1811830",
-"1771537",
-"1665594",
-"1810720",
-"1774218",
-"1807301"
+"1810857",
+"1810848",
+"1813711",
+"1815222",
+"1792586",
+"1797336",
+"1794039",
+"1815218",
+"1815212",
+"1815215",
+"1764561",
+"1815216"
 ]
 },
 "wachtrij": {
@@ -1604,8 +1615,8 @@
 "WhatsApp"
 ],
 "sinds": 1791875389.4704914,
-"laatst": 1791883966.820565,
-"keer": 3,
+"laatst": 1791885192.6937342,
+"keer": 4,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815106": {
@@ -1995,6 +2006,66 @@
 ],
 "sinds": 1791882655.4134004,
 "laatst": 1791882655.4134004,
+"keer": 0,
+"fout": ""
+},
+"1815212": {
+"melding": {
+"titel": "Volkswagen T-Cross (2025)",
+"bericht": "1.0 DSG Life\n€ 16.500 · 8.414 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-1-0-dsg-life/o/1815212",
+"foto": "https://www.schadeautos.nl/cache/picture/698/1815212/225addd924b3d29984d612a989c6268d~v191883920.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791885193.4386237,
+"laatst": 1791885193.4386237,
+"keer": 0,
+"fout": ""
+},
+"1815215": {
+"melding": {
+"titel": "Lynk & Co 01 (2022)",
+"bericht": "1.5\n€ 8.900 · 37.118 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5/o/1815215",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1815215/67d0f7436713af4f4c560ef68aaef33b~v191884191.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791885193.5141823,
+"laatst": 1791885193.5141823,
+"keer": 0,
+"fout": ""
+},
+"1815216": {
+"melding": {
+"titel": "Dacia Duster (2024)",
+"bericht": "AUTOMAAT 1.6 HYBRIDE NAVI CLIMA CAMERA PDC LED B.J 12-2024\n€ 14.900 · 13.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-duster-automaat-1-6-hybride-navi-clima-camera-pdc-led-b-j-12-2024/o/1815216",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1815216/24e154dd3ffa394b6f2df3cecc5325b5~v191884383.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791885193.5908499,
+"laatst": 1791885193.5908499,
+"keer": 0,
+"fout": ""
+},
+"1815207": {
+"melding": {
+"titel": "Dacia Spring (2025)",
+"bericht": "48Kw Extreme Electric\n€ 9.650 · 10.790 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-spring-48kw-extreme-electric/o/1815207",
+"foto": "https://www.schadeautos.nl/cache/picture/375/1815207/bfc457cd100cdef3f4efe8b5847f3c99~v191884063.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791885196.4674187,
+"laatst": 1791885196.4674187,
 "keer": 0,
 "fout": ""
 }
