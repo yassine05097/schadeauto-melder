@@ -1771,105 +1771,42 @@
 "1771493",
 "1783861",
 "1815416",
-"1815411"
+"1815411",
+"1815428",
+"1815437",
+"1803307",
+"1783381",
+"1815430",
+"1789111",
+"1772756",
+"1807242",
+"1784816",
+"1784360",
+"1814883",
+"1814317"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815424,
+"hoogste_id": 1815437,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815424",
-"1815423",
-"1783010",
-"1815420",
-"1778205",
-"1771149",
-"1815422",
-"1815421",
-"1771493",
-"1783861",
-"1815416",
-"1815411"
+"1815428",
+"1815437",
+"1803307",
+"1783381",
+"1815430",
+"1789111",
+"1772756",
+"1807242",
+"1784816",
+"1784360",
+"1814883",
+"1814317"
 ]
 },
 "wachtrij": {
-"1815301": {
-"melding": {
-"titel": "Skoda Kodiaq (2025)",
-"bericht": "iV 1.5 TSI e-Hybrid Selection AHK/KAM\n€ 26.900 · 11.334 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-iv-1-5-tsi-e-hybrid-selection-ahk-kam/o/1815301",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1815301/02a35aef7a9e972bb0b51e2a9dc8afba~v191891912.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791891950.874963,
-"laatst": 1791901886.294223,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815294": {
-"melding": {
-"titel": "Xpeng G9 (2024)",
-"bericht": "AWD Performance 98kWh 551pk aut\n€ 32.500 · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/xpeng-g9-awd-performance-98kwh-551pk-aut/o/1815294",
-"foto": "https://www.schadeautos.nl/cache/picture/707/1815294/89490ed8f4f1ab9bf049888d2b7f81b4~v191891678.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791891950.913555,
-"laatst": 1791891950.913555,
-"keer": 0,
-"fout": ""
-},
-"1815290": {
-"melding": {
-"titel": "Ford Puma (2026)",
-"bericht": "BlueCruise Edition 47 kWh\n€ 11.950 · 10.697 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-bluecruise-edition-47-kwh/o/1815290",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1815290/8f59851dbf85e1cc76cd5cb9cdfe3f8e~v191891502.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791891950.952772,
-"laatst": 1791891950.952772,
-"keer": 0,
-"fout": ""
-},
-"1795395": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Elroq (2026)",
-"bericht": "85kWh 210kW Business Edition\n€ 22.800 · 991 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-elroq-85kwh-210kw-business-edition/o/1795395",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1795395/829c31cb1f36b1bf5a4934f5145647f7~v186037803.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791891950.9915118,
-"laatst": 1791891950.9915118,
-"keer": 0,
-"fout": ""
-},
-"1796587": {
-"melding": {
-"titel": "Opnieuw geplaatst: Lynk & Co 01 (2023)",
-"bericht": "1.5 eHybrid PHEV Cruise Navi Clima Memory SHZ Camera PDC\n€ 9.950 · 54.284 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-ehybrid-phev-cruise-navi-clima-memory-shz-camera-pdc/o/1796587",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1796587/d5e18e1c53ba5eeb68ea760e8ff41a92~v191890629.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791891953.5135,
-"laatst": 1791891953.5135,
-"keer": 0,
-"fout": ""
-},
 "1807110": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen Transporter (2022)",
@@ -1881,9 +1818,9 @@
 "WhatsApp"
 ],
 "sinds": 1791892992.341596,
-"laatst": 1791892992.341596,
-"keer": 0,
-"fout": ""
+"laatst": 1791903314.1010377,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815295": {
 "melding": {
@@ -2392,6 +2329,51 @@
 ],
 "sinds": 1791901892.2612698,
 "laatst": 1791901892.2612698,
+"keer": 0,
+"fout": ""
+},
+"1803307": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen ID.4 (2024)",
+"bericht": "77kWh 210kW Pro Orange Edition\n€ 16.750 · 53.319 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-4-77kwh-210kw-pro-orange-edition/o/1803307",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1803307/392631f86cfe2eebace3020aa0d30768~v188438826.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791903315.2941253,
+"laatst": 1791903315.2941253,
+"keer": 0,
+"fout": ""
+},
+"1784816": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW i5 (2025)",
+"bericht": "M60 xDrive 84 kWh LED ACC HUD H/K Memory 360° AHK\n€ 44.950 · 26.292 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i5-m60-xdrive-84-kwh-led-acc-hud-h-k-memory-360-ahk/o/1784816",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1784816/9aa407e8c073a7d9a3f071d687bc3954~v191902069.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791903315.4678283,
+"laatst": 1791903315.4678283,
+"keer": 0,
+"fout": ""
+},
+"1784360": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes EQS (2023)",
+"bericht": "450+ AMG Line 108 kWh Pano LED ACC Burmester Memory Camera AHK\n€ 31.450 · 17.563 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqs-450-amg-line-108-kwh-pano-led-acc-burmester-memory-camera-ahk/o/1784360",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1784360/bb7df0c2d34badb67dc9b60174929388~v191901943.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791903315.6413991,
+"laatst": 1791903315.6413991,
 "keer": 0,
 "fout": ""
 }
