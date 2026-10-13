@@ -1822,15 +1822,17 @@
 "1799124",
 "1815470",
 "1815471",
-"1814891"
+"1814891",
+"1815473"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815471,
+"hoogste_id": 1815473,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1815473",
 "1814891",
 "1801451",
 "1800152",
@@ -1841,56 +1843,10 @@
 "1815469",
 "1815468",
 "1815467",
-"1815466",
-"1812226"
+"1815466"
 ]
 },
 "wachtrij": {
-"1803307": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen ID.4 (2024)",
-"bericht": "77kWh 210kW Pro Orange Edition\n€ 16.750 · 53.319 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-4-77kwh-210kw-pro-orange-edition/o/1803307",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1803307/392631f86cfe2eebace3020aa0d30768~v188438826.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791903315.2941253,
-"laatst": 1791913598.2426424,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1784816": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW i5 (2025)",
-"bericht": "M60 xDrive 84 kWh LED ACC HUD H/K Memory 360° AHK\n€ 44.950 · 26.292 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i5-m60-xdrive-84-kwh-led-acc-hud-h-k-memory-360-ahk/o/1784816",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1784816/9aa407e8c073a7d9a3f071d687bc3954~v191902069.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791903315.4678283,
-"laatst": 1791903315.4678283,
-"keer": 0,
-"fout": ""
-},
-"1784360": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes EQS (2023)",
-"bericht": "450+ AMG Line 108 kWh Pano LED ACC Burmester Memory Camera AHK\n€ 31.450 · 17.563 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqs-450-amg-line-108-kwh-pano-led-acc-burmester-memory-camera-ahk/o/1784360",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1784360/bb7df0c2d34badb67dc9b60174929388~v191901943.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791903315.6413991,
-"laatst": 1791903315.6413991,
-"keer": 0,
-"fout": ""
-},
 "1811171": {
 "melding": {
 "titel": "Opnieuw geplaatst: Porsche Taycan (2026)",
@@ -1902,9 +1858,9 @@
 "WhatsApp"
 ],
 "sinds": 1791904322.7681656,
-"laatst": 1791904322.7681656,
-"keer": 0,
-"fout": ""
+"laatst": 1791914536.3318172,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815453": {
 "melding": {
@@ -2143,6 +2099,21 @@
 ],
 "sinds": 1791913599.4992707,
 "laatst": 1791913599.4992707,
+"keer": 0,
+"fout": ""
+},
+"1815473": {
+"melding": {
+"titel": "Audi A7 (2023)",
+"bericht": "Sportback 40 TDI 204PK S-tronic S-line\n€ 37.500 · 110.412 km · hybride diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a7-sportback-40-tdi-204pk-s-tronic-s-line/o/1815473",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1815473/71ba7b5c0a67c80c7736804eabbca9e7~v191913476.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791914538.8408396,
+"laatst": 1791914538.8408396,
 "keer": 0,
 "fout": ""
 }
