@@ -1697,90 +1697,49 @@
 "1815312",
 "1815317",
 "1788441",
-"1815313"
+"1815313",
+"1815379",
+"1785638",
+"1810230",
+"1815377",
+"1815373",
+"1809911",
+"1815372",
+"1806140",
+"1815361",
+"1815370",
+"1815364",
+"1789631",
+"1806549",
+"1815371",
+"1815368",
+"1815366",
+"1815365",
+"1815363",
+"1815362"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815357,
+"hoogste_id": 1815379,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815325",
-"1815315",
-"1812880",
-"1812879",
-"1815357",
-"1815356",
-"1811830",
-"1814833",
-"1815333",
-"1815341",
-"1815328",
-"1815339"
+"1815379",
+"1785638",
+"1810230",
+"1815377",
+"1815373",
+"1809911",
+"1815372",
+"1806140",
+"1815361",
+"1815370",
+"1815364",
+"1789631"
 ]
 },
 "wachtrij": {
-"1815212": {
-"melding": {
-"titel": "Volkswagen T-Cross (2025)",
-"bericht": "1.0 DSG Life\n€ 16.500 · 8.414 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-1-0-dsg-life/o/1815212",
-"foto": "https://www.schadeautos.nl/cache/picture/698/1815212/225addd924b3d29984d612a989c6268d~v191883920.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791885193.4386237,
-"laatst": 1791894611.0120256,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815215": {
-"melding": {
-"titel": "Lynk & Co 01 (2022)",
-"bericht": "1.5\n€ 8.900 · 37.118 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5/o/1815215",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1815215/67d0f7436713af4f4c560ef68aaef33b~v191884191.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791885193.5141823,
-"laatst": 1791885193.5141823,
-"keer": 0,
-"fout": ""
-},
-"1815216": {
-"melding": {
-"titel": "Dacia Duster (2024)",
-"bericht": "AUTOMAAT 1.6 HYBRIDE NAVI CLIMA CAMERA PDC LED B.J 12-2024\n€ 14.900 · 13.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-duster-automaat-1-6-hybride-navi-clima-camera-pdc-led-b-j-12-2024/o/1815216",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1815216/24e154dd3ffa394b6f2df3cecc5325b5~v191884383.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791885193.5908499,
-"laatst": 1791885193.5908499,
-"keer": 0,
-"fout": ""
-},
-"1815207": {
-"melding": {
-"titel": "Dacia Spring (2025)",
-"bericht": "48Kw Extreme Electric\n€ 9.650 · 10.790 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-spring-48kw-extreme-electric/o/1815207",
-"foto": "https://www.schadeautos.nl/cache/picture/375/1815207/bfc457cd100cdef3f4efe8b5847f3c99~v191884063.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791885196.4674187,
-"laatst": 1791885196.4674187,
-"keer": 0,
-"fout": ""
-},
 "1815249": {
 "melding": {
 "titel": "BMW iX1 (2024)",
@@ -1792,9 +1751,9 @@
 "WhatsApp"
 ],
 "sinds": 1791887316.1829367,
-"laatst": 1791887316.1829367,
-"keer": 0,
-"fout": ""
+"laatst": 1791896366.7440279,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1726564": {
 "melding": {
@@ -2393,6 +2352,81 @@
 ],
 "sinds": 1791894618.853079,
 "laatst": 1791894618.853079,
+"keer": 0,
+"fout": ""
+},
+"1810230": {
+"melding": {
+"titel": "Opnieuw geplaatst: Hyundai ioniq 5 (2023)",
+"bericht": "77.4kWh 168kW Style\n€ 14.500 · 226.324 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-ioniq-5-77-4kwh-168kw-style/o/1810230",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1810230/dc8ad0bcb4cefb26c5f4123133285ff7~v190582973.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791896367.8043919,
+"laatst": 1791896367.8043919,
+"keer": 0,
+"fout": ""
+},
+"1815377": {
+"melding": {
+"titel": "Kia EV6 (2023)",
+"bericht": "77.4 Kwh Plus 228Pk 3Fase Soh 99% *Navi/Clima/Camera/Leder/Stoelverwarming\n€ 20.250 · 249.348 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev6-77-4-kwh-plus-228pk-3fase-soh-99-navi-clima-camera-leder-stoelverwarming/o/1815377",
+"foto": "https://www.schadeautos.nl/cache/picture/711/1815377/8134737eae283416b9b2e55e879dc48e~v191895479.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791896367.9814942,
+"laatst": 1791896367.9814942,
+"keer": 0,
+"fout": ""
+},
+"1815372": {
+"melding": {
+"titel": "Hyundai I-20 (2025)",
+"bericht": "N Line\n€ 9.200 · 18.545 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-n-line/o/1815372",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1815372/5189567a2cfe155c6aced1644a8165ee~v191895161.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791896368.156067,
+"laatst": 1791896368.156067,
+"keer": 0,
+"fout": ""
+},
+"1806140": {
+"melding": {
+"titel": "Opnieuw geplaatst: Nio (2024)",
+"bericht": "ET5 100kWh 360kW AWD (ex Accu)\n€ 16.400 · 63.300 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nio-et5-100kwh-360kw-awd-ex-accu/o/1806140",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1806140/1e6a10705aac511df64021e0d3aff371~v189383034.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791896368.3326263,
+"laatst": 1791896368.3326263,
+"keer": 0,
+"fout": ""
+},
+"1815362": {
+"melding": {
+"titel": "Land Rover Defender (2024)",
+"bericht": "2.0 P300e 110 S X-Dynamic 360° Luftfed. AHK ACC LrHZ LED Clima\n€ 44.950 · 26.523 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-defender-2-0-p300e-110-s-x-dynamic-360-luftfed-ahk-acc-lrhz-led-clima/o/1815362",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1815362/e497e81ada211a0234a1023581ee99bb~v191894617.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791896371.3048513,
+"laatst": 1791896371.3048513,
 "keer": 0,
 "fout": ""
 }
