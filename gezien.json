@@ -2057,90 +2057,59 @@
 "1815669",
 "1815668",
 "1815666",
-"1815665"
+"1815665",
+"1815725",
+"1815681",
+"1815723",
+"1812751",
+"1815718",
+"1806923",
+"1815721",
+"1797952",
+"1798028",
+"1809569",
+"1798464",
+"1798443",
+"1807385",
+"1807073",
+"1807381",
+"1806924",
+"1806925",
+"1806920",
+"1799211",
+"1815716",
+"1815521",
+"1792774",
+"1815715",
+"1784716",
+"1815714",
+"1810299",
+"1811138",
+"1807592",
+"1815707"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815710,
+"hoogste_id": 1815725,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815518",
-"1815710",
-"1422439",
-"1815709",
-"1815708",
-"1727699",
-"1815702",
-"1815677",
-"1814689",
-"1815705",
-"1815700",
-"1815699"
+"1815725",
+"1815681",
+"1815723",
+"1812751",
+"1815718",
+"1806923",
+"1815721",
+"1797952",
+"1798028",
+"1809569",
+"1798464",
+"1798443"
 ]
 },
 "wachtrij": {
-"1815582": {
-"melding": {
-"titel": "Fiat 500 (2024)",
-"bericht": "17.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500/o/1815582",
-"foto": "https://www.schadeautos.nl/cache/picture/987/1815582/440ab848ff5417dd3f384ddad2216992~v191968417.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791968868.1487067,
-"laatst": 1791978157.237342,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815581": {
-"melding": {
-"titel": "Renault Master (2025)",
-"bericht": "€ 17.908 · 95.000 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-master/o/1815581",
-"foto": "https://www.schadeautos.nl/cache/picture/987/1815581/75738f59d739df8810eafabc86ea6b0b~v191967525.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791968868.2690966,
-"laatst": 1791968868.2690966,
-"keer": 0,
-"fout": ""
-},
-"1815575": {
-"melding": {
-"titel": "Skoda Kodiaq (2022)",
-"bericht": "4x4 WD 190pk Sportline 2.0 Pano led kuipstoelen Leder\n64.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-4x4-wd-190pk-sportline-2-0-pano-led-kuipstoelen-leder/o/1815575",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1815575/a922d27315936ee3773788450ee8ad2c~v191967346.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791968870.9350464,
-"laatst": 1791968870.9350464,
-"keer": 0,
-"fout": ""
-},
-"1815573": {
-"melding": {
-"titel": "Seat Ateca (2023)",
-"bericht": "2.0 190 pk FR 4x4 Leder LED Memory Virtual\n69.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-2-0-190-pk-fr-4x4-leder-led-memory-virtual/o/1815573",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1815573/a20eb5b710905ac9068e3083f0d38b9b~v191966913.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791968871.0644088,
-"laatst": 1791968871.0644088,
-"keer": 0,
-"fout": ""
-},
 "1809138": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen Polo (2025)",
@@ -2152,9 +2121,9 @@
 "WhatsApp"
 ],
 "sinds": 1791970703.1467502,
-"laatst": 1791970703.1467502,
-"keer": 0,
-"fout": ""
+"laatst": 1791979868.274063,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815605": {
 "melding": {
@@ -2723,6 +2692,186 @@
 ],
 "sinds": 1791978166.6801972,
 "laatst": 1791978166.6801972,
+"keer": 0,
+"fout": ""
+},
+"1815723": {
+"melding": {
+"titel": "Volkswagen Polo (2024)",
+"bericht": "GTI 2.0 TSI DSG 207PK\n€ 18.900 · 26.748 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-gti-2-0-tsi-dsg-207pk/o/1815723",
+"foto": "https://www.schadeautos.nl/cache/picture/104/1815723/fd3bb3bea05f13a027ec5e1482eed554~v191979396.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979869.564303,
+"laatst": 1791979869.564303,
+"keer": 0,
+"fout": ""
+},
+"1815718": {
+"melding": {
+"titel": "Toyota Aygo (2024)",
+"bericht": "X 1.0 VVT-i Play\n€ 2.950 · 74.342 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-0-vvt-i-play/o/1815718",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1815718/79b93490feeea1f297b53591c8ffb7d0~v191979067.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979869.738949,
+"laatst": 1791979869.738949,
+"keer": 0,
+"fout": ""
+},
+"1797952": {
+"melding": {
+"titel": "Opnieuw geplaatst: GWM Ora 03 (2024)",
+"bericht": "300 LED ACC 360° Leder LRHZ SHZ\n€ 7.950 · 7.467 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/gwm-ora-03-300-led-acc-360-leder-lrhz-shz/o/1797952",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1797952/be12beed29c58323f14a9d20136bdda3~v191979048.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979869.920184,
+"laatst": 1791979869.920184,
+"keer": 0,
+"fout": ""
+},
+"1798464": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Golf (2024)",
+"bericht": "GTI 2.0 TSI DSG H/K HUD Pano ACC LrHZ SHZ Apple/Android Virtual Camera PDC\n€ 22.950 · 28.103 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-gti-2-0-tsi-dsg-h-k-hud-pano-acc-lrhz-shz-apple-android-virtual-camera-pdc/o/1798464",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1798464/b29ac2b292603531f0ef909dacb67f26~v191978960.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979870.0993118,
+"laatst": 1791979870.0993118,
+"keer": 0,
+"fout": ""
+},
+"1807385": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Astra (2025)",
+"bericht": "Sports Tourer 1.6 Turbo PHEV Edition ACC SHZ LrHZ Virtual Apple/Android PDC Camera\n€ 14.950 · 15.038 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-6-turbo-phev-edition-acc-shz-lrhz-virtual-apple-android-pdc-camera/o/1807385",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1807385/a48d2f8536c0a85406f630e5ac60bac9~v191978840.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979872.9817443,
+"laatst": 1791979872.9817443,
+"keer": 0,
+"fout": ""
+},
+"1807381": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 308 (2025)",
+"bericht": "SW 1.2 Hybrid 145 e-DCS6 Style ACC Virtual Apple/Android Camera PDC Clima\n€ 10.950 · 27.899 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-sw-1-2-hybrid-145-e-dcs6-style-acc-virtual-apple-android-camera-pdc-clima/o/1807381",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1807381/243059f774d05348694120e1936d9223~v191978737.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979873.1550293,
+"laatst": 1791979873.1550293,
+"keer": 0,
+"fout": ""
+},
+"1815716": {
+"melding": {
+"titel": "Hyundai Kona (2026)",
+"bericht": "1.6 GDI HEV N Line LrHZ SHZ+StzBel. Pano Bose 360 camera Memory\n€ 14.450 · 11.239 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-1-6-gdi-hev-n-line-lrhz-shz-stzbel-pano-bose-360-camera-memory/o/1815716",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1815716/526b75159af68cb09832f97fde84b28f~v191978455.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979873.3380315,
+"laatst": 1791979873.3380315,
+"keer": 0,
+"fout": ""
+},
+"1792774": {
+"melding": {
+"titel": "Opnieuw geplaatst: Citroën C3 (2025)",
+"bericht": "Citroen C3 1.2T 100 18.400km S&S Airco CruiseControl Pdc Navi>Android/Carplay\nexportprijs € 11.200 · 18.433 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-citroen-c3-1-2t-100-18-400km-s-s-airco-cruisecontrol-pdc-navi-android-carplay/o/1792774",
+"foto": "https://www.schadeautos.nl/cache/picture/739/1792774/86907caada771c256842dec5b669d7a5~v191978203.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979873.5120773,
+"laatst": 1791979873.5120773,
+"keer": 0,
+"fout": ""
+},
+"1784716": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Scenic (2025)",
+"bericht": "EV87 long range iconic\n€ 4.750 · 29.891 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-ev87-long-range-iconic/o/1784716",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1784716/c1ef8e09ca94a3b1dbc161141192e14e~v182389679.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979873.692729,
+"laatst": 1791979873.692729,
+"keer": 0,
+"fout": ""
+},
+"1815714": {
+"melding": {
+"titel": "Opel Insignia (2022)",
+"bericht": "GRAND SPORT\n€ 7.500 · 123.144 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-insignia-grand-sport/o/1815714",
+"foto": "https://www.schadeautos.nl/cache/picture/915/1815714/bc936edbb2f02e3c9f188852c647222a~v191978315.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979876.5468361,
+"laatst": 1791979876.5468361,
+"keer": 0,
+"fout": ""
+},
+"1811138": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ferrari 296 GTS (2024)",
+"bericht": "3.0 V6 830PK Hybrid Carbon Keramisch Lift Pass-Display NAP\n€ 254.750 · 10.795 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ferrari-296-gts-3-0-v6-830pk-hybrid-carbon-keramisch-lift-pass-display-nap/o/1811138",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1811138/a1a7ccb97314be06c2b973e3ce32d3a7~v191352788.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979876.7213998,
+"laatst": 1791979876.7213998,
+"keer": 0,
+"fout": ""
+},
+"1807592": {
+"melding": {
+"titel": "Opnieuw geplaatst: Land Rover Range Rover sport (2025)",
+"bericht": "3.0 P550e 405KW PHEV Autobiography Pano Clima Navi\n€ 67.750 · 53.846 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-range-rover-sport-3-0-p550e-405kw-phev-autobiography-pano-clima-navi/o/1807592",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1807592/43f43fc610528b8523d11ad828feb978~v191352806.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791979876.9021046,
+"laatst": 1791979876.9021046,
 "keer": 0,
 "fout": ""
 }
