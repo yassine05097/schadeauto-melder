@@ -2116,105 +2116,50 @@
 "1750499",
 "1815727",
 "1815730",
-"1815728"
+"1815728",
+"1815790",
+"1815789",
+"1815786",
+"1815110",
+"1815785",
+"1815784",
+"1815779",
+"1815783",
+"1815782",
+"1815781",
+"1815780",
+"1815769",
+"1815776",
+"1815764",
+"1815775",
+"1815774",
+"1815773",
+"1815768",
+"1815772",
+"1815771"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815763,
+"hoogste_id": 1815790,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815761",
-"1815762",
-"1815763",
-"1815755",
-"1815760",
-"1815759",
-"1815749",
-"1814814",
-"1815757",
-"1815751",
-"1815758",
-"1815752"
+"1815790",
+"1815789",
+"1815361",
+"1815786",
+"1815110",
+"1815785",
+"1815784",
+"1815779",
+"1815783",
+"1815782",
+"1815781",
+"1815780"
 ]
 },
 "wachtrij": {
-"1815632": {
-"melding": {
-"titel": "Volkswagen Golf (2022)",
-"bericht": "8 TSI 110 PK NAVI CLIMA PDC CRUISE B.J 09-2022\n€ 11.450 · 48.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-pdc-cruise-b-j-09-2022/o/1815632",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1815632/e548bb622b743870a1a7e4bf7c097368~v191972480.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791972596.005078,
-"laatst": 1791982231.327569,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815629": {
-"melding": {
-"titel": "Jeep Avenger (2025)",
-"bericht": "€ 5.990 · 25.438 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-avenger/o/1815629",
-"foto": "https://www.schadeautos.nl/cache/picture/965/1815629/a225d7913ef1eadedc5e00dd58b4e4e5~v191972140.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791972596.1175256,
-"laatst": 1791972596.1175256,
-"keer": 0,
-"fout": ""
-},
-"1815628": {
-"melding": {
-"titel": "Ford Ranger (2023)",
-"bericht": "WILDTRAK\n€ 19.300 · 63.708 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-wildtrak/o/1815628",
-"foto": "https://www.schadeautos.nl/cache/picture/965/1815628/31e64bc81b3a9cbf4f630dd1396bf1f6~v191972044.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791972596.2219563,
-"laatst": 1791972596.2219563,
-"keer": 0,
-"fout": ""
-},
-"1770793": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Octavia (2023)",
-"bericht": "1.0eTSI 81kW Automaat Business Edition Plus\n€ 12.950 · 72.891 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-0etsi-81kw-automaat-business-edition-plus/o/1770793",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1770793/94af676a7d03886e728b7e3dd8e21706~v178175650.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791972598.8802607,
-"laatst": 1791972598.8802607,
-"keer": 0,
-"fout": ""
-},
-"1807657": {
-"melding": {
-"titel": "Opnieuw geplaatst: Dacia Jogger (2024)",
-"bericht": "1.6 Hybrid 140 Extreme 7P\n€ 14.800 · 97.848 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-1-6-hybrid-140-extreme-7p/o/1807657",
-"foto": "https://www.schadeautos.nl/cache/picture/270/1807657/2007569957ef774c323a2ec67ecacc02~v189725381.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791972598.9864738,
-"laatst": 1791972598.9864738,
-"keer": 0,
-"fout": ""
-},
 "1815651": {
 "melding": {
 "titel": "Toyota Aygo (2022)",
@@ -2226,9 +2171,9 @@
 "WhatsApp"
 ],
 "sinds": 1791974497.6468265,
-"laatst": 1791974497.6468265,
-"keer": 0,
-"fout": ""
+"laatst": 1791984147.8990548,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1797960": {
 "melding": {
@@ -2977,6 +2922,51 @@
 ],
 "sinds": 1791982239.9116971,
 "laatst": 1791982239.9116971,
+"keer": 0,
+"fout": ""
+},
+"1815789": {
+"melding": {
+"titel": "Volkswagen Polo (2022)",
+"bericht": "1.0 TSI Life\n€ 7.950 · 57.703 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life/o/1815789",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791984148.732618,
+"laatst": 1791984148.732618,
+"keer": 0,
+"fout": ""
+},
+"1815110": {
+"melding": {
+"titel": "Volvo C-40 (2023)",
+"bericht": "82kWh Single Motor 185kW Extended Range Core\n€ 23.750 · 60.770 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-c-40-82kwh-single-motor-185kw-extended-range-core/o/1815110",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1815110/331b9ac365e6301fc74d2ac8b94371db~v191875015.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791984148.837284,
+"laatst": 1791984148.837284,
+"keer": 0,
+"fout": ""
+},
+"1815785": {
+"melding": {
+"titel": "Toyota Yaris Cross (2023)",
+"bericht": "1.5 AUTOMAAT HYBRIDE NAVI CLIMA CAMERA PDC B.J 06-2023\n€ 14.950 · 79.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-1-5-automaat-hybride-navi-clima-camera-pdc-b-j-06-2023/o/1815785",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1815785/b1daeff53b88267d1f1a7b404d0ce656~v191983201.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791984148.9342523,
+"laatst": 1791984148.9342523,
 "keer": 0,
 "fout": ""
 }
