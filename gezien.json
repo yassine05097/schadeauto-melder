@@ -1900,27 +1900,40 @@
 "1797267",
 "1780128",
 "1790945",
-"1815526"
+"1815526",
+"1778239",
+"1795564",
+"1794024",
+"1806661",
+"1754384",
+"1806570",
+"1806399",
+"1779398",
+"1781923",
+"1806654",
+"1806573",
+"1815533",
+"1815532"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815528,
+"hoogste_id": 1815533,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815528",
-"1797795",
-"1807195",
-"1774221",
-"1812543",
-"1798988",
-"1788436",
-"1721499",
-"1795114",
-"1812549",
-"1797741",
-"1749881"
+"1778239",
+"1795564",
+"1794024",
+"1806661",
+"1754384",
+"1806570",
+"1806399",
+"1779398",
+"1781923",
+"1806654",
+"1806573",
+"1815533"
 ]
 },
 "wachtrij": {
@@ -1935,8 +1948,8 @@
 "WhatsApp"
 ],
 "sinds": 1791954623.899694,
-"laatst": 1791962738.6984446,
-"keer": 5,
+"laatst": 1791964875.4450984,
+"keer": 6,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815498": {
@@ -2236,6 +2249,51 @@
 ],
 "sinds": 1791962743.9832318,
 "laatst": 1791962743.9832318,
+"keer": 0,
+"fout": ""
+},
+"1778239": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche Taycan (2025)",
+"bericht": "105 kWh Perf.Bat. Pano ACC PDLS+ PASM Leder Memory Bose\n€ 51.950 · 10.891 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-105-kwh-perf-bat-pano-acc-pdls-pasm-leder-memory-bose/o/1778239",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1778239/d48826f1685737725432c1c1b85408ac~v191964831.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791964876.6122274,
+"laatst": 1791964876.6122274,
+"keer": 0,
+"fout": ""
+},
+"1795564": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche Panamera (2025)",
+"bericht": "4.0 GTS PDLS+ Sport Chrono Pano HUD Bose 360° PASM\n€ 114.950 · 32.098 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-panamera-4-0-gts-pdls-sport-chrono-pano-hud-bose-360-pasm/o/1795564",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1795564/14b1b37cc4276adcebffbc5186dda579~v191964737.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791964876.8187735,
+"laatst": 1791964876.8187735,
+"keer": 0,
+"fout": ""
+},
+"1754384": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Astra (2022)",
+"bericht": "Automaat 1.4 Edition LEZEN !!!\n€ 9.900 · 63.174 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-automaat-1-4-edition-lezen/o/1754384",
+"foto": "https://www.schadeautos.nl/cache/picture/270/1754384/f3c76aea3bb80daf8df8de7ad3c47224~v173392074.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791964877.0271304,
+"laatst": 1791964877.0271304,
 "keer": 0,
 "fout": ""
 }
