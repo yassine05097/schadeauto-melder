@@ -2252,75 +2252,40 @@
 "1815914",
 "1805377",
 "1815923",
-"1815921"
+"1815921",
+"1815925",
+"1812882",
+"1810300",
+"1812873",
+"1805511",
+"1809567",
+"1803707",
+"1731696",
+"1810482",
+"1807845"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815923,
+"hoogste_id": 1815925,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1815925",
+"1812882",
+"1810300",
+"1812873",
+"1805511",
+"1809567",
+"1803707",
+"1731696",
+"1810482",
+"1807845",
 "1815923",
-"1815921",
-"1815548",
-"1813115",
-"1814913",
-"1809372",
-"1813107",
-"1812680",
-"1814906",
-"1815918",
-"1815917",
-"1815914"
+"1815921"
 ]
 },
 "wachtrij": {
-"1815896": {
-"melding": {
-"titel": "Kia Stonic (2024)",
-"bericht": "exportprijs € 4.500 · 61.539 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-stonic/o/1815896",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815896/b09ea017c93cec199f87e7c20d3b59ff~v191992931.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791994022.331505,
-"laatst": 1792003951.252975,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815895": {
-"melding": {
-"titel": "Nissan Micra (2022)",
-"bericht": "exportprijs € 3.950 · 47.487 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-micra/o/1815895",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815895/8c5764c667dec41fcb245241dc6b19cd~v191992929.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791994022.549764,
-"laatst": 1791994022.549764,
-"keer": 0,
-"fout": ""
-},
-"1789035": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Ceed (2024)",
-"bericht": "1.0 88kW 46.134 km Navi Clima Camera\n€ 8.585 · 46.134 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0-88kw-46-134-km-navi-clima-camera/o/1789035",
-"foto": "https://www.schadeautos.nl/cache/picture/66/1789035/6cbdc68be95cf25c7d2b9d2820e78ad6~v183667528.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791994022.7720265,
-"laatst": 1791994022.7720265,
-"keer": 0,
-"fout": ""
-},
 "1815902": {
 "melding": {
 "titel": "Kia Stonic (2024)",
@@ -2332,9 +2297,9 @@
 "WhatsApp"
 ],
 "sinds": 1791995969.5920477,
-"laatst": 1791995969.5920477,
-"keer": 0,
-"fout": ""
+"laatst": 1792005733.3177397,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815901": {
 "melding": {
@@ -2468,6 +2433,51 @@
 ],
 "sinds": 1792001571.9482915,
 "laatst": 1792001571.9482915,
+"keer": 0,
+"fout": ""
+},
+"1815925": {
+"melding": {
+"titel": "Ford Focus (2023)",
+"bericht": "exportprijs € 5.800 · 184.724 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus/o/1815925",
+"foto": "https://www.schadeautos.nl/cache/picture/173/1815925/caea8383a4abc51e61e1f740f53804f1~v192004801.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792005734.6549175,
+"laatst": 1792005734.6549175,
+"keer": 0,
+"fout": ""
+},
+"1812882": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen T-Roc (2024)",
+"bericht": "1.5 TSI DSG NAP R-Line Nederlandse Auto!\n€ 13.950 · 86.231 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5-tsi-dsg-nap-r-line-nederlandse-auto/o/1812882",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1812882/008529f0901d39eab50032d0c4f594f1~v191228469.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792005734.8730373,
+"laatst": 1792005734.8730373,
+"keer": 0,
+"fout": ""
+},
+"1812873": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Superb (2023)",
+"bericht": "1.5 TSI Automaat Sportline NAP Nederlandse Auto\n€ 14.500 · 206.512 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-1-5-tsi-automaat-sportline-nap-nederlandse-auto/o/1812873",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1812873/2d909df57c493da147a0083f2df5b59e~v191225638.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792005735.0927486,
+"laatst": 1792005735.0927486,
 "keer": 0,
 "fout": ""
 }
