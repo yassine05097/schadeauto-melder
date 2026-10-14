@@ -2019,75 +2019,40 @@
 "1815637",
 "1815631",
 "1808002",
-"1815622"
+"1815622",
+"1815661",
+"1815649",
+"1770429",
+"1811027",
+"1815657",
+"1815655",
+"1793663",
+"1815660",
+"1784205",
+"1799586"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815654,
+"hoogste_id": 1815661,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815654",
-"1790413",
-"1749289",
-"1813522",
-"1815651",
-"1797960",
-"1815653",
-"1767482",
-"1815652",
-"1815648",
-"1815638",
-"1815647"
+"1815661",
+"1811830",
+"1798599",
+"1815649",
+"1770429",
+"1811027",
+"1815657",
+"1815655",
+"1793663",
+"1815660",
+"1784205",
+"1799586"
 ]
 },
 "wachtrij": {
-"1778239": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche Taycan (2025)",
-"bericht": "105 kWh Perf.Bat. Pano ACC PDLS+ PASM Leder Memory Bose\n€ 51.950 · 10.891 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-105-kwh-perf-bat-pano-acc-pdls-pasm-leder-memory-bose/o/1778239",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1778239/d48826f1685737725432c1c1b85408ac~v191964831.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791964876.6122274,
-"laatst": 1791974491.4226375,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1795564": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche Panamera (2025)",
-"bericht": "4.0 GTS PDLS+ Sport Chrono Pano HUD Bose 360° PASM\n€ 114.950 · 32.098 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-panamera-4-0-gts-pdls-sport-chrono-pano-hud-bose-360-pasm/o/1795564",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1795564/14b1b37cc4276adcebffbc5186dda579~v191964737.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791964876.8187735,
-"laatst": 1791964876.8187735,
-"keer": 0,
-"fout": ""
-},
-"1754384": {
-"melding": {
-"titel": "Opnieuw geplaatst: Opel Astra (2022)",
-"bericht": "Automaat 1.4 Edition LEZEN !!!\n€ 9.900 · 63.174 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-automaat-1-4-edition-lezen/o/1754384",
-"foto": "https://www.schadeautos.nl/cache/picture/270/1754384/f3c76aea3bb80daf8df8de7ad3c47224~v173392074.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791964877.0271304,
-"laatst": 1791964877.0271304,
-"keer": 0,
-"fout": ""
-},
 "1815572": {
 "melding": {
 "titel": "BMW X2 (2024)",
@@ -2099,9 +2064,9 @@
 "WhatsApp"
 ],
 "sinds": 1791966840.6337976,
-"laatst": 1791966840.6337976,
-"keer": 0,
-"fout": ""
+"laatst": 1791976255.0597107,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815569": {
 "melding": {
@@ -2505,6 +2470,66 @@
 ],
 "sinds": 1791974507.6597621,
 "laatst": 1791974507.6597621,
+"keer": 0,
+"fout": ""
+},
+"1815657": {
+"melding": {
+"titel": "Hyundai I-20 (2024)",
+"bericht": "style 73 kw turbo automaat\n€ 6.950 · 46.599 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-style-73-kw-turbo-automaat/o/1815657",
+"foto": "https://www.schadeautos.nl/cache/picture/799/1815657/719cf5ec8079c0043005808431c2ce21~v191975301.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791976256.0060754,
+"laatst": 1791976256.0060754,
+"keer": 0,
+"fout": ""
+},
+"1815655": {
+"melding": {
+"titel": "Ford Explorer (2024)",
+"bericht": "Extended Range RWD 77 kWh-NAVI-CAMERA-PDC-CRUISE-210 KW\nexportprijs € 11.750 · 50.598 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-explorer-extended-range-rwd-77-kwh-navi-camera-pdc-cruise-210-kw/o/1815655",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1815655/594bb2baa03178e2d78f8c05d73bb392~v191974466.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791976256.1036518,
+"laatst": 1791976256.1036518,
+"keer": 0,
+"fout": ""
+},
+"1793663": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mazda CX-30 (2026)",
+"bericht": "2.5 e-SkyActive-G 103kW Automaat Hybrid Homura\n€ 15.950 · 386 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-30-2-5-e-skyactive-g-103kw-automaat-hybrid-homura/o/1793663",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1793663/d8939a12604a5d25b4d57218c2101498~v185320281.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791976256.2013433,
+"laatst": 1791976256.2013433,
+"keer": 0,
+"fout": ""
+},
+"1799586": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW X5 (2023)",
+"bericht": "X5 50e xDrive M Sport PANORAMA LUCHTVERING HUD Ambiance\n€ 40.950 · 123.825 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5-x5-50e-xdrive-m-sport-panorama-luchtvering-hud-ambiance/o/1799586",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1799586/d7888bb954b769111488798540e99f24~v187436581.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791976256.3135288,
+"laatst": 1791976256.3135288,
 "keer": 0,
 "fout": ""
 }
