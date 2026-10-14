@@ -1944,45 +1944,61 @@
 "1815575",
 "1815577",
 "1815550",
-"1815573"
+"1815573",
+"1815610",
+"1773770",
+"1809088",
+"1808645",
+"1802676",
+"1815527",
+"1815530",
+"1809138",
+"1815609",
+"1782687",
+"1815607",
+"1815605",
+"1810478",
+"1815602",
+"1815595",
+"1815589",
+"1810787",
+"1796622",
+"1815601",
+"1815540",
+"1813433",
+"1810293",
+"1815585",
+"1815548",
+"1812303",
+"1806396",
+"1815592",
+"1815591",
+"1815587",
+"1815588",
+"1815590"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815584,
+"hoogste_id": 1815610,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815584",
-"1790737",
-"1722125",
-"1767474",
-"1815579",
-"1785575",
-"1815574",
-"1706950",
-"1719043",
-"1787273",
-"1815582",
-"1815581"
+"1815610",
+"1773770",
+"1809088",
+"1808645",
+"1802676",
+"1815527",
+"1815530",
+"1809138",
+"1815609",
+"1782687",
+"1815607",
+"1814663"
 ]
 },
 "wachtrij": {
-"1812205": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Polo (2022)",
-"bericht": "1.0 AUTOMAAT TSI R-Line Business\n€ 12.950 · 102.957 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-automaat-tsi-r-line-business/o/1812205",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1812205/9d6303a1c4ccc0280d96e440f501d942~v190941261.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791958067.4103284,
-"laatst": 1791968867.0726037,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1797634": {
 "melding": {
 "titel": "Opnieuw geplaatst: Audi A1 (2024)",
@@ -1994,9 +2010,9 @@
 "WhatsApp"
 ],
 "sinds": 1791960371.0986035,
-"laatst": 1791960371.0986035,
-"keer": 0,
-"fout": ""
+"laatst": 1791970702.062624,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815528": {
 "melding": {
@@ -2265,6 +2281,96 @@
 ],
 "sinds": 1791968871.0644088,
 "laatst": 1791968871.0644088,
+"keer": 0,
+"fout": ""
+},
+"1809138": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Polo (2025)",
+"bericht": "1.0 TSI 70KW 7-DSG LIFE EDITION\n€ 17.150 · 25.607 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-70kw-7-dsg-life-edition/o/1809138",
+"foto": "https://www.schadeautos.nl/cache/picture/125/1809138/97ae4d4f1664e45cbdbd41008d9d3581~v190173747.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791970703.1467502,
+"laatst": 1791970703.1467502,
+"keer": 0,
+"fout": ""
+},
+"1815605": {
+"melding": {
+"titel": "MG ZS (2025)",
+"bericht": "1.5 HYBRIDE +\n€ 8.200 · 18.030 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs-1-5-hybride/o/1815605",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1815605/93a6aa805dcd5ea6c1e5f942d074fa67~v191970450.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791970706.2186472,
+"laatst": 1791970706.2186472,
+"keer": 0,
+"fout": ""
+},
+"1815601": {
+"melding": {
+"titel": "Audi RS (2022)",
+"bericht": "Q3\nexportprijs € 13.700 · 68.529 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-rs-q3/o/1815601",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815601/f510cbeb258d488f322e04a998ec5434~v191970025.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791970706.4355462,
+"laatst": 1791970706.4355462,
+"keer": 0,
+"fout": ""
+},
+"1810293": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes EQB (2023)",
+"bericht": "350 215KW 4Matic AMG Sport Panorama\n€ 15.900 · 81.663 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-350-215kw-4matic-amg-sport-panorama/o/1810293",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1810293/e0face2b9647b9df62258d42eeb649d6~v191969915.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791970709.7738805,
+"laatst": 1791970709.7738805,
+"keer": 0,
+"fout": ""
+},
+"1806396": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Niro (2026)",
+"bericht": "Limited Edition 64.8 kWh SHZ LrHZ Camera Virtual ACC\n€ 18.950 · 6.485 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-limited-edition-64-8-kwh-shz-lrhz-camera-virtual-acc/o/1806396",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1806396/97f2f1311592cd84479a690f9374e1b1~v191969472.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791970709.9813128,
+"laatst": 1791970709.9813128,
+"keer": 0,
+"fout": ""
+},
+"1815591": {
+"melding": {
+"titel": "Jeep Renegade (2025)",
+"bericht": "exportprijs € 8.500 · 20.482 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-renegade/o/1815591",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815591/a3248a9a67b8d24d26b0e8e937228460~v191969544.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791970710.1962187,
+"laatst": 1791970710.1962187,
 "keer": 0,
 "fout": ""
 }
