@@ -2262,15 +2262,21 @@
 "1803707",
 "1731696",
 "1810482",
-"1807845"
+"1807845",
+"1815928",
+"1815929",
+"1815927"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815925,
+"hoogste_id": 1815929,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1815928",
+"1815929",
+"1815927",
 "1815925",
 "1812882",
 "1810300",
@@ -2279,103 +2285,10 @@
 "1809567",
 "1803707",
 "1731696",
-"1810482",
-"1807845",
-"1815923",
-"1815921"
+"1810482"
 ]
 },
 "wachtrij": {
-"1815902": {
-"melding": {
-"titel": "Kia Stonic (2024)",
-"bericht": "exportprijs € 4.500 · 61.539 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-stonic/o/1815902",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815902/636d2765e6bb88bb0f4e9bc0aa69b77b~v191995269.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791995969.5920477,
-"laatst": 1792005733.3177397,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815901": {
-"melding": {
-"titel": "Nissan Micra (2022)",
-"bericht": "exportprijs € 3.950 · 47.487 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-micra/o/1815901",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815901/6f0310c570a2e8af9bf8fe2a5e413dcf~v191995266.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791995969.7729375,
-"laatst": 1791995969.7729375,
-"keer": 0,
-"fout": ""
-},
-"1815900": {
-"melding": {
-"titel": "Peugeot 308 (2023)",
-"bericht": "exportprijs € 4.950 · 72.990 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308/o/1815900",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815900/ac32e0062e04a5197dfddc01b6e6d618~v191995260.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791995969.9537263,
-"laatst": 1791995969.9537263,
-"keer": 0,
-"fout": ""
-},
-"1815899": {
-"melding": {
-"titel": "Suzuki Ignis (2024)",
-"bericht": "exportprijs € 5.950 · 23.692 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-ignis/o/1815899",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815899/202047a26da45bf1bb79eba0313a42ce~v191994886.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791995970.130742,
-"laatst": 1791995970.130742,
-"keer": 0,
-"fout": ""
-},
-"1815894": {
-"melding": {
-"titel": "BMW 1-serie (2026)",
-"bericht": "120i M PAKKET AUTOMAAT\n€ 16.900 · 12.408 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-120i-m-pakket-automaat/o/1815894",
-"foto": "https://www.schadeautos.nl/cache/picture/984/1815894/d310e7e3e23242162fdd069a59c76ddb~v191992893.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791995970.3062913,
-"laatst": 1791995970.3062913,
-"keer": 0,
-"fout": ""
-},
-"1815898": {
-"melding": {
-"titel": "Renault Master (2022)",
-"bericht": "exportprijs € 7.500 · 15.126 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-master/o/1815898",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815898/02caf316c9c0e9ed86af925fd94622af~v191994061.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791995970.4866943,
-"laatst": 1791995970.4866943,
-"keer": 0,
-"fout": ""
-},
 "1809947": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen Golf (2026)",
@@ -2387,9 +2300,9 @@
 "WhatsApp"
 ],
 "sinds": 1791999768.8261313,
-"laatst": 1791999768.8261313,
-"keer": 0,
-"fout": ""
+"laatst": 1792007634.4071722,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1803868": {
 "melding": {
@@ -2478,6 +2391,51 @@
 ],
 "sinds": 1792005735.0927486,
 "laatst": 1792005735.0927486,
+"keer": 0,
+"fout": ""
+},
+"1815928": {
+"melding": {
+"titel": "Toyota Yaris Cross (2026)",
+"bericht": "130 pk full hybrid rijdend ex bpm 4 delen stuk incl onderdelen\n€ 19.300 · 13.000 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-130-pk-full-hybrid-rijdend-ex-bpm-4-delen-stuk-incl-onderdelen/o/1815928",
+"foto": "https://www.schadeautos.nl/cache/picture/858/1815928/1a54b7aa972f8a637bb360bc656133d5~v192006302.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792007635.5032263,
+"laatst": 1792007635.5032263,
+"keer": 0,
+"fout": ""
+},
+"1815929": {
+"melding": {
+"titel": "Peugeot 108 (2022)",
+"bericht": "Allure\n€ 7.650 · 19.020 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-108-allure/o/1815929",
+"foto": "https://www.schadeautos.nl/cache/picture/610/1815929/d86376c4b7f9c0188f0a09df861f3ab7~v192006305.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792007635.71306,
+"laatst": 1792007635.71306,
+"keer": 0,
+"fout": ""
+},
+"1815927": {
+"melding": {
+"titel": "Renault Symbioz (2026)",
+"bericht": "18 E Tech 160 techno black pack 2500km bumper stuk\n€ 18.850 · 2.553 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-symbioz-18-e-tech-160-techno-black-pack-2500km-bumper-stuk/o/1815927",
+"foto": "https://www.schadeautos.nl/cache/picture/858/1815927/1ace40cc4b4d7989c23373d88c2da7b1~v192005656.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792007635.9272234,
+"laatst": 1792007635.9272234,
 "keer": 0,
 "fout": ""
 }
