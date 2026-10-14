@@ -2245,90 +2245,35 @@
 "1803868",
 "1815908",
 "1815907",
-"1815903"
+"1815903",
+"1813107",
+"1815918",
+"1815917",
+"1815914",
+"1805377"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815913,
+"hoogste_id": 1815918,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815913",
-"1809947",
-"1803868",
-"1815908",
-"1815907",
-"1815903",
-"1815902",
-"1815901",
-"1815900",
-"1815894",
-"1815898",
-"1815803"
+"1815548",
+"1813115",
+"1814913",
+"1809372",
+"1813107",
+"1812680",
+"1814906",
+"1815918",
+"1815917",
+"1815914",
+"1805377",
+"1815913"
 ]
 },
 "wachtrij": {
-"1815847": {
-"melding": {
-"titel": "Toyota Aygo (2024)",
-"bericht": "Aygo X 1.0 VVT-i MT Play\n€ 9.250 · 64.217 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-aygo-x-1-0-vvt-i-mt-play/o/1815847",
-"foto": "https://www.schadeautos.nl/cache/picture/361/1815847/a8920be4eeaa7713ba1c48960c3a0ed0~v191989651.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791989892.9858708,
-"laatst": 1791999767.7572682,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1772697": {
-"melding": {
-"titel": "Opnieuw geplaatst: Toyota CH-R (2025)",
-"bericht": "R HYBRID 1.8 72KW AUTOMAAT\nexportprijs € 13.900 · 6.926 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-ch-r-r-hybrid-1-8-72kw-automaat/o/1772697",
-"foto": "https://www.schadeautos.nl/cache/picture/984/1772697/b912cd887efcc163dd8a76942674df38~v189642640.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791989896.0281343,
-"laatst": 1791989896.0281343,
-"keer": 0,
-"fout": ""
-},
-"1815843": {
-"melding": {
-"titel": "Peugeot 308 (2024)",
-"bericht": "exportprijs € 8.950 · 46.831 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308/o/1815843",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815843/b154d32d024e33ac5cd4e6e2726659de~v191988160.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791989899.1136353,
-"laatst": 1791989899.1136353,
-"keer": 0,
-"fout": ""
-},
-"1815842": {
-"melding": {
-"titel": "Skoda Fabia (2022)",
-"bericht": "exportprijs € 6.500 · 62.146 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia/o/1815842",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815842/b0247e8ccdd97dd9f01a34d45c6fec0b~v191988153.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791989899.4185271,
-"laatst": 1791989899.4185271,
-"keer": 0,
-"fout": ""
-},
 "1815890": {
 "melding": {
 "titel": "Dacia Bigster (2025)",
@@ -2340,9 +2285,9 @@
 "WhatsApp"
 ],
 "sinds": 1791991737.9163058,
-"laatst": 1791991737.9163058,
-"keer": 0,
-"fout": ""
+"laatst": 1792001570.8331409,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815885": {
 "melding": {
@@ -2536,6 +2481,36 @@
 ],
 "sinds": 1791999768.9417622,
 "laatst": 1791999768.9417622,
+"keer": 0,
+"fout": ""
+},
+"1815918": {
+"melding": {
+"titel": "Renault Clio (2025)",
+"bericht": "V EVOLUTION\n€ 9.650 · 12.411 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-v-evolution/o/1815918",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1815918/6a6cb91f4de1b40594aafc2c5a281cbd~v192000829.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792001571.8722541,
+"laatst": 1792001571.8722541,
+"keer": 0,
+"fout": ""
+},
+"1815917": {
+"melding": {
+"titel": "Nissan Juke (2026)",
+"bericht": "€ 13.750 · 4.923 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-juke/o/1815917",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1815917/e29d6281a02221c6c19560fce41016ae~v192000824.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792001571.9482915,
+"laatst": 1792001571.9482915,
 "keer": 0,
 "fout": ""
 }
