@@ -2086,120 +2086,60 @@
 "1810299",
 "1811138",
 "1807592",
-"1815707"
+"1815707",
+"1815761",
+"1815762",
+"1815763",
+"1815755",
+"1815760",
+"1815759",
+"1815749",
+"1815757",
+"1815751",
+"1815758",
+"1815752",
+"1797047",
+"1812717",
+"1815747",
+"1815744",
+"1815743",
+"1815740",
+"1815742",
+"1815741",
+"1815737",
+"1797776",
+"1815734",
+"1815738",
+"1770599",
+"1815735",
+"1801210",
+"1750499",
+"1815727",
+"1815730",
+"1815728"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815725,
+"hoogste_id": 1815763,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815725",
-"1815681",
-"1815723",
-"1812751",
-"1815718",
-"1806923",
-"1815721",
-"1797952",
-"1798028",
-"1809569",
-"1798464",
-"1798443"
+"1815761",
+"1815762",
+"1815763",
+"1815755",
+"1815760",
+"1815759",
+"1815749",
+"1814814",
+"1815757",
+"1815751",
+"1815758",
+"1815752"
 ]
 },
 "wachtrij": {
-"1809138": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Polo (2025)",
-"bericht": "1.0 TSI 70KW 7-DSG LIFE EDITION\n€ 17.150 · 25.607 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-70kw-7-dsg-life-edition/o/1809138",
-"foto": "https://www.schadeautos.nl/cache/picture/125/1809138/97ae4d4f1664e45cbdbd41008d9d3581~v190173747.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791970703.1467502,
-"laatst": 1791979868.274063,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815605": {
-"melding": {
-"titel": "MG ZS (2025)",
-"bericht": "1.5 HYBRIDE +\n€ 8.200 · 18.030 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs-1-5-hybride/o/1815605",
-"foto": "https://www.schadeautos.nl/cache/picture/909/1815605/93a6aa805dcd5ea6c1e5f942d074fa67~v191970450.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791970706.2186472,
-"laatst": 1791970706.2186472,
-"keer": 0,
-"fout": ""
-},
-"1815601": {
-"melding": {
-"titel": "Audi RS (2022)",
-"bericht": "Q3\nexportprijs € 13.700 · 68.529 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-rs-q3/o/1815601",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815601/f510cbeb258d488f322e04a998ec5434~v191970025.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791970706.4355462,
-"laatst": 1791970706.4355462,
-"keer": 0,
-"fout": ""
-},
-"1810293": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes EQB (2023)",
-"bericht": "350 215KW 4Matic AMG Sport Panorama\n€ 15.900 · 81.663 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-350-215kw-4matic-amg-sport-panorama/o/1810293",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1810293/e0face2b9647b9df62258d42eeb649d6~v191969915.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791970709.7738805,
-"laatst": 1791970709.7738805,
-"keer": 0,
-"fout": ""
-},
-"1806396": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Niro (2026)",
-"bericht": "Limited Edition 64.8 kWh SHZ LrHZ Camera Virtual ACC\n€ 18.950 · 6.485 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-limited-edition-64-8-kwh-shz-lrhz-camera-virtual-acc/o/1806396",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1806396/97f2f1311592cd84479a690f9374e1b1~v191969472.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791970709.9813128,
-"laatst": 1791970709.9813128,
-"keer": 0,
-"fout": ""
-},
-"1815591": {
-"melding": {
-"titel": "Jeep Renegade (2025)",
-"bericht": "exportprijs € 8.500 · 20.482 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-renegade/o/1815591",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1815591/a3248a9a67b8d24d26b0e8e937228460~v191969544.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791970710.1962187,
-"laatst": 1791970710.1962187,
-"keer": 0,
-"fout": ""
-},
 "1815632": {
 "melding": {
 "titel": "Volkswagen Golf (2022)",
@@ -2211,9 +2151,9 @@
 "WhatsApp"
 ],
 "sinds": 1791972596.005078,
-"laatst": 1791972596.005078,
-"keer": 0,
-"fout": ""
+"laatst": 1791982231.327569,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815629": {
 "melding": {
@@ -2872,6 +2812,171 @@
 ],
 "sinds": 1791979876.9021046,
 "laatst": 1791979876.9021046,
+"keer": 0,
+"fout": ""
+},
+"1815749": {
+"melding": {
+"titel": "BMW 3-serie (2026)",
+"bericht": "318i M-pakket Automaat 156pk\n€ 30.250 · 13.134 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-318i-m-pakket-automaat-156pk/o/1815749",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1815749/fc859d218f8f951f0f09491dba13e8a0~v191981493.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982232.692293,
+"laatst": 1791982232.692293,
+"keer": 0,
+"fout": ""
+},
+"1815743": {
+"melding": {
+"titel": "Renault Scenic (2024)",
+"bericht": "E-Tech electric\nexportprijs € 14.400 · 14.757 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-e-tech-electric/o/1815743",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815743/71f88c06f9aeb4b573ea45e84d6c0807~v191980970.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982235.687124,
+"laatst": 1791982235.687124,
+"keer": 0,
+"fout": ""
+},
+"1815740": {
+"melding": {
+"titel": "BMW 1-serie (2026)",
+"bericht": "120i M-pakket Automaat 156pk\n€ 23.900 · 1.215 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-120i-m-pakket-automaat-156pk/o/1815740",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1815740/d5a502e4a888d19520d0d9b511037c09~v191980824.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982235.8586488,
+"laatst": 1791982235.8586488,
+"keer": 0,
+"fout": ""
+},
+"1797776": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Clio (2023)",
+"bericht": "E-TECH HYBRID Equilibre 145pk\n€ 10.250 · 40.900 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-e-tech-hybrid-equilibre-145pk/o/1797776",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1797776/84876d928be00ce4a3dd39a0aee453e3~v186976373.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982236.0345254,
+"laatst": 1791982236.0345254,
+"keer": 0,
+"fout": ""
+},
+"1815734": {
+"melding": {
+"titel": "Peugeot 308 (2023)",
+"bericht": "1.2 pureTech allure pack\n€ 7.950 · 70.054 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2-puretech-allure-pack/o/1815734",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1815734/d29cac3562b48cf77ac75ee3e37cbe7f~v191980565.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982236.208555,
+"laatst": 1791982236.208555,
+"keer": 0,
+"fout": ""
+},
+"1815738": {
+"melding": {
+"titel": "Volkswagen Polo (2025)",
+"bericht": "exportprijs € 9.600 · 26.931 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo/o/1815738",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815738/a2968368a0ba3a74400614142eb8ddc9~v191980505.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982236.397582,
+"laatst": 1791982236.397582,
+"keer": 0,
+"fout": ""
+},
+"1770599": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Clio (2023)",
+"bericht": "1.0 TCe 90 Equilibre\n€ 8.950 · 83.472 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-90-equilibre/o/1770599",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1770599/99b7f6a9f84238bd85303a4986dd8cbd~v178155030.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982239.212383,
+"laatst": 1791982239.212383,
+"keer": 0,
+"fout": ""
+},
+"1815735": {
+"melding": {
+"titel": "Peugeot 208 (2024)",
+"bericht": "exportprijs € 4.850 · 59.278 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1815735",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815735/9d0ee1241796f3c00f8d0d9d10988a8c~v191980428.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982239.385699,
+"laatst": 1791982239.385699,
+"keer": 0,
+"fout": ""
+},
+"1801210": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Ceed (2024)",
+"bericht": "1.5 T-GDI DynamicPlus-Line 140pk Automaat\n€ 7.950 · 49.166 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-5-t-gdi-dynamicplus-line-140pk-automaat/o/1801210",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1801210/2f2c5889c3aab3c38d764cba82ab9de5~v187835494.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982239.5610554,
+"laatst": 1791982239.5610554,
+"keer": 0,
+"fout": ""
+},
+"1750499": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2023)",
+"bericht": "1.2 PureTech Style 5drs Navi\n€ 3.250 · 28.319 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-style-5drs-navi/o/1750499",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1750499/36b7b4803375ca0ebe764521c533508e~v172456903.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982239.7389336,
+"laatst": 1791982239.7389336,
+"keer": 0,
+"fout": ""
+},
+"1815730": {
+"melding": {
+"titel": "Toyota Yaris (2024)",
+"bericht": "exportprijs € 8.600 · 65.841 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris/o/1815730",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815730/a9b686388f124d2a5e54b319a718dbd8~v191979964.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791982239.9116971,
+"laatst": 1791982239.9116971,
 "keer": 0,
 "fout": ""
 }
