@@ -1975,45 +1975,51 @@
 "1815591",
 "1815587",
 "1815588",
-"1815590"
+"1815590",
+"1815636",
+"1815624",
+"1758739",
+"1815632",
+"1815621",
+"1815627",
+"1815629",
+"1713620",
+"1815628",
+"1815626",
+"1815625",
+"1770793",
+"1815612",
+"1789125",
+"1815614",
+"1809344",
+"1815613",
+"1767763",
+"1807657",
+"1810737",
+"1745928"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815610,
+"hoogste_id": 1815636,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815610",
-"1773770",
-"1809088",
-"1808645",
-"1802676",
-"1815527",
-"1815530",
-"1809138",
-"1815609",
-"1782687",
-"1815607",
-"1814663"
+"1815636",
+"1815624",
+"1758739",
+"1791382",
+"1815632",
+"1815621",
+"1815627",
+"1815629",
+"1713620",
+"1815628",
+"1815626",
+"1815625"
 ]
 },
 "wachtrij": {
-"1797634": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A1 (2024)",
-"bericht": "Sportback 25 TFSI DSG S-Line Cruise Airco Apple/Android Virtual PDC\n€ 16.450 · 20.753 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-sportback-25-tfsi-dsg-s-line-cruise-airco-apple-android-virtual-pdc/o/1797634",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1797634/f9519bcc28d726179fb6c8f97e66e9df~v191958318.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791960371.0986035,
-"laatst": 1791970702.062624,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1815528": {
 "melding": {
 "titel": "Citroën C5 X (2023)",
@@ -2025,9 +2031,9 @@
 "WhatsApp"
 ],
 "sinds": 1791962739.7853234,
-"laatst": 1791962739.7853234,
-"keer": 0,
-"fout": ""
+"laatst": 1791972594.623392,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1797795": {
 "melding": {
@@ -2371,6 +2377,81 @@
 ],
 "sinds": 1791970710.1962187,
 "laatst": 1791970710.1962187,
+"keer": 0,
+"fout": ""
+},
+"1815632": {
+"melding": {
+"titel": "Volkswagen Golf (2022)",
+"bericht": "8 TSI 110 PK NAVI CLIMA PDC CRUISE B.J 09-2022\n€ 11.450 · 48.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-pdc-cruise-b-j-09-2022/o/1815632",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1815632/e548bb622b743870a1a7e4bf7c097368~v191972480.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791972596.005078,
+"laatst": 1791972596.005078,
+"keer": 0,
+"fout": ""
+},
+"1815629": {
+"melding": {
+"titel": "Jeep Avenger (2025)",
+"bericht": "€ 5.990 · 25.438 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-avenger/o/1815629",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1815629/a225d7913ef1eadedc5e00dd58b4e4e5~v191972140.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791972596.1175256,
+"laatst": 1791972596.1175256,
+"keer": 0,
+"fout": ""
+},
+"1815628": {
+"melding": {
+"titel": "Ford Ranger (2023)",
+"bericht": "WILDTRAK\n€ 19.300 · 63.708 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-wildtrak/o/1815628",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1815628/31e64bc81b3a9cbf4f630dd1396bf1f6~v191972044.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791972596.2219563,
+"laatst": 1791972596.2219563,
+"keer": 0,
+"fout": ""
+},
+"1770793": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Octavia (2023)",
+"bericht": "1.0eTSI 81kW Automaat Business Edition Plus\n€ 12.950 · 72.891 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-0etsi-81kw-automaat-business-edition-plus/o/1770793",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1770793/94af676a7d03886e728b7e3dd8e21706~v178175650.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791972598.8802607,
+"laatst": 1791972598.8802607,
+"keer": 0,
+"fout": ""
+},
+"1807657": {
+"melding": {
+"titel": "Opnieuw geplaatst: Dacia Jogger (2024)",
+"bericht": "1.6 Hybrid 140 Extreme 7P\n€ 14.800 · 97.848 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-1-6-hybrid-140-extreme-7p/o/1807657",
+"foto": "https://www.schadeautos.nl/cache/picture/270/1807657/2007569957ef774c323a2ec67ecacc02~v189725381.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791972598.9864738,
+"laatst": 1791972598.9864738,
 "keer": 0,
 "fout": ""
 }
