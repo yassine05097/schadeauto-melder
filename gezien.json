@@ -2233,75 +2233,36 @@
 "1792951",
 "1736541",
 "1786132",
-"1815892"
+"1815892",
+"1815902",
+"1815901",
+"1815900",
+"1815899",
+"1815894",
+"1815898"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815896,
+"hoogste_id": 1815902,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1815902",
+"1815901",
+"1815900",
+"1815899",
+"1815894",
+"1815898",
 "1815803",
 "1815896",
 "1815895",
 "1815893",
 "1679729",
-"1763327",
-"1788386",
-"1789035",
-"1760205",
-"1784750",
-"1784345",
-"1743047"
+"1763327"
 ]
 },
 "wachtrij": {
-"1815789": {
-"melding": {
-"titel": "Volkswagen Polo (2022)",
-"bericht": "1.0 TSI Life\n€ 7.950 · 57.703 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life/o/1815789",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791984148.732618,
-"laatst": 1791994020.7665832,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815110": {
-"melding": {
-"titel": "Volvo C-40 (2023)",
-"bericht": "82kWh Single Motor 185kW Extended Range Core\n€ 23.750 · 60.770 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-c-40-82kwh-single-motor-185kw-extended-range-core/o/1815110",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1815110/331b9ac365e6301fc74d2ac8b94371db~v191875015.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791984148.837284,
-"laatst": 1791984148.837284,
-"keer": 0,
-"fout": ""
-},
-"1815785": {
-"melding": {
-"titel": "Toyota Yaris Cross (2023)",
-"bericht": "1.5 AUTOMAAT HYBRIDE NAVI CLIMA CAMERA PDC B.J 06-2023\n€ 14.950 · 79.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-1-5-automaat-hybride-navi-clima-camera-pdc-b-j-06-2023/o/1815785",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1815785/b1daeff53b88267d1f1a7b404d0ce656~v191983201.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1791984148.9342523,
-"laatst": 1791984148.9342523,
-"keer": 0,
-"fout": ""
-},
 "1815823": {
 "melding": {
 "titel": "Peugeot 308 (2024)",
@@ -2313,9 +2274,9 @@
 "WhatsApp"
 ],
 "sinds": 1791986219.950204,
-"laatst": 1791986219.950204,
-"keer": 0,
-"fout": ""
+"laatst": 1791995968.4683683,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815822": {
 "melding": {
@@ -2614,6 +2575,96 @@
 ],
 "sinds": 1791994022.7720265,
 "laatst": 1791994022.7720265,
+"keer": 0,
+"fout": ""
+},
+"1815902": {
+"melding": {
+"titel": "Kia Stonic (2024)",
+"bericht": "exportprijs € 4.500 · 61.539 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-stonic/o/1815902",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815902/636d2765e6bb88bb0f4e9bc0aa69b77b~v191995269.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791995969.5920477,
+"laatst": 1791995969.5920477,
+"keer": 0,
+"fout": ""
+},
+"1815901": {
+"melding": {
+"titel": "Nissan Micra (2022)",
+"bericht": "exportprijs € 3.950 · 47.487 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-micra/o/1815901",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815901/6f0310c570a2e8af9bf8fe2a5e413dcf~v191995266.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791995969.7729375,
+"laatst": 1791995969.7729375,
+"keer": 0,
+"fout": ""
+},
+"1815900": {
+"melding": {
+"titel": "Peugeot 308 (2023)",
+"bericht": "exportprijs € 4.950 · 72.990 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308/o/1815900",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815900/ac32e0062e04a5197dfddc01b6e6d618~v191995260.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791995969.9537263,
+"laatst": 1791995969.9537263,
+"keer": 0,
+"fout": ""
+},
+"1815899": {
+"melding": {
+"titel": "Suzuki Ignis (2024)",
+"bericht": "exportprijs € 5.950 · 23.692 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-ignis/o/1815899",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815899/202047a26da45bf1bb79eba0313a42ce~v191994886.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791995970.130742,
+"laatst": 1791995970.130742,
+"keer": 0,
+"fout": ""
+},
+"1815894": {
+"melding": {
+"titel": "BMW 1-serie (2026)",
+"bericht": "120i M PAKKET AUTOMAAT\n€ 16.900 · 12.408 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-120i-m-pakket-automaat/o/1815894",
+"foto": "https://www.schadeautos.nl/cache/picture/984/1815894/d310e7e3e23242162fdd069a59c76ddb~v191992893.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791995970.3062913,
+"laatst": 1791995970.3062913,
+"keer": 0,
+"fout": ""
+},
+"1815898": {
+"melding": {
+"titel": "Renault Master (2022)",
+"bericht": "exportprijs € 7.500 · 15.126 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-master/o/1815898",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1815898/02caf316c9c0e9ed86af925fd94622af~v191994061.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1791995970.4866943,
+"laatst": 1791995970.4866943,
 "keer": 0,
 "fout": ""
 }
