@@ -2339,120 +2339,45 @@
 "1816011",
 "1816001",
 "1816010",
-"1787231"
+"1787231",
+"1816048",
+"1816053",
+"1816052",
+"1816051",
+"1816028",
+"1816043",
+"1816034",
+"1816047",
+"1816046",
+"1809646",
+"1733305",
+"1816036",
+"1816041",
+"1801905",
+"1816035"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816033,
+"hoogste_id": 1816053,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816033",
-"1806881",
-"1793119",
-"1816029",
-"1816030",
-"1816006",
-"1816015",
-"1816026",
-"1816020",
-"1816019",
-"1779871",
-"1815804"
+"1816048",
+"1816053",
+"1816052",
+"1816051",
+"1810504",
+"1816028",
+"1816043",
+"1816034",
+"1816047",
+"1816046",
+"1809646",
+"1812744"
 ]
 },
 "wachtrij": {
-"1815954": {
-"melding": {
-"titel": "Toyota Aygo (2026)",
-"bericht": "X Hybrid 115 Stoelverw Camera Keyles\n€ 13.950 · 529 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-hybrid-115-stoelverw-camera-keyles/o/1815954",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1815954/b208b225ccf326bc9e17ddb39bec2c11~v192042220.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792043054.7657197,
-"laatst": 1792053601.7435875,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815953": {
-"melding": {
-"titel": "Toyota Aygo (2023)",
-"bericht": "X 1.0 VVT-I Play Clima Keyles Camera\n€ 7.650 · 79.571 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-0-vvt-i-play-clima-keyles-camera/o/1815953",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1815953/882ad7bd2921fc621d496039248a2c13~v192042069.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792043054.8906744,
-"laatst": 1792043054.8906744,
-"keer": 0,
-"fout": ""
-},
-"1815952": {
-"melding": {
-"titel": "Hyundai I-10 (2024)",
-"bericht": "1.0 Comfort Airco\n€ 8.750 · 83.586 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-airco/o/1815952",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1815952/602a64183d8f616ae84e2484de6dba5f~v192041965.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792043055.0083373,
-"laatst": 1792043055.0083373,
-"keer": 0,
-"fout": ""
-},
-"1815951": {
-"melding": {
-"titel": "Volkswagen Taigo (2025)",
-"bericht": "Rline 1.0 TSI Led Stoelverw\n€ 14.950 · 14.644 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-taigo-rline-1-0-tsi-led-stoelverw/o/1815951",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1815951/a5ccab579180280559063fdaf6a13cbf~v192041803.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792043055.1056392,
-"laatst": 1792043055.1056392,
-"keer": 0,
-"fout": ""
-},
-"1815950": {
-"melding": {
-"titel": "Volkswagen T-Roc (2023)",
-"bericht": "1.5 TSI Aut. 110KW 75 Edition Led\n€ 15.950 · 128.461 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5-tsi-aut-110kw-75-edition-led/o/1815950",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1815950/d0f778ce7da29b6070b65ec15da7b898~v192041672.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792043055.2040768,
-"laatst": 1792043055.2040768,
-"keer": 0,
-"fout": ""
-},
-"1815949": {
-"melding": {
-"titel": "Hyundai Tucson (2023)",
-"bericht": "1.6 T-GDI Aut. MHEV Leder Stoeverw Navi Led\n€ 14.250 · 31.833 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-aut-mhev-leder-stoeverw-navi-led/o/1815949",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1815949/01b93939a9f1a2370f5e936273a8e9b0~v192041559.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792043055.321216,
-"laatst": 1792043055.321216,
-"keer": 0,
-"fout": ""
-},
 "1815960": {
 "melding": {
 "titel": "Polestar 2 (2024)",
@@ -2464,9 +2389,9 @@
 "WhatsApp"
 ],
 "sinds": 1792044723.1585886,
-"laatst": 1792044723.1585886,
-"keer": 0,
-"fout": ""
+"laatst": 1792055499.38054,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815958": {
 "melding": {
@@ -2735,6 +2660,66 @@
 ],
 "sinds": 1792053607.6925337,
 "laatst": 1792053607.6925337,
+"keer": 0,
+"fout": ""
+},
+"1809646": {
+"melding": {
+"titel": "Opnieuw geplaatst: Seat Ateca (2023)",
+"bericht": "1.5 TSI FR Business Intense -AUTOMAAT-PANO-CAMERA\n€ 13.750 · 120.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-1-5-tsi-fr-business-intense-automaat-pano-camera/o/1809646",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1809646/e9b19823451016db098b9843b8250d9b~v190321747.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792055500.6345835,
+"laatst": 1792055500.6345835,
+"keer": 0,
+"fout": ""
+},
+"1816036": {
+"melding": {
+"titel": "Hyundai Kona (2023)",
+"bericht": "LINE SPORT 1.0 T-GDI CLIMA CAMERA APP LED B.J 04-2023\n€ 11.900 · 14.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-line-sport-1-0-t-gdi-clima-camera-app-led-b-j-04-2023/o/1816036",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1816036/9ceef4ae66fa7d3a131ad7986f6fbac7~v192054155.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792055503.5085852,
+"laatst": 1792055503.5085852,
+"keer": 0,
+"fout": ""
+},
+"1816041": {
+"melding": {
+"titel": "Toyota Yaris Cross (2025)",
+"bericht": "1.5 Hybrid 115 Dynamic\n€ 17.450 · 20.126 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-1-5-hybrid-115-dynamic/o/1816041",
+"foto": "https://www.schadeautos.nl/cache/picture/69/1816041/ad57488c13f9f72e29c4b7f1b0fc66e4~v192054851.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792055503.682912,
+"laatst": 1792055503.682912,
+"keer": 0,
+"fout": ""
+},
+"1816035": {
+"melding": {
+"titel": "Seat Ateca (2023)",
+"bericht": "FR 1.5 150pk automaat led virtual\n61.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-fr-1-5-150pk-automaat-led-virtual/o/1816035",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1816035/a340c452a3eb93cf4bcefa7e2a05c073~v192053647.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792055503.8640847,
+"laatst": 1792055503.8640847,
 "keer": 0,
 "fout": ""
 }
