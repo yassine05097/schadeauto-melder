@@ -2694,15 +2694,21 @@
 "1816394",
 "1816397",
 "1816396",
-"1816395"
+"1816395",
+"1816402",
+"1816401",
+"1816398"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816397,
+"hoogste_id": 1816402,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816402",
+"1816401",
+"1816398",
 "1816393",
 "1816394",
 "1816397",
@@ -2711,28 +2717,10 @@
 "1816388",
 "1815803",
 "1816387",
-"1802616",
-"1816381",
-"1816385",
-"1816384"
+"1802616"
 ]
 },
 "wachtrij": {
-"1816365": {
-"melding": {
-"titel": "Dacia Duster (2023)",
-"bericht": "57.204 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-duster/o/1816365",
-"foto": "https://www.schadeautos.nl/cache/picture/964/1816365/efb28a2df212a580a767aff62172d869~v192078250.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792079720.0115538,
-"laatst": 1792088402.4178004,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1816380": {
 "melding": {
 "titel": "Peugeot 208 (2026)",
@@ -2744,9 +2732,9 @@
 "WhatsApp"
 ],
 "sinds": 1792083463.833988,
-"laatst": 1792083463.833988,
-"keer": 0,
-"fout": ""
+"laatst": 1792090972.3868697,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816379": {
 "melding": {
@@ -2850,6 +2838,51 @@
 ],
 "sinds": 1792088403.6036592,
 "laatst": 1792088403.6036592,
+"keer": 0,
+"fout": ""
+},
+"1816402": {
+"melding": {
+"titel": "Peugeot 508 (2022)",
+"bericht": "GT\n€ 8.833 · 188.002 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-508-gt/o/1816402",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1816402/65a385af8711ced5d5a105e0e0f3e40b~v192089277.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792090973.3802516,
+"laatst": 1792090973.3802516,
+"keer": 0,
+"fout": ""
+},
+"1816401": {
+"melding": {
+"titel": "Hyundai I-20 (2024)",
+"bericht": "€ 9.680 · 123.008 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20/o/1816401",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1816401/144088e9a905cfd2904cf309e3a50917~v192088947.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792090973.5339952,
+"laatst": 1792090973.5339952,
+"keer": 0,
+"fout": ""
+},
+"1816398": {
+"melding": {
+"titel": "Volkswagen Transporter (2026)",
+"bericht": "Transporter Kasten Plus 2.0 TDI 125 kW 4MO LR\n€ 43.318 · 10.784 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-transporter-transporter-kasten-plus-2-0-tdi-125-kw-4mo-lr/o/1816398",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1816398/e6fde3a175a4ad13749ab61e0dc71223~v192088594.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792090973.693842,
+"laatst": 1792090973.693842,
 "keer": 0,
 "fout": ""
 }
