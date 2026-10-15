@@ -2425,75 +2425,54 @@
 "1665781",
 "1798416",
 "1816083",
-"1816082"
+"1816082",
+"1816116",
+"1815634",
+"1816111",
+"1763575",
+"1816104",
+"1807934",
+"1815745",
+"1816110",
+"1815932",
+"1815933",
+"1815930",
+"1815934",
+"1815935",
+"1815931",
+"1815937",
+"1785334",
+"1792255",
+"1816108",
+"1816106",
+"1764080",
+"1816098",
+"1816100",
+"1812721",
+"1807397"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816096,
+"hoogste_id": 1816116,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816091",
-"1815726",
-"1816096",
-"1740349",
-"1686166",
-"1750517",
-"1765905",
-"1781817",
-"1548813",
-"1816094",
-"1809642",
-"1803539"
+"1816116",
+"1815634",
+"1816111",
+"1815647",
+"1763575",
+"1814600",
+"1816104",
+"1815023",
+"1807934",
+"1815745",
+"1816110",
+"1815932"
 ]
 },
 "wachtrij": {
-"1624835": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi Q5 (2024)",
-"bericht": "Sportback 50 TFSI-e S-Line Quattro Navi Clima\n€ 36.500 · 13.077 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q5-sportback-50-tfsi-e-s-line-quattro-navi-clima/o/1624835",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1624835/f50f55b339ff364e70d668c7f2cc27b8~v134364031.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792049381.4407938,
-"laatst": 1792059197.1161761,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815982": {
-"melding": {
-"titel": "Dacia Jogger (2025)",
-"bericht": "BENZINE -- 110,PS -- KLIMA\n€ 7.900 · 16.618 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-benzine-110-ps-klima/o/1815982",
-"foto": "https://www.schadeautos.nl/cache/picture/967/1815982/664c148fb0c7db140487a42104515f12~v192048544.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792049381.5751317,
-"laatst": 1792049381.5751317,
-"keer": 0,
-"fout": ""
-},
-"1815981": {
-"melding": {
-"titel": "Volkswagen Polo (2024)",
-"bericht": "BENZINE -- DSG -- KLIMATRONIK\nexportprijs € 7.800 · 43.388 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-benzine-dsg-klimatronik/o/1815981",
-"foto": "https://www.schadeautos.nl/cache/picture/967/1815981/7aa048673b0fc0b503b2a5e4f70fb7f2~v192048692.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792049381.688625,
-"laatst": 1792049381.688625,
-"keer": 0,
-"fout": ""
-},
 "1790293": {
 "melding": {
 "titel": "Opnieuw geplaatst: Peugeot 308 (2025)",
@@ -2505,9 +2484,9 @@
 "WhatsApp"
 ],
 "sinds": 1792051643.7446136,
-"laatst": 1792051643.7446136,
-"keer": 0,
-"fout": ""
+"laatst": 1792061194.1840968,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1798984": {
 "melding": {
@@ -3076,6 +3055,96 @@
 ],
 "sinds": 1792059205.5038395,
 "laatst": 1792059205.5038395,
+"keer": 0,
+"fout": ""
+},
+"1816116": {
+"melding": {
+"titel": "AC (2026)",
+"bericht": "",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ac/o/1816116",
+"foto": "https://www.schadeautos.nl/cache/picture/447/1816116/348f5002ddb8979e938267e9ebedfd36~v192061141.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792061195.502707,
+"laatst": 1792061195.502707,
+"keer": 0,
+"fout": ""
+},
+"1816104": {
+"melding": {
+"titel": "Skoda Enyaq (2025)",
+"bericht": "85 Sportline 286pk\n€ 27.500 · 20.980 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-enyaq-85-sportline-286pk/o/1816104",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1816104/94d40cd112161e3b0278988d46529e3d~v192060083.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792061195.7205977,
+"laatst": 1792061195.7205977,
+"keer": 0,
+"fout": ""
+},
+"1816110": {
+"melding": {
+"titel": "Skoda Kodiaq (2022)",
+"bericht": "exportprijs € 8.950 · 32.430 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq/o/1816110",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1816110/55a1533831a18928ff0b8e47e476970e~v192060028.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792061195.9433854,
+"laatst": 1792061195.9433854,
+"keer": 0,
+"fout": ""
+},
+"1816106": {
+"melding": {
+"titel": "Renault Captur (2025)",
+"bericht": "exportprijs € 6.500 · 36.726 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur/o/1816106",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1816106/01b127925d2d6caa1dd33433a2598955~v192059709.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792061198.8096428,
+"laatst": 1792061198.8096428,
+"keer": 0,
+"fout": ""
+},
+"1816100": {
+"melding": {
+"titel": "Mercedes EQB (2024)",
+"bericht": "250+ Luxury Line 71kWh 7-persoons\n€ 26.500 · 83.571 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-250-luxury-line-71kwh-7-persoons/o/1816100",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1816100/daf8f66923e3c4a677e22bcf588cd1dc~v192059283.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792061201.6574602,
+"laatst": 1792061201.6574602,
+"keer": 0,
+"fout": ""
+},
+"1812721": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Enyaq (2022)",
+"bericht": "80kWh 150kW iV80\n€ 19.200 · 128.196 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-enyaq-80kwh-150kw-iv80/o/1812721",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1812721/ede7e0255c34e13ae11098384d401d27~v191204670.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792061201.875658,
+"laatst": 1792061201.875658,
 "keer": 0,
 "fout": ""
 }
