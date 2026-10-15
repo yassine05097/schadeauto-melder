@@ -2449,120 +2449,41 @@
 "1816098",
 "1816100",
 "1812721",
-"1807397"
+"1807397",
+"1816126",
+"1816125",
+"1816123",
+"1812903",
+"1715322",
+"1781821",
+"1816115",
+"1816107",
+"1816117",
+"1816114",
+"1779419"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816116,
+"hoogste_id": 1816126,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816116",
-"1815634",
-"1816111",
-"1815647",
-"1763575",
-"1814600",
-"1816104",
-"1815023",
-"1807934",
-"1815745",
-"1816110",
-"1815932"
+"1816126",
+"1816125",
+"1816123",
+"1802406",
+"1812903",
+"1715322",
+"1781821",
+"1816115",
+"1816107",
+"1816117",
+"1816114",
+"1779419"
 ]
 },
 "wachtrij": {
-"1790293": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 308 (2025)",
-"bericht": "1.2Hybrid 100kW Automaat E-DCS6 Allure\n€ 15.950 · 35.235 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2hybrid-100kw-automaat-e-dcs6-allure/o/1790293",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1790293/e31b9d0db6ab4e4b95448f791c064b81~v184093645.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792051643.7446136,
-"laatst": 1792061194.1840968,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1798984": {
-"melding": {
-"titel": "Opnieuw geplaatst: BYD SEAL (2025)",
-"bericht": "6 Touring 1.5 DM-i Autom. Pano Clima Navi Led Hybrid\n€ 13.950 · 5.123 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/byd-seal-6-touring-1-5-dm-i-autom-pano-clima-navi-led-hybrid/o/1798984",
-"foto": "https://www.schadeautos.nl/cache/picture/585/1798984/d8573ab64451d342ad30b8c4f11231ee~v191446258.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792051643.849444,
-"laatst": 1792051643.849444,
-"keer": 0,
-"fout": ""
-},
-"1797368": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen T-Roc (2024)",
-"bericht": "1.5TSI 110kW R-Line Business Clima Camera\n€ 17.650 · 151.897 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5tsi-110kw-r-line-business-clima-camera/o/1797368",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1797368/403c63c6e6e4a6abe948ecb78dce9e85~v186785834.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792051646.4939504,
-"laatst": 1792051646.4939504,
-"keer": 0,
-"fout": ""
-},
-"1815993": {
-"melding": {
-"titel": "Renault Captur (2024)",
-"bericht": "1.6 E-Tech Hybrid 145 Techno-NAVI-CAMERA-LED\n€ 16.950 · 74.200 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-1-6-e-tech-hybrid-145-techno-navi-camera-led/o/1815993",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1815993/692cea4853f1ecc0f7fbdfeb1eb74bc3~v192049764.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792051646.6032584,
-"laatst": 1792051646.6032584,
-"keer": 0,
-"fout": ""
-},
-"1815990": {
-"melding": {
-"titel": "Ford Ranger (2024)",
-"bericht": "AUTOMATIC - 4-PERSONE- WILDTRACK\n€ 10.400 · 128.976 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-automatic-4-persone-wildtrack/o/1815990",
-"foto": "https://www.schadeautos.nl/cache/picture/967/1815990/38a0851e4fb54044cf20ee154e0f7ccb~v192049776.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792051646.7105796,
-"laatst": 1792051646.7105796,
-"keer": 0,
-"fout": ""
-},
-"1815991": {
-"melding": {
-"titel": "Peugeot Partner (2023)",
-"bericht": "1.5D\n€ 12.342 · 62.842 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-partner-1-5d/o/1815991",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1815991/313eca87878d4f63a3702454e6033743~v192049416.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792051649.40125,
-"laatst": 1792051649.40125,
-"keer": 0,
-"fout": ""
-},
 "1793119": {
 "melding": {
 "titel": "Opnieuw geplaatst: Skoda Superb (2024)",
@@ -2574,9 +2495,9 @@
 "WhatsApp"
 ],
 "sinds": 1792053603.0633295,
-"laatst": 1792053603.0633295,
-"keer": 0,
-"fout": ""
+"laatst": 1792062821.1320157,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816030": {
 "melding": {
@@ -3145,6 +3066,51 @@
 ],
 "sinds": 1792061201.875658,
 "laatst": 1792061201.875658,
+"keer": 0,
+"fout": ""
+},
+"1812903": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes E-klasse (2024)",
+"bericht": "E300de Limo\nexportprijs € 19.950 · 46.194 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-e300de-limo/o/1812903",
+"foto": "https://www.schadeautos.nl/cache/picture/984/1812903/45f65aaed43d66a5e8d037f499a80983~v191269494.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792062822.229393,
+"laatst": 1792062822.229393,
+"keer": 0,
+"fout": ""
+},
+"1816115": {
+"melding": {
+"titel": "Dacia Sandero (2025)",
+"bericht": "1.0 TCe 90 Expression\n€ 9.650 · 54.889 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-1-0-tce-90-expression/o/1816115",
+"foto": "https://www.schadeautos.nl/cache/picture/125/1816115/da72deae3b1f2032851c5fc6813dfebf~v192061320.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792062822.2549472,
+"laatst": 1792062822.2549472,
+"keer": 0,
+"fout": ""
+},
+"1779419": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Elroq (2025)",
+"bericht": "85kWh 210kW Business Edition\n€ 22.500 · 5.846 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-elroq-85kwh-210kw-business-edition/o/1779419",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1779419/d69400007ab31dafd993cc21a74008e8~v180991433.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792062822.281836,
+"laatst": 1792062822.281836,
 "keer": 0,
 "fout": ""
 }
