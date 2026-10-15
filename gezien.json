@@ -2275,27 +2275,35 @@
 "1815946",
 "1815945",
 "1815944",
-"1815943"
+"1815943",
+"1778625",
+"1815954",
+"1744884",
+"1815953",
+"1815952",
+"1815951",
+"1815950",
+"1815949"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815948,
+"hoogste_id": 1815954,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1778625",
+"1815954",
+"1744884",
+"1815953",
+"1815952",
+"1815951",
+"1815950",
+"1815949",
 "1815948",
 "1815947",
 "1815946",
-"1815945",
-"1815944",
-"1815943",
-"1815942",
-"1815941",
-"1815940",
-"1815928",
-"1815929",
-"1815927"
+"1815945"
 ]
 },
 "wachtrij": {
@@ -2310,8 +2318,8 @@
 "WhatsApp"
 ],
 "sinds": 1792039652.179099,
-"laatst": 1792041195.7586794,
-"keer": 2,
+"laatst": 1792043053.5149422,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815941": {
@@ -2371,6 +2379,96 @@
 ],
 "sinds": 1792041197.2011843,
 "laatst": 1792041197.2011843,
+"keer": 0,
+"fout": ""
+},
+"1815954": {
+"melding": {
+"titel": "Toyota Aygo (2026)",
+"bericht": "X Hybrid 115 Stoelverw Camera Keyles\n€ 13.950 · 529 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-hybrid-115-stoelverw-camera-keyles/o/1815954",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1815954/b208b225ccf326bc9e17ddb39bec2c11~v192042220.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792043054.7657197,
+"laatst": 1792043054.7657197,
+"keer": 0,
+"fout": ""
+},
+"1815953": {
+"melding": {
+"titel": "Toyota Aygo (2023)",
+"bericht": "X 1.0 VVT-I Play Clima Keyles Camera\n€ 7.650 · 79.571 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-0-vvt-i-play-clima-keyles-camera/o/1815953",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1815953/882ad7bd2921fc621d496039248a2c13~v192042069.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792043054.8906744,
+"laatst": 1792043054.8906744,
+"keer": 0,
+"fout": ""
+},
+"1815952": {
+"melding": {
+"titel": "Hyundai I-10 (2024)",
+"bericht": "1.0 Comfort Airco\n€ 8.750 · 83.586 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-airco/o/1815952",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1815952/602a64183d8f616ae84e2484de6dba5f~v192041965.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792043055.0083373,
+"laatst": 1792043055.0083373,
+"keer": 0,
+"fout": ""
+},
+"1815951": {
+"melding": {
+"titel": "Volkswagen Taigo (2025)",
+"bericht": "Rline 1.0 TSI Led Stoelverw\n€ 14.950 · 14.644 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-taigo-rline-1-0-tsi-led-stoelverw/o/1815951",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1815951/a5ccab579180280559063fdaf6a13cbf~v192041803.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792043055.1056392,
+"laatst": 1792043055.1056392,
+"keer": 0,
+"fout": ""
+},
+"1815950": {
+"melding": {
+"titel": "Volkswagen T-Roc (2023)",
+"bericht": "1.5 TSI Aut. 110KW 75 Edition Led\n€ 15.950 · 128.461 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5-tsi-aut-110kw-75-edition-led/o/1815950",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1815950/d0f778ce7da29b6070b65ec15da7b898~v192041672.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792043055.2040768,
+"laatst": 1792043055.2040768,
+"keer": 0,
+"fout": ""
+},
+"1815949": {
+"melding": {
+"titel": "Hyundai Tucson (2023)",
+"bericht": "1.6 T-GDI Aut. MHEV Leder Stoeverw Navi Led\n€ 14.250 · 31.833 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-aut-mhev-leder-stoeverw-navi-led/o/1815949",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1815949/01b93939a9f1a2370f5e936273a8e9b0~v192041559.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792043055.321216,
+"laatst": 1792043055.321216,
 "keer": 0,
 "fout": ""
 }
