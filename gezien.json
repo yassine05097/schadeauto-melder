@@ -2265,15 +2265,23 @@
 "1807845",
 "1815928",
 "1815929",
-"1815927"
+"1815927",
+"1815942",
+"1815941",
+"1815940",
+"1815939"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815929,
+"hoogste_id": 1815942,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1815942",
+"1815941",
+"1815940",
+"1815939",
 "1815928",
 "1815929",
 "1815927",
@@ -2281,14 +2289,41 @@
 "1812882",
 "1810300",
 "1812873",
-"1805511",
-"1809567",
-"1803707",
-"1731696",
-"1810482"
+"1805511"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1815942": {
+"melding": {
+"titel": "Peugeot 308 (2023)",
+"bericht": "III ALLURE\n€ 8.470 · 86.646 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-iii-allure/o/1815942",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1815942/da5df81da04c86d7ea978227b8d3779c~v192039526.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792039652.179099,
+"laatst": 1792039652.179099,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1815941": {
+"melding": {
+"titel": "BMW X2 (2023)",
+"bericht": "SDRIVE16D\n€ 11.979 · 47.000 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x2-sdrive16d/o/1815941",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1815941/e2cdf95c3e198c6f72be99fadc519749~v192039523.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792039652.3848138,
+"laatst": 1792039652.3848138,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
