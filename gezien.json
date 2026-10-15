@@ -2354,60 +2354,71 @@
 "1816036",
 "1816041",
 "1801905",
-"1816035"
+"1816035",
+"1816059",
+"1792060",
+"1816079",
+"1799660",
+"1784419",
+"1816077",
+"1815849",
+"1815807",
+"1815818",
+"1815820",
+"1815829",
+"1816078",
+"1816054",
+"1816076",
+"1807057",
+"1816071",
+"1816075",
+"1783496",
+"1792416",
+"1816073",
+"1792209",
+"1792203",
+"1816072",
+"1816070",
+"1816069",
+"1789367",
+"1788879",
+"1816067",
+"1771373",
+"1816066",
+"1816065",
+"1816057",
+"1776858",
+"1816061",
+"1809464",
+"1776402",
+"1806933",
+"1816058",
+"1806878",
+"1806060",
+"1816055"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816053,
+"hoogste_id": 1816079,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816048",
-"1816053",
-"1816052",
-"1816051",
-"1810504",
-"1816028",
-"1816043",
-"1816034",
-"1816047",
-"1816046",
-"1809646",
-"1812744"
+"1816059",
+"1792060",
+"1816079",
+"1815206",
+"1799660",
+"1784419",
+"1816077",
+"1815849",
+"1815807",
+"1815818",
+"1815820",
+"1815829"
 ]
 },
 "wachtrij": {
-"1815960": {
-"melding": {
-"titel": "Polestar 2 (2024)",
-"bericht": "Long Range Single Motor Plus 82 kWh GSN-70-L.\n€ 16.850 · 31.198 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/polestar-2-long-range-single-motor-plus-82-kwh-gsn-70-l/o/1815960",
-"foto": "https://www.schadeautos.nl/cache/picture/67/1815960/0874288897bb23daa007cb57ca588cdb~v192044491.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792044723.1585886,
-"laatst": 1792055499.38054,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815958": {
-"melding": {
-"titel": "Peugeot 308 (2025)",
-"bericht": "Hybrid 145 Style Automatic Facelift\n€ 12.100 · 15.857 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-hybrid-145-style-automatic-facelift/o/1815958",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1815958/331dea9e8366f914c5f30e3898c722d0~v192043104.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792044723.36426,
-"laatst": 1792044723.36426,
-"keer": 0,
-"fout": ""
-},
 "1624835": {
 "melding": {
 "titel": "Opnieuw geplaatst: Audi Q5 (2024)",
@@ -2419,9 +2430,9 @@
 "WhatsApp"
 ],
 "sinds": 1792049381.4407938,
-"laatst": 1792049381.4407938,
-"keer": 0,
-"fout": ""
+"laatst": 1792057414.0308716,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815982": {
 "melding": {
@@ -2720,6 +2731,186 @@
 ],
 "sinds": 1792055503.8640847,
 "laatst": 1792055503.8640847,
+"keer": 0,
+"fout": ""
+},
+"1816059": {
+"melding": {
+"titel": "Volkswagen T-Cross (2022)",
+"bericht": "1.0 TSI Life\n€ 11.500 · 117.212 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-1-0-tsi-life/o/1816059",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1816059/f960169f09815e711f77f6cb49d9ee69~v192057291.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057415.2693357,
+"laatst": 1792057415.2693357,
+"keer": 0,
+"fout": ""
+},
+"1815849": {
+"melding": {
+"titel": "Volkswagen T-Roc (2022)",
+"bericht": "Cabrio 1.5 TSI R-Line\n€ 18.950 · 51.624 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-cabrio-1-5-tsi-r-line/o/1815849",
+"foto": "https://www.schadeautos.nl/cache/picture/51/1815849/9d9b1ef8770fe72e34e3fdacfbf804c7~v191988903.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057415.444863,
+"laatst": 1792057415.444863,
+"keer": 0,
+"fout": ""
+},
+"1816054": {
+"melding": {
+"titel": "Volkswagen Golf (2026)",
+"bericht": "NEW! 1.5 eTSI 150PK DSG7 Energy\n€ 21.990 · 3.865 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-new-1-5-etsi-150pk-dsg7-energy/o/1816054",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1816054/48bb02cb539d876a455cf4b6e623457e~v192055871.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057418.9954734,
+"laatst": 1792057418.9954734,
+"keer": 0,
+"fout": ""
+},
+"1792416": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volvo Xc-60 (2022)",
+"bericht": "B5 AWD Ultimate Dark Edition H/K HUD Pano ACC Navi Clima Memory Leder SHZ LrHZ Camera PDC AHK\n€ 26.450 · 64.694 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc-60-b5-awd-ultimate-dark-edition-h-k-hud-pano-acc-navi-clima-memory-leder-shz-lrhz-camera-pdc-ahk/o/1792416",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1792416/3a3fa287f4b04db7c1cdc662e267c19a~v192056628.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057419.1718066,
+"laatst": 1792057419.1718066,
+"keer": 0,
+"fout": ""
+},
+"1792203": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Corsa (2025)",
+"bericht": "1.2 Turbo Hybrid GS Cruise Airco Navi Apple/Android PDC\n€ 8.950 · 44.675 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-hybrid-gs-cruise-airco-navi-apple-android-pdc/o/1792203",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1792203/4aa789d2fbcbea13e7c35da1299f4840~v192056464.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057419.3487666,
+"laatst": 1792057419.3487666,
+"keer": 0,
+"fout": ""
+},
+"1789367": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Kamiq (2024)",
+"bericht": "Ambition\n€ 13.310 · 99.420 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-ambition/o/1789367",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1789367/2c6b3c49a6f0a7a2d29aea31b80e576f~v183697331.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057422.1289825,
+"laatst": 1792057422.1289825,
+"keer": 0,
+"fout": ""
+},
+"1788879": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Frontera (2025)",
+"bericht": "GS\n€ 15.500 · 14.355 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-frontera-gs/o/1788879",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1788879/cce7259ba2045b2fd553fddb9aeba248~v183603479.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057422.3030431,
+"laatst": 1792057422.3030431,
+"keer": 0,
+"fout": ""
+},
+"1776858": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Grandland (2024)",
+"bericht": "1.2 Turbo Edition Apple/Android Virtual Cruise LRHZ SHZ AHK\n€ 10.950 · 37.606 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-grandland-1-2-turbo-edition-apple-android-virtual-cruise-lrhz-shz-ahk/o/1776858",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1776858/e8624eb75ad74833536c38a99ca54fd3~v192055926.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057422.4782476,
+"laatst": 1792057422.4782476,
+"keer": 0,
+"fout": ""
+},
+"1776402": {
+"melding": {
+"titel": "Opnieuw geplaatst: DS Automobiles DS 7 Crossback (2025)",
+"bericht": "1.6 PHEV 300 4x4 Etoile Pano LED ACC Memory 360° Standairco\n€ 23.450 · 28.731 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ds-automobiles-ds-7-crossback-1-6-phev-300-4x4-etoile-pano-led-acc-memory-360-standairco/o/1776402",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1776402/928eb89087294249a7727e3ed9fa4110~v192055702.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057425.2814968,
+"laatst": 1792057425.2814968,
+"keer": 0,
+"fout": ""
+},
+"1806933": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Austral (2025)",
+"bericht": "1.2 E-Tech full hybrid 200 iconic esprit Alpine ACC Navi Clima SHZ Apple/Android Camera PDC AHK\n€ 14.950 · 29.654 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral-1-2-e-tech-full-hybrid-200-iconic-esprit-alpine-acc-navi-clima-shz-apple-android-camera-pdc-ahk/o/1806933",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1806933/b1f6da18cd4cee27848fd718eb1274ce~v192055402.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057425.4561386,
+"laatst": 1792057425.4561386,
+"keer": 0,
+"fout": ""
+},
+"1806878": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche Cayenne (2026)",
+"bericht": "3.0 Sport chrono 340pk\n€ 59.500 · 28 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-3-0-sport-chrono-340pk/o/1806878",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1806878/d92597da911519c7b730ec0676fd8340~v189552504.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057425.6442692,
+"laatst": 1792057425.6442692,
+"keer": 0,
+"fout": ""
+},
+"1806060": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche Panamera (2025)",
+"bericht": "4 2.9 E-Hybrid 470pk Full Option\n€ 92.500 · 6.554 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-panamera-4-2-9-e-hybrid-470pk-full-option/o/1806060",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1806060/17505f2922dc0de28a54f20bbd8d80f5~v189373159.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792057425.826732,
+"laatst": 1792057425.826732,
 "keer": 0,
 "fout": ""
 }
