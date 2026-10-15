@@ -2698,15 +2698,21 @@
 "1816402",
 "1816401",
 "1816398",
-"1816405"
+"1816405",
+"1816408",
+"1816407",
+"1816406"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816405,
+"hoogste_id": 1816408,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816408",
+"1816407",
+"1816406",
 "1816405",
 "1816402",
 "1816401",
@@ -2715,43 +2721,10 @@
 "1816394",
 "1816397",
 "1816396",
-"1816395",
-"1816388",
-"1815803",
-"1816387"
+"1816395"
 ]
 },
 "wachtrij": {
-"1816380": {
-"melding": {
-"titel": "Peugeot 208 (2026)",
-"bericht": "exportprijs € 9.300 · 603 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1816380",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1816380/8ee78f16b68b01370010c01a224bc472~v192081558.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792083463.833988,
-"laatst": 1792092719.5815682,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816379": {
-"melding": {
-"titel": "MG ZS (2026)",
-"bericht": "exportprijs € 7.800 · 4.922 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs/o/1816379",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1816379/d6cb9b156a7d941128d71f0a69d85706~v192081379.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792083464.0075336,
-"laatst": 1792083464.0075336,
-"keer": 0,
-"fout": ""
-},
 "1816381": {
 "melding": {
 "titel": "BMW i4 (2022)",
@@ -2763,9 +2736,9 @@
 "WhatsApp"
 ],
 "sinds": 1792085130.1119406,
-"laatst": 1792085130.1119406,
-"keer": 0,
-"fout": ""
+"laatst": 1792094401.279606,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816390": {
 "melding": {
@@ -2899,6 +2872,36 @@
 ],
 "sinds": 1792092720.5812917,
 "laatst": 1792092720.5812917,
+"keer": 0,
+"fout": ""
+},
+"1816408": {
+"melding": {
+"titel": "Porsche Taycan (2023)",
+"bericht": "PORSCHE Taycan 4 Sport Chrono Passenger Display PANORAMA\n€ 39.950 · 122.341 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-porsche-taycan-4-sport-chrono-passenger-display-panorama/o/1816408",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1816408/54390071a0b75f1696e1cce3a6f27158~v192093620.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792094402.1519043,
+"laatst": 1792094402.1519043,
+"keer": 0,
+"fout": ""
+},
+"1816406": {
+"melding": {
+"titel": "Cupra Tavascan (2025)",
+"bericht": "CUPRA Tavascan 210 kW Edge 2025 VOLLL\n€ 19.950 · 17.845 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-tavascan-cupra-tavascan-210-kw-edge-2025-volll/o/1816406",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1816406/be35ab2f6bb925f0dc8241f35064359b~v192093006.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792094402.2141948,
+"laatst": 1792094402.2141948,
 "keer": 0,
 "fout": ""
 }
