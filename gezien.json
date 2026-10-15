@@ -2689,90 +2689,35 @@
 "1816382",
 "1816390",
 "1816388",
-"1816387"
+"1816387",
+"1816393",
+"1816394",
+"1816397",
+"1816396",
+"1816395"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816390,
+"hoogste_id": 1816397,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816390",
+"1816393",
+"1816394",
+"1816397",
+"1816396",
+"1816395",
 "1816388",
+"1815803",
 "1816387",
 "1802616",
 "1816381",
 "1816385",
-"1816384",
-"1816382",
-"1816380",
-"1816379",
-"1816376",
-"1816375"
+"1816384"
 ]
 },
 "wachtrij": {
-"1650660": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A3 (2022)",
-"bericht": "LIMOUSINE 30 TFSi\n€ 6.900 · 100.523 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-limousine-30-tfsi/o/1650660",
-"foto": "https://www.schadeautos.nl/cache/picture/134/1650660/41af1fa30e8f823f1e857de19acb87e4~v185478778.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792077579.6233761,
-"laatst": 1792086900.7213848,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816333": {
-"melding": {
-"titel": "Peugeot 2008 (2023)",
-"bericht": "1.2 PureTech Active Pack\n€ 12.450 · 158.658 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-active-pack/o/1816333",
-"foto": "https://www.schadeautos.nl/cache/picture/131/1816333/200f0d921d50e414b336a179acf0c25b~v192076206.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792077583.005366,
-"laatst": 1792077583.005366,
-"keer": 0,
-"fout": ""
-},
-"1630151": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A4 Avant (2022)",
-"bericht": "35 TFSI Autom. Advanced Edition Navi Clima\n€ 13.750 · 126.800 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-35-tfsi-autom-advanced-edition-navi-clima/o/1630151",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1630151/1727e7f6fbee562c62b3fd1d525153d3~v136496803.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792077583.1034286,
-"laatst": 1792077583.1034286,
-"keer": 0,
-"fout": ""
-},
-"1816327": {
-"melding": {
-"titel": "Hyundai Kona (2025)",
-"bericht": "64.8 Comfort Smart 204Pk 3Fase 100% Soh *Navi/Clima/Camera/Stoelverwarming\n€ 19.950 · 41.072 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-64-8-comfort-smart-204pk-3fase-100-soh-navi-clima-camera-stoelverwarming/o/1816327",
-"foto": "https://www.schadeautos.nl/cache/picture/711/1816327/7931eb3c5b3f632018b1c38ac57b5f0a~v192075609.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792077583.217596,
-"laatst": 1792077583.217596,
-"keer": 0,
-"fout": ""
-},
 "1816365": {
 "melding": {
 "titel": "Dacia Duster (2023)",
@@ -2784,9 +2729,9 @@
 "WhatsApp"
 ],
 "sinds": 1792079720.0115538,
-"laatst": 1792079720.0115538,
-"keer": 0,
-"fout": ""
+"laatst": 1792088402.4178004,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816380": {
 "melding": {
@@ -2845,6 +2790,66 @@
 ],
 "sinds": 1792086901.7640193,
 "laatst": 1792086901.7640193,
+"keer": 0,
+"fout": ""
+},
+"1816393": {
+"melding": {
+"titel": "BMW X1 (2024)",
+"bericht": "sDrive 18 d\n€ 22.385 · 69.486 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-sdrive-18-d/o/1816393",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1816393/7f28119d6c2aec93208f002b25c54be8~v192087989.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792088403.5211353,
+"laatst": 1792088403.5211353,
+"keer": 0,
+"fout": ""
+},
+"1816397": {
+"melding": {
+"titel": "Ford Transit (2024)",
+"bericht": "COURIER TREND\n€ 9.922 · 85.000 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit-courier-trend/o/1816397",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1816397/d44352dd0abfae8c9b73d8d600c913d0~v192088134.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792088403.549188,
+"laatst": 1792088403.549188,
+"keer": 0,
+"fout": ""
+},
+"1816396": {
+"melding": {
+"titel": "Toyota Hilux (2026)",
+"bericht": "€ 28.950 · 9.454 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-hilux/o/1816396",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1816396/f7e2bb9f8f52854154970483e7119fe1~v192088128.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792088403.576759,
+"laatst": 1792088403.576759,
+"keer": 0,
+"fout": ""
+},
+"1816395": {
+"melding": {
+"titel": "Renault Mégane (2025)",
+"bericht": "E-TECH E-TECH ELECTRIC EVOLUTION\n€ 18.937 · 52.299 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-e-tech-e-tech-electric-evolution/o/1816395",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1816395/86e8c37cb64c90e4cf75f7f9d250ab47~v192088117.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792088403.6036592,
+"laatst": 1792088403.6036592,
 "keer": 0,
 "fout": ""
 }
