@@ -2641,120 +2641,50 @@
 "1810333",
 "1816306",
 "1714500",
-"1816301"
+"1816301",
+"1816351",
+"1816350",
+"1816349",
+"1650660",
+"1816347",
+"1816346",
+"1816342",
+"1816332",
+"1816344",
+"1816343",
+"1816340",
+"1816339",
+"1816338",
+"1816334",
+"1816333",
+"1816331",
+"1816329",
+"1630151",
+"1816316",
+"1816327"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816330,
+"hoogste_id": 1816351,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1738999",
-"1816330",
-"1746736",
-"1814874",
-"1678047",
-"1816325",
-"1816323",
-"1816098",
-"1816114",
-"1816286",
-"1816322",
-"1816311"
+"1816351",
+"1812936",
+"1816350",
+"1816349",
+"1650660",
+"1816347",
+"1816346",
+"1816342",
+"1816332",
+"1816344",
+"1816343",
+"1816340"
 ]
 },
 "wachtrij": {
-"1816229": {
-"melding": {
-"titel": "Ford Puma (2022)",
-"bericht": "Puma SUV 1.0 Ti-VCT EcoBoost mHEV 12V (B7JB) [92kW] (09-2019/...)\n€ 8.995 · 102.758 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-puma-suv-1-0-ti-vct-ecoboost-mhev-12v-b7jb-92kw-09-2019/o/1816229",
-"foto": "https://www.schadeautos.nl/cache/picture/693/1816229/7e4fc2f4161a002e05f746db1b5fdbd2~v192065971.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792066392.709925,
-"laatst": 1792075758.0192091,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1790369": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Golf (2024)",
-"bericht": "1.5 e-TSI Life Business\n€ 13.650 · 58.738 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5-e-tsi-life-business/o/1790369",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1790369/3e4d6566f64f560df1bab2d305c7452f~v184104915.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792066395.6910164,
-"laatst": 1792066395.6910164,
-"keer": 0,
-"fout": ""
-},
-"1816205": {
-"melding": {
-"titel": "Volkswagen Polo (2023)",
-"bericht": "1.0 TSI Life\n€ 6.750 · 72.438 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life/o/1816205",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1816205/8d0ca1ddcd8b21371ed398b871285ee7~v192065378.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792066395.7973235,
-"laatst": 1792066395.7973235,
-"keer": 0,
-"fout": ""
-},
-"1795372": {
-"melding": {
-"titel": "Opnieuw geplaatst: Citroën C3 (2025)",
-"bericht": "Citroen E-C3 Max 113pk 44 kWh range 320 km nwpr € 30000\n€ 10.950 · 22.000 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-citroen-e-c3-max-113pk-44-kwh-range-320-km-nwpr-eur-30000/o/1795372",
-"foto": "https://www.schadeautos.nl/cache/picture/709/1795372/ad25d6c009da7a1b0237fdc05b95c941~v186029106.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792066398.512181,
-"laatst": 1792066398.512181,
-"keer": 0,
-"fout": ""
-},
-"1816215": {
-"melding": {
-"titel": "Ford Puma (2025)",
-"bericht": "Puma SUV 1.0 Ti-VCT EcoBoost mHEV 12V (B7JB) [92kW] (09-2019/...)\n€ 13.450 · 17.556 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-puma-suv-1-0-ti-vct-ecoboost-mhev-12v-b7jb-92kw-09-2019/o/1816215",
-"foto": "https://www.schadeautos.nl/cache/picture/693/1816215/c1b8ce988e90a7e2c84a9fb87896f75a~v192065456.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792066398.6351764,
-"laatst": 1792066398.6351764,
-"keer": 0,
-"fout": ""
-},
-"1790482": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Picanto (2024)",
-"bericht": "1.0 DPi ComfortLine Airco 5-drs\n€ 8.350 · 64.147 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline-airco-5-drs/o/1790482",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1790482/f4e962867427b0f8c2b02b2eae5808d9~v188782783.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792066401.6719863,
-"laatst": 1792066401.6719863,
-"keer": 0,
-"fout": ""
-},
 "1816256": {
 "melding": {
 "titel": "Renault Mégane (2022)",
@@ -2766,9 +2696,9 @@
 "WhatsApp"
 ],
 "sinds": 1792069034.7733877,
-"laatst": 1792069034.7733877,
-"keer": 0,
-"fout": ""
+"laatst": 1792077578.6806653,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816257": {
 "melding": {
@@ -3097,6 +3027,66 @@
 ],
 "sinds": 1792075762.9283304,
 "laatst": 1792075762.9283304,
+"keer": 0,
+"fout": ""
+},
+"1650660": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi A3 (2022)",
+"bericht": "LIMOUSINE 30 TFSi\n€ 6.900 · 100.523 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-limousine-30-tfsi/o/1650660",
+"foto": "https://www.schadeautos.nl/cache/picture/134/1650660/41af1fa30e8f823f1e857de19acb87e4~v185478778.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792077579.6233761,
+"laatst": 1792077579.6233761,
+"keer": 0,
+"fout": ""
+},
+"1816333": {
+"melding": {
+"titel": "Peugeot 2008 (2023)",
+"bericht": "1.2 PureTech Active Pack\n€ 12.450 · 158.658 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-active-pack/o/1816333",
+"foto": "https://www.schadeautos.nl/cache/picture/131/1816333/200f0d921d50e414b336a179acf0c25b~v192076206.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792077583.005366,
+"laatst": 1792077583.005366,
+"keer": 0,
+"fout": ""
+},
+"1630151": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi A4 Avant (2022)",
+"bericht": "35 TFSI Autom. Advanced Edition Navi Clima\n€ 13.750 · 126.800 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-35-tfsi-autom-advanced-edition-navi-clima/o/1630151",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1630151/1727e7f6fbee562c62b3fd1d525153d3~v136496803.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792077583.1034286,
+"laatst": 1792077583.1034286,
+"keer": 0,
+"fout": ""
+},
+"1816327": {
+"melding": {
+"titel": "Hyundai Kona (2025)",
+"bericht": "64.8 Comfort Smart 204Pk 3Fase 100% Soh *Navi/Clima/Camera/Stoelverwarming\n€ 19.950 · 41.072 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-64-8-comfort-smart-204pk-3fase-100-soh-navi-clima-camera-stoelverwarming/o/1816327",
+"foto": "https://www.schadeautos.nl/cache/picture/711/1816327/7931eb3c5b3f632018b1c38ac57b5f0a~v192075609.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792077583.217596,
+"laatst": 1792077583.217596,
 "keer": 0,
 "fout": ""
 }
