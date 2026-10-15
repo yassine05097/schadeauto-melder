@@ -2679,15 +2679,19 @@
 "1816354",
 "1816353",
 "1816376",
-"1816375"
+"1816375",
+"1816380",
+"1816379"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816376,
+"hoogste_id": 1816380,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816380",
+"1816379",
 "1816376",
 "1816375",
 "1816371",
@@ -2697,102 +2701,10 @@
 "1816368",
 "1816366",
 "1816367",
-"1816365",
-"1816363",
-"1816361"
+"1816365"
 ]
 },
 "wachtrij": {
-"1816244": {
-"melding": {
-"titel": "Lynk & Co 01 (2022)",
-"bericht": "1.5 More PHEV Pano Navi\n€ 14.750 · 89.988 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-more-phev-pano-navi/o/1816244",
-"foto": "https://www.schadeautos.nl/cache/picture/375/1816244/dd281bfd4ed15bac7fb0742027f0749c~v192067852.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792071370.9780421,
-"laatst": 1792081258.0224931,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1815979": {
-"melding": {
-"titel": "BYD Seal U (2026)",
-"bericht": "1.5DM-i 72kW Automaat FWD Boost Pano\n€ 18.950 · 6.011 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/byd-seal-u-1-5dm-i-72kw-automaat-fwd-boost-pano/o/1815979",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1815979/c3f80814357b5a4cc174e7618269cda2~v192047874.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792071371.1999915,
-"laatst": 1792071371.1999915,
-"keer": 0,
-"fout": ""
-},
-"1816291": {
-"melding": {
-"titel": "Nissan Primastar (2025)",
-"bericht": "exportprijs € 11.500 · 46.233 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-primastar/o/1816291",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1816291/2712739710c47d6da5d7c56d82e2db54~v192070907.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792071371.4207778,
-"laatst": 1792071371.4207778,
-"keer": 0,
-"fout": ""
-},
-"1816290": {
-"melding": {
-"titel": "Volkswagen Golf (2023)",
-"bericht": "exportprijs € 24.800 · 45.359 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf/o/1816290",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1816290/4e6cc3d174f0d76dcffbd19b327913c4~v192070903.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792071371.6269133,
-"laatst": 1792071371.6269133,
-"keer": 0,
-"fout": ""
-},
-"1816273": {
-"melding": {
-"titel": "Volkswagen Golf (2023)",
-"bericht": "R-LINE 4MOTION LED PANORAMADAK ACC\n€ 18.900 · 81.169 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-r-line-4motion-led-panoramadak-acc/o/1816273",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1816273/f26a65c27ba110a69a57282877bd53d7~v192069157.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792071377.5054255,
-"laatst": 1792071377.5054255,
-"keer": 0,
-"fout": ""
-},
-"1778264": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Picanto (2023)",
-"bericht": "1.0 DPi\n€ 5.900 · 112.245 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi/o/1778264",
-"foto": "https://www.schadeautos.nl/cache/picture/134/1778264/cdfc363954b81aca76a8121b04b6d18d~v182720129.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792071377.7168043,
-"laatst": 1792071377.7168043,
-"keer": 0,
-"fout": ""
-},
 "1803062": {
 "melding": {
 "titel": "Opnieuw geplaatst: Ford Focus (2023)",
@@ -2804,9 +2716,9 @@
 "WhatsApp"
 ],
 "sinds": 1792073700.284391,
-"laatst": 1792073700.284391,
-"keer": 0,
-"fout": ""
+"laatst": 1792083462.8573227,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816097": {
 "melding": {
@@ -3015,6 +2927,36 @@
 ],
 "sinds": 1792079720.0115538,
 "laatst": 1792079720.0115538,
+"keer": 0,
+"fout": ""
+},
+"1816380": {
+"melding": {
+"titel": "Peugeot 208 (2026)",
+"bericht": "exportprijs € 9.300 · 603 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1816380",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1816380/8ee78f16b68b01370010c01a224bc472~v192081558.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792083463.833988,
+"laatst": 1792083463.833988,
+"keer": 0,
+"fout": ""
+},
+"1816379": {
+"melding": {
+"titel": "MG ZS (2026)",
+"bericht": "exportprijs € 7.800 · 4.922 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs/o/1816379",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1816379/d6cb9b156a7d941128d71f0a69d85706~v192081379.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792083464.0075336,
+"laatst": 1792083464.0075336,
 "keer": 0,
 "fout": ""
 }
