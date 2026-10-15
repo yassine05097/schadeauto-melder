@@ -2294,27 +2294,38 @@
 "1815963",
 "1784670",
 "1815961",
-"1805183"
+"1805183",
+"1815988",
+"1815987",
+"1815986",
+"1624835",
+"1815985",
+"1800234",
+"1815982",
+"1815981",
+"1815978",
+"1789440",
+"1815977"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1815968,
+"hoogste_id": 1815988,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1782469",
-"1815968",
-"1789451",
-"1787753",
-"1789456",
-"1762837",
-"1789457",
-"1789449",
-"1815966",
-"1815963",
-"1784670",
-"1815835"
+"1815988",
+"1815987",
+"1815986",
+"1624835",
+"1815985",
+"1815659",
+"1800234",
+"1815982",
+"1815981",
+"1815978",
+"1789440",
+"1815977"
 ]
 },
 "wachtrij": {
@@ -2329,8 +2340,8 @@
 "WhatsApp"
 ],
 "sinds": 1792039652.179099,
-"laatst": 1792047228.4676077,
-"keer": 5,
+"laatst": 1792049380.2301743,
+"keer": 6,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815941": {
@@ -2510,6 +2521,51 @@
 ],
 "sinds": 1792044723.36426,
 "laatst": 1792044723.36426,
+"keer": 0,
+"fout": ""
+},
+"1624835": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi Q5 (2024)",
+"bericht": "Sportback 50 TFSI-e S-Line Quattro Navi Clima\n€ 36.500 · 13.077 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q5-sportback-50-tfsi-e-s-line-quattro-navi-clima/o/1624835",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1624835/f50f55b339ff364e70d668c7f2cc27b8~v134364031.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792049381.4407938,
+"laatst": 1792049381.4407938,
+"keer": 0,
+"fout": ""
+},
+"1815982": {
+"melding": {
+"titel": "Dacia Jogger (2025)",
+"bericht": "BENZINE -- 110,PS -- KLIMA\n€ 7.900 · 16.618 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-benzine-110-ps-klima/o/1815982",
+"foto": "https://www.schadeautos.nl/cache/picture/967/1815982/664c148fb0c7db140487a42104515f12~v192048544.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792049381.5751317,
+"laatst": 1792049381.5751317,
+"keer": 0,
+"fout": ""
+},
+"1815981": {
+"melding": {
+"titel": "Volkswagen Polo (2024)",
+"bericht": "BENZINE -- DSG -- KLIMATRONIK\nexportprijs € 7.800 · 43.388 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-benzine-dsg-klimatronik/o/1815981",
+"foto": "https://www.schadeautos.nl/cache/picture/967/1815981/7aa048673b0fc0b503b2a5e4f70fb7f2~v192048692.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792049381.688625,
+"laatst": 1792049381.688625,
 "keer": 0,
 "fout": ""
 }
