@@ -2460,150 +2460,88 @@
 "1816107",
 "1816117",
 "1816114",
-"1779419"
+"1779419",
+"1816195",
+"1816129",
+"1816183",
+"1816197",
+"1816196",
+"1815964",
+"1816192",
+"1816187",
+"1810404",
+"1816190",
+"1816188",
+"1816186",
+"1816182",
+"1816181",
+"1816179",
+"1816180",
+"1816178",
+"1808193",
+"1816177",
+"1816175",
+"1814896",
+"1816174",
+"1816172",
+"1816168",
+"1816166",
+"1652342",
+"1816165",
+"1797491",
+"1760938",
+"1816162",
+"1816161",
+"1816159",
+"1816158",
+"1816157",
+"1816121",
+"1816155",
+"1816154",
+"1816151",
+"1816150",
+"1816149",
+"1816148",
+"1816147",
+"1816146",
+"1816145",
+"1816144",
+"1816143",
+"1816142",
+"1816140",
+"1816137",
+"1816136",
+"1816124",
+"1816128",
+"1816134",
+"1816132",
+"1816133",
+"1816131",
+"1816122",
+"1815623"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816126,
+"hoogste_id": 1816197,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816126",
-"1816125",
-"1816123",
-"1802406",
-"1812903",
-"1715322",
-"1781821",
-"1816115",
-"1816107",
-"1816117",
-"1816114",
-"1779419"
+"1816195",
+"1798155",
+"1816129",
+"1816183",
+"1816197",
+"1816196",
+"1815964",
+"1816192",
+"1816187",
+"1810404",
+"1816190",
+"1816188"
 ]
 },
 "wachtrij": {
-"1793119": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Superb (2024)",
-"bericht": "1.5TSI 110kW Automaat ACT Business Edition Plus\n€ 21.200 · 91.061 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-1-5tsi-110kw-automaat-act-business-edition-plus/o/1793119",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1793119/f3c82bec6f10e5544fae16a563204fe3~v185156779.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792053603.0633295,
-"laatst": 1792062821.1320157,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816030": {
-"melding": {
-"titel": "Ford Puma (2025)",
-"bericht": "ST-LINE DESIGN\n€ 3.000 · 26.326 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-st-line-design/o/1816030",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1816030/dfff2bb44b4be50bd4ac6fafa071f7b6~v192053030.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792053603.2844987,
-"laatst": 1792053603.2844987,
-"keer": 0,
-"fout": ""
-},
-"1816006": {
-"melding": {
-"titel": "Mercedes GLC (2024)",
-"bericht": "AMG 63 S E Performance Night Edition\n€ 58.500 · 39.083 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glc-amg-63-s-e-performance-night-edition/o/1816006",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1816006/ad4947f2ff311ff5cfa09536f4a13f09~v192052800.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792053603.5053873,
-"laatst": 1792053603.5053873,
-"keer": 0,
-"fout": ""
-},
-"1816015": {
-"melding": {
-"titel": "Seat Ibiza (2026)",
-"bericht": "FR 1.0 TSI 85 kW Kuipstoelen Led Virual\n7.400 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-fr-1-0-tsi-85-kw-kuipstoelen-led-virual/o/1816015",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1816015/9f540449e7c9d3142dd947507255d23d~v192052602.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792053603.7110605,
-"laatst": 1792053603.7110605,
-"keer": 0,
-"fout": ""
-},
-"1816026": {
-"melding": {
-"titel": "Citroën C3 (2025)",
-"bericht": "exportprijs € 3.300 · 17.317 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1816026",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1816026/5dc043af22329ce0f5730adf5f3f4690~v192052547.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792053603.9177516,
-"laatst": 1792053603.9177516,
-"keer": 0,
-"fout": ""
-},
-"1816019": {
-"melding": {
-"titel": "BMW iX1 (2024)",
-"bericht": "exportprijs € 8.200 · 54.123 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1/o/1816019",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1816019/1dc95be2c48302eae75f140aafb47050~v192052450.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792053604.1315112,
-"laatst": 1792053604.1315112,
-"keer": 0,
-"fout": ""
-},
-"1816013": {
-"melding": {
-"titel": "Peugeot Expert (2024)",
-"bericht": "exportprijs € 11.700 · 40.021 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-expert/o/1816013",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1816013/9bfd20b2cee67a7ef7ed8722ea214b66~v192052136.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792053607.4842317,
-"laatst": 1792053607.4842317,
-"keer": 0,
-"fout": ""
-},
-"1787231": {
-"melding": {
-"titel": "Opnieuw geplaatst: Toyota Rav-4 (2024)",
-"bericht": "2.5 Plug-In Hybrid AWD Navi Clima\n€ 29.950 · 71.202 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-rav-4-2-5-plug-in-hybrid-awd-navi-clima/o/1787231",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1787231/cb529e49234c19d921778672a4e28140~v183089791.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792053607.6925337,
-"laatst": 1792053607.6925337,
-"keer": 0,
-"fout": ""
-},
 "1809646": {
 "melding": {
 "titel": "Opnieuw geplaatst: Seat Ateca (2023)",
@@ -2615,9 +2553,9 @@
 "WhatsApp"
 ],
 "sinds": 1792055500.6345835,
-"laatst": 1792055500.6345835,
-"keer": 0,
-"fout": ""
+"laatst": 1792064764.9755905,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816036": {
 "melding": {
@@ -3111,6 +3049,126 @@
 ],
 "sinds": 1792062822.281836,
 "laatst": 1792062822.281836,
+"keer": 0,
+"fout": ""
+},
+"1816197": {
+"melding": {
+"titel": "Renault Clio (2024)",
+"bericht": "1.0 turbo\n40.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-turbo/o/1816197",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1816197/3caae478718fae0bb566c8d7cdc8d025~v192064618.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792064766.8064425,
+"laatst": 1792064766.8064425,
+"keer": 0,
+"fout": ""
+},
+"1808193": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Focus (2022)",
+"bericht": "1.0 ECOBOOST HYBRID ST LINE\n€ 4.350 · 96.378 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line/o/1808193",
+"foto": "https://www.schadeautos.nl/cache/picture/5/1808193/77758f2ec89cc160c1517aa9b80e8b4e~v189988796.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792064769.8157508,
+"laatst": 1792064769.8157508,
+"keer": 0,
+"fout": ""
+},
+"1816168": {
+"melding": {
+"titel": "Volkswagen Golf (2023)",
+"bericht": "Variant 1.5 eTSI DSG Style ACC Navi Virtual Apple/Android SHZ Camera PDC AHK Clima\n€ 9.950 · 90.769 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-variant-1-5-etsi-dsg-style-acc-navi-virtual-apple-android-shz-camera-pdc-ahk-clima/o/1816168",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1816168/ee66246396653473c39abe0cab1e9672~v192063437.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792064772.8212883,
+"laatst": 1792064772.8212883,
+"keer": 0,
+"fout": ""
+},
+"1816158": {
+"melding": {
+"titel": "Cupra Formentor (2025)",
+"bericht": "1.5 TSI e-Hybrid Business ACC Navi Memory SHZ Virtual Apple/Android Camera PDC AHK Clima\n€ 17.950 · 14.500 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-formentor-1-5-tsi-e-hybrid-business-acc-navi-memory-shz-virtual-apple-android-camera-pdc-ahk-clima/o/1816158",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1816158/4cfa2efa786485d33f2456c253b0ce6c~v192063319.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792064772.930395,
+"laatst": 1792064772.930395,
+"keer": 0,
+"fout": ""
+},
+"1816154": {
+"melding": {
+"titel": "Mercedes C-klasse (2022)",
+"bericht": "Estate 300 e Luxury Line Pano ACC Navi Leder Memory SHZ Virtual Apple/Android Camera PDC\n€ 15.950 · 40.529 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-estate-300-e-luxury-line-pano-acc-navi-leder-memory-shz-virtual-apple-android-camera-pdc/o/1816154",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1816154/799497f5094148f04fd86b6f06e36474~v192063278.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792064775.7826958,
+"laatst": 1792064775.7826958,
+"keer": 0,
+"fout": ""
+},
+"1816144": {
+"melding": {
+"titel": "Volkswagen Polo (2025)",
+"bericht": "1.0 TSI DSG Life Edition ACC Navi Virtual Apple/Android Camera PDC Airco\n€ 13.950 · 9.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-dsg-life-edition-acc-navi-virtual-apple-android-camera-pdc-airco/o/1816144",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1816144/9d3de27513425a8ebb9af9e6a28edb57~v192063145.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792064775.886947,
+"laatst": 1792064775.886947,
+"keer": 0,
+"fout": ""
+},
+"1816142": {
+"melding": {
+"titel": "Kia Stonic (2023)",
+"bericht": "Stonic (YB) SUV 1.0i T-GDi 12V Eco-Dynamics+ (G3LF) [74kW] (01-2021/.= =2E.)\n€ 8.995 · 76.399 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-stonic-stonic-yb-suv-1-0i-t-gdi-12v-eco-dynamics-g3lf-74kw-01-2021-2e/o/1816142",
+"foto": "https://www.schadeautos.nl/cache/picture/693/1816142/9ebf6b95cd6e7aa57d33bec576a887d7~v192063123.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792064775.9863276,
+"laatst": 1792064775.9863276,
+"keer": 0,
+"fout": ""
+},
+"1816136": {
+"melding": {
+"titel": "Dacia Sandero (2023)",
+"bericht": "1.0 TCe 90 Expression Cruise Apple/Android PDC Airco\n€ 4.950 · 63.514 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-1-0-tce-90-expression-cruise-apple-android-pdc-airco/o/1816136",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1816136/8f8fee89404b74fb9198d724a807a7f4~v192063042.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792064781.0173354,
+"laatst": 1792064781.0173354,
 "keer": 0,
 "fout": ""
 }
