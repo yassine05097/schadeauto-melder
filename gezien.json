@@ -2677,15 +2677,19 @@
 "1816357",
 "1816355",
 "1816354",
-"1816353"
+"1816353",
+"1816376",
+"1816375"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816373,
+"hoogste_id": 1816376,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816376",
+"1816375",
 "1816371",
 "1816373",
 "1816370",
@@ -2695,117 +2699,10 @@
 "1816367",
 "1816365",
 "1816363",
-"1816361",
-"1816362",
-"1816358"
+"1816361"
 ]
 },
 "wachtrij": {
-"1816256": {
-"melding": {
-"titel": "Renault Mégane (2022)",
-"bericht": "IV Lim. 5-trg. Business Edition\n€ 5.203 · 92.496 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-iv-lim-5-trg-business-edition/o/1816256",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1816256/cac24c881d1c14d1870f7a165e96bc76~v192067316.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792069034.7733877,
-"laatst": 1792079718.4163456,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816257": {
-"melding": {
-"titel": "Renault Captur (2023)",
-"bericht": "€ 6.900 · 40.217 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur/o/1816257",
-"foto": "https://www.schadeautos.nl/cache/picture/1026/1816257/fe4378d134773b787b8da4911f2a1f0f~v192067346.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792069034.9314303,
-"laatst": 1792069034.9314303,
-"keer": 0,
-"fout": ""
-},
-"1816255": {
-"melding": {
-"titel": "BMW X3 (2022)",
-"bericht": "Sdrive 18d Automatik Leder Navi LED\n€ 18.900 · 161.424 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x3-sdrive-18d-automatik-leder-navi-led/o/1816255",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792069035.0867894,
-"laatst": 1792069035.0867894,
-"keer": 0,
-"fout": ""
-},
-"1816254": {
-"melding": {
-"titel": "Audi Q4 (2025)",
-"bericht": "Sportback 45 e-tron 77KWH 210KW\n€ 21.900 · 67.821 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-sportback-45-e-tron-77kwh-210kw/o/1816254",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1816254/fdbe42a1a75aea88b9b9f847668de9e3~v192067104.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792069035.2517304,
-"laatst": 1792069035.2517304,
-"keer": 0,
-"fout": ""
-},
-"1816252": {
-"melding": {
-"titel": "Ford Puma (2022)",
-"bericht": "Puma SUV 1.0 Ti-VCT EcoBoost mHEV 12V (B7JB) [92kW] (09-2019/...)\n€ 8.995 · 102.758 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-puma-suv-1-0-ti-vct-ecoboost-mhev-12v-b7jb-92kw-09-2019/o/1816252",
-"foto": "https://www.schadeautos.nl/cache/picture/693/1816252/1545dabc612e8c1b1efaac8ffb93cb01~v192066872.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792069035.4135172,
-"laatst": 1792069035.4135172,
-"keer": 0,
-"fout": ""
-},
-"1816250": {
-"melding": {
-"titel": "Citroën C5 X (2022)",
-"bericht": "AUTOMAAT\n€ 4.950 · 63.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c5-x-automaat/o/1816250",
-"foto": "https://www.schadeautos.nl/cache/picture/1026/1816250/25d158ccad331b5a06cf8fdb869ff948~v192066854.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792069035.5727885,
-"laatst": 1792069035.5727885,
-"keer": 0,
-"fout": ""
-},
-"1754730": {
-"melding": {
-"titel": "Opnieuw geplaatst: Renault Captur (2023)",
-"bericht": "1.0TCe 67kW 90 Techno\n€ 12.700 · 51.783 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-1-0tce-67kw-90-techno/o/1754730",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1754730/ad2ebbb79dcd1099fed1b7ee7c1313c8~v173481909.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792069038.45171,
-"laatst": 1792069038.45171,
-"keer": 0,
-"fout": ""
-},
 "1816244": {
 "melding": {
 "titel": "Lynk & Co 01 (2022)",
@@ -2817,9 +2714,9 @@
 "WhatsApp"
 ],
 "sinds": 1792071370.9780421,
-"laatst": 1792071370.9780421,
-"keer": 0,
-"fout": ""
+"laatst": 1792081258.0224931,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1815979": {
 "melding": {
