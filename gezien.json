@@ -2949,90 +2949,41 @@
 "1816652",
 "1816653",
 "1645560",
-"1816649"
+"1816649",
+"1816697",
+"1816698",
+"1816689",
+"1816695",
+"1816690",
+"1816692",
+"1787744",
+"1816684",
+"1816683",
+"1816686",
+"1816685"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816681,
+"hoogste_id": 1816698,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816681",
-"1816667",
-"1816679",
-"1816664",
-"1653641",
-"1816661",
-"1726760",
-"1816662",
-"1797339",
-"1816660",
-"1807262",
-"1816637"
+"1816697",
+"1816698",
+"1816689",
+"1816695",
+"1816690",
+"1815278",
+"1816692",
+"1787747",
+"1787744",
+"1787753",
+"1762837",
+"1789449"
 ]
 },
 "wachtrij": {
-"1816576": {
-"melding": {
-"titel": "Peugeot 208 (2023)",
-"bericht": "1.2 PureTech Style\n€ 8.950 · 37.844 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-style/o/1816576",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1816576/c57f1b27fc40f52acde1e68c41671452~v192142248.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792143203.0802946,
-"laatst": 1792152281.0136006,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1789693": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW iX1 (2024)",
-"bericht": "xDrive30 Launch Edition 67 kWh\n€ 9.950 · 91.958 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-xdrive30-launch-edition-67-kwh/o/1789693",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1789693/5785d856d1828ba921ae2ec213378a0a~v183943028.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792143203.1875389,
-"laatst": 1792143203.1875389,
-"keer": 0,
-"fout": ""
-},
-"1792748": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A3 (2022)",
-"bericht": "Sportback 35 TFSI Aut. S-Line Edition Matrix ACC B&O SHZ PDC\n€ 17.950 · 33.645 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-sportback-35-tfsi-aut-s-line-edition-matrix-acc-b-o-shz-pdc/o/1792748",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1792748/99321ed4ac3bf6cdaae8e9719b12c835~v192141633.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792143206.119906,
-"laatst": 1792143206.119906,
-"keer": 0,
-"fout": ""
-},
-"1792746": {
-"melding": {
-"titel": "Opnieuw geplaatst: Ford Puma (2022)",
-"bericht": "1.0 EcoBoost Hybrid Titanium Apple/Android Navi Cruise Camera LRHZ SHZ\n€ 5.950 · 81.493 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-1-0-ecoboost-hybrid-titanium-apple-android-navi-cruise-camera-lrhz-shz/o/1792746",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1792746/2d74ab8f0af947707f7b53b0f20b476f~v192141551.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792143206.2285945,
-"laatst": 1792143206.2285945,
-"keer": 0,
-"fout": ""
-},
 "1816600": {
 "melding": {
 "titel": "Polestar 4 (2025)",
@@ -3044,9 +2995,9 @@
 "WhatsApp"
 ],
 "sinds": 1792145153.6166732,
-"laatst": 1792145153.6166732,
-"keer": 0,
-"fout": ""
+"laatst": 1792154538.9741018,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816599": {
 "melding": {
@@ -3585,6 +3536,51 @@
 ],
 "sinds": 1792152285.872228,
 "laatst": 1792152285.872228,
+"keer": 0,
+"fout": ""
+},
+"1816689": {
+"melding": {
+"titel": "BMW 1-serie (2024)",
+"bericht": "118i M-pakket Automaat\n€ 16.900 · 44.876 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-118i-m-pakket-automaat/o/1816689",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1816689/f18facfdc4ff860ecad724634923bed5~v192153132.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792154540.150357,
+"laatst": 1792154540.150357,
+"keer": 0,
+"fout": ""
+},
+"1816683": {
+"melding": {
+"titel": "Kia (2026)",
+"bericht": "K4 1.0 T-GDi MHEV GT-Line Launch Edition\n€ 15.500 · 5.222 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-k4-1-0-t-gdi-mhev-gt-line-launch-edition/o/1816683",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1816683/bba9e73625f79c5b587a74df93c6b531~v192152492.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792154543.2514148,
+"laatst": 1792154543.2514148,
+"keer": 0,
+"fout": ""
+},
+"1816685": {
+"melding": {
+"titel": "Volkswagen T-Roc (2026)",
+"bericht": "1.5 eTSI 110 kW R-Line\n€ 29.900 · 1.044 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5-etsi-110-kw-r-line/o/1816685",
+"foto": "https://www.schadeautos.nl/cache/picture/323/1816685/aed0bc6cf5d5e76803cacd5c997d5e70~v192152445.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792154543.4240975,
+"laatst": 1792154543.4240975,
 "keer": 0,
 "fout": ""
 }
