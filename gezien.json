@@ -2713,27 +2713,38 @@
 "1816419",
 "1816418",
 "1816423",
-"1816422"
+"1816422",
+"1809964",
+"1816433",
+"1816432",
+"1816431",
+"1816430",
+"1816429",
+"1816428",
+"1816427",
+"1816426",
+"1816425",
+"1816424"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816423,
+"hoogste_id": 1816433,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816423",
-"1816422",
-"1814245",
-"1816421",
-"1816420",
-"1816419",
-"1816418",
-"1769532",
-"1785814",
-"1806500",
-"1803318",
-"1815258"
+"1813632",
+"1809764",
+"1809964",
+"1816433",
+"1816432",
+"1816431",
+"1816430",
+"1816429",
+"1816428",
+"1816427",
+"1816426",
+"1816425"
 ]
 },
 "wachtrij": {
@@ -2748,8 +2759,8 @@
 "WhatsApp"
 ],
 "sinds": 1792123897.1745377,
-"laatst": 1792127510.6217017,
-"keer": 3,
+"laatst": 1792129252.6240857,
+"keer": 4,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1785814": {
@@ -2794,6 +2805,36 @@
 ],
 "sinds": 1792127516.904638,
 "laatst": 1792127516.904638,
+"keer": 0,
+"fout": ""
+},
+"1816429": {
+"melding": {
+"titel": "Citroën Jumpy (2022)",
+"bericht": "1.5 BLUE HDI\n€ 8.954 · 65.624 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-jumpy-1-5-blue-hdi/o/1816429",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1816429/70819546717b62b462902bc807dd10c8~v192127728.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792129254.0992715,
+"laatst": 1792129254.0992715,
+"keer": 0,
+"fout": ""
+},
+"1816425": {
+"melding": {
+"titel": "Skoda Fabia (2023)",
+"bericht": "AMBITION\n€ 7.800 · 58.875 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-ambition/o/1816425",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1816425/c4b7668c043a73f425387a749fd0ed7f~v192127717.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792129254.3167753,
+"laatst": 1792129254.3167753,
 "keer": 0,
 "fout": ""
 }
