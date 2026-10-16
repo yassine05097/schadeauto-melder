@@ -3056,105 +3056,41 @@
 "1816768",
 "1816766",
 "1816765",
-"1816762"
+"1816762",
+"1816789",
+"1816787",
+"1811641",
+"1816783",
+"1816781",
+"1816782",
+"1816785",
+"1816784",
+"1816780",
+"1816776",
+"1816775"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816779,
+"hoogste_id": 1816789,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816779",
-"1816774",
-"1816778",
-"1813758",
-"1816767",
-"1816773",
-"1756311",
-"1758855",
-"1779838",
-"1800743",
-"1780736",
-"1779854"
+"1816789",
+"1816787",
+"1811641",
+"1816783",
+"1816781",
+"1816782",
+"1816785",
+"1816784",
+"1816780",
+"1816776",
+"1816775",
+"1816779"
 ]
 },
 "wachtrij": {
-"1816667": {
-"melding": {
-"titel": "Suzuki Swift (2024)",
-"bericht": "1.2 Comfort Smart Hybrid 5-drs Airco\n€ 10.500 · 24.270 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-swift-1-2-comfort-smart-hybrid-5-drs-airco/o/1816667",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1816667/5c55577135aef32357b1e1f9e128e5a0~v192151972.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792152282.1083198,
-"laatst": 1792162886.745434,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1726760": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A5 (2023)",
-"bericht": "Sportback 35 TFSI S-Line Pano Keyless ACC Stoelverw. Climate Navi\n€ 16.650 · 24.963 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a5-sportback-35-tfsi-s-line-pano-keyless-acc-stoelverw-climate-navi/o/1726760",
-"foto": "https://www.schadeautos.nl/cache/picture/644/1726760/0da541154086066e2902b88a84afc1f2~v192151519.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792152282.3232732,
-"laatst": 1792152282.3232732,
-"keer": 0,
-"fout": ""
-},
-"1816659": {
-"melding": {
-"titel": "Kia Ceed (2025)",
-"bericht": "Attract SW Automatik 1.4 Turbo\n€ 14.900 · 20.879 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-attract-sw-automatik-1-4-turbo/o/1816659",
-"foto": "https://www.schadeautos.nl/cache/picture/323/1816659/c2f48412cdd3265489e83ddc9fa00aee~v192152095.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792152285.4479954,
-"laatst": 1792152285.4479954,
-"keer": 0,
-"fout": ""
-},
-"1700662": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi Rs4 (2024)",
-"bericht": "RS BITURBO QUATTRO SPORT 450PK 2024\n€ 44.950 · 21.395 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-rs4-rs-biturbo-quattro-sport-450pk-2024/o/1700662",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1700662/f34b2641f386e5d6ca49d987a48ea179~v181958629.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792152285.6599627,
-"laatst": 1792152285.6599627,
-"keer": 0,
-"fout": ""
-},
-"1816653": {
-"melding": {
-"titel": "Seat Arona (2026)",
-"bericht": "1.0 TSI 85 kW Style A\n€ 15.500 · 6.233 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-arona-1-0-tsi-85-kw-style-a/o/1816653",
-"foto": "https://www.schadeautos.nl/cache/picture/323/1816653/e58bde754168c145e52dcbb876307e84~v192152083.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792152285.872228,
-"laatst": 1792152285.872228,
-"keer": 0,
-"fout": ""
-},
 "1816689": {
 "melding": {
 "titel": "BMW 1-serie (2024)",
@@ -3166,9 +3102,9 @@
 "WhatsApp"
 ],
 "sinds": 1792154540.150357,
-"laatst": 1792154540.150357,
-"keer": 0,
-"fout": ""
+"laatst": 1792164635.9613163,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816683": {
 "melding": {
@@ -3437,6 +3373,36 @@
 ],
 "sinds": 1792162892.502625,
 "laatst": 1792162892.502625,
+"keer": 0,
+"fout": ""
+},
+"1816785": {
+"melding": {
+"titel": "Porsche Panamera (2026)",
+"bericht": "4 E-Hybrid PDLS+ PASM Chrono Pano ACC Bose 360° Memory\n€ 107.950 · 3.806 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-panamera-4-e-hybrid-pdls-pasm-chrono-pano-acc-bose-360-memory/o/1816785",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1816785/f62be4851deeb7a7775b33a34ecfa413~v192163159.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792164637.323074,
+"laatst": 1792164637.323074,
+"keer": 0,
+"fout": ""
+},
+"1816784": {
+"melding": {
+"titel": "Porsche Macan (2025)",
+"bericht": "Turbo 100 kWh Chrono PDLS+ Pano ACC HUD BOSE 360° Memory\n€ 87.950 · 30.636 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-macan-turbo-100-kwh-chrono-pdls-pano-acc-hud-bose-360-memory/o/1816784",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1816784/98e071bfd97f19eb5440614eb0db444a~v192163148.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792164637.3499055,
+"laatst": 1792164637.3499055,
 "keer": 0,
 "fout": ""
 }
