@@ -2843,60 +2843,50 @@
 "1816578",
 "1816580",
 "1792748",
-"1792746"
+"1792746",
+"1808024",
+"1816600",
+"1816597",
+"1816599",
+"1816593",
+"1816598",
+"1816596",
+"1816594",
+"1658707",
+"1799413",
+"1816590",
+"1816589",
+"1816515",
+"1634272",
+"1816588",
+"1816587",
+"1799633",
+"1799642",
+"1799641",
+"1816571"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816586,
+"hoogste_id": 1816600,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1798983",
-"1816586",
-"1816508",
-"1816463",
-"1767254",
-"1702318",
-"1793943",
-"1816584",
-"1816576",
-"1789693",
-"1816578",
-"1816580"
+"1808024",
+"1816600",
+"1816597",
+"1816599",
+"1816593",
+"1816598",
+"1816596",
+"1816594",
+"1658707",
+"1799413",
+"1816590",
+"1816589"
 ]
 },
 "wachtrij": {
-"1786561": {
-"melding": {
-"titel": "Opnieuw geplaatst: Hyundai I-10 (2024)",
-"bericht": "1.0 Comfort\n€ 6.300 · 23.794 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort/o/1786561",
-"foto": "https://www.schadeautos.nl/cache/picture/270/1786561/8572a603257486468a1fe40183fbe911~v182982448.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792133163.1809916,
-"laatst": 1792143202.2288432,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816438": {
-"melding": {
-"titel": "Isuzu D-Max (2025)",
-"bericht": "38.000 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/isuzu-d-max/o/1816438",
-"foto": "https://www.schadeautos.nl/cache/picture/987/1816438/3671d47b23708cfec0c4b61df2cb2011~v192131314.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792133163.3735225,
-"laatst": 1792133163.3735225,
-"keer": 0,
-"fout": ""
-},
 "1758836": {
 "melding": {
 "titel": "Opnieuw geplaatst: Renault Scenic (2025)",
@@ -2908,9 +2898,9 @@
 "WhatsApp"
 ],
 "sinds": 1792135393.2797813,
-"laatst": 1792135393.2797813,
-"keer": 0,
-"fout": ""
+"laatst": 1792145152.9853797,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816458": {
 "melding": {
@@ -3509,6 +3499,171 @@
 ],
 "sinds": 1792143206.2285945,
 "laatst": 1792143206.2285945,
+"keer": 0,
+"fout": ""
+},
+"1816600": {
+"melding": {
+"titel": "Polestar 4 (2025)",
+"bericht": "Coupe 400 kW Long Range Dual\n€ 33.638 · 14.416 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/polestar-4-coupe-400-kw-long-range-dual/o/1816600",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1816600/48c41b95ae093a7105248a5488a5aa2b~v192144258.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145153.6166732,
+"laatst": 1792145153.6166732,
+"keer": 0,
+"fout": ""
+},
+"1816599": {
+"melding": {
+"titel": "Kia Ceed (2024)",
+"bericht": "GT Line Business DIESEL HYBRIDE PANO LEDER LED\n11.688 km · hybride diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-gt-line-business-diesel-hybride-pano-leder-led/o/1816599",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1816599/6d94ea9695c88ce036acbca78650feb2~v192143990.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145153.6457224,
+"laatst": 1792145153.6457224,
+"keer": 0,
+"fout": ""
+},
+"1816598": {
+"melding": {
+"titel": "Land Rover Discovery Sport (2025)",
+"bericht": "HybridP270e Dynamic SE AWD\n€ 16.900 · 41.223 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-discovery-sport-hybridp270e-dynamic-se-awd/o/1816598",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1816598/b885d9c24e0f9cecf6f3e8ab28d819d6~v192143912.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145153.673792,
+"laatst": 1792145153.673792,
+"keer": 0,
+"fout": ""
+},
+"1816594": {
+"melding": {
+"titel": "Hyundai I-30 (2024)",
+"bericht": "N 280pk Kuipstoelen Panoramadak LED Full\n13.850 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-n-280pk-kuipstoelen-panoramadak-led-full/o/1816594",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1816594/d37280639c62b93cdbe5d4781814c386~v192143842.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145153.7031648,
+"laatst": 1792145153.7031648,
+"keer": 0,
+"fout": ""
+},
+"1799413": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Tayron (2025)",
+"bericht": "2.0 TDI DSG R-Line Pano LED ACC Massage 360° HUD AHK\n€ 28.950 · 11.047 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tayron-2-0-tdi-dsg-r-line-pano-led-acc-massage-360-hud-ahk/o/1799413",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1799413/d45b6781368e858f3abc80c53745e753~v192143909.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145153.7316213,
+"laatst": 1792145153.7316213,
+"keer": 0,
+"fout": ""
+},
+"1816590": {
+"melding": {
+"titel": "Cupra Leon (2025)",
+"bericht": "Nederlandse Kenteken 150pk Led Leder Nederlandse Kenteken\n23.300 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-nederlandse-kenteken-150pk-led-leder-nederlandse-kenteken/o/1816590",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1816590/1d9e11fdf6d0ad4080bf01558d5bef2a~v192143564.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145153.7616987,
+"laatst": 1792145153.7616987,
+"keer": 0,
+"fout": ""
+},
+"1816589": {
+"melding": {
+"titel": "Kia Ceed (2023)",
+"bericht": "GT Line 160pk PANO Automaat LED\n39.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-gt-line-160pk-pano-automaat-led/o/1816589",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1816589/d85201cc3251b6aa3c1c8535769e9953~v192143632.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145153.789484,
+"laatst": 1792145153.789484,
+"keer": 0,
+"fout": ""
+},
+"1816588": {
+"melding": {
+"titel": "Opel Corsa (2025)",
+"bericht": "GS line Automaat led stoelverwarming achteruitrijcamera\n25.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-line-automaat-led-stoelverwarming-achteruitrijcamera/o/1816588",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1816588/580538d9a5702d0abfb75358ae73c057~v192143250.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145156.6724863,
+"laatst": 1792145156.6724863,
+"keer": 0,
+"fout": ""
+},
+"1816587": {
+"melding": {
+"titel": "MG MG4 (2024)",
+"bericht": "77 kWh Trophy Extended Range\n€ 15.850 · 79.605 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-mg4-77-kwh-trophy-extended-range/o/1816587",
+"foto": "https://www.schadeautos.nl/cache/picture/451/1816587/307b91bf97b3d769a831b3b363d57d08~v192143222.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145156.7027297,
+"laatst": 1792145156.7027297,
+"keer": 0,
+"fout": ""
+},
+"1799642": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi A6 (2023)",
+"bericht": "Avant 55 TFSI e S-Tronic Quattro Competition S-Line HUD Cruise Navi Clima SHZ Apple/Android Virtual PDC\n€ 22.950 · 62.761 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-55-tfsi-e-s-tronic-quattro-competition-s-line-hud-cruise-navi-clima-shz-apple-android-virtual-pdc/o/1799642",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1799642/537bc6573e148171808e17f9ba6066e3~v192143333.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145156.7316558,
+"laatst": 1792145156.7316558,
+"keer": 0,
+"fout": ""
+},
+"1816571": {
+"melding": {
+"titel": "Citroën C3 Aircross (2025)",
+"bericht": "BENZINE -- AUTOMATIC\nexportprijs € 6.800 · 16.182 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-aircross-benzine-automatic/o/1816571",
+"foto": "https://www.schadeautos.nl/cache/picture/967/1816571/adb5916650825099ae1c6a1e13615747~v192141765.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792145159.2282953,
+"laatst": 1792145159.2282953,
 "keer": 0,
 "fout": ""
 }
