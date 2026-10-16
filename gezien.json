@@ -3089,6 +3089,8 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816279",
+"1816114",
 "1813399",
 "1810829",
 "1816801",
@@ -3098,27 +3100,10 @@
 "1816799",
 "1816798",
 "1816797",
-"1816796",
-"1816794",
-"1816795"
+"1816796"
 ]
 },
 "wachtrij": {
-"1816796": {
-"melding": {
-"titel": "Hyundai I-10 (2024)",
-"bericht": "Bj:11-2024 Prime Edition 1.2-mpi Digital Cockpit Navigatie Climatecontrol CruiseControl Stoelverwarming Lichtautomaat Privacyglas keyless Entry Stuurwiel met verwarming Achteruitrijcamera 4xElektrische ramen Elektrische-spiegels Led Dagrijverlichting mist\n24.900 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-bj-11-2024-prime-edition-1-2-mpi-digital-cockpit-navigatie-climatecontrol-cruisecontrol-stoelverwarming-lichtautomaat-privacyglas-keyless-entry-stuurwiel-met-verwarming-achteruitrijcamera-4xelektrische-ramen-elektrische-spiegels-led-dagrijverlichting-mist/o/1816796",
-"foto": "https://www.schadeautos.nl/cache/picture/885/1816796/2d74ef880a2f5f8a05390159cc88dc8a~v192166310.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792166605.3316545,
-"laatst": 1792175446.102806,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1816800": {
 "melding": {
 "titel": "Audi A1 (2024)",
@@ -3130,9 +3115,9 @@
 "WhatsApp"
 ],
 "sinds": 1792168379.8570142,
-"laatst": 1792168379.8570142,
-"keer": 0,
-"fout": ""
+"laatst": 1792177530.5658975,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816799": {
 "melding": {
