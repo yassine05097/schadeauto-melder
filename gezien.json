@@ -2888,270 +2888,42 @@
 "1816595",
 "1816605",
 "1815706",
-"1816606"
+"1816606",
+"1816627",
+"1816628",
+"1816189",
+"1816626",
+"1816625",
+"1816614",
+"1811671",
+"1816621",
+"1816624",
+"1816460",
+"1816452",
+"1815975"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816620,
+"hoogste_id": 1816628,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1809966",
-"1807127",
-"1805517",
-"1813263",
-"1807711",
-"1800084",
-"1801347",
-"1813260",
-"1790190",
-"1777916",
-"1777906",
-"1777849"
+"1816083",
+"1816091",
+"1816627",
+"1816628",
+"1816596",
+"1816189",
+"1816626",
+"1816625",
+"1816614",
+"1811671",
+"1816621",
+"1816624"
 ]
 },
 "wachtrij": {
-"1816509": {
-"melding": {
-"titel": "Nissan Micra (2025)",
-"bericht": "ADVANCE-Launch Edition 52kWh\n€ 13.500 · 13.377 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-micra-advance-launch-edition-52kwh/o/1816509",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1816509/21414b2dcea9c2bac9ba37b75e929953~v192137259.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137531.2713842,
-"laatst": 1792147002.6918,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1768867": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes E-klasse (2025)",
-"bericht": "E220d LIMO AMG PANO\nexportprijs € 15.900 · 1.904 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-e-klasse-e220d-limo-amg-pano/o/1768867",
-"foto": "https://www.schadeautos.nl/cache/picture/984/1768867/814a917a2983e3cf52cff009848b37fb~v192137135.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137531.3429348,
-"laatst": 1792137531.3429348,
-"keer": 0,
-"fout": ""
-},
-"1816505": {
-"melding": {
-"titel": "Ferrari 812 Superfast (2023)",
-"bericht": "6.5 V12 1 of 999 Atelier Lift Keramik Blu Le Mans Opaco Carbon Felgen\n€ 399.950 · 65.263 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ferrari-812-superfast-6-5-v12-1-of-999-atelier-lift-keramik-blu-le-mans-opaco-carbon-felgen/o/1816505",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816505/0c483dd8b222e0088fca910b702402e9~v192136355.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137531.417619,
-"laatst": 1792137531.417619,
-"keer": 0,
-"fout": ""
-},
-"1816500": {
-"melding": {
-"titel": "Opel Corsa (2026)",
-"bericht": "1.2 Turbo Hybrid GS ACC Navi Virtual Apple/Android Camera PDC SHZ Clima\n€ 6.750 · 7.419 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-hybrid-gs-acc-navi-virtual-apple-android-camera-pdc-shz-clima/o/1816500",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816500/0034d5e75fb76e061da0614721e50b2b~v192136289.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137534.0085807,
-"laatst": 1792137534.0085807,
-"keer": 0,
-"fout": ""
-},
-"1816498": {
-"melding": {
-"titel": "Cupra Born (2023)",
-"bericht": "82kWh ACC Navi Apple/Android Camera PDC LrHZ Clima\n€ 8.250 · 104.853 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-born-82kwh-acc-navi-apple-android-camera-pdc-lrhz-clima/o/1816498",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816498/1dda85edb01445b0400c9d75a144a82a~v192136249.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137534.0864906,
-"laatst": 1792137534.0864906,
-"keer": 0,
-"fout": ""
-},
-"1816497": {
-"melding": {
-"titel": "Tesla Model Y (2024)",
-"bericht": "RWD Fahrbar Pano ACC Navi Leder Memory SHZ LrHZ Camera Clima\n€ 24.950 · 70.235 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-rwd-fahrbar-pano-acc-navi-leder-memory-shz-lrhz-camera-clima/o/1816497",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816497/ddf4fdf74abe001eaecff99c2906798c~v192136239.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137534.1659155,
-"laatst": 1792137534.1659155,
-"keer": 0,
-"fout": ""
-},
-"1816490": {
-"melding": {
-"titel": "Mercedes EQS (2024)",
-"bericht": "450+ 108 kWh AMG-Line Burmester HUD 360° Memory SBL SHZ LrHZ ACC\n€ 44.950 · 18.032 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqs-450-108-kwh-amg-line-burmester-hud-360-memory-sbl-shz-lrhz-acc/o/1816490",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816490/c1747549d1824f52b58d052959adf6f7~v192136142.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137537.1022918,
-"laatst": 1792137537.1022918,
-"keer": 0,
-"fout": ""
-},
-"1816489": {
-"melding": {
-"titel": "Citroën C4 (2024)",
-"bericht": "X 1.2 PT Max HUD ACC Navi Virtual Apple/Android Camera PDC Clima\n€ 9.450 · 30.643 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-x-1-2-pt-max-hud-acc-navi-virtual-apple-android-camera-pdc-clima/o/1816489",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816489/795ba79677f82fe40efd99ab81420ee2~v192136128.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137537.1772876,
-"laatst": 1792137537.1772876,
-"keer": 0,
-"fout": ""
-},
-"1816463": {
-"melding": {
-"titel": "Volkswagen Taigo (2023)",
-"bericht": "1.0 TSI Life -AIRCO-PDC 95 PK\n€ 12.950 · 142.601 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-taigo-1-0-tsi-life-airco-pdc-95-pk/o/1816463",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1816463/717a2197f71a82a7ad03abc7b2944eec~v192135875.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137537.2487383,
-"laatst": 1792137537.2487383,
-"keer": 0,
-"fout": ""
-},
-"1816486": {
-"melding": {
-"titel": "Volkswagen Polo (2022)",
-"bericht": "1.0 MPI Cruise Virtual Bluetooth Airco\n€ 9.950 · 68.506 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-mpi-cruise-virtual-bluetooth-airco/o/1816486",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816486/f03a9d3633aa9c054e93c95ecc4a1b5a~v192136086.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137537.3223853,
-"laatst": 1792137537.3223853,
-"keer": 0,
-"fout": ""
-},
-"1816485": {
-"melding": {
-"titel": "Audi A3 (2023)",
-"bericht": "Sportback 40 TFSI S-Tronic quattro S Line HUD Cruise Navi Virtual Apple/Android PDC AHK SHZ Clima\n€ 21.450 · 28.622 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-sportback-40-tfsi-s-tronic-quattro-s-line-hud-cruise-navi-virtual-apple-android-pdc-ahk-shz-clima/o/1816485",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816485/1bd1a2c57b29a51500fa0c6961d4feaa~v192136072.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137537.4043283,
-"laatst": 1792137537.4043283,
-"keer": 0,
-"fout": ""
-},
-"1816484": {
-"melding": {
-"titel": "BMW X1 (2025)",
-"bericht": "xDrive25e M-Sport Pano LED ACC H/K Leder Camera LRHZ\n€ 27.950 · 5.523 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive25e-m-sport-pano-led-acc-h-k-leder-camera-lrhz/o/1816484",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816484/c4a08fbc9adc99c4944b2da21fe67a86~v192136061.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137537.481737,
-"laatst": 1792137537.481737,
-"keer": 0,
-"fout": ""
-},
-"1816482": {
-"melding": {
-"titel": "Kia Picanto (2025)",
-"bericht": "1.0 DPI DynamicLine Camera Navi Airco LED Cruise Apple/Android\n€ 10.950 · 29.109 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-dynamicline-camera-navi-airco-led-cruise-apple-android/o/1816482",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816482/9117bc26edeb4778a82ff18a1fc69023~v192136037.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137537.5599508,
-"laatst": 1792137537.5599508,
-"keer": 0,
-"fout": ""
-},
-"1816481": {
-"melding": {
-"titel": "Volvo Xc-60 (2022)",
-"bericht": "2.0 B5 Inscription ACC Navi Virtual Leder Memory SHZ Apple/Android Camera PDC Clima\n€ 21.950 · 72.968 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc-60-2-0-b5-inscription-acc-navi-virtual-leder-memory-shz-apple-android-camera-pdc-clima/o/1816481",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816481/f49fa8e5e819719d0716b352a8233357~v192136024.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137537.6378694,
-"laatst": 1792137537.6378694,
-"keer": 0,
-"fout": ""
-},
-"1816478": {
-"melding": {
-"titel": "Peugeot e-208 (2023)",
-"bericht": "EV Active Pack 50 kWh Cruise Navi Apple/Android PDC Clima\n€ 11.950 · 41.673 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-e-208-ev-active-pack-50-kwh-cruise-navi-apple-android-pdc-clima/o/1816478",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816478/07729be4ed2340517f5c4e80e41bca22~v192135979.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137540.3935857,
-"laatst": 1792137540.3935857,
-"keer": 0,
-"fout": ""
-},
-"1816466": {
-"melding": {
-"titel": "BMW i4 (2023)",
-"bericht": "eDrive40 84 kWh M Sport ACC Navi Memory PDC Clima\n€ 7.250 · 103.104 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i4-edrive40-84-kwh-m-sport-acc-navi-memory-pdc-clima/o/1816466",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816466/0f374ff67d3ba0fab938c2989b63fd6b~v192135792.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792137540.4686172,
-"laatst": 1792137540.4686172,
-"keer": 0,
-"fout": ""
-},
 "1816554": {
 "melding": {
 "titel": "Mercedes A-klasse (2025)",
@@ -3163,9 +2935,9 @@
 "WhatsApp"
 ],
 "sinds": 1792139255.6033232,
-"laatst": 1792139255.6033232,
-"keer": 0,
-"fout": ""
+"laatst": 1792148767.7939222,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1763897": {
 "melding": {
@@ -3779,6 +3551,36 @@
 ],
 "sinds": 1792147007.3191996,
 "laatst": 1792147007.3191996,
+"keer": 0,
+"fout": ""
+},
+"1816189": {
+"melding": {
+"titel": "Dacia Jogger (2025)",
+"bericht": "1.0TCI 81kW 7-Persoons Expression\n€ 11.950 · 14.762 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-1-0tci-81kw-7-persoons-expression/o/1816189",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1816189/9503e32d50f4db925948de5a93f017ea~v192064558.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792148768.4486291,
+"laatst": 1792148768.4486291,
+"keer": 0,
+"fout": ""
+},
+"1816621": {
+"melding": {
+"titel": "BMW 3-serie (2023)",
+"bericht": "320E M Performance Facelift CURVED SCREEN HARMAN KARDON\nexportprijs € 14.990 · 237.620 km",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-320e-m-performance-facelift-curved-screen-harman-kardon/o/1816621",
+"foto": "https://www.schadeautos.nl/cache/picture/1048/1816621/0246c9dc4435d18ca82ae927978ea040~v192147284.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792148768.476925,
+"laatst": 1792148768.476925,
 "keer": 0,
 "fout": ""
 }
