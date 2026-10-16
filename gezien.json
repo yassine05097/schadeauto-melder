@@ -3033,150 +3033,53 @@
 "1816682",
 "1816666",
 "1816654",
-"1816635"
+"1816635",
+"1816764",
+"1816752",
+"1816751",
+"1816639",
+"1816779",
+"1816774",
+"1816778",
+"1816767",
+"1816773",
+"1756311",
+"1758855",
+"1779838",
+"1800743",
+"1780736",
+"1779854",
+"1726171",
+"1727988",
+"1778473",
+"1692931",
+"1816768",
+"1816766",
+"1816765",
+"1816762"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816764,
+"hoogste_id": 1816779,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816764",
-"1816759",
-"1816763",
-"1816761",
-"1727186",
-"1816760",
-"1816756",
-"1803766",
-"1777402",
-"1765946",
-"1795990",
-"1816758"
+"1816779",
+"1816774",
+"1816778",
+"1813758",
+"1816767",
+"1816773",
+"1756311",
+"1758855",
+"1779838",
+"1800743",
+"1780736",
+"1779854"
 ]
 },
 "wachtrij": {
-"1816648": {
-"melding": {
-"titel": "Audi A1 (2026)",
-"bericht": "",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1/o/1816648",
-"foto": "https://www.schadeautos.nl/cache/picture/239/1816648/e0c28bf2e10e4d32bbba8e93bb2854c2~v192150405.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792150541.6807973,
-"laatst": 1792160904.0078216,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1797016": {
-"melding": {
-"titel": "Opnieuw geplaatst: Nissan Qashqai (2025)",
-"bericht": "E-POWER BUSINESS PREMIUM\n€ 10.950 · 9.220 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-e-power-business-premium/o/1797016",
-"foto": "https://www.schadeautos.nl/cache/picture/965/1797016/181f5d2d6f39c3b92fed434bab32f9f3~v192150224.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792150541.719778,
-"laatst": 1792150541.719778,
-"keer": 0,
-"fout": ""
-},
-"1788744": {
-"melding": {
-"titel": "Opnieuw geplaatst: Toyota C-HR (2024)",
-"bericht": "€ 13.250 · 71.252 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-c-hr/o/1788744",
-"foto": "https://www.schadeautos.nl/cache/picture/965/1788744/d60faa7cfdf0bed220c7e89de37261d1~v192150222.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792150541.7584398,
-"laatst": 1792150541.7584398,
-"keer": 0,
-"fout": ""
-},
-"1808041": {
-"melding": {
-"titel": "Opnieuw geplaatst: Renault Clio (2026)",
-"bericht": "1.8 Hybrid 160 Esprit Alpine ACC 360°SHZ LrHZ LED\n€ 6.950 · 70 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-8-hybrid-160-esprit-alpine-acc-360-shz-lrhz-led/o/1808041",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1808041/77a4eee18743b55d16f0439ae660f26d~v192150151.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792150544.3925588,
-"laatst": 1792150544.3925588,
-"keer": 0,
-"fout": ""
-},
-"1808044": {
-"melding": {
-"titel": "Opnieuw geplaatst: Hyundai I-10 (2025)",
-"bericht": "1.0 Comfort Camera Virtual Airco Navi Cruise AppleCarplay/AndroidAuto\n€ 7.950 · 17.423 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-camera-virtual-airco-navi-cruise-applecarplay-androidauto/o/1808044",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1808044/6fee94ebfceefc78712caa3327338868~v192149569.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792150544.4323397,
-"laatst": 1792150544.4323397,
-"keer": 0,
-"fout": ""
-},
-"1816634": {
-"melding": {
-"titel": "Audi Q2 (2023)",
-"bericht": "€ 10.648 · 55.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q2/o/1816634",
-"foto": "https://www.schadeautos.nl/cache/picture/987/1816634/16c23563b691b0ec4f274d2caa705e66~v192149319.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792150544.473261,
-"laatst": 1792150544.473261,
-"keer": 0,
-"fout": ""
-},
-"1803010": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche Macan (2024)",
-"bericht": "4\n€ 49.950 · 38.178 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-macan-4/o/1803010",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1803010/287467515bbbf57c4e5b20bff4269e46~v188355615.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792150544.5135972,
-"laatst": 1792150544.5135972,
-"keer": 0,
-"fout": ""
-},
-"1816630": {
-"melding": {
-"titel": "Opel Corsa (2025)",
-"bericht": "F EDITION AUTOMAAT LED\n€ 8.200 · 40.436 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-f-edition-automaat-led/o/1816630",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1816630/082a0b95248f7f4438af9203f89c9ff9~v192149005.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792150547.0096884,
-"laatst": 1792150547.0096884,
-"keer": 0,
-"fout": ""
-},
 "1816667": {
 "melding": {
 "titel": "Suzuki Swift (2024)",
@@ -3188,9 +3091,9 @@
 "WhatsApp"
 ],
 "sinds": 1792152282.1083198,
-"laatst": 1792152282.1083198,
-"keer": 0,
-"fout": ""
+"laatst": 1792162886.745434,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1726760": {
 "melding": {
@@ -3455,8 +3358,7 @@
 "foto": "https://www.schadeautos.nl/cache/picture/982/1816764/3163c98c180ce609585dbacaa695eafe~v192160845.jpg"
 },
 "kanalen": [
-"WhatsApp",
-"ntfy"
+"WhatsApp"
 ],
 "sinds": 1792160910.441207,
 "laatst": 1792160910.441207,
@@ -3471,8 +3373,7 @@
 "foto": "https://www.schadeautos.nl/cache/picture/777/1816752/7beb0b1575e149bf80480cdc04751f9f~v192159887.jpg"
 },
 "kanalen": [
-"WhatsApp",
-"ntfy"
+"WhatsApp"
 ],
 "sinds": 1792160915.38666,
 "laatst": 1792160915.38666,
@@ -3487,8 +3388,7 @@
 "foto": "https://www.schadeautos.nl/cache/picture/1054/1816751/514c462118a71c2341e1c9c6d87f33eb~v192159817.jpg"
 },
 "kanalen": [
-"WhatsApp",
-"ntfy"
+"WhatsApp"
 ],
 "sinds": 1792160915.3884087,
 "laatst": 1792160915.3884087,
@@ -3503,11 +3403,40 @@
 "foto": "https://www.schadeautos.nl/cache/picture/66/1816639/bdc1f76f1a47fb587d79b3e76fafd1fc~v192153210.jpg"
 },
 "kanalen": [
-"WhatsApp",
-"ntfy"
+"WhatsApp"
 ],
 "sinds": 1792160917.8130643,
 "laatst": 1792160917.8130643,
+"keer": 0,
+"fout": ""
+},
+"1816778": {
+"melding": {
+"titel": "Fiat 500C (2023)",
+"bericht": "18.897 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500c/o/1816778",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1816778/99b101114166e6a216248d823c0a870e~v192162820.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792162888.4469712,
+"laatst": 1792162888.4469712,
+"keer": 0,
+"fout": ""
+},
+"1816766": {
+"melding": {
+"titel": "Chevrolet Silverado (2026)",
+"bericht": "CHEVROLET SILVERADO LT TRAIL BOSS 2026\n€ 51.500 · 12.738 km · lpg",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/chevrolet-silverado-chevrolet-silverado-lt-trail-boss-2026/o/1816766",
+"foto": "https://www.schadeautos.nl/cache/picture/982/1816766/1328f6fa175a5bdb65e6bf3331789d1f~v192161169.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792162892.502625,
+"laatst": 1792162892.502625,
 "keer": 0,
 "fout": ""
 }
