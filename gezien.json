@@ -2800,60 +2800,61 @@
 "1816529",
 "1816528",
 "1816518",
-"1731936"
+"1731936",
+"1816579",
+"1792956",
+"1802815",
+"1816577",
+"1804619",
+"1816575",
+"1812738",
+"1816574",
+"1775706",
+"1816572",
+"1792749",
+"1816565",
+"1816564",
+"1816567",
+"1816566",
+"1639467",
+"1816562",
+"1816563",
+"1808097",
+"1816561",
+"1816447",
+"1816457",
+"1816559",
+"1816556",
+"1764745",
+"1769014",
+"1774369",
+"1816555",
+"1751306",
+"1816442",
+"1816557"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816554,
+"hoogste_id": 1816579,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816554",
-"1763897",
-"1785957",
-"1744569",
-"1816521",
-"1816532",
-"1744564",
-"1720085",
-"1784745",
-"1816531",
-"1814160",
-"1809502"
+"1816579",
+"1792956",
+"1802815",
+"1816577",
+"1804619",
+"1816575",
+"1812738",
+"1816574",
+"1775706",
+"1816572",
+"1792749",
+"1816565"
 ]
 },
 "wachtrij": {
-"1816429": {
-"melding": {
-"titel": "Citroën Jumpy (2022)",
-"bericht": "1.5 BLUE HDI\n€ 8.954 · 65.624 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-jumpy-1-5-blue-hdi/o/1816429",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1816429/70819546717b62b462902bc807dd10c8~v192127728.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792129254.0992715,
-"laatst": 1792139254.656722,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816425": {
-"melding": {
-"titel": "Skoda Fabia (2023)",
-"bericht": "AMBITION\n€ 7.800 · 58.875 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-ambition/o/1816425",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1816425/c4b7668c043a73f425387a749fd0ed7f~v192127717.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792129254.3167753,
-"laatst": 1792129254.3167753,
-"keer": 0,
-"fout": ""
-},
 "1786561": {
 "melding": {
 "titel": "Opnieuw geplaatst: Hyundai I-10 (2024)",
@@ -2865,9 +2866,9 @@
 "WhatsApp"
 ],
 "sinds": 1792133163.1809916,
-"laatst": 1792133163.1809916,
-"keer": 0,
-"fout": ""
+"laatst": 1792141385.6684122,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816438": {
 "melding": {
@@ -3286,6 +3287,156 @@
 ],
 "sinds": 1792139258.1872153,
 "laatst": 1792139258.1872153,
+"keer": 0,
+"fout": ""
+},
+"1792956": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes CLE (2024)",
+"bericht": "450 4MATIC AMG Line Pano LED ACC HUD Burmester Memory SBL 360°\n€ 35 · 25.570 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cle-450-4matic-amg-line-pano-led-acc-hud-burmester-memory-sbl-360/o/1792956",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1792956/d152b2b1242e48ebaf404384bcf66d14~v192140603.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792141387.0895183,
+"laatst": 1792141387.0895183,
+"keer": 0,
+"fout": ""
+},
+"1816574": {
+"melding": {
+"titel": "Mercedes Vito (2024)",
+"bericht": "e VITO\n€ 10.250 · 18.829 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-vito-e-vito/o/1816574",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1816574/e60e4fa832494e2f7661ba1269971f46~v192140986.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792141387.3101993,
+"laatst": 1792141387.3101993,
+"keer": 0,
+"fout": ""
+},
+"1775706": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Puma (2023)",
+"bericht": "1.0 EcoBoost Hybrid ST-Line Navi Clima\n€ 7.750 · 40.628 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-1-0-ecoboost-hybrid-st-line-navi-clima/o/1775706",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1775706/a8314af21118d2d6c10e89210b3ea321~v179956611.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792141387.5307372,
+"laatst": 1792141387.5307372,
+"keer": 0,
+"fout": ""
+},
+"1792749": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW i5 (2025)",
+"bericht": "eDrive40 M Sport Edition 84 kWh H/K ACC Navi Clima Memory Leder SHZ Apple/Android Virtual Camera PDC\n€ 33.950 · 43.326 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i5-edrive40-m-sport-edition-84-kwh-h-k-acc-navi-clima-memory-leder-shz-apple-android-virtual-camera-pdc/o/1792749",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1792749/e0e57dd027b17ea0c4fc2dd18196c2bb~v192140582.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792141387.741431,
+"laatst": 1792141387.741431,
+"keer": 0,
+"fout": ""
+},
+"1816565": {
+"melding": {
+"titel": "Volkswagen Polo (2023)",
+"bericht": "1.0 TSI R-Line AUTOMAAT\n€ 12.950 · 135.830 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-r-line-automaat/o/1816565",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1816565/3bf1d5557d54f66ccb405e00cf98a01a~v192140381.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792141387.9613755,
+"laatst": 1792141387.9613755,
+"keer": 0,
+"fout": ""
+},
+"1816567": {
+"melding": {
+"titel": "Volkswagen Golf (2025)",
+"bericht": "GTI DSG 360/NAVI\n€ 22.900 · 32.441 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-gti-dsg-360-navi/o/1816567",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1816567/bbf7f11824411ed517adb0f97a9ea667~v192140316.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792141390.8655975,
+"laatst": 1792141390.8655975,
+"keer": 0,
+"fout": ""
+},
+"1816566": {
+"melding": {
+"titel": "Mercedes GLS (2024)",
+"bericht": "450d 4Matic AMG Line 7-Sitz. PANO/HUD/360\n€ 76.900 · 51.744 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-gls-450d-4matic-amg-line-7-sitz-pano-hud-360/o/1816566",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1816566/3184a1e717f79451ffefca1bd7d366d9~v192140313.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792141391.0729315,
+"laatst": 1792141391.0729315,
+"keer": 0,
+"fout": ""
+},
+"1816563": {
+"melding": {
+"titel": "Kia Niro (2023)",
+"bericht": "1.6 GDi Hybrid ExecutiveLine\n€ 15.950 · 44.960 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-1-6-gdi-hybrid-executiveline/o/1816563",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1816563/33fd8d5b95fd204f22a3480e506f7677~v192140198.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792141391.2798114,
+"laatst": 1792141391.2798114,
+"keer": 0,
+"fout": ""
+},
+"1764745": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes S-klasse (2023)",
+"bericht": "580 e Lang AMG Line 4X Memory/SHZ/Ventilatie HUD AR Burmester\n€ 50.950 · 67.555 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-s-klasse-580-e-lang-amg-line-4x-memory-shz-ventilatie-hud-ar-burmester/o/1764745",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1764745/fa72fa259d108ec7f071a683d0b9a111~v192139728.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792141394.371928,
+"laatst": 1792141394.371928,
+"keer": 0,
+"fout": ""
+},
+"1816555": {
+"melding": {
+"titel": "Nissan X-Trail (2026)",
+"bericht": "1.5 VC-T 163pk AUT. 6.191km!! MIldHybrid 7-Zits Climat Keyless-Go Camera Stoel/StuurVerwarming Navi>Android/Carplay\n€ 22.800 · 6.191 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-x-trail-1-5-vc-t-163pk-aut-6-191km-mildhybrid-7-zits-climat-keyless-go-camera-stoel-stuurverwarming-navi-android-carplay/o/1816555",
+"foto": "https://www.schadeautos.nl/cache/picture/739/1816555/0cfb9158373c476291467dcb44e3bd3d~v192139717.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792141394.5856764,
+"laatst": 1792141394.5856764,
 "keer": 0,
 "fout": ""
 }
