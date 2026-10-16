@@ -3081,15 +3081,19 @@
 "1813399",
 "1810829",
 "1816801",
-"1816802"
+"1816802",
+"1816805",
+"1816804"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816802,
+"hoogste_id": 1816805,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816805",
+"1816804",
 "1816802",
 "1816279",
 "1816114",
@@ -3099,9 +3103,7 @@
 "1797188",
 "1745643",
 "1816800",
-"1816799",
-"1816798",
-"1816797"
+"1816799"
 ]
 },
 "wachtrij": {
@@ -3116,9 +3118,24 @@
 "WhatsApp"
 ],
 "sinds": 1792187081.6406677,
-"laatst": 1792187081.6406677,
-"keer": 1,
+"laatst": 1792188619.509593,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1816804": {
+"melding": {
+"titel": "Volkswagen Tiguan (2026)",
+"bericht": "1.5 TSI eHybride IQ-Light 360View Virtual Keyless Sfeerverl. Acc Lane-Assist 1/2Leder\nexportprijs € 8.500 · 6.500 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-tsi-ehybride-iq-light-360view-virtual-keyless-sfeerverl-acc-lane-assist-1-2leder/o/1816804",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1816804/c88f0e5f6af079770edea1b424a223a2~v192187428.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792188620.1021895,
+"laatst": 1792188620.1021895,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
