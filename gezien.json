@@ -3080,15 +3080,17 @@
 "1745643",
 "1813399",
 "1810829",
-"1816801"
+"1816801",
+"1816802"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816801,
+"hoogste_id": 1816802,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816802",
 "1816279",
 "1816114",
 "1813399",
@@ -3099,55 +3101,24 @@
 "1816800",
 "1816799",
 "1816798",
-"1816797",
-"1816796"
+"1816797"
 ]
 },
 "wachtrij": {
-"1813399": {
+"1816802": {
 "melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Polo (2026)",
-"bericht": "1.0 TSI 2026 1317KM NIEUW!\n€ 14.750 · 1.317 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-2026-1317km-nieuw/o/1813399",
-"foto": "https://www.schadeautos.nl/cache/picture/1056/1813399/7d9187362441fe79d59729c8304156c1~v191310229.jpg"
+"titel": "Skoda Octavia (2025)",
+"bericht": "2.0 - 195 Kw DSG VRS Kombi\n€ 29.250 · 22.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-2-0-195-kw-dsg-vrs-kombi/o/1816802",
+"foto": "https://www.schadeautos.nl/cache/picture/13/1816802/ddf91ceaae7c40461fb686f15af3298d~v192186209.jpg"
 },
 "kanalen": [
 "WhatsApp"
 ],
-"sinds": 1792175446.8292537,
-"laatst": 1792185267.4898765,
-"keer": 5,
+"sinds": 1792187081.6406677,
+"laatst": 1792187081.6406677,
+"keer": 1,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1810829": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Kamiq (2026)",
-"bericht": "1.5 Monte Carlo\n€ 20.995 · 11.577 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-1-5-monte-carlo/o/1810829",
-"foto": "https://www.schadeautos.nl/cache/picture/1056/1810829/a1f01e18388c081d769067863671448c~v190687500.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792175446.8549378,
-"laatst": 1792175446.8549378,
-"keer": 0,
-"fout": ""
-},
-"1816801": {
-"melding": {
-"titel": "Volkswagen Tiguan (2024)",
-"bericht": "TIGUAN 1.5 AUTOMAAT 150 PK NAVI CLIMA CAMERA VIR DASHBOARD LED TREKHAAK B.J 2024\n€ 18.990 · 51.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-tiguan-1-5-automaat-150-pk-navi-clima-camera-vir-dashboard-led-trekhaak-b-j-2024/o/1816801",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1816801/a723e722767819d36d87b2c2244c1523~v192174014.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792175446.8800788,
-"laatst": 1792175446.8800788,
-"keer": 0,
-"fout": ""
 }
 },
 "storing": {},
