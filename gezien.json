@@ -2733,60 +2733,40 @@
 "1786561",
 "1682959",
 "1788392",
-"1816438"
+"1816438",
+"1758836",
+"1804598",
+"1816458",
+"1784763",
+"1785315",
+"1790711",
+"1781901",
+"1816450",
+"1652339",
+"1816444"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816446,
+"hoogste_id": 1816458,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816317",
-"1816193",
-"1816446",
-"1786561",
-"1682959",
-"1788392",
-"1812066",
-"1816438",
-"1799676",
-"1815661",
-"1620565",
-"1813632"
+"1758836",
+"1804598",
+"1816458",
+"1802029",
+"1798539",
+"1784763",
+"1785315",
+"1811830",
+"1816114",
+"1790711",
+"1781901",
+"1816450"
 ]
 },
 "wachtrij": {
-"1769532": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Niro (2024)",
-"bericht": "1.6 AUTOMAAT GDi Hybrid DynamicPlusLine\n€ 14.500 · 28.549 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-1-6-automaat-gdi-hybrid-dynamicplusline/o/1769532",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1769532/a15e6ca0765468c43dcaa81a14cbe407~v180211749.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792123897.1745377,
-"laatst": 1792133162.1090643,
-"keer": 6,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1785814": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Niro (2024)",
-"bericht": "1.6 AUTOMAAT GDi Hybrid DynamicLine\n€ 14.900 · 119.558 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-1-6-automaat-gdi-hybrid-dynamicline/o/1785814",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1785814/15886c76e89d477f31bc52228ff215f4~v182820484.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792123897.2020233,
-"laatst": 1792123897.2020233,
-"keer": 0,
-"fout": ""
-},
 "1816418": {
 "melding": {
 "titel": "Audi A3 (2025)",
@@ -2798,9 +2778,9 @@
 "WhatsApp"
 ],
 "sinds": 1792125772.7920125,
-"laatst": 1792125772.7920125,
-"keer": 0,
-"fout": ""
+"laatst": 1792135391.7016046,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816423": {
 "melding": {
@@ -2874,6 +2854,81 @@
 ],
 "sinds": 1792133163.3735225,
 "laatst": 1792133163.3735225,
+"keer": 0,
+"fout": ""
+},
+"1758836": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Scenic (2025)",
+"bericht": "EV 60 125kW Comfort Range Techno\n€ 15.500 · 8.670 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-ev-60-125kw-comfort-range-techno/o/1758836",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1758836/0b1021aedcd3ab451741f7d9eebf9b8f~v174853359.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792135393.2797813,
+"laatst": 1792135393.2797813,
+"keer": 0,
+"fout": ""
+},
+"1816458": {
+"melding": {
+"titel": "Jaguar XE (2022)",
+"bericht": "2.0 P250 R-Dynamic Black -AUTOMAAT-PDC-LEDER-CAMERA-NAVI\n€ 12.250 · 68.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xe-2-0-p250-r-dynamic-black-automaat-pdc-leder-camera-navi/o/1816458",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1816458/4ee0f75d003b8c1dd40b1374a96e9eb7~v192134924.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792135393.4897215,
+"laatst": 1792135393.4897215,
+"keer": 0,
+"fout": ""
+},
+"1784763": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Mégane (2022)",
+"bericht": "Estate 1.0 TCe Business Zen Cruise Clima Navi Bluetooth PDC LMV\n€ 5.950 · 108.637 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-0-tce-business-zen-cruise-clima-navi-bluetooth-pdc-lmv/o/1784763",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1784763/3732eb65cd055baf64f2b5db93a28aac~v192134419.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792135393.6939971,
+"laatst": 1792135393.6939971,
+"keer": 0,
+"fout": ""
+},
+"1785315": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mitsubishi Colt (2026)",
+"bericht": "1.6 HEV Intense Teilediebstahl Virtual Apple/Android Camera PDC\n€ 14.950 · 20 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-colt-1-6-hev-intense-teilediebstahl-virtual-apple-android-camera-pdc/o/1785315",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1785315/2010f5b715037ef0049410a7513e80d4~v192134271.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792135393.90286,
+"laatst": 1792135393.90286,
+"keer": 0,
+"fout": ""
+},
+"1816450": {
+"melding": {
+"titel": "Volvo V-60 (2024)",
+"bericht": "2.0 B3 Essential Edition\n€ 15.250 · 123.276 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-0-b3-essential-edition/o/1816450",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1816450/308e50dcfb621ae5b456f35d2fc20aeb~v192133950.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792135394.1081731,
+"laatst": 1792135394.1081731,
 "keer": 0,
 "fout": ""
 }
