@@ -3073,15 +3073,21 @@
 "1816794",
 "1816795",
 "1816792",
-"1816791"
+"1816791",
+"1816800",
+"1816799",
+"1816798"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816797,
+"hoogste_id": 1816800,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816800",
+"1816799",
+"1816798",
 "1816797",
 "1816796",
 "1816794",
@@ -3090,58 +3096,10 @@
 "1816791",
 "1816789",
 "1816787",
-"1811641",
-"1816783",
-"1816781",
-"1816782"
+"1811641"
 ]
 },
 "wachtrij": {
-"1768030": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volvo XC40 (2024)",
-"bericht": "B3 Automaat 163pk\n€ 19.500 · 20.843 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc40-b3-automaat-163pk/o/1768030",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1768030/8b2a9419f6e5c4dc84042f7c45292cf4~v177472262.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792156887.668804,
-"laatst": 1792166604.2802448,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816705": {
-"melding": {
-"titel": "Opel Corsa (2023)",
-"bericht": "Opel Corsa 1.2 Level 2\n€ 3.750 · 82.823 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-opel-corsa-1-2-level-2/o/1816705",
-"foto": "https://www.schadeautos.nl/cache/picture/10/1816705/d01812c7ff4f9d3b720439d8e13e3262~v192155469.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792156887.8295457,
-"laatst": 1792156887.8295457,
-"keer": 0,
-"fout": ""
-},
-"1816700": {
-"melding": {
-"titel": "BMW 3-serie (2022)",
-"bericht": "Touring 320e Autom. Edition Plus Navi Clima\n€ 15.250 · 70.470 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-touring-320e-autom-edition-plus-navi-clima/o/1816700",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1816700/79686ba73fd761d01b4b21c421db741f~v192154238.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792156890.8079712,
-"laatst": 1792156890.8079712,
-"keer": 0,
-"fout": ""
-},
 "1816742": {
 "melding": {
 "titel": "Volkswagen T-Cross (2025)",
@@ -3153,9 +3111,9 @@
 "WhatsApp"
 ],
 "sinds": 1792159123.0447268,
-"laatst": 1792159123.0447268,
-"keer": 0,
-"fout": ""
+"laatst": 1792168379.2516618,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816737": {
 "melding": {
@@ -3379,6 +3337,36 @@
 ],
 "sinds": 1792166605.3316545,
 "laatst": 1792166605.3316545,
+"keer": 0,
+"fout": ""
+},
+"1816800": {
+"melding": {
+"titel": "Audi A1 (2024)",
+"bericht": "Sportback 25 TFSI\n€ 11.495 · 10.977 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-sportback-25-tfsi/o/1816800",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1816800/c6138394962cb78b876c1d65c2d2e7a0~v192167784.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792168379.8570142,
+"laatst": 1792168379.8570142,
+"keer": 0,
+"fout": ""
+},
+"1816799": {
+"melding": {
+"titel": "Renault Austral (2024)",
+"bericht": "E-TECH HYBRIDE TECHNO PANO AUTOMAAT LED NAVI CAMERA CLIMA B.J 11-2024\n€ 17.950 · 14.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral-e-tech-hybride-techno-pano-automaat-led-navi-camera-clima-b-j-11-2024/o/1816799",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1816799/7f5b33c5eb1ac903adac871f848813fd~v192167159.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792168379.8837442,
+"laatst": 1792168379.8837442,
 "keer": 0,
 "fout": ""
 }
