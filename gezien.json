@@ -2998,60 +2998,65 @@
 "1816712",
 "1816714",
 "1816719",
-"1816718"
+"1816718",
+"1816759",
+"1816763",
+"1816761",
+"1727186",
+"1816760",
+"1816756",
+"1803766",
+"1765946",
+"1795990",
+"1816758",
+"1816757",
+"1812722",
+"1806505",
+"1811490",
+"1727184",
+"1812655",
+"1775789",
+"1659346",
+"1790095",
+"1794315",
+"1641875",
+"1782307",
+"1816753",
+"1816754",
+"1816750",
+"1816749",
+"1816739",
+"1816748",
+"1816678",
+"1816658",
+"1816651",
+"1816682",
+"1816666",
+"1816654",
+"1816635"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816745,
+"hoogste_id": 1816764,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816745",
-"1816744",
-"1816742",
-"1816743",
-"1816740",
-"1816736",
-"1816737",
-"1816738",
-"1816733",
-"1816730",
-"1816731",
-"1816732"
+"1816764",
+"1816759",
+"1816763",
+"1816761",
+"1727186",
+"1816760",
+"1816756",
+"1803766",
+"1777402",
+"1765946",
+"1795990",
+"1816758"
 ]
 },
 "wachtrij": {
-"1816189": {
-"melding": {
-"titel": "Dacia Jogger (2025)",
-"bericht": "1.0TCI 81kW 7-Persoons Expression\n€ 11.950 · 14.762 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-1-0tci-81kw-7-persoons-expression/o/1816189",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1816189/9503e32d50f4db925948de5a93f017ea~v192064558.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792148768.4486291,
-"laatst": 1792159119.9499838,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816621": {
-"melding": {
-"titel": "BMW 3-serie (2023)",
-"bericht": "320E M Performance Facelift CURVED SCREEN HARMAN KARDON\nexportprijs € 14.990 · 237.620 km",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-320e-m-performance-facelift-curved-screen-harman-kardon/o/1816621",
-"foto": "https://www.schadeautos.nl/cache/picture/1048/1816621/0246c9dc4435d18ca82ae927978ea040~v192147284.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792148768.476925,
-"laatst": 1792148768.476925,
-"keer": 0,
-"fout": ""
-},
 "1816648": {
 "melding": {
 "titel": "Audi A1 (2026)",
@@ -3063,9 +3068,9 @@
 "WhatsApp"
 ],
 "sinds": 1792150541.6807973,
-"laatst": 1792150541.6807973,
-"keer": 0,
-"fout": ""
+"laatst": 1792160904.0078216,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1797016": {
 "melding": {
@@ -3439,6 +3444,70 @@
 ],
 "sinds": 1792159127.0388403,
 "laatst": 1792159127.0388403,
+"keer": 0,
+"fout": ""
+},
+"1816764": {
+"melding": {
+"titel": "Ford Focus (2022)",
+"bericht": "FORD FOCUS 1.5D 2022\n€ 5.400 · 129.959 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-ford-focus-1-5d-2022/o/1816764",
+"foto": "https://www.schadeautos.nl/cache/picture/982/1816764/3163c98c180ce609585dbacaa695eafe~v192160845.jpg"
+},
+"kanalen": [
+"WhatsApp",
+"ntfy"
+],
+"sinds": 1792160910.441207,
+"laatst": 1792160910.441207,
+"keer": 1,
+"fout": "HTTP Error 502: Bad Gateway"
+},
+"1816752": {
+"melding": {
+"titel": "Skoda Kamiq (2022)",
+"bericht": "Kamiq Style 1.5 150pk LED VIRTUAL ACHTERUITRIJCAMERA\n44.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-kamiq-style-1-5-150pk-led-virtual-achteruitrijcamera/o/1816752",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1816752/7beb0b1575e149bf80480cdc04751f9f~v192159887.jpg"
+},
+"kanalen": [
+"WhatsApp",
+"ntfy"
+],
+"sinds": 1792160915.38666,
+"laatst": 1792160915.38666,
+"keer": 0,
+"fout": ""
+},
+"1816751": {
+"melding": {
+"titel": "Peugeot 308 (2024)",
+"bericht": "Peugeot 308 AUTOMAAT/PANO/LEER\n€ 16.500 · 88.301 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-peugeot-308-automaat-pano-leer/o/1816751",
+"foto": "https://www.schadeautos.nl/cache/picture/1054/1816751/514c462118a71c2341e1c9c6d87f33eb~v192159817.jpg"
+},
+"kanalen": [
+"WhatsApp",
+"ntfy"
+],
+"sinds": 1792160915.3884087,
+"laatst": 1792160915.3884087,
+"keer": 0,
+"fout": ""
+},
+"1816639": {
+"melding": {
+"titel": "Kia Ceed (2026)",
+"bericht": "1.0 T-GDi Automaat Navi Camera Clima MHEV Design Edition\n€ 13.930 · 25.032 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0-t-gdi-automaat-navi-camera-clima-mhev-design-edition/o/1816639",
+"foto": "https://www.schadeautos.nl/cache/picture/66/1816639/bdc1f76f1a47fb587d79b3e76fafd1fc~v192153210.jpg"
+},
+"kanalen": [
+"WhatsApp",
+"ntfy"
+],
+"sinds": 1792160917.8130643,
+"laatst": 1792160917.8130643,
 "keer": 0,
 "fout": ""
 }
