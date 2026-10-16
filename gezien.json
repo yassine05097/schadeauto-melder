@@ -2785,45 +2785,45 @@
 "1816464",
 "1797748",
 "1798998",
-"1790195"
+"1790195",
+"1816554",
+"1763897",
+"1744569",
+"1816521",
+"1816532",
+"1744564",
+"1720085",
+"1784745",
+"1816531",
+"1811074",
+"1816524",
+"1816529",
+"1816528",
+"1816518",
+"1731936"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816509,
+"hoogste_id": 1816554,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816509",
-"1809065",
-"1783724",
-"1815894",
-"1768867",
-"1663136",
-"1741321",
-"1816508",
-"1803547",
-"1777857",
-"1814234",
-"1816505"
+"1816554",
+"1763897",
+"1785957",
+"1744569",
+"1816521",
+"1816532",
+"1744564",
+"1720085",
+"1784745",
+"1816531",
+"1814160",
+"1809502"
 ]
 },
 "wachtrij": {
-"1816423": {
-"melding": {
-"titel": "Renault Twingo (2022)",
-"bericht": "III LIMITED\n€ 6.500 · 34.008 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-twingo-iii-limited/o/1816423",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1816423/3c7ce744fea51fd088db139949b71224~v192126830.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792127516.904638,
-"laatst": 1792137530.125824,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1816429": {
 "melding": {
 "titel": "Citroën Jumpy (2022)",
@@ -2835,9 +2835,9 @@
 "WhatsApp"
 ],
 "sinds": 1792129254.0992715,
-"laatst": 1792129254.0992715,
-"keer": 0,
-"fout": ""
+"laatst": 1792139254.656722,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816425": {
 "melding": {
@@ -3196,6 +3196,96 @@
 ],
 "sinds": 1792137540.4686172,
 "laatst": 1792137540.4686172,
+"keer": 0,
+"fout": ""
+},
+"1816554": {
+"melding": {
+"titel": "Mercedes A-klasse (2025)",
+"bericht": "AMG Line PANO/HUD/360/NAVI\n€ 24.900 · 20.729 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-amg-line-pano-hud-360-navi/o/1816554",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1816554/8bc0648eaed772ae206892400abb4354~v192139106.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792139255.6033232,
+"laatst": 1792139255.6033232,
+"keer": 0,
+"fout": ""
+},
+"1763897": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volvo EX30 (2025)",
+"bericht": "69kWh Extended Range Plus 200kW Single Motor\n€ 16.250 · 3.440 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-ex30-69kwh-extended-range-plus-200kw-single-motor/o/1763897",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1763897/f4863ea46915e2fd3203890d7fd2ec49~v176251475.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792139255.630174,
+"laatst": 1792139255.630174,
+"keer": 0,
+"fout": ""
+},
+"1744564": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 4-serie (2024)",
+"bericht": "M440i xDrive M-SPORT Edition Plus 374PK AUTOMAAT NIEUW PRIJS€ 121.318,-.\n€ 39.500 · 38.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-4-serie-m440i-xdrive-m-sport-edition-plus-374pk-automaat-nieuw-prijseur-121-318/o/1744564",
+"foto": "https://www.schadeautos.nl/cache/picture/104/1744564/61d2d94ed259b12cf9b2677ca94c09a5~v185912223.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792139255.6566582,
+"laatst": 1792139255.6566582,
+"keer": 0,
+"fout": ""
+},
+"1784745": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 2008 (2022)",
+"bericht": "E 2008 50KW\n€ 4.400 · 70.000 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-e-2008-50kw/o/1784745",
+"foto": "https://www.schadeautos.nl/cache/picture/1026/1784745/530e1777988c3cc6546c3a8f2fced596~v192138189.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792139255.683077,
+"laatst": 1792139255.683077,
+"keer": 0,
+"fout": ""
+},
+"1816529": {
+"melding": {
+"titel": "BMW 5-serie (2026)",
+"bericht": "i Touring M Sport HUD/AHK/360/H&K/NAVI\n€ 32.900 · 2.386 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-i-touring-m-sport-hud-ahk-360-h-k-navi/o/1816529",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1816529/63683e8fc627d15689f1ddc6175d3713~v192137912.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792139258.1603122,
+"laatst": 1792139258.1603122,
+"keer": 0,
+"fout": ""
+},
+"1816528": {
+"melding": {
+"titel": "Audi A3 (2025)",
+"bericht": "40 TFSIe S line PANO/KAM/NAVI\n€ 27.900 · 17.552 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-40-tfsie-s-line-pano-kam-navi/o/1816528",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1816528/8c05b9808ded43e8ec4c8927cab880d0~v192137906.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792139258.1872153,
+"laatst": 1792139258.1872153,
 "keer": 0,
 "fout": ""
 }
