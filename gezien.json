@@ -3114,7 +3114,15 @@
 "1807408",
 "1808007",
 "1780444",
-"1809983"
+"1809983",
+"1782616",
+"1801593",
+"1791636",
+"1811869",
+"1801539",
+"1802257",
+"1801599",
+"1748023"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -3123,18 +3131,18 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1782616",
+"1801593",
+"1791636",
+"1811869",
+"1801539",
+"1802257",
+"1801599",
+"1748023",
 "1783220",
 "1767070",
 "1816744",
-"1786224",
-"1807408",
-"1808007",
-"1808006",
-"1780444",
-"1809983",
-"1809771",
-"1688184",
-"1798096"
+"1786224"
 ]
 },
 "wachtrij": {
@@ -3149,8 +3157,8 @@
 "WhatsApp"
 ],
 "sinds": 1792227687.6024792,
-"laatst": 1792230714.6434703,
-"keer": 3,
+"laatst": 1792231809.4873743,
+"keer": 4,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1767070": {
@@ -3165,6 +3173,51 @@
 ],
 "sinds": 1792230715.5049956,
 "laatst": 1792230715.5049956,
+"keer": 0,
+"fout": ""
+},
+"1801539": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Golf (2025)",
+"bericht": "1.5 eTSI 110 kW Style DSG\n€ 18.900 · 19.028 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5-etsi-110-kw-style-dsg/o/1801539",
+"foto": "https://www.schadeautos.nl/cache/picture/323/1801539/b937ca351369fb07c1649463cd3a8bad~v192231349.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792231810.640623,
+"laatst": 1792231810.640623,
+"keer": 0,
+"fout": ""
+},
+"1802257": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Ceed (2024)",
+"bericht": "1.0 T-GDI\n€ 8.250 · 75.785 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0-t-gdi/o/1802257",
+"foto": "https://www.schadeautos.nl/cache/picture/337/1802257/dc2479893b1922b18d9309fac976061d~v188196773.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792231810.7468433,
+"laatst": 1792231810.7468433,
+"keer": 0,
+"fout": ""
+},
+"1748023": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Grandland (2023)",
+"bericht": "X 1.2 Turbo (96kW) GS Line | Motor OK | Deutsche Brief\n€ 8.900 · 8.994 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-grandland-x-1-2-turbo-96kw-gs-line-motor-ok-deutsche-brief/o/1748023",
+"foto": "https://www.schadeautos.nl/cache/picture/323/1748023/7a8239ab9739e0c8440d45add5dcc429~v192231573.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792231810.8449225,
+"laatst": 1792231810.8449225,
 "keer": 0,
 "fout": ""
 }
