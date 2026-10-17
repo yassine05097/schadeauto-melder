@@ -3098,30 +3098,51 @@
 "1753496",
 "1644863",
 "1777666",
-"1816829"
+"1816829",
+"1816843",
+"1816842",
+"1816839",
+"1816840",
+"1816836"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816829,
+"hoogste_id": 1816843,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816843",
+"1816842",
+"1795114",
+"1815835",
+"1816839",
+"1816840",
+"1816836",
 "1792943",
 "1644863",
 "1777666",
 "1816829",
-"1764179",
-"1517099",
-"1812462",
-"1753496",
-"1811830",
-"1816279",
-"1790457",
-"1658664"
+"1764179"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1816839": {
+"melding": {
+"titel": "Volkswagen Polo (2025)",
+"bericht": "1.0 TSi DSG. R-Line\n€ 17.250 · 5.489 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-dsg-r-line/o/1816839",
+"foto": "https://www.schadeautos.nl/cache/picture/13/1816839/32d813618ba3bb0e78df8a24432ed5a6~v192226772.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792227687.6024792,
+"laatst": 1792227687.6024792,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
