@@ -3176,15 +3176,17 @@
 "1813380",
 "1618034",
 "1816918",
-"1816917"
+"1816917",
+"1816920"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816918,
+"hoogste_id": 1816920,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816920",
 "1814637",
 "1816917",
 "1618034",
@@ -3195,26 +3197,10 @@
 "1805965",
 "1812328",
 "1813360",
-"1813380",
-"1816913"
+"1813380"
 ]
 },
 "wachtrij": {
-"1816916": {
-"melding": {
-"titel": "Audi Q3 (2023)",
-"bericht": "Sportback 45 TFSIe 180KW Hybrid S line\n€ 18.900 · 63.306 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q3-sportback-45-tfsie-180kw-hybrid-s-line/o/1816916",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1816916/a926246899f66e674640cb3e6cfade18~v192316710.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792316895.919204,
-"laatst": 1792326799.1116352,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1618034": {
 "melding": {
 "titel": "Opnieuw geplaatst: Audi Q5 (2022)",
@@ -3226,9 +3212,9 @@
 "WhatsApp"
 ],
 "sinds": 1792319639.2568073,
-"laatst": 1792319639.2568073,
-"keer": 0,
-"fout": ""
+"laatst": 1792328831.3803973,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816918": {
 "melding": {
