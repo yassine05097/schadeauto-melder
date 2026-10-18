@@ -3169,27 +3169,31 @@
 "1767429",
 "1715871",
 "1816913",
-"1816912"
+"1816912",
+"1816916",
+"1816915",
+"1807448",
+"1813380"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816913,
+"hoogste_id": 1816916,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816916",
+"1816915",
+"1807448",
+"1805965",
+"1812328",
+"1813360",
+"1813380",
 "1816913",
 "1816912",
 "1767429",
 "1715871",
-"1815584",
-"1815422",
-"1810293",
-"1744448",
-"1816911",
-"1816910",
-"1816909",
-"1816908"
+"1815584"
 ]
 },
 "wachtrij": {
@@ -3204,8 +3208,8 @@
 "WhatsApp"
 ],
 "sinds": 1792312151.9008937,
-"laatst": 1792315130.1116726,
-"keer": 2,
+"laatst": 1792316894.6479032,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816913": {
@@ -3220,6 +3224,21 @@
 ],
 "sinds": 1792313804.5743997,
 "laatst": 1792313804.5743997,
+"keer": 0,
+"fout": ""
+},
+"1816916": {
+"melding": {
+"titel": "Audi Q3 (2023)",
+"bericht": "Sportback 45 TFSIe 180KW Hybrid S line\n€ 18.900 · 63.306 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q3-sportback-45-tfsie-180kw-hybrid-s-line/o/1816916",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1816916/a926246899f66e674640cb3e6cfade18~v192316710.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792316895.919204,
+"laatst": 1792316895.919204,
 "keer": 0,
 "fout": ""
 }
