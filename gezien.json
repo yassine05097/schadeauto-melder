@@ -3178,15 +3178,17 @@
 "1816918",
 "1816917",
 "1816920",
-"1816921"
+"1816921",
+"1816922"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816921,
+"hoogste_id": 1816922,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816922",
 "1816921",
 "1814637",
 "1816917",
@@ -3197,24 +3199,23 @@
 "1807448",
 "1805965",
 "1812328",
-"1813360",
-"1813380"
+"1813360"
 ]
 },
 "wachtrij": {
-"1816918": {
+"1816922": {
 "melding": {
-"titel": "Mazda CX-5 (2023)",
-"bericht": "2.5 eSkyActive-G M Hybrid 194 Newground Bose Head-Up 360Camera\n€ 16.950 · 76.453 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-5-2-5-eskyactive-g-m-hybrid-194-newground-bose-head-up-360camera/o/1816918",
-"foto": "https://www.schadeautos.nl/cache/picture/899/1816918/f806331055b1fc58a817d972b8febd15~v192324799.jpg"
+"titel": "Volkswagen Transporter (2026)",
+"bericht": "2.0 TDI COMBI LANG 9 PERSOONS L2H1 NAVI KLIMA CAMERA LEER\nexportprijs € 16.850 · 10.000 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-transporter-2-0-tdi-combi-lang-9-persoons-l2h1-navi-klima-camera-leer/o/1816922",
+"foto": "https://www.schadeautos.nl/cache/picture/33/1816922/fe6c86869f6e55fde7feb05053d1399b~v192335857.jpg"
 },
 "kanalen": [
 "WhatsApp"
 ],
-"sinds": 1792325000.9794064,
-"laatst": 1792334881.018857,
-"keer": 3,
+"sinds": 1792336058.6774135,
+"laatst": 1792336058.6774135,
+"keer": 1,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 }
 },
