@@ -3165,7 +3165,9 @@
 "1816903",
 "1816902",
 "1816901",
-"1744448"
+"1744448",
+"1767429",
+"1715871"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -3174,6 +3176,8 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1767429",
+"1715871",
 "1815584",
 "1815422",
 "1810293",
@@ -3183,9 +3187,7 @@
 "1816909",
 "1816908",
 "1816907",
-"1816906",
-"1816905",
-"1816903"
+"1816906"
 ]
 },
 "wachtrij": {
@@ -3200,8 +3202,8 @@
 "WhatsApp"
 ],
 "sinds": 1792302002.599304,
-"laatst": 1792310568.7815285,
-"keer": 6,
+"laatst": 1792312150.8482966,
+"keer": 7,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816908": {
@@ -3261,6 +3263,21 @@
 ],
 "sinds": 1792302003.2404833,
 "laatst": 1792302003.2404833,
+"keer": 0,
+"fout": ""
+},
+"1715871": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen T-Cross (2024)",
+"bericht": "TSI 85 kW Life DSG 2024\n€ 13.500 · 6.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-tsi-85-kw-life-dsg-2024/o/1715871",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1715871/b42bcc1c489a83c8e345afe298139b8f~v192310704.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792312151.9008937,
+"laatst": 1792312151.9008937,
 "keer": 0,
 "fout": ""
 }
