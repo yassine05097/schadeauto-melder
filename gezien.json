@@ -3174,15 +3174,19 @@
 "1816915",
 "1807448",
 "1813380",
-"1618034"
+"1618034",
+"1816918",
+"1816917"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816916,
+"hoogste_id": 1816918,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816918",
+"1816917",
 "1618034",
 "1803868",
 "1816916",
@@ -3192,27 +3196,10 @@
 "1812328",
 "1813360",
 "1813380",
-"1816913",
-"1816912",
-"1767429"
+"1816913"
 ]
 },
 "wachtrij": {
-"1816913": {
-"melding": {
-"titel": "BMW 1-serie (2025)",
-"bericht": "120i M-Pakket NAP Nederlandse Auto! Pano Head-Up 360Camera\n€ 25.500 · 12.094 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-120i-m-pakket-nap-nederlandse-auto-pano-head-up-360camera/o/1816913",
-"foto": "https://www.schadeautos.nl/cache/picture/899/1816913/0778d227fd3a2e13902c172a006343c7~v192313711.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792313804.5743997,
-"laatst": 1792323852.1985247,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1816916": {
 "melding": {
 "titel": "Audi Q3 (2023)",
@@ -3224,9 +3211,9 @@
 "WhatsApp"
 ],
 "sinds": 1792316895.919204,
-"laatst": 1792316895.919204,
-"keer": 0,
-"fout": ""
+"laatst": 1792324999.8852434,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1618034": {
 "melding": {
@@ -3240,6 +3227,21 @@
 ],
 "sinds": 1792319639.2568073,
 "laatst": 1792319639.2568073,
+"keer": 0,
+"fout": ""
+},
+"1816918": {
+"melding": {
+"titel": "Mazda CX-5 (2023)",
+"bericht": "2.5 eSkyActive-G M Hybrid 194 Newground Bose Head-Up 360Camera\n€ 16.950 · 76.453 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-5-2-5-eskyactive-g-m-hybrid-194-newground-bose-head-up-360camera/o/1816918",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1816918/f806331055b1fc58a817d972b8febd15~v192324799.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792325000.9794064,
+"laatst": 1792325000.9794064,
 "keer": 0,
 "fout": ""
 }
