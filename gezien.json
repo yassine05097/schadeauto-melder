@@ -3367,105 +3367,65 @@
 "1817097",
 "1817076",
 "1817098",
-"1740161"
+"1740161",
+"1817157",
+"1817155",
+"1817137",
+"1817134",
+"1817139",
+"1723542",
+"1817138",
+"1817154",
+"1817153",
+"1817152",
+"1817151",
+"1817150",
+"1817149",
+"1817148",
+"1817147",
+"1817146",
+"1817145",
+"1817144",
+"1817143",
+"1817142",
+"1817141",
+"1817140",
+"1811042",
+"1800184",
+"1798651",
+"1781409",
+"1792532",
+"1779615",
+"1817133",
+"1780778",
+"1817131",
+"1817130",
+"1817128",
+"1682207",
+"1817127"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817126,
+"hoogste_id": 1817157,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817111",
-"1808885",
-"1817126",
-"1817114",
-"1817125",
-"1817124",
-"1817123",
-"1778342",
-"1817122",
-"1803361",
-"1817118",
-"1817110"
+"1817157",
+"1817155",
+"1817137",
+"1817134",
+"1817139",
+"1723542",
+"1817138",
+"1817154",
+"1817153",
+"1817152",
+"1817151",
+"1817150"
 ]
 },
 "wachtrij": {
-"1816985": {
-"melding": {
-"titel": "Opel Astra (2024)",
-"bericht": "1.2i - 12V TURBO\n€ 7.450 · 23.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-2i-12v-turbo/o/1816985",
-"foto": "https://www.schadeautos.nl/cache/picture/1050/1816985/2cf57f21844a5ed3fc9b7cf9f56c8a15~v192398274.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792399833.636711,
-"laatst": 1792409736.0886786,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816993": {
-"melding": {
-"titel": "MG ZS (2022)",
-"bericht": "1.0 T-GDI - 12V TURBO\n€ 6.950 · 56.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs-1-0-t-gdi-12v-turbo/o/1816993",
-"foto": "https://www.schadeautos.nl/cache/picture/1050/1816993/157735d15a966967f8266b2b9488d814~v192398949.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792399833.668532,
-"laatst": 1792399833.668532,
-"keer": 0,
-"fout": ""
-},
-"1797517": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mini Cooper S (2022)",
-"bericht": "2.0 16V COOPER S CABRIO BENZ AUT 1.998CC 131KW 178PK\n€ 14.950 · 89.184 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-2-0-16v-cooper-s-cabrio-benz-aut-1-998cc-131kw-178pk/o/1797517",
-"foto": "https://www.schadeautos.nl/cache/picture/489/1797517/c12b1e8770e283a8d6b9c8a3acf4d2f0~v186956071.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792399838.6109197,
-"laatst": 1792399838.6109197,
-"keer": 0,
-"fout": ""
-},
-"1794769": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen ID.5 (2025)",
-"bericht": "PRO\n€ 6.800 · 33.349 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-5-pro/o/1794769",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1794769/be9baa4bdb9a3050cffdac81d8e04562~v192398035.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792399838.6377385,
-"laatst": 1792399838.6377385,
-"keer": 0,
-"fout": ""
-},
-"1792243": {
-"melding": {
-"titel": "Opnieuw geplaatst: Hyundai I-20 (2024)",
-"bericht": "N 200PK NAVI / CRUISE / CAMERA / BOSE\n€ 8.950 · 41.050 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-n-200pk-navi-cruise-camera-bose/o/1792243",
-"foto": "https://www.schadeautos.nl/cache/picture/302/1792243/66fe443d5f488feedd5805da5a1b8d67~v184785558.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792399838.6666114,
-"laatst": 1792399838.6666114,
-"keer": 0,
-"fout": ""
-},
 "1716558": {
 "melding": {
 "titel": "Opnieuw geplaatst: Peugeot 208 (2022)",
@@ -3477,9 +3437,9 @@
 "WhatsApp"
 ],
 "sinds": 1792401714.731827,
-"laatst": 1792401714.731827,
-"keer": 0,
-"fout": ""
+"laatst": 1792411778.1745358,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817049": {
 "melding": {
@@ -3868,6 +3828,186 @@
 ],
 "sinds": 1792409742.434006,
 "laatst": 1792409742.434006,
+"keer": 0,
+"fout": ""
+},
+"1817157": {
+"melding": {
+"titel": "Porsche Taycan (2025)",
+"bericht": "4S 84kwh Full Option\n€ 58.500 · 36 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-4s-84kwh-full-option/o/1817157",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1817157/7352a127b0fd3cff397565c0a0d5566a~v192411429.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411781.736386,
+"laatst": 1792411781.736386,
+"keer": 0,
+"fout": ""
+},
+"1817139": {
+"melding": {
+"titel": "MG MG4 (2023)",
+"bericht": "64 kWh Luxury Long Range\n€ 10.850 · 32.395 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-mg4-64-kwh-luxury-long-range/o/1817139",
+"foto": "https://www.schadeautos.nl/cache/picture/451/1817139/a599f1b402b84354224f8a43ba9f0f95~v192411054.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411781.7637417,
+"laatst": 1792411781.7637417,
+"keer": 0,
+"fout": ""
+},
+"1723542": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 308 (2024)",
+"bericht": "1.2 Puretech Business Navi 131pk\n€ 13.250 · 85.562 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2-puretech-business-navi-131pk/o/1723542",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1723542/67adce8ccf773f49dd65ea82c4ff6536~v164078378.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411781.789439,
+"laatst": 1792411781.789439,
+"keer": 0,
+"fout": ""
+},
+"1817138": {
+"melding": {
+"titel": "Kia EV5 (2026)",
+"bericht": "GT-Plusline 84.4 kwh 218pk Aut\n€ 21.900 · 6.344 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev5-gt-plusline-84-4-kwh-218pk-aut/o/1817138",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1817138/997db51ac080d7c3eb0db4c0e3fb39a8~v192410951.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411781.8167856,
+"laatst": 1792411781.8167856,
+"keer": 0,
+"fout": ""
+},
+"1817150": {
+"melding": {
+"titel": "Peugeot 208 (2022)",
+"bericht": "II LIKE\n€ 1.750 · 82.122 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-ii-like/o/1817150",
+"foto": "https://www.schadeautos.nl/cache/picture/1064/1817150/52ea583a5989e6adaf1279a6b6ff59ec~v192410978.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411781.842922,
+"laatst": 1792411781.842922,
+"keer": 0,
+"fout": ""
+},
+"1817145": {
+"melding": {
+"titel": "Kia Rio (2022)",
+"bericht": "1.0 T MHEV GT LINE 5D\n€ 3.872 · 49.907 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-rio-1-0-t-mhev-gt-line-5d/o/1817145",
+"foto": "https://www.schadeautos.nl/cache/picture/1064/1817145/d3cdd1378af814a0070224f8cdaa0fa6~v192410962.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411784.3490624,
+"laatst": 1792411784.3490624,
+"keer": 0,
+"fout": ""
+},
+"1817140": {
+"melding": {
+"titel": "Audi A3 (2024)",
+"bericht": "30 TFSI SPORTBACK S TRONIC\n€ 13.450 · 57.461 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-30-tfsi-sportback-s-tronic/o/1817140",
+"foto": "https://www.schadeautos.nl/cache/picture/1064/1817140/e2bc12b121a47a914049860b3c4f19df~v192410950.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411784.3766243,
+"laatst": 1792411784.3766243,
+"keer": 0,
+"fout": ""
+},
+"1798651": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Corsa (2025)",
+"bericht": "1.2 Turbo Hybrid Edition Automaat\n€ 7.250 · 14.482 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-hybrid-edition-automaat/o/1798651",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1798651/e2d0a9be04c75c631bc241a50cced461~v187146407.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411787.2649982,
+"laatst": 1792411787.2649982,
+"keer": 0,
+"fout": ""
+},
+"1781409": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Focus (2023)",
+"bericht": "1.0 EcoBoost Hybrid ST Line Style\n€ 5.250 · 91.006 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line-style/o/1781409",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1781409/78f4347fd48495a8cfbfe7a89d3276c3~v181519344.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411787.2923796,
+"laatst": 1792411787.2923796,
+"keer": 0,
+"fout": ""
+},
+"1792532": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Picanto (2022)",
+"bericht": "1.0 Dpi DynamicLine\n€ 5.400 · 45.163 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-dynamicline/o/1792532",
+"foto": "https://www.schadeautos.nl/cache/picture/270/1792532/1239688f79809ddd48d324b01b35d03e~v184878394.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411787.3183393,
+"laatst": 1792411787.3183393,
+"keer": 0,
+"fout": ""
+},
+"1780778": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Astra (2022)",
+"bericht": "SPORTS TOURER 1.2 Business 131pk Elegance\n€ 3.950 · 109.657 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-2-business-131pk-elegance/o/1780778",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1780778/29ab2d8a777a8d0d8e19a8e24ba06289~v181251083.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411787.3443723,
+"laatst": 1792411787.3443723,
+"keer": 0,
+"fout": ""
+},
+"1817130": {
+"melding": {
+"titel": "Tesla Model Y (2024)",
+"bericht": "Long Range 75kWh Dual motor SUV Elektrisch 378kW (514pk) 4x4\n€ 18.750 · 51.165 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-long-range-75kwh-dual-motor-suv-elektrisch-378kw-514pk-4x4/o/1817130",
+"foto": "https://www.schadeautos.nl/cache/picture/146/1817130/d90ab2d9ebb7fb7e40f7e9eec1e17ae8~v192410232.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792411787.3708577,
+"laatst": 1792411787.3708577,
 "keer": 0,
 "fout": ""
 }
