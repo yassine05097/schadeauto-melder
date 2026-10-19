@@ -3525,7 +3525,8 @@
 "1817335",
 "1817332",
 "1817328",
-"1817339"
+"1817339",
+"1799112"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -3534,6 +3535,7 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1799112",
 "1817339",
 "1817338",
 "1817335",
@@ -3544,86 +3546,10 @@
 "1817323",
 "1799165",
 "1764360",
-"1810577",
-"1814454"
+"1810577"
 ]
 },
 "wachtrij": {
-"1816964": {
-"melding": {
-"titel": "Citroën C5 Aircross (2022)",
-"bericht": "1.6Plug-in Hybrid 165kW Automaat Pano Shine\n€ 12.500 · 36.747 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c5-aircross-1-6plug-in-hybrid-165kw-automaat-pano-shine/o/1816964",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1816964/b076b0e2916130316fb0f4e1cc8dce6a~v192394182.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792423344.617893,
-"laatst": 1792434109.0776668,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1817283": {
-"melding": {
-"titel": "Skoda Kodiaq (2024)",
-"bericht": "1.5 TSI MHEV Business Edition KEYLESS - CAMERA\nexportprijs € 15.750 · 110.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-1-5-tsi-mhev-business-edition-keyless-camera/o/1817283",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1817283/41356e57b61ee638fcdd972a4873d7e4~v192422747.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792423344.7435482,
-"laatst": 1792423344.7435482,
-"keer": 0,
-"fout": ""
-},
-"1817305": {
-"melding": {
-"titel": "BMW 3-serie (2022)",
-"bericht": "318 i a\n€ 6.450 · 93.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-318-i-a/o/1817305",
-"foto": "https://www.schadeautos.nl/cache/picture/909/1817305/f36599c40e594811dcf81023c467550f~v192424803.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792425317.6870177,
-"laatst": 1792425317.6870177,
-"keer": 0,
-"fout": ""
-},
-"1817295": {
-"melding": {
-"titel": "Volkswagen Polo (2026)",
-"bericht": "Bj:01-2026 1.0Mpi Full-Led koplampen Cruisecontrol Digital Cockpit Stoelverwarming Lichtautomaat 4xElektrische ramen Elektrische-spiegels met verwarming Centrale vergrendeling met afstandsbediening Start-Stop Drivelane Parkeersensoren voor en achter\n€ 11.900 · 2.400 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-bj-01-2026-1-0mpi-full-led-koplampen-cruisecontrol-digital-cockpit-stoelverwarming-lichtautomaat-4xelektrische-ramen-elektrische-spiegels-met-verwarming-centrale-vergrendeling-met-afstandsbediening-start-stop-drivelane-parkeersensoren-voor-en-achter/o/1817295",
-"foto": "https://www.schadeautos.nl/cache/picture/885/1817295/5d005e082399f8b4198d120bb7356d0a~v192424516.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792425317.8565094,
-"laatst": 1792425317.8565094,
-"keer": 0,
-"fout": ""
-},
-"1817289": {
-"melding": {
-"titel": "Mercedes AMG (2024)",
-"bericht": "€ 61.900 · 33.062 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-amg/o/1817289",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1817289/a6978e26768da5d273917cf1639080fc~v192423520.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792425318.0316455,
-"laatst": 1792425318.0316455,
-"keer": 0,
-"fout": ""
-},
 "1817311": {
 "melding": {
 "titel": "Volkswagen Golf (2023)",
@@ -3635,9 +3561,9 @@
 "WhatsApp"
 ],
 "sinds": 1792426964.120659,
-"laatst": 1792426964.120659,
-"keer": 0,
-"fout": ""
+"laatst": 1792436705.2476408,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817326": {
 "melding": {
