@@ -3205,30 +3205,53 @@
 "1794037",
 "1771335",
 "1792907",
-"1760086"
+"1760086",
+"1816947",
+"1816946",
+"1816945",
+"1816944",
+"1816943",
+"1816942",
+"1816941"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816940,
+"hoogste_id": 1816947,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816947",
+"1816946",
+"1816945",
+"1816944",
+"1816943",
+"1816942",
+"1816941",
 "1792913",
 "1796772",
 "1806758",
 "1806371",
-"1794037",
-"1771335",
-"1792907",
-"1760086",
-"1816940",
-"1816939",
-"1816936",
-"1816937"
+"1794037"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1816942": {
+"melding": {
+"titel": "Citroën C3 (2022)",
+"bericht": "III\n€ 4.800 · 98.327 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-iii/o/1816942",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1816942/d977aac880ccc2071676a44869029f9a~v192387821.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792389549.9668808,
+"laatst": 1792389549.9668808,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
