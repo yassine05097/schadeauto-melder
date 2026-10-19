@@ -3468,180 +3468,48 @@
 "1816952",
 "1817232",
 "1817231",
-"1817229"
+"1817229",
+"1817273",
+"1817269",
+"1817268",
+"1817270",
+"1817267",
+"1817266",
+"1817262",
+"1632822",
+"1817261",
+"1817260",
+"1817258",
+"1817257",
+"1817249",
+"1817256",
+"1649374",
+"1817253",
+"1817246",
+"1817251"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817247,
+"hoogste_id": 1817273,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817247",
-"1817244",
-"1816991",
-"1817117",
-"1817099",
-"1817109",
-"1817121",
-"1817112",
-"1817103",
-"1817240",
-"1685673",
-"1817239"
+"1816649",
+"1817273",
+"1817269",
+"1813935",
+"1817268",
+"1817270",
+"1816971",
+"1817267",
+"1817266",
+"1817262",
+"1814093",
+"1632822"
 ]
 },
 "wachtrij": {
-"1817126": {
-"melding": {
-"titel": "Skoda Fabia (2022)",
-"bericht": "exportprijs € 2.950 · 106.747 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia/o/1817126",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817126/b0a8d883bd4903ff168dd4a8a1b44a10~v192409625.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792409737.076893,
-"laatst": 1792419183.7729058,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1817122": {
-"melding": {
-"titel": "Toyota ProAce (2023)",
-"bericht": "38.502 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-proace/o/1817122",
-"foto": "https://www.schadeautos.nl/cache/picture/964/1817122/51021112114d91f5c8893d32ba12d61a~v192409460.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792409737.105543,
-"laatst": 1792409737.105543,
-"keer": 0,
-"fout": ""
-},
-"1772159": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Taigo (2022)",
-"bericht": "1.0TSI 81kW Automaat Life Business\n€ 14.700 · 244.335 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-taigo-1-0tsi-81kw-automaat-life-business/o/1772159",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1772159/860c9eaddb373de807fc024d5c78e6ab~v178657773.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792409739.562521,
-"laatst": 1792409739.562521,
-"keer": 0,
-"fout": ""
-},
-"1817116": {
-"melding": {
-"titel": "Ford Transit (2025)",
-"bericht": "exportprijs € 9.400 · 14.122 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit/o/1817116",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817116/3fced3073fc864b8b5ef981c322a6b30~v192409179.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792409739.5893621,
-"laatst": 1792409739.5893621,
-"keer": 0,
-"fout": ""
-},
-"1817115": {
-"melding": {
-"titel": "Fiat Panda (2023)",
-"bericht": "exportprijs € 4.700 · 60.865 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-panda/o/1817115",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817115/2d69a83143e24f144f2002f8fa056f86~v192409156.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792409739.615686,
-"laatst": 1792409739.615686,
-"keer": 0,
-"fout": ""
-},
-"1715173": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 208 (2024)",
-"bericht": "1.2 Puretech 100 GT\nexportprijs € 4.350 · 10.882 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-100-gt/o/1715173",
-"foto": "https://www.schadeautos.nl/cache/picture/451/1715173/139782ff932dadcbde98ee6f1cea2e6d~v187642075.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792409739.6420352,
-"laatst": 1792409739.6420352,
-"keer": 0,
-"fout": ""
-},
-"1766731": {
-"melding": {
-"titel": "Opnieuw geplaatst: Nio ET7 (2024)",
-"bericht": "100 kWh AWD (ex Accu)\n€ 14.850 · 1 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nio-et7-100-kwh-awd-ex-accu/o/1766731",
-"foto": "https://www.schadeautos.nl/cache/picture/451/1766731/573ef50d0a8c60ffd6d3a20f11c0d72d~v187902893.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792409739.6684244,
-"laatst": 1792409739.6684244,
-"keer": 0,
-"fout": ""
-},
-"1804704": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche Cayenne (2022)",
-"bericht": "Coupé 3.0 E-Hybrid\n€ 54.900 · 63.754 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-coupe-3-0-e-hybrid/o/1804704",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1804704/2bc804e64a138b277aca1d10119a49ca~v188876392.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792409739.695791,
-"laatst": 1792409739.695791,
-"keer": 0,
-"fout": ""
-},
-"1817106": {
-"melding": {
-"titel": "Lynk & Co 01 (2022)",
-"bericht": "1.5 Black Ed Panorama Infinity Stoelverw. Navi\n€ 10.450 · 104.710 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-black-ed-panorama-infinity-stoelverw-navi/o/1817106",
-"foto": "https://www.schadeautos.nl/cache/picture/644/1817106/cd6414f62899df53877e434d3584e8e3~v192409476.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792409739.72144,
-"laatst": 1792409739.72144,
-"keer": 0,
-"fout": ""
-},
-"1817098": {
-"melding": {
-"titel": "BMW X5 (2022)",
-"bericht": "xDrive 45e M Sport Pano B&O Leder sport\n€ 15.500 · 112.795 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5-xdrive-45e-m-sport-pano-b-o-leder-sport/o/1817098",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1817098/047793e5519f67b641af10231c2f885a~v192407904.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792409742.434006,
-"laatst": 1792409742.434006,
-"keer": 0,
-"fout": ""
-},
 "1817157": {
 "melding": {
 "titel": "Porsche Taycan (2025)",
@@ -3653,9 +3521,9 @@
 "WhatsApp"
 ],
 "sinds": 1792411781.736386,
-"laatst": 1792411781.736386,
-"keer": 0,
-"fout": ""
+"laatst": 1792421376.1856632,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817139": {
 "melding": {
@@ -4089,6 +3957,81 @@
 ],
 "sinds": 1792419188.1751387,
 "laatst": 1792419188.1751387,
+"keer": 0,
+"fout": ""
+},
+"1817266": {
+"melding": {
+"titel": "Skoda Superb (2026)",
+"bericht": "exportprijs € 16.800 · 23.415 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb/o/1817266",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817266/ebea2d077b4565f2120f54b13fb40360~v192420350.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792421377.2628398,
+"laatst": 1792421377.2628398,
+"keer": 0,
+"fout": ""
+},
+"1817261": {
+"melding": {
+"titel": "Skoda Octavia (2024)",
+"bericht": "exportprijs € 11.900 · 52.119 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia/o/1817261",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817261/2b3f315ef840a8359110b9f57fbe8819~v192419931.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792421380.14445,
+"laatst": 1792421380.14445,
+"keer": 0,
+"fout": ""
+},
+"1817260": {
+"melding": {
+"titel": "MG ZS (2024)",
+"bericht": "exportprijs € 3.950 · 46.383 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs/o/1817260",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817260/5e8adb26bc719df5943c47cbed01846f~v192419925.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792421380.1696084,
+"laatst": 1792421380.1696084,
+"keer": 0,
+"fout": ""
+},
+"1817256": {
+"melding": {
+"titel": "Renault Master (2025)",
+"bericht": "exportprijs € 12.700 · 22.488 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-master/o/1817256",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817256/074f4b04de45c7bba3f870503873c845~v192419694.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792421380.1954758,
+"laatst": 1792421380.1954758,
+"keer": 0,
+"fout": ""
+},
+"1817251": {
+"melding": {
+"titel": "Dacia Sandero (2025)",
+"bericht": "STEPWAY//LPG+BENZINE\n12.806 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-stepway-lpg-benzine/o/1817251",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1817251/c2eec634fc4ede279480abe7fbccb2aa~v192419305.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792421382.6543174,
+"laatst": 1792421382.6543174,
 "keer": 0,
 "fout": ""
 }
