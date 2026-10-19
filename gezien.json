@@ -3214,27 +3214,42 @@
 "1816942",
 "1816941",
 "1816950",
-"1816949"
+"1816949",
+"1809733",
+"1816965",
+"1786172",
+"1816962",
+"1816963",
+"1816755",
+"1776148",
+"1816961",
+"1767011",
+"1811835",
+"1816955",
+"1812324",
+"1816953",
+"1788473",
+"1816951"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816950,
+"hoogste_id": 1816965,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816950",
-"1816949",
-"1808121",
-"1816947",
-"1816946",
-"1816945",
-"1816944",
-"1816943",
-"1816942",
-"1816941",
-"1792913",
-"1796772"
+"1809733",
+"1816965",
+"1786172",
+"1816962",
+"1816963",
+"1816214",
+"1816755",
+"1776148",
+"1816961",
+"1767011",
+"1809098",
+"1811835"
 ]
 },
 "wachtrij": {
@@ -3249,8 +3264,8 @@
 "WhatsApp"
 ],
 "sinds": 1792389549.9668808,
-"laatst": 1792391855.1634557,
-"keer": 2,
+"laatst": 1792394906.2078006,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816950": {
@@ -3265,6 +3280,36 @@
 ],
 "sinds": 1792391856.2940493,
 "laatst": 1792391856.2940493,
+"keer": 0,
+"fout": ""
+},
+"1816755": {
+"melding": {
+"titel": "Mercedes Cla-klasse (2023)",
+"bericht": "Automaat Panoramadak 180 AMG Line\n€ 19.950 · 36.794 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-automaat-panoramadak-180-amg-line/o/1816755",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1816755/4a958e7edb2504d3f2eb6f1510c3b41a~v192394506.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792394907.3358314,
+"laatst": 1792394907.3358314,
+"keer": 0,
+"fout": ""
+},
+"1812324": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes Vito (2026)",
+"bericht": "TOURER 114 CDI 100KW 9 PERS. NEW MODEL LONG AUT.\nexportprijs € 33.950 · 2.177 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-vito-tourer-114-cdi-100kw-9-pers-new-model-long-aut/o/1812324",
+"foto": "https://www.schadeautos.nl/cache/picture/33/1812324/ea78636443c03b4065dc71e96c1b6818~v192336858.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792394910.223092,
+"laatst": 1792394910.223092,
 "keer": 0,
 "fout": ""
 }
