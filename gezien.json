@@ -3212,15 +3212,20 @@
 "1816944",
 "1816943",
 "1816942",
-"1816941"
+"1816941",
+"1816950",
+"1816949"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816947,
+"hoogste_id": 1816950,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1816950",
+"1816949",
+"1808121",
 "1816947",
 "1816946",
 "1816945",
@@ -3229,10 +3234,7 @@
 "1816942",
 "1816941",
 "1792913",
-"1796772",
-"1806758",
-"1806371",
-"1794037"
+"1796772"
 ]
 },
 "wachtrij": {
@@ -3247,9 +3249,24 @@
 "WhatsApp"
 ],
 "sinds": 1792389549.9668808,
-"laatst": 1792389549.9668808,
-"keer": 1,
+"laatst": 1792391855.1634557,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1816950": {
+"melding": {
+"titel": "Cupra Born (2024)",
+"bericht": "Essential 58 kWh 150 KW Automaat\n€ 10.150 · 105.890 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-born-essential-58-kwh-150-kw-automaat/o/1816950",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792391856.2940493,
+"laatst": 1792391856.2940493,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
