@@ -3439,150 +3439,59 @@
 "1808635",
 "1817193",
 "1817198",
-"1817188"
+"1817188",
+"1817247",
+"1817244",
+"1816991",
+"1817117",
+"1817099",
+"1817109",
+"1817121",
+"1817112",
+"1817103",
+"1817240",
+"1685673",
+"1817239",
+"1783166",
+"1817235",
+"1817238",
+"1665357",
+"1791583",
+"1816956",
+"1817237",
+"1650904",
+"1817236",
+"1769651",
+"1816542",
+"1790903",
+"1817234",
+"1816952",
+"1817232",
+"1817231",
+"1817229"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817225,
+"hoogste_id": 1817247,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817225",
-"1817223",
-"1803174",
-"1817215",
-"1817214",
-"1817213",
-"1817212",
-"1781415",
-"1815967",
-"1817201",
-"1817203",
-"1817211"
+"1817247",
+"1817244",
+"1816991",
+"1817117",
+"1817099",
+"1817109",
+"1817121",
+"1817112",
+"1817103",
+"1817240",
+"1685673",
+"1817239"
 ]
 },
 "wachtrij": {
-"1817087": {
-"melding": {
-"titel": "Honda Jazz (2023)",
-"bericht": "exportprijs € 13.700 · 60.101 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-jazz/o/1817087",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817087/94183dd8eba1ad98d943262dc1ee66c3~v192405642.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792405853.3190181,
-"laatst": 1792416566.1739326,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1817080": {
-"melding": {
-"titel": "Renault Clio (2022)",
-"bericht": "1.0 TCe 90 Techno\n€ 6.950 · 86.925 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-90-techno/o/1817080",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1817080/5417648e052a9812e6f8fe7df60d4485~v192405392.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792405853.346422,
-"laatst": 1792405853.346422,
-"keer": 0,
-"fout": ""
-},
-"1817081": {
-"melding": {
-"titel": "Audi S6 (2025)",
-"bericht": "e-tron\nexportprijs € 9.900 · 35.000 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-s6-e-tron/o/1817081",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817081/2a5e977d35cdb38639a71b79dbf36f4f~v192405282.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792405853.3741982,
-"laatst": 1792405853.3741982,
-"keer": 0,
-"fout": ""
-},
-"1434390": {
-"melding": {
-"titel": "Opnieuw geplaatst: Toyota C-HR (2022)",
-"bericht": "1.8 Hybrid Navi Clima\n€ 14.250 · 32.247 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-c-hr-1-8-hybrid-navi-clima/o/1434390",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1434390/7744cf9eb14794aac0e45e2910376b1c~v190759972.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792405856.3558042,
-"laatst": 1792405856.3558042,
-"keer": 0,
-"fout": ""
-},
-"1673637": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Octavia (2022)",
-"bericht": "Combi Style\n€ 10.285 · 142.394 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-combi-style/o/1673637",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1673637/2c8078ffb52256491df6e2adb311230c~v149226943.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792405856.385435,
-"laatst": 1792405856.385435,
-"keer": 0,
-"fout": ""
-},
-"1611893": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 308 (2024)",
-"bericht": "GT\n€ 12.705 · 13.491 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-gt/o/1611893",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1611893/a3f0dd275d194dc1c30d73cd2de23147~v130625814.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792405856.4130688,
-"laatst": 1792405856.4130688,
-"keer": 0,
-"fout": ""
-},
-"1792181": {
-"melding": {
-"titel": "Opnieuw geplaatst: Jeep Avenger (2024)",
-"bericht": "Altitude\n€ 10.800 · 69.349 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-avenger-altitude/o/1792181",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1792181/cc4cdb5303bcd8a35d0645f07f7f6d51~v184729995.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792405856.4420362,
-"laatst": 1792405856.4420362,
-"keer": 0,
-"fout": ""
-},
-"1817066": {
-"melding": {
-"titel": "Volkswagen Golf (2025)",
-"bericht": "8.5 Facelift 1.5 eTSI\n€ 19.750 · 14.571 km",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-5-facelift-1-5-etsi/o/1817066",
-"foto": "https://www.schadeautos.nl/cache/picture/1056/1817066/5a4c34fb5c55c345b8d462b4f93c808c~v192403935.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792405859.2416446,
-"laatst": 1792405859.2416446,
-"keer": 0,
-"fout": ""
-},
 "1817126": {
 "melding": {
 "titel": "Skoda Fabia (2022)",
@@ -3594,9 +3503,9 @@
 "WhatsApp"
 ],
 "sinds": 1792409737.076893,
-"laatst": 1792409737.076893,
-"keer": 0,
-"fout": ""
+"laatst": 1792419183.7729058,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817122": {
 "melding": {
@@ -4150,6 +4059,36 @@
 ],
 "sinds": 1792416572.0855641,
 "laatst": 1792416572.0855641,
+"keer": 0,
+"fout": ""
+},
+"1816991": {
+"melding": {
+"titel": "Ford Fiesta (2022)",
+"bericht": "1.5EcoBoost 147kW ST-X\n€ 12.500 · 80.592 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5ecoboost-147kw-st-x/o/1816991",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1816991/655703f8d06712138e8a364cdfdd4074~v192399090.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792419185.3484998,
+"laatst": 1792419185.3484998,
+"keer": 0,
+"fout": ""
+},
+"1817236": {
+"melding": {
+"titel": "Nissan Micra (2023)",
+"bericht": "exportprijs € 2.950 · 1 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-micra/o/1817236",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817236/b73e5d8c9a24a5d5af198ac69a3b9a31~v192417465.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792419188.1751387,
+"laatst": 1792419188.1751387,
 "keer": 0,
 "fout": ""
 }
