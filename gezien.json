@@ -3526,15 +3526,22 @@
 "1817332",
 "1817328",
 "1817339",
-"1799112"
+"1799112",
+"1817345",
+"1810615",
+"1817344"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817339,
+"hoogste_id": 1817345,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1817345",
+"1810615",
+"1817344",
+"1815488",
 "1799112",
 "1817339",
 "1817338",
@@ -3542,29 +3549,10 @@
 "1817332",
 "1817328",
 "1817326",
-"1817321",
-"1817323",
-"1799165",
-"1764360",
-"1810577"
+"1817321"
 ]
 },
 "wachtrij": {
-"1817311": {
-"melding": {
-"titel": "Volkswagen Golf (2023)",
-"bericht": "GTI 2023 180kw\n€ 9.750 · 28.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-gti-2023-180kw/o/1817311",
-"foto": "https://www.schadeautos.nl/cache/picture/1066/1817311/a0d35be36b381e08830dc7c4c608433d~v192425536.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792426964.120659,
-"laatst": 1792436705.2476408,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1817326": {
 "melding": {
 "titel": "Citroën C4 (2022)",
@@ -3576,9 +3564,9 @@
 "WhatsApp"
 ],
 "sinds": 1792429143.0197852,
-"laatst": 1792429143.0197852,
-"keer": 0,
-"fout": ""
+"laatst": 1792438625.1793544,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817321": {
 "melding": {
@@ -3637,6 +3625,36 @@
 ],
 "sinds": 1792429143.9080718,
 "laatst": 1792429143.9080718,
+"keer": 0,
+"fout": ""
+},
+"1817345": {
+"melding": {
+"titel": "Zeekr (2026)",
+"bericht": "001 PERFORMANCE 100kWh AWD 545PS FULL OPTIONS!\n€ 35.990 · 8.150 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/zeekr-001-performance-100kwh-awd-545ps-full-options/o/1817345",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1817345/04a7a3f53181461c05301a2bb13cb362~v192437734.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792438625.987258,
+"laatst": 1792438625.987258,
+"keer": 0,
+"fout": ""
+},
+"1810615": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi Rs3 (2022)",
+"bericht": "2.5 TFSI RS 3 QUATTRO\n€ 35.000 · 72.033 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-rs3-2-5-tfsi-rs-3-quattro/o/1810615",
+"foto": "https://www.schadeautos.nl/cache/picture/289/1810615/87180581db6575d69ab54a39598e96fd~v190671549.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792438626.055171,
+"laatst": 1792438626.055171,
 "keer": 0,
 "fout": ""
 }
