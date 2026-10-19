@@ -3530,15 +3530,21 @@
 "1817345",
 "1810615",
 "1817344",
-"1817346"
+"1817346",
+"1817349",
+"1817348",
+"1817347"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817346,
+"hoogste_id": 1817349,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1817349",
+"1817348",
+"1817347",
 "1817346",
 "1817345",
 "1810615",
@@ -3547,10 +3553,7 @@
 "1799112",
 "1817339",
 "1817338",
-"1817335",
-"1817332",
-"1817328",
-"1817326"
+"1817335"
 ]
 },
 "wachtrij": {
@@ -3565,8 +3568,8 @@
 "WhatsApp"
 ],
 "sinds": 1792438625.987258,
-"laatst": 1792445757.077094,
-"keer": 4,
+"laatst": 1792447507.5054138,
+"keer": 5,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1810615": {
@@ -3581,6 +3584,36 @@
 ],
 "sinds": 1792438626.055171,
 "laatst": 1792438626.055171,
+"keer": 0,
+"fout": ""
+},
+"1817349": {
+"melding": {
+"titel": "Volkswagen ID.4 (2024)",
+"bericht": "exportprijs € 8.500 · 14.051 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-4/o/1817349",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817349/21c7e6a63d7bc9f7692046d8aa743c08~v192446353.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792447508.3276608,
+"laatst": 1792447508.3276608,
+"keer": 0,
+"fout": ""
+},
+"1817348": {
+"melding": {
+"titel": "Dacia Jogger (2025)",
+"bericht": "exportprijs € 6.700 · 24.452 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger/o/1817348",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817348/447e49309c253aa25036f4f3ec7e2621~v192446059.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792447508.4044077,
+"laatst": 1792447508.4044077,
 "keer": 0,
 "fout": ""
 }
