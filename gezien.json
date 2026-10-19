@@ -3533,15 +3533,17 @@
 "1817346",
 "1817349",
 "1817348",
-"1817347"
+"1817347",
+"1817350"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817349,
+"hoogste_id": 1817350,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1817350",
 "1817349",
 "1817348",
 "1817347",
@@ -3552,8 +3554,7 @@
 "1815488",
 "1799112",
 "1817339",
-"1817338",
-"1817335"
+"1817338"
 ]
 },
 "wachtrij": {
@@ -3568,8 +3569,8 @@
 "WhatsApp"
 ],
 "sinds": 1792438625.987258,
-"laatst": 1792447507.5054138,
-"keer": 5,
+"laatst": 1792449212.91975,
+"keer": 6,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1810615": {
@@ -3614,6 +3615,21 @@
 ],
 "sinds": 1792447508.4044077,
 "laatst": 1792447508.4044077,
+"keer": 0,
+"fout": ""
+},
+"1817350": {
+"melding": {
+"titel": "Volkswagen ID.4 (2024)",
+"bericht": "exportprijs € 8.500 · 14.051 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-4/o/1817350",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817350/3dc458210ec1ea9e159ec20f1486cc43~v192448736.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792449214.2389896,
+"laatst": 1792449214.2389896,
 "keer": 0,
 "fout": ""
 }
