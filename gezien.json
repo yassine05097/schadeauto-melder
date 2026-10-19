@@ -3241,27 +3241,48 @@
 "1740299",
 "1816967",
 "1671844",
-"1776514"
+"1776514",
+"1817000",
+"1816999",
+"1688365",
+"1816997",
+"1690050",
+"1816986",
+"1816985",
+"1816993",
+"1816990",
+"1817003",
+"1817004",
+"1817002",
+"1816996",
+"1816995",
+"1620547",
+"1706076",
+"1768900",
+"1797517",
+"1794769",
+"1792243",
+"1809605"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1816977,
+"hoogste_id": 1817004,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816977",
-"1816972",
-"1816971",
-"1814567",
-"1814762",
-"1742777",
-"1816970",
-"1816787",
-"1803924",
-"1814599",
-"1794365",
-"1814596"
+"1817000",
+"1808464",
+"1816999",
+"1688365",
+"1816997",
+"1690050",
+"1816986",
+"1816985",
+"1816993",
+"1758739",
+"1816990",
+"1817003"
 ]
 },
 "wachtrij": {
@@ -3276,8 +3297,8 @@
 "WhatsApp"
 ],
 "sinds": 1792389549.9668808,
-"laatst": 1792397531.513405,
-"keer": 4,
+"laatst": 1792399832.8006418,
+"keer": 5,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816950": {
@@ -3382,6 +3403,81 @@
 ],
 "sinds": 1792397535.71921,
 "laatst": 1792397535.71921,
+"keer": 0,
+"fout": ""
+},
+"1816985": {
+"melding": {
+"titel": "Opel Astra (2024)",
+"bericht": "1.2i - 12V TURBO\n€ 7.450 · 23.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-2i-12v-turbo/o/1816985",
+"foto": "https://www.schadeautos.nl/cache/picture/1050/1816985/2cf57f21844a5ed3fc9b7cf9f56c8a15~v192398274.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792399833.636711,
+"laatst": 1792399833.636711,
+"keer": 0,
+"fout": ""
+},
+"1816993": {
+"melding": {
+"titel": "MG ZS (2022)",
+"bericht": "1.0 T-GDI - 12V TURBO\n€ 6.950 · 56.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs-1-0-t-gdi-12v-turbo/o/1816993",
+"foto": "https://www.schadeautos.nl/cache/picture/1050/1816993/157735d15a966967f8266b2b9488d814~v192398949.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792399833.668532,
+"laatst": 1792399833.668532,
+"keer": 0,
+"fout": ""
+},
+"1797517": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mini Cooper S (2022)",
+"bericht": "2.0 16V COOPER S CABRIO BENZ AUT 1.998CC 131KW 178PK\n€ 14.950 · 89.184 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper-s-2-0-16v-cooper-s-cabrio-benz-aut-1-998cc-131kw-178pk/o/1797517",
+"foto": "https://www.schadeautos.nl/cache/picture/489/1797517/c12b1e8770e283a8d6b9c8a3acf4d2f0~v186956071.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792399838.6109197,
+"laatst": 1792399838.6109197,
+"keer": 0,
+"fout": ""
+},
+"1794769": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen ID.5 (2025)",
+"bericht": "PRO\n€ 6.800 · 33.349 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-5-pro/o/1794769",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1794769/be9baa4bdb9a3050cffdac81d8e04562~v192398035.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792399838.6377385,
+"laatst": 1792399838.6377385,
+"keer": 0,
+"fout": ""
+},
+"1792243": {
+"melding": {
+"titel": "Opnieuw geplaatst: Hyundai I-20 (2024)",
+"bericht": "N 200PK NAVI / CRUISE / CAMERA / BOSE\n€ 8.950 · 41.050 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-n-200pk-navi-cruise-camera-bose/o/1792243",
+"foto": "https://www.schadeautos.nl/cache/picture/302/1792243/66fe443d5f488feedd5805da5a1b8d67~v184785558.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792399838.6666114,
+"laatst": 1792399838.6666114,
 "keer": 0,
 "fout": ""
 }
