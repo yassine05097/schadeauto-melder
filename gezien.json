@@ -3510,15 +3510,21 @@
 "1817295",
 "1817293",
 "1817289",
-"1273664"
+"1273664",
+"1817300",
+"1817311",
+"1817306"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817308,
+"hoogste_id": 1817311,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1817300",
+"1817311",
+"1817306",
 "1816814",
 "1817308",
 "1817307",
@@ -3527,10 +3533,7 @@
 "1817304",
 "1817294",
 "1817298",
-"1817296",
-"1817295",
-"1817293",
-"1817289"
+"1817296"
 ]
 },
 "wachtrij": {
@@ -3545,8 +3548,8 @@
 "WhatsApp"
 ],
 "sinds": 1792416567.8279922,
-"laatst": 1792425314.2434692,
-"keer": 1,
+"laatst": 1792426962.8165178,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1803174": {
@@ -3831,6 +3834,21 @@
 ],
 "sinds": 1792425318.0316455,
 "laatst": 1792425318.0316455,
+"keer": 0,
+"fout": ""
+},
+"1817311": {
+"melding": {
+"titel": "Volkswagen Golf (2023)",
+"bericht": "GTI 2023 180kw\n€ 9.750 · 28.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-gti-2023-180kw/o/1817311",
+"foto": "https://www.schadeautos.nl/cache/picture/1066/1817311/a0d35be36b381e08830dc7c4c608433d~v192425536.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792426964.120659,
+"laatst": 1792426964.120659,
 "keer": 0,
 "fout": ""
 }
