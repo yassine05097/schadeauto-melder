@@ -3262,45 +3262,53 @@
 "1797517",
 "1794769",
 "1792243",
-"1809605"
+"1809605",
+"1730873",
+"1670482",
+"1716558",
+"1761459",
+"1810896",
+"1817049",
+"1817048",
+"1817040",
+"1798088",
+"1809495",
+"1817038",
+"1817035",
+"1817032",
+"1817031",
+"1817009",
+"1817010",
+"1817028",
+"1817025",
+"1817017",
+"1817008",
+"1785930",
+"1817005",
+"1816998"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817004,
+"hoogste_id": 1817049,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817000",
-"1808464",
-"1816999",
-"1688365",
-"1816997",
-"1690050",
-"1816986",
-"1816985",
-"1816993",
-"1758739",
-"1816990",
-"1817003"
+"1730873",
+"1815435",
+"1670482",
+"1716558",
+"1761459",
+"1810896",
+"1817049",
+"1817048",
+"1817040",
+"1798088",
+"1809495",
+"1817038"
 ]
 },
 "wachtrij": {
-"1816942": {
-"melding": {
-"titel": "Citroën C3 (2022)",
-"bericht": "III\n€ 4.800 · 98.327 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-iii/o/1816942",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1816942/d977aac880ccc2071676a44869029f9a~v192387821.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792389549.9668808,
-"laatst": 1792399832.8006418,
-"keer": 5,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1816950": {
 "melding": {
 "titel": "Cupra Born (2024)",
@@ -3312,9 +3320,9 @@
 "WhatsApp"
 ],
 "sinds": 1792391856.2940493,
-"laatst": 1792391856.2940493,
-"keer": 0,
-"fout": ""
+"laatst": 1792401713.8304286,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816755": {
 "melding": {
@@ -3478,6 +3486,111 @@
 ],
 "sinds": 1792399838.6666114,
 "laatst": 1792399838.6666114,
+"keer": 0,
+"fout": ""
+},
+"1716558": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2022)",
+"bericht": "1.2 PureTech Active 5-drs Airco\n€ 7.450 · 80.095 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-active-5-drs-airco/o/1716558",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1716558/185ee1d0078b1dc59bdc8fee2cd22a03~v161927483.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792401714.731827,
+"laatst": 1792401714.731827,
+"keer": 0,
+"fout": ""
+},
+"1817049": {
+"melding": {
+"titel": "Volkswagen Passat (2023)",
+"bericht": "GTE/ PLUG IN\n104.060 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-gte-plug-in/o/1817049",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1817049/e1b02a5699e441788dfb5cab94ea4503~v192401326.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792401714.7589881,
+"laatst": 1792401714.7589881,
+"keer": 0,
+"fout": ""
+},
+"1817048": {
+"melding": {
+"titel": "Renault Captur (2023)",
+"bericht": "INTENS\n40.484 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-intens/o/1817048",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1817048/1b240f410c965f08d48178e8ec3003bf~v192401323.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792401714.786933,
+"laatst": 1792401714.786933,
+"keer": 0,
+"fout": ""
+},
+"1817038": {
+"melding": {
+"titel": "Mercedes Cla-klasse (2023)",
+"bericht": "Shooting Brake 180 Luxury Line Cruise Navi Virtual Leder SHZ Camera PDC Bluetooth Clima\n€ 17.950 · 91.930 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-shooting-brake-180-luxury-line-cruise-navi-virtual-leder-shz-camera-pdc-bluetooth-clima/o/1817038",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1817038/ca0ad4e12f5449d45285552131b03c58~v192400959.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792401714.8132334,
+"laatst": 1792401714.8132334,
+"keer": 0,
+"fout": ""
+},
+"1817035": {
+"melding": {
+"titel": "Kia Ceed (2024)",
+"bericht": "1.5 T-GDi DynamicLine ACC Apple/Android Clima Camera PDC\n€ 12.950 · 54.699 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-5-t-gdi-dynamicline-acc-apple-android-clima-camera-pdc/o/1817035",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1817035/3506a741698fbde98eff9e72799e01ce~v192400925.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792401717.3348138,
+"laatst": 1792401717.3348138,
+"keer": 0,
+"fout": ""
+},
+"1817010": {
+"melding": {
+"titel": "Dacia Sandero (2024)",
+"bericht": "EXPRESSION LED\n€ 7.300 · 46.498 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-expression-led/o/1817010",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1817010/f62ffd667e50b03d9e5f16299b4c20e8~v192400657.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792401717.3604703,
+"laatst": 1792401717.3604703,
+"keer": 0,
+"fout": ""
+},
+"1817017": {
+"melding": {
+"titel": "Peugeot 5008 (2023)",
+"bericht": "1.2 PureTech Aut. Allure Pack Business 7p Cruise Navi Virtual Apple/Android Camera PDC Clima\n€ 7.950 · 80.983 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-5008-1-2-puretech-aut-allure-pack-business-7p-cruise-navi-virtual-apple-android-camera-pdc-clima/o/1817017",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1817017/d298ccb6cfa1406fc3321a2522f02227~v192400615.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792401717.3878326,
+"laatst": 1792401717.3878326,
 "keer": 0,
 "fout": ""
 }
