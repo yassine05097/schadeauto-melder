@@ -3497,150 +3497,43 @@
 "1817279",
 "1817277",
 "1817276",
-"1817272"
+"1817272",
+"1816814",
+"1817308",
+"1817307",
+"1817299",
+"1817305",
+"1817304",
+"1817294",
+"1817298",
+"1817296",
+"1817295",
+"1817293",
+"1817289",
+"1273664"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817286,
+"hoogste_id": 1817308,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817252",
-"1817286",
-"1816964",
-"1817283",
-"1817282",
-"1817280",
-"1817275",
-"1817279",
-"1817277",
-"1817276",
-"1808121",
-"1815326"
+"1816814",
+"1817308",
+"1817307",
+"1817299",
+"1817305",
+"1817304",
+"1817294",
+"1817298",
+"1817296",
+"1817295",
+"1817293",
+"1817289"
 ]
 },
 "wachtrij": {
-"1817192": {
-"melding": {
-"titel": "Opel Corsa (2025)",
-"bericht": "GS\n€ 6.950 · 22.809 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs/o/1817192",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1817192/1ddf461a24d995c37f64cbe6b8b7cbb3~v192413799.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792414115.9527822,
-"laatst": 1792423336.700726,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1812516": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes Cla-klasse (2025)",
-"bericht": "250+ Launch Edition AMG 85.5 kWh Pano AHK 360° SHZ LED ACC Massage\n€ 33.950 · 13.310 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-250-launch-edition-amg-85-5-kwh-pano-ahk-360-shz-led-acc-massage/o/1812516",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1812516/514a40305603e00e6b1496640eaf785a~v192400660.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792414116.1614385,
-"laatst": 1792414116.1614385,
-"keer": 0,
-"fout": ""
-},
-"1817187": {
-"melding": {
-"titel": "Cupra Leon (2023)",
-"bericht": "1.5 eTSI NAVI CAMERA PDC\n€ 14.450 · 79.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-1-5-etsi-navi-camera-pdc/o/1817187",
-"foto": "https://www.schadeautos.nl/cache/picture/121/1817187/de381e5bacfa26e556b9cb12bc985802~v192413416.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792414116.3693628,
-"laatst": 1792414116.3693628,
-"keer": 0,
-"fout": ""
-},
-"1817183": {
-"melding": {
-"titel": "Volvo V-60 (2025)",
-"bericht": "2.0 T6 Plug-in hybrid AWD Plus Dark AUTOMAAT 253PK\n€ 17.950 · 49.272 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-0-t6-plug-in-hybrid-awd-plus-dark-automaat-253pk/o/1817183",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1817183/144f131dd9d363fe26a664a22e07dae5~v192413432.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792414116.5789623,
-"laatst": 1792414116.5789623,
-"keer": 0,
-"fout": ""
-},
-"1750071": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mazda CX-30 (2023)",
-"bericht": "SUV\n€ 5.300 · 71.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-30-suv/o/1750071",
-"foto": "https://www.schadeautos.nl/cache/picture/977/1750071/9df8b2a01ba5183911b1b962af9995fb~v192413012.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792414116.7887673,
-"laatst": 1792414116.7887673,
-"keer": 0,
-"fout": ""
-},
-"1817058": {
-"melding": {
-"titel": "Fiat 500C (2022)",
-"bericht": "1.0 Hybrid Dolcevita\n€ 8.750 · 45.281 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500c-1-0-hybrid-dolcevita/o/1817058",
-"foto": "https://www.schadeautos.nl/cache/picture/51/1817058/11fea04ddd7eb68d7020979e9548181f~v192402862.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792414120.137683,
-"laatst": 1792414120.137683,
-"keer": 0,
-"fout": ""
-},
-"1817162": {
-"melding": {
-"titel": "Tesla Model Y (2024)",
-"bericht": "Long Range RWD 75 kWh Panoramadak\n€ 17.950 · 60.521 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-long-range-rwd-75-kwh-panoramadak/o/1817162",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1817162/153cbc97a3fadeb9c0a783c57877c6e0~v192411747.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792414120.3519022,
-"laatst": 1792414120.3519022,
-"keer": 0,
-"fout": ""
-},
-"1817166": {
-"melding": {
-"titel": "BMW iX1 (2024)",
-"bericht": "iX1 30 xDrive M Sport PANORAMA HUD 360view VOLLL\n€ 29.700 · 27.795 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-ix1-30-xdrive-m-sport-panorama-hud-360view-volll/o/1817166",
-"foto": "https://www.schadeautos.nl/cache/picture/1024/1817166/525c4dbd4e00f8863bb1e73c4f86c9a1~v192411581.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792414123.3269887,
-"laatst": 1792414123.3269887,
-"keer": 0,
-"fout": ""
-},
 "1817223": {
 "melding": {
 "titel": "Toyota bZ4X (2025)",
@@ -3652,9 +3545,9 @@
 "WhatsApp"
 ],
 "sinds": 1792416567.8279922,
-"laatst": 1792416567.8279922,
-"keer": 0,
-"fout": ""
+"laatst": 1792425314.2434692,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1803174": {
 "melding": {
@@ -3893,6 +3786,51 @@
 ],
 "sinds": 1792423344.7435482,
 "laatst": 1792423344.7435482,
+"keer": 0,
+"fout": ""
+},
+"1817305": {
+"melding": {
+"titel": "BMW 3-serie (2022)",
+"bericht": "318 i a\n€ 6.450 · 93.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-318-i-a/o/1817305",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1817305/f36599c40e594811dcf81023c467550f~v192424803.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792425317.6870177,
+"laatst": 1792425317.6870177,
+"keer": 0,
+"fout": ""
+},
+"1817295": {
+"melding": {
+"titel": "Volkswagen Polo (2026)",
+"bericht": "Bj:01-2026 1.0Mpi Full-Led koplampen Cruisecontrol Digital Cockpit Stoelverwarming Lichtautomaat 4xElektrische ramen Elektrische-spiegels met verwarming Centrale vergrendeling met afstandsbediening Start-Stop Drivelane Parkeersensoren voor en achter\n€ 11.900 · 2.400 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-bj-01-2026-1-0mpi-full-led-koplampen-cruisecontrol-digital-cockpit-stoelverwarming-lichtautomaat-4xelektrische-ramen-elektrische-spiegels-met-verwarming-centrale-vergrendeling-met-afstandsbediening-start-stop-drivelane-parkeersensoren-voor-en-achter/o/1817295",
+"foto": "https://www.schadeautos.nl/cache/picture/885/1817295/5d005e082399f8b4198d120bb7356d0a~v192424516.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792425317.8565094,
+"laatst": 1792425317.8565094,
+"keer": 0,
+"fout": ""
+},
+"1817289": {
+"melding": {
+"titel": "Mercedes AMG (2024)",
+"bericht": "€ 61.900 · 33.062 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-amg/o/1817289",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1817289/a6978e26768da5d273917cf1639080fc~v192423520.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792425318.0316455,
+"laatst": 1792425318.0316455,
 "keer": 0,
 "fout": ""
 }
