@@ -3684,90 +3684,44 @@
 "1817495",
 "1817502",
 "1817497",
-"1817500"
+"1817500",
+"1817546",
+"1817544",
+"1805283",
+"1817537",
+"1817539",
+"1780039",
+"1817535",
+"1817538",
+"1817534",
+"1805937",
+"1816527",
+"1817533",
+"1817532",
+"1817508"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817531,
+"hoogste_id": 1817546,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1809020",
-"1817531",
-"1817530",
-"1817528",
-"1817527",
-"1817526",
-"1806297",
-"1813025",
-"1817524",
-"1817523",
-"1817522",
-"1817518"
+"1817546",
+"1817544",
+"1805283",
+"1817537",
+"1817539",
+"1780039",
+"1817535",
+"1817538",
+"1817534",
+"1805937",
+"1754285",
+"1816527"
 ]
 },
 "wachtrij": {
-"1817403": {
-"melding": {
-"titel": "Citroën Grand C4 SpaceTourer (2022)",
-"bericht": "7 SEATS\n€ 5.300 · 58.473 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-grand-c4-spacetourer-7-seats/o/1817403",
-"foto": "https://www.schadeautos.nl/cache/picture/1026/1817403/14c5b795d9650f09755948ea9a4b1d98~v192483386.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792483521.2690759,
-"laatst": 1792492887.3058465,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1762924": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mazda CX-60 (2023)",
-"bericht": "CX-60 PHEV 2.5 141KW AUT. AWD\nexportprijs € 12.900 · 91.737 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-60-cx-60-phev-2-5-141kw-aut-awd/o/1762924",
-"foto": "https://www.schadeautos.nl/cache/picture/984/1762924/c894cebceddd4d3737ad78dda68cd5db~v176004696.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792483521.2955222,
-"laatst": 1792483521.2955222,
-"keer": 0,
-"fout": ""
-},
-"1817410": {
-"melding": {
-"titel": "Audi A4 (2024)",
-"bericht": "2.0 TFSi 110kw M-HEV / 27 DKM\n€ 14.700 · 27.617 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-2-0-tfsi-110kw-m-hev-27-dkm/o/1817410",
-"foto": "https://www.schadeautos.nl/cache/picture/72/1817410/618a5b917b0a83f18ac7865a1f2c2052~v192482109.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792483521.3241718,
-"laatst": 1792483521.3241718,
-"keer": 0,
-"fout": ""
-},
-"1796686": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Multivan (2026)",
-"bericht": "T7 Multivan 110kw DSG Automaat, Leer, Panorama, Standkachel\n€ 44.650 · 1.933 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-multivan-t7-multivan-110kw-dsg-automaat-leer-panorama-standkachel/o/1796686",
-"foto": "https://www.schadeautos.nl/cache/picture/344/1796686/364febd3dce9746a3093fd04372f0b59~v186542923.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792483521.3526766,
-"laatst": 1792483521.3526766,
-"keer": 0,
-"fout": ""
-},
 "1817449": {
 "melding": {
 "titel": "Renault Master (2025)",
@@ -3779,9 +3733,9 @@
 "WhatsApp"
 ],
 "sinds": 1792485494.309825,
-"laatst": 1792485494.309825,
-"keer": 0,
-"fout": ""
+"laatst": 1792494702.1704981,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817442": {
 "melding": {
@@ -4140,6 +4094,66 @@
 ],
 "sinds": 1792492893.001666,
 "laatst": 1792492893.001666,
+"keer": 0,
+"fout": ""
+},
+"1817544": {
+"melding": {
+"titel": "Hyundai Bayon (2023)",
+"bericht": "1.0 AUTOMAAT T-GDI Premium\n€ 13.500 · 49.911 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-1-0-automaat-t-gdi-premium/o/1817544",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1817544/7df89f49b89f04f033595d6b5405af8d~v192494378.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792494702.7561297,
+"laatst": 1792494702.7561297,
+"keer": 0,
+"fout": ""
+},
+"1780039": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes Cla-klasse (2025)",
+"bericht": "250+ 85.5kWh 200kWh Launch Edition Pano\n€ 26.250 · 5.674 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-250-85-5kwh-200kwh-launch-edition-pano/o/1780039",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1780039/a47561eb3d3425b2e3310fa4a4ed0a63~v181091746.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792494702.7853694,
+"laatst": 1792494702.7853694,
+"keer": 0,
+"fout": ""
+},
+"1817538": {
+"melding": {
+"titel": "Citroën C3 (2022)",
+"bericht": "Bj:11-2022 1.2 83pk Airconditioning Full-Led koplampen Led Dagrijverlichting mistlampen Stoelverwarming cruisecontrol Dab Radio elektrische buitenspiegels met verwarming Centrale vergrendeling met afstandsbediening Start-Stop Drivelane assistent Lichtmeta\n€ 8.200 · 27.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-bj-11-2022-1-2-83pk-airconditioning-full-led-koplampen-led-dagrijverlichting-mistlampen-stoelverwarming-cruisecontrol-dab-radio-elektrische-buitenspiegels-met-verwarming-centrale-vergrendeling-met-afstandsbediening-start-stop-drivelane-assistent-lichtmeta/o/1817538",
+"foto": "https://www.schadeautos.nl/cache/picture/885/1817538/a9cbaec2b22185f0ae2e6dcb72e66370~v192494070.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792494702.8116117,
+"laatst": 1792494702.8116117,
+"keer": 0,
+"fout": ""
+},
+"1817534": {
+"melding": {
+"titel": "Cupra Leon (2024)",
+"bericht": "Sportstourer 1.4 e-Hybrid Essential Limited\n€ 16.800 · 45.323 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-sportstourer-1-4-e-hybrid-essential-limited/o/1817534",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1817534/8b251c692aea2bb9e29cbc852dd8731d~v192493497.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792494702.8374915,
+"laatst": 1792494702.8374915,
 "keer": 0,
 "fout": ""
 }
