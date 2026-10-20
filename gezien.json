@@ -3909,150 +3909,40 @@
 "1742297",
 "1739201",
 "1808500",
-"1781207"
+"1781207",
+"1817789",
+"1808417",
+"1789952",
+"1674475",
+"1786541",
+"1780405",
+"1806495",
+"1803398",
+"1817788",
+"1817787"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817786,
+"hoogste_id": 1817789,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817786",
-"1817783",
-"1742297",
-"1739201",
-"1808500",
-"1781207",
-"1717820",
-"1810156",
-"1817782",
-"1817780",
-"1817779",
-"1801419"
+"1817789",
+"1812185",
+"1808417",
+"1810774",
+"1789952",
+"1674475",
+"1786541",
+"1780405",
+"1816664",
+"1806495",
+"1812205",
+"1803398"
 ]
 },
 "wachtrij": {
-"1786876": {
-"melding": {
-"titel": "Opnieuw geplaatst: Seat Leon (2023)",
-"bericht": "1.0TSI 81kW Clima FR Business\n€ 13.500 · 113.850 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon-1-0tsi-81kw-clima-fr-business/o/1786876",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1786876/64ce929ec8a581c937bc534efd617ba1~v183011352.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792515283.958657,
-"laatst": 1792524924.790424,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1817756": {
-"melding": {
-"titel": "Ssang yong Tivoli (2023)",
-"bericht": "/XLV\n€ 7.400 · 47.211 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ssang-yong-tivoli-xlv/o/1817756",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1817756/ba9d9b7c165faf20e9ee9ee083dd3127~v192514735.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792515283.9862998,
-"laatst": 1792515283.9862998,
-"keer": 0,
-"fout": ""
-},
-"1817755": {
-"melding": {
-"titel": "Skoda Scala (2022)",
-"bericht": "AMBITION\n€ 8.300 · 39.353 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-ambition/o/1817755",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1817755/a58e5768ef52932754f9b177583ff12a~v192514728.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792515284.0142262,
-"laatst": 1792515284.0142262,
-"keer": 0,
-"fout": ""
-},
-"1817753": {
-"melding": {
-"titel": "Skoda Octavia (2024)",
-"bericht": "AMBITION\n€ 12.950 · 39.444 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-ambition/o/1817753",
-"foto": "https://www.schadeautos.nl/cache/picture/965/1817753/4e27348ee7f0ec0c993eb5f45cb415f6~v192514713.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792515284.0413232,
-"laatst": 1792515284.0413232,
-"keer": 0,
-"fout": ""
-},
-"1817744": {
-"melding": {
-"titel": "Nissan Primastar (2023)",
-"bericht": "exportprijs € 8.950 · 113.333 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-primastar/o/1817744",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817744/e67aa4255e4b0305e0bcd2aac4f2ec37~v192513486.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792515284.0689185,
-"laatst": 1792515284.0689185,
-"keer": 0,
-"fout": ""
-},
-"1817743": {
-"melding": {
-"titel": "Peugeot 308 (2024)",
-"bericht": "exportprijs € 6.400 · 87.680 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308/o/1817743",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817743/3596c247f06bbfebb23cb575da2de9d8~v192513390.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792515284.0956287,
-"laatst": 1792515284.0956287,
-"keer": 0,
-"fout": ""
-},
-"1817742": {
-"melding": {
-"titel": "Citroën C3 (2022)",
-"bericht": "exportprijs € 3.700 · 58.580 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1817742",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817742/2d3049108217b50c108ebdb9c3d41c44~v192513380.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792515284.1244042,
-"laatst": 1792515284.1244042,
-"keer": 0,
-"fout": ""
-},
-"1817741": {
-"melding": {
-"titel": "Opel Corsa (2023)",
-"bericht": "exportprijs € 4.400 · 44.517 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa/o/1817741",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817741/78a281cf40fc5140e4b2e23ff07b7542~v192513341.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792515284.1519785,
-"laatst": 1792515284.1519785,
-"keer": 0,
-"fout": ""
-},
 "1817760": {
 "melding": {
 "titel": "Opel Corsa (2022)",
@@ -4064,9 +3954,9 @@
 "WhatsApp"
 ],
 "sinds": 1792517062.0228097,
-"laatst": 1792517062.0228097,
-"keer": 0,
-"fout": ""
+"laatst": 1792526602.2153952,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817761": {
 "melding": {
@@ -4140,6 +4030,66 @@
 ],
 "sinds": 1792524927.0040557,
 "laatst": 1792524927.0040557,
+"keer": 0,
+"fout": ""
+},
+"1817789": {
+"melding": {
+"titel": "Renault Austral (2024)",
+"bericht": "AUSTRAL > E-TECH HYBRIDE TECHNO PANO AUTOMAAT LED NAVI CAMERA CLIMA B.J 11-2024\n€ 17.500 · 14.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral-austral-e-tech-hybride-techno-pano-automaat-led-navi-camera-clima-b-j-11-2024/o/1817789",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1817789/4a9dc716d606e8151946514fa74c8d65~v192526311.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792526605.6149652,
+"laatst": 1792526605.6149652,
+"keer": 0,
+"fout": ""
+},
+"1808417": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Up! (2023)",
+"bericht": "1.0 bj 2023\n€ 6.900 · 58.138 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-up-1-0-bj-2023/o/1808417",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1808417/1cce13aeca1b34d147d2958a375a0ce0~v190062102.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792526605.7366922,
+"laatst": 1792526605.7366922,
+"keer": 0,
+"fout": ""
+},
+"1817788": {
+"melding": {
+"titel": "Volkswagen Caddy (2025)",
+"bericht": "1.5 GEEL KENTEKEN 116 PK CLIMA CAMERA TREKHAAK B.J 05-2025\n€ 16.500 · 28.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-1-5-geel-kenteken-116-pk-clima-camera-trekhaak-b-j-05-2025/o/1817788",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1817788/ec867f87883c1fd5ac7f7d1063c7cada~v192525652.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792526608.611614,
+"laatst": 1792526608.611614,
+"keer": 0,
+"fout": ""
+},
+"1817787": {
+"melding": {
+"titel": "Volkswagen Golf (2022)",
+"bericht": "TSI 110 PK NAVI CLIMA PDC CRUISE B.J 09-2022\n€ 10.990 · 48.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-tsi-110-pk-navi-clima-pdc-cruise-b-j-09-2022/o/1817787",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1817787/a2e069ee6c6d40b1640268b575b76757~v192524909.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792526608.7342193,
+"laatst": 1792526608.7342193,
 "keer": 0,
 "fout": ""
 }
