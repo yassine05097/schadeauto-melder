@@ -3569,60 +3569,54 @@
 "1770457",
 "1753021",
 "1808512",
-"1806997"
+"1806997",
+"1817400",
+"1817389",
+"1817395",
+"1817399",
+"1727315",
+"1809978",
+"1813281",
+"1802932",
+"1817396",
+"1807920",
+"1782078",
+"1810040",
+"1805343",
+"1799399",
+"1810080",
+"1817387",
+"1805793",
+"1817382",
+"1800370",
+"1817381",
+"1793333",
+"1806893",
+"1788673",
+"1792355"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817379,
+"hoogste_id": 1817400,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815801",
-"1777956",
-"1817378",
-"1782287",
-"1770742",
-"1793317",
-"1752973",
-"1772341",
-"1817379",
-"1761427",
-"1777794",
-"1770457"
+"1816114",
+"1817400",
+"1816279",
+"1817389",
+"1817395",
+"1817399",
+"1727315",
+"1779423",
+"1815152",
+"1809978",
+"1814584",
+"1806549"
 ]
 },
 "wachtrij": {
-"1817363": {
-"melding": {
-"titel": "Audi S3 (2022)",
-"bericht": "Quattro Aut 228KW Pano Led Navi\n€ 21.450 · 73.772 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-s3-quattro-aut-228kw-pano-led-navi/o/1817363",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1817363/671607d1ddcdce3c4ba8ad2a3715df47~v192468441.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792469500.8077445,
-"laatst": 1792478921.3246253,
-"keer": 6,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1817362": {
-"melding": {
-"titel": "Mercedes C-klasse (2025)",
-"bericht": "C180 Aut. AMG Line Pano Stoelverw Led\n€ 25.350 · 35.855 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c180-aut-amg-line-pano-stoelverw-led/o/1817362",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1817362/0a0506f2420c398d367e2be1dfcdca99~v192468292.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792469501.023957,
-"laatst": 1792469501.023957,
-"keer": 0,
-"fout": ""
-},
 "1817369": {
 "melding": {
 "titel": "Volkswagen Taigo (2023)",
@@ -3634,9 +3628,9 @@
 "WhatsApp"
 ],
 "sinds": 1792473087.1557558,
-"laatst": 1792473087.1557558,
-"keer": 0,
-"fout": ""
+"laatst": 1792481259.6428685,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817367": {
 "melding": {
@@ -3755,6 +3749,66 @@
 ],
 "sinds": 1792478926.1657836,
 "laatst": 1792478926.1657836,
+"keer": 0,
+"fout": ""
+},
+"1817400": {
+"melding": {
+"titel": "Nissan Qashqai (2024)",
+"bericht": "1.3 MHEV 103KW N-Connecta Pano Clima Navi Camera NAP\n€ 15.500 · 44.195 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-1-3-mhev-103kw-n-connecta-pano-clima-navi-camera-nap/o/1817400",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1817400/2dfd10fdc20da3c6a9ce8c65988fd9ab~v192481230.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792481260.4768503,
+"laatst": 1792481260.4768503,
+"keer": 0,
+"fout": ""
+},
+"1817389": {
+"melding": {
+"titel": "Skoda Fabia (2022)",
+"bericht": "€ 5.250 · 38.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia/o/1817389",
+"foto": "https://www.schadeautos.nl/cache/picture/1050/1817389/37f8cc1b8911fbdcac6ded418cd3b233~v192480283.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792481260.503526,
+"laatst": 1792481260.503526,
+"keer": 0,
+"fout": ""
+},
+"1817387": {
+"melding": {
+"titel": "Citroën C4 (2022)",
+"bericht": "1.2 Autom. 96KW Pano Clima Navi Led Shine\n€ 9.950 · 62.633 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-1-2-autom-96kw-pano-clima-navi-led-shine/o/1817387",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1817387/b7f0fa9ce3927afb990e90a7ac392ebd~v192480159.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792481265.5132604,
+"laatst": 1792481265.5132604,
+"keer": 0,
+"fout": ""
+},
+"1806893": {
+"melding": {
+"titel": "Opnieuw geplaatst: Dacia Jogger (2022)",
+"bericht": "1.0TCE 81kW Comfort 7 Persoons\n€ 9.850 · 164.965 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-1-0tce-81kw-comfort-7-persoons/o/1806893",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1806893/3f4b2e9b9869547d585ee74a92a76b68~v189554754.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792481265.5404575,
+"laatst": 1792481265.5404575,
 "keer": 0,
 "fout": ""
 }
