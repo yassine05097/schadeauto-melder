@@ -3897,7 +3897,8 @@
 "1817764",
 "1817762",
 "1817761",
-"1794305"
+"1794305",
+"1801419"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -3906,6 +3907,7 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1801419",
 "1817771",
 "1797437",
 "1817765",
@@ -3916,56 +3918,10 @@
 "1817760",
 "1817759",
 "1817758",
-"1786876",
-"1797843"
+"1786876"
 ]
 },
 "wachtrij": {
-"1779154": {
-"melding": {
-"titel": "Opnieuw geplaatst: Land Rover Range Rover sport (2022)",
-"bericht": "SVR 5.0 V8 Pano LED Memory Meridian Camera\n€ 35.750 · 99.572 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-range-rover-sport-svr-5-0-v8-pano-led-memory-meridian-camera/o/1779154",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1779154/e84dd21cc43b75144d96e50e7c857cfe~v192508696.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792509350.1930993,
-"laatst": 1792518878.8288758,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1762325": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche Taycan (2024)",
-"bericht": "89 kWh LED ACC Sport Chrono Bose Camera SHZ\n€ 43.950 · 50.023 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-89-kwh-led-acc-sport-chrono-bose-camera-shz/o/1762325",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1762325/50eb2c25b416651c2c6bacb946fd823a~v192508732.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792509350.9007928,
-"laatst": 1792509350.9007928,
-"keer": 0,
-"fout": ""
-},
-"1817705": {
-"melding": {
-"titel": "Renault Clio (2022)",
-"bericht": "V E-TECH ENGINE\n78.520 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-v-e-tech-engine/o/1817705",
-"foto": "https://www.schadeautos.nl/cache/picture/932/1817705/42e983fa96d845ac563d5718847a6ca9~v192508410.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792509351.0056052,
-"laatst": 1792509351.0056052,
-"keer": 0,
-"fout": ""
-},
 "1817726": {
 "melding": {
 "titel": "BMW iX1 (2024)",
@@ -3977,9 +3933,9 @@
 "WhatsApp"
 ],
 "sinds": 1792511392.2075698,
-"laatst": 1792511392.2075698,
-"keer": 0,
-"fout": ""
+"laatst": 1792520480.0092168,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817725": {
 "melding": {
