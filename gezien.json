@@ -3749,105 +3749,51 @@
 "1784578",
 "1817588",
 "1817587",
-"1817585"
+"1817585",
+"1817634",
+"1743682",
+"1817628",
+"1817635",
+"1763980",
+"1772069",
+"1817627",
+"1817625",
+"1817618",
+"1817617",
+"1817616",
+"1817505",
+"1817615",
+"1817519",
+"1817607",
+"1817609",
+"1817610",
+"1817608",
+"1817606",
+"1817597",
+"1799832"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817602,
+"hoogste_id": 1817635,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1791916",
-"1789172",
-"1812504",
-"1812535",
-"1811174",
-"1811178",
-"1817602",
-"1817600",
-"1817601",
-"1813919",
-"1816267",
-"1766407"
+"1817634",
+"1743682",
+"1817628",
+"1817635",
+"1763980",
+"1772069",
+"1817627",
+"1816766",
+"1817625",
+"1817618",
+"1817617",
+"1817616"
 ]
 },
 "wachtrij": {
-"1817464": {
-"melding": {
-"titel": "Jaecoo 7 (2026)",
-"bericht": "1.5 TGDI PHEV Exclusive\n€ 16.093 · 2.642 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/jaecoo-7-1-5-tgdi-phev-exclusive/o/1817464",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1817464/c6e7860b70c7dbec371fbc618e2347de~v192486976.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792487536.106778,
-"laatst": 1792498252.25912,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1817447": {
-"melding": {
-"titel": "Audi Q4 (2023)",
-"bericht": "45 S Edition 82 kWh (SUV 5-dr.)\n€ 8.500 · 84.559 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-45-s-edition-82-kwh-suv-5-dr/o/1817447",
-"foto": "https://www.schadeautos.nl/cache/picture/180/1817447/9921cf6419e98c5db7784c8156e0033a~v192485486.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792487536.3286722,
-"laatst": 1792487536.3286722,
-"keer": 0,
-"fout": ""
-},
-"1817485": {
-"melding": {
-"titel": "Fiat 500 (2026)",
-"bericht": "exportprijs € 4.350 · 2.231 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500/o/1817485",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817485/20eabc9823cc1d70c30fca56dc60ee85~v192489324.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792489382.9981647,
-"laatst": 1792489382.9981647,
-"keer": 0,
-"fout": ""
-},
-"1817482": {
-"melding": {
-"titel": "Audi A4 (2024)",
-"bericht": "exportprijs € 12.600 · 17.927 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4/o/1817482",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817482/161daef389ff3155f16c75b1b769ec31~v192489290.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792489383.1054082,
-"laatst": 1792489383.1054082,
-"keer": 0,
-"fout": ""
-},
-"1800144": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A3 (2023)",
-"bericht": "LIMOUSINE 35TFSI 110kW Automaat Advanced Edition\n€ 15.800 · 77.300 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-limousine-35tfsi-110kw-automaat-advanced-edition/o/1800144",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1800144/1740365e5e010bbd20177de213869958~v187641390.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792489385.9991195,
-"laatst": 1792489385.9991195,
-"keer": 0,
-"fout": ""
-},
 "1817491": {
 "melding": {
 "titel": "Dacia Spring (2022)",
@@ -3859,9 +3805,9 @@
 "WhatsApp"
 ],
 "sinds": 1792491091.6282704,
-"laatst": 1792491091.6282704,
-"keer": 0,
-"fout": ""
+"laatst": 1792500675.1043396,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817422": {
 "melding": {
@@ -4400,6 +4346,96 @@
 ],
 "sinds": 1792498260.6314104,
 "laatst": 1792498260.6314104,
+"keer": 0,
+"fout": ""
+},
+"1817634": {
+"melding": {
+"titel": "BMW X5 (2022)",
+"bericht": "€ 41.900 · 44.500 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5/o/1817634",
+"foto": "https://www.schadeautos.nl/cache/picture/981/1817634/b243fc8116c0cdfebb1b2426687f7d69~v192500529.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792500676.5494535,
+"laatst": 1792500676.5494535,
+"keer": 0,
+"fout": ""
+},
+"1817615": {
+"melding": {
+"titel": "Opel Corsa (2024)",
+"bericht": "1.2 Turbo GS\n€ 8.700 · 25.050 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-gs/o/1817615",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1817615/b38698a33f35357c7faaf0f923038572~v192499302.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792500679.5886722,
+"laatst": 1792500679.5886722,
+"keer": 0,
+"fout": ""
+},
+"1817519": {
+"melding": {
+"titel": "Lynk & Co 01 (2023)",
+"bericht": "1.5 Panoramadak Automaat\n€ 14.750 · 91.481 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-panoramadak-automaat/o/1817519",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1817519/4a9d3bfbf00ebb3e16a90e579a84e603~v192492294.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792500679.8049092,
+"laatst": 1792500679.8049092,
+"keer": 0,
+"fout": ""
+},
+"1817610": {
+"melding": {
+"titel": "Audi A1 (2026)",
+"bericht": "3.0 TFSI S-Line 115pk aut\n€ 13.500 · 16.781 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-3-0-tfsi-s-line-115pk-aut/o/1817610",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1817610/f9bd632251a042966d7e0bc738787e5f~v192499020.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792500680.0298116,
+"laatst": 1792500680.0298116,
+"keer": 0,
+"fout": ""
+},
+"1817606": {
+"melding": {
+"titel": "Dacia Sandero (2022)",
+"bericht": "1.0 TCE 90 Comfort\n€ 6.250 · 45.158 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-1-0-tce-90-comfort/o/1817606",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1817606/c460a116dbde0c96aab4a40d8fde7672~v192498615.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792500680.2588642,
+"laatst": 1792500680.2588642,
+"keer": 0,
+"fout": ""
+},
+"1799832": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 2008 (2023)",
+"bericht": "1.2 Puretech Allure Pack\n€ 7.950 · 127.687 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-allure-pack/o/1799832",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1799832/1200b100b81799c9826a9c615503acee~v187566676.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792500680.4766629,
+"laatst": 1792500680.4766629,
 "keer": 0,
 "fout": ""
 }
