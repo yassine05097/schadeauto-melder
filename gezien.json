@@ -3817,90 +3817,57 @@
 "1817657",
 "1817655",
 "1817643",
-"1662354"
+"1662354",
+"1817695",
+"1791225",
+"1817696",
+"1804312",
+"1817694",
+"1817688",
+"1817693",
+"1817692",
+"1815980",
+"1817691",
+"1817690",
+"1817687",
+"1775233",
+"1781629",
+"1721722",
+"1770835",
+"1779397",
+"1776177",
+"1817676",
+"1756387",
+"1817685",
+"1817679",
+"1779049",
+"1817678",
+"1778314",
+"1817680",
+"1777818"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817675,
+"hoogste_id": 1817696,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817675",
-"1777843",
-"1817664",
-"1817674",
-"1817673",
-"1686478",
-"1817672",
-"1817671",
-"1786542",
-"1817404",
-"1817409",
-"1817412"
+"1817695",
+"1791225",
+"1816912",
+"1817696",
+"1804312",
+"1817694",
+"1817688",
+"1815422",
+"1817693",
+"1817692",
+"1815980",
+"1817691"
 ]
 },
 "wachtrij": {
-"1817544": {
-"melding": {
-"titel": "Hyundai Bayon (2023)",
-"bericht": "1.0 AUTOMAAT T-GDI Premium\n€ 13.500 · 49.911 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-1-0-automaat-t-gdi-premium/o/1817544",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1817544/7df89f49b89f04f033595d6b5405af8d~v192494378.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792494702.7561297,
-"laatst": 1792505368.8775423,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1780039": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes Cla-klasse (2025)",
-"bericht": "250+ 85.5kWh 200kWh Launch Edition Pano\n€ 26.250 · 5.674 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-250-85-5kwh-200kwh-launch-edition-pano/o/1780039",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1780039/a47561eb3d3425b2e3310fa4a4ed0a63~v181091746.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792494702.7853694,
-"laatst": 1792494702.7853694,
-"keer": 0,
-"fout": ""
-},
-"1817538": {
-"melding": {
-"titel": "Citroën C3 (2022)",
-"bericht": "Bj:11-2022 1.2 83pk Airconditioning Full-Led koplampen Led Dagrijverlichting mistlampen Stoelverwarming cruisecontrol Dab Radio elektrische buitenspiegels met verwarming Centrale vergrendeling met afstandsbediening Start-Stop Drivelane assistent Lichtmeta\n€ 8.200 · 27.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-bj-11-2022-1-2-83pk-airconditioning-full-led-koplampen-led-dagrijverlichting-mistlampen-stoelverwarming-cruisecontrol-dab-radio-elektrische-buitenspiegels-met-verwarming-centrale-vergrendeling-met-afstandsbediening-start-stop-drivelane-assistent-lichtmeta/o/1817538",
-"foto": "https://www.schadeautos.nl/cache/picture/885/1817538/a9cbaec2b22185f0ae2e6dcb72e66370~v192494070.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792494702.8116117,
-"laatst": 1792494702.8116117,
-"keer": 0,
-"fout": ""
-},
-"1817534": {
-"melding": {
-"titel": "Cupra Leon (2024)",
-"bericht": "Sportstourer 1.4 e-Hybrid Essential Limited\n€ 16.800 · 45.323 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-sportstourer-1-4-e-hybrid-essential-limited/o/1817534",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1817534/8b251c692aea2bb9e29cbc852dd8731d~v192493497.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792494702.8374915,
-"laatst": 1792494702.8374915,
-"keer": 0,
-"fout": ""
-},
 "1750129": {
 "melding": {
 "titel": "Opnieuw geplaatst: Porsche Cayenne (2025)",
@@ -3912,9 +3879,9 @@
 "WhatsApp"
 ],
 "sinds": 1792496565.1373007,
-"laatst": 1792496565.1373007,
-"keer": 0,
-"fout": ""
+"laatst": 1792507265.6435297,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817577": {
 "melding": {
@@ -4498,6 +4465,171 @@
 ],
 "sinds": 1792505380.8243449,
 "laatst": 1792505380.8243449,
+"keer": 0,
+"fout": ""
+},
+"1817695": {
+"melding": {
+"titel": "Opel Grandland (2022)",
+"bericht": "1.2 Turbo Ultimate\n€ 7.250 · 73.638 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-grandland-1-2-turbo-ultimate/o/1817695",
+"foto": "https://www.schadeautos.nl/cache/picture/334/1817695/cb671e12912bc19075f61160a42aa602~v192507091.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507266.733615,
+"laatst": 1792507266.733615,
+"keer": 0,
+"fout": ""
+},
+"1817696": {
+"melding": {
+"titel": "Ford Fiesta (2022)",
+"bericht": "1.0 Klima Led Navi\n€ 6.350 · 237.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-klima-led-navi/o/1817696",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507266.8472455,
+"laatst": 1792507266.8472455,
+"keer": 0,
+"fout": ""
+},
+"1804312": {
+"melding": {
+"titel": "Opnieuw geplaatst: Hyundai Santa Fe (2025)",
+"bericht": "1.6 T-GDI PHEV Black Line 4WD 7p N.A.P NL AUTO\n€ 15.500 · 47.856 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-santa-fe-1-6-t-gdi-phev-black-line-4wd-7p-n-a-p-nl-auto/o/1804312",
+"foto": "https://www.schadeautos.nl/cache/picture/158/1804312/349f42d3ba462cea0d6aef4709046c59~v188793659.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507266.9486127,
+"laatst": 1792507266.9486127,
+"keer": 0,
+"fout": ""
+},
+"1817688": {
+"melding": {
+"titel": "Audi Q4 (2026)",
+"bericht": "40e-tron quattro 70kWh SUV Elektrisch 150kW (210pk) 4x4\n€ 32.000 · 2.535 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-40e-tron-quattro-70kwh-suv-elektrisch-150kw-210pk-4x4/o/1817688",
+"foto": "https://www.schadeautos.nl/cache/picture/146/1817688/68dce525628595bed4f812713b8de5ed~v192506085.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507267.0497234,
+"laatst": 1792507267.0497234,
+"keer": 0,
+"fout": ""
+},
+"1817692": {
+"melding": {
+"titel": "MG 3 (2026)",
+"bericht": "MG\nexportprijs € 5.500 · 8.122 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-3-mg/o/1817692",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817692/61ebf237b2726f6f0907d8237b0d5eb0~v192506293.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507267.172587,
+"laatst": 1792507267.172587,
+"keer": 0,
+"fout": ""
+},
+"1817691": {
+"melding": {
+"titel": "Dacia Duster (2023)",
+"bericht": "exportprijs € 9.500 · 63.567 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-duster/o/1817691",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817691/3f50c83113581bef4fe5ca8685a2facd~v192506259.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507267.2793295,
+"laatst": 1792507267.2793295,
+"keer": 0,
+"fout": ""
+},
+"1817690": {
+"melding": {
+"titel": "Citroën C3 Aircross (2022)",
+"bericht": "exportprijs € 4.950 · 50.377 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-aircross/o/1817690",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817690/7b13b17b8223711141cd36e3a5c66537~v192506253.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507270.2589598,
+"laatst": 1792507270.2589598,
+"keer": 0,
+"fout": ""
+},
+"1756387": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Crossland (2023)",
+"bericht": "1.2 Turbo Level 3\n€ 9.750 · 56.074 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-crossland-1-2-turbo-level-3/o/1756387",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1756387/1ebf14d5004eea3206c158575848d0ee~v174004030.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507270.381802,
+"laatst": 1792507270.381802,
+"keer": 0,
+"fout": ""
+},
+"1817685": {
+"melding": {
+"titel": "Volvo Xc-60 (2025)",
+"bericht": "2.0 T6 Plug-in hybrid AWD Ultra Black Edition\n€ 37.900 · 16.375 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc-60-2-0-t6-plug-in-hybrid-awd-ultra-black-edition/o/1817685",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1817685/170bcf87238aaf7914f392308b7f4357~v192505651.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507270.499019,
+"laatst": 1792507270.499019,
+"keer": 0,
+"fout": ""
+},
+"1779049": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Fabia (2024)",
+"bericht": "1.0 TSI Selection\n€ 10.250 · 23.865 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-1-0-tsi-selection/o/1779049",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1779049/c3bfe78898e206e7484a7b83ac51d0d9~v180911831.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507274.0166183,
+"laatst": 1792507274.0166183,
+"keer": 0,
+"fout": ""
+},
+"1777818": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Ceed (2022)",
+"bericht": "Sportswagon 1.0 T-GDi DynamicPlusLine\n€ 7.350 · 154.066 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-sportswagon-1-0-t-gdi-dynamicplusline/o/1777818",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1777818/8751025bb9d0f11c0457a629280d41a3~v180495763.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792507274.124384,
+"laatst": 1792507274.124384,
 "keer": 0,
 "fout": ""
 }
