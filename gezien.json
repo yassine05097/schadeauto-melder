@@ -3545,27 +3545,32 @@
 "1817362",
 "1817361",
 "1817360",
-"1817359"
+"1817359",
+"1817369",
+"1817368",
+"1817367",
+"1817365",
+"1817364"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817363,
+"hoogste_id": 1817369,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1817369",
+"1817368",
+"1817367",
+"1817365",
+"1817364",
 "1814247",
 "1817363",
 "1817362",
 "1817361",
 "1817360",
 "1817359",
-"1817358",
-"1817355",
-"1817356",
-"1817354",
-"1817352",
-"1817351"
+"1817358"
 ]
 },
 "wachtrij": {
@@ -3580,8 +3585,8 @@
 "WhatsApp"
 ],
 "sinds": 1792469500.8077445,
-"laatst": 1792471259.3317118,
-"keer": 2,
+"laatst": 1792473086.344637,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817362": {
@@ -3596,6 +3601,51 @@
 ],
 "sinds": 1792469501.023957,
 "laatst": 1792469501.023957,
+"keer": 0,
+"fout": ""
+},
+"1817369": {
+"melding": {
+"titel": "Volkswagen Taigo (2023)",
+"bericht": "€ 10.500 · 96.990 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-taigo/o/1817369",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1817369/9a90ee8cdc329a9b32218083e8f1e69d~v192472430.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792473087.1557558,
+"laatst": 1792473087.1557558,
+"keer": 0,
+"fout": ""
+},
+"1817367": {
+"melding": {
+"titel": "Dacia Sandero (2023)",
+"bericht": "€ 6.900 · 95.153 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero/o/1817367",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1817367/28c5aed0c9a3aeeab1380795a9617d19~v192472424.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792473087.186293,
+"laatst": 1792473087.186293,
+"keer": 0,
+"fout": ""
+},
+"1817364": {
+"melding": {
+"titel": "Volvo Xc-90 (2023)",
+"bericht": "XC 90\n€ 26.015 · 122.871 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc-90-xc-90/o/1817364",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1817364/583ddf8dc6c611f0f921ab5cb45def80~v192472409.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792473087.2150435,
+"laatst": 1792473087.2150435,
 "keer": 0,
 "fout": ""
 }
