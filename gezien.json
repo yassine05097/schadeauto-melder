@@ -3631,27 +3631,39 @@
 "1782683",
 "1817447",
 "1817462",
-"1803508"
+"1803508",
+"1713013",
+"1817485",
+"1817473",
+"1808508",
+"1817483",
+"1817482",
+"1368792",
+"1817479",
+"1817478",
+"1817474",
+"1800144",
+"1817468"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817469,
+"hoogste_id": 1817485,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817469",
-"1803868",
-"1817464",
-"1815122",
-"1808183",
-"1793380",
-"1817463",
-"1782683",
-"1817447",
-"1817462",
-"1803508",
-"1810277"
+"1713013",
+"1817485",
+"1817473",
+"1808508",
+"1817483",
+"1817482",
+"1368792",
+"1817479",
+"1817478",
+"1817346",
+"1817051",
+"1817474"
 ]
 },
 "wachtrij": {
@@ -3666,8 +3678,8 @@
 "WhatsApp"
 ],
 "sinds": 1792478922.836311,
-"laatst": 1792487535.026951,
-"keer": 1,
+"laatst": 1792489381.1581862,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1761427": {
@@ -3997,6 +4009,51 @@
 ],
 "sinds": 1792487536.3286722,
 "laatst": 1792487536.3286722,
+"keer": 0,
+"fout": ""
+},
+"1817485": {
+"melding": {
+"titel": "Fiat 500 (2026)",
+"bericht": "exportprijs € 4.350 · 2.231 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500/o/1817485",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817485/20eabc9823cc1d70c30fca56dc60ee85~v192489324.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792489382.9981647,
+"laatst": 1792489382.9981647,
+"keer": 0,
+"fout": ""
+},
+"1817482": {
+"melding": {
+"titel": "Audi A4 (2024)",
+"bericht": "exportprijs € 12.600 · 17.927 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4/o/1817482",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817482/161daef389ff3155f16c75b1b769ec31~v192489290.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792489383.1054082,
+"laatst": 1792489383.1054082,
+"keer": 0,
+"fout": ""
+},
+"1800144": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi A3 (2023)",
+"bericht": "LIMOUSINE 35TFSI 110kW Automaat Advanced Edition\n€ 15.800 · 77.300 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-limousine-35tfsi-110kw-automaat-advanced-edition/o/1800144",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1800144/1740365e5e010bbd20177de213869958~v187641390.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792489385.9991195,
+"laatst": 1792489385.9991195,
 "keer": 0,
 "fout": ""
 }
