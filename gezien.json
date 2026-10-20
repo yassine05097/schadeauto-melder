@@ -3535,15 +3535,23 @@
 "1817348",
 "1817347",
 "1817350",
-"1817351"
+"1817351",
+"1817355",
+"1817356",
+"1817354",
+"1817352"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817351,
+"hoogste_id": 1817356,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1817355",
+"1817356",
+"1817354",
+"1817352",
 "1817351",
 "1817350",
 "1817349",
@@ -3551,44 +3559,10 @@
 "1817347",
 "1817346",
 "1817345",
-"1810615",
-"1817344",
-"1815488",
-"1799112",
-"1817339"
+"1810615"
 ]
 },
 "wachtrij": {
-"1817349": {
-"melding": {
-"titel": "Volkswagen ID.4 (2024)",
-"bericht": "exportprijs € 8.500 · 14.051 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-4/o/1817349",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817349/21c7e6a63d7bc9f7692046d8aa743c08~v192446353.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792447508.3276608,
-"laatst": 1792455965.885113,
-"keer": 4,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1817348": {
-"melding": {
-"titel": "Dacia Jogger (2025)",
-"bericht": "exportprijs € 6.700 · 24.452 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger/o/1817348",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817348/447e49309c253aa25036f4f3ec7e2621~v192446059.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792447508.4044077,
-"laatst": 1792447508.4044077,
-"keer": 0,
-"fout": ""
-},
 "1817350": {
 "melding": {
 "titel": "Volkswagen ID.4 (2024)",
@@ -3600,9 +3574,9 @@
 "WhatsApp"
 ],
 "sinds": 1792449214.2389896,
-"laatst": 1792449214.2389896,
-"keer": 0,
-"fout": ""
+"laatst": 1792458692.9688075,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817351": {
 "melding": {
@@ -3616,6 +3590,51 @@
 ],
 "sinds": 1792455966.8855247,
 "laatst": 1792455966.8855247,
+"keer": 0,
+"fout": ""
+},
+"1817356": {
+"melding": {
+"titel": "BMW 1-serie (2026)",
+"bericht": "120 M-Pack Pano Virtual Keyless Memory Led Camera Acc Lane-Assist Sfeerverl. 125KW / 170PK\n€ 18.500 · 11.600 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-120-m-pack-pano-virtual-keyless-memory-led-camera-acc-lane-assist-sfeerverl-125kw-170pk/o/1817356",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1817356/8d60f469f3880adc8749280d7d2e89a5~v192456713.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792458694.013519,
+"laatst": 1792458694.013519,
+"keer": 0,
+"fout": ""
+},
+"1817354": {
+"melding": {
+"titel": "Kia Picanto (2022)",
+"bericht": "1.2 GT-Line Led CarPlay-Navi Camera Leder Ecc Acc 62KW/84PK\n€ 5.450 · 56.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-2-gt-line-led-carplay-navi-camera-leder-ecc-acc-62kw-84pk/o/1817354",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1817354/5ea3b15e371692513aa2394490439e62~v192456279.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792458694.1885502,
+"laatst": 1792458694.1885502,
+"keer": 0,
+"fout": ""
+},
+"1817352": {
+"melding": {
+"titel": "Peugeot 308 (2023)",
+"bericht": "SW Allure Automaat Virtual Keyless Camera Navi Led 96KW/131PK\n€ 4.950 · 100.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-sw-allure-automaat-virtual-keyless-camera-navi-led-96kw-131pk/o/1817352",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1817352/733a6594530a63db411f7d46194b02d5~v192456004.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792458694.363594,
+"laatst": 1792458694.363594,
 "keer": 0,
 "fout": ""
 }
