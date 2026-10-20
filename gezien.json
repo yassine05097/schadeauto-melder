@@ -3860,27 +3860,37 @@
 "1817701",
 "1812867",
 "1679603",
-"1817700"
+"1817700",
+"1817732",
+"1817729",
+"1817726",
+"1817730",
+"1817724",
+"1817725",
+"1817723",
+"1817719",
+"1817722",
+"1817720"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817716,
+"hoogste_id": 1817732,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817716",
-"1817715",
-"1817713",
-"1817712",
-"1817709",
-"1787922",
-"1817711",
-"1817708",
-"1779154",
-"1762325",
-"1817706",
-"1817705"
+"1817732",
+"1817729",
+"1817726",
+"1817730",
+"1817724",
+"1817725",
+"1814659",
+"1817723",
+"1817719",
+"1817722",
+"1817720",
+"1817716"
 ]
 },
 "wachtrij": {
@@ -3895,8 +3905,8 @@
 "WhatsApp"
 ],
 "sinds": 1792500676.5494535,
-"laatst": 1792509349.2109718,
-"keer": 1,
+"laatst": 1792511391.2124436,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817615": {
@@ -4376,6 +4386,66 @@
 ],
 "sinds": 1792509351.0056052,
 "laatst": 1792509351.0056052,
+"keer": 0,
+"fout": ""
+},
+"1817726": {
+"melding": {
+"titel": "BMW iX1 (2024)",
+"bericht": "20 eDrive\n€ 16.698 · 54.417 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-20-edrive/o/1817726",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1817726/4910be6545cc1848cc6a7d45871e28d0~v192510428.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792511392.2075698,
+"laatst": 1792511392.2075698,
+"keer": 0,
+"fout": ""
+},
+"1817725": {
+"melding": {
+"titel": "Citroën C4 (2022)",
+"bericht": "exportprijs € 6.850 · 79.802 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4/o/1817725",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817725/ce59d6f136b2998d1a01f0b4d6911443~v192510183.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792511392.2700012,
+"laatst": 1792511392.2700012,
+"keer": 0,
+"fout": ""
+},
+"1817723": {
+"melding": {
+"titel": "Citroën C5 Aircross (2025)",
+"bericht": "exportprijs € 8.950 · 2.168 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c5-aircross/o/1817723",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817723/64a46ef610111dd803778e946f75a490~v192509812.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792511392.3911068,
+"laatst": 1792511392.3911068,
+"keer": 0,
+"fout": ""
+},
+"1817722": {
+"melding": {
+"titel": "Kia Niro (2022)",
+"bericht": "exportprijs € 6.850 · 72.688 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro/o/1817722",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817722/af0964d5f7be3ddbf623ff54d6b4f455~v192509791.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792511392.4261107,
+"laatst": 1792511392.4261107,
 "keer": 0,
 "fout": ""
 }
