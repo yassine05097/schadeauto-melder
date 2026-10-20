@@ -3593,27 +3593,39 @@
 "1793333",
 "1806893",
 "1788673",
-"1792355"
+"1792355",
+"1817403",
+"1817418",
+"1762924",
+"1760429",
+"1817420",
+"1791724",
+"1792304",
+"1817410",
+"1800258",
+"1796686",
+"1817405",
+"1808752"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817400,
+"hoogste_id": 1817420,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816114",
-"1817400",
-"1816279",
-"1817389",
-"1817395",
-"1817399",
-"1727315",
-"1779423",
-"1815152",
-"1809978",
-"1814584",
-"1806549"
+"1817403",
+"1817418",
+"1748922",
+"1762924",
+"1760429",
+"1817420",
+"1791724",
+"1792304",
+"1817410",
+"1800258",
+"1796686",
+"1787747"
 ]
 },
 "wachtrij": {
@@ -3628,8 +3640,8 @@
 "WhatsApp"
 ],
 "sinds": 1792473087.1557558,
-"laatst": 1792481259.6428685,
-"keer": 1,
+"laatst": 1792483519.8738637,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817367": {
@@ -3809,6 +3821,66 @@
 ],
 "sinds": 1792481265.5404575,
 "laatst": 1792481265.5404575,
+"keer": 0,
+"fout": ""
+},
+"1817403": {
+"melding": {
+"titel": "Citroën Grand C4 SpaceTourer (2022)",
+"bericht": "7 SEATS\n€ 5.300 · 58.473 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-grand-c4-spacetourer-7-seats/o/1817403",
+"foto": "https://www.schadeautos.nl/cache/picture/1026/1817403/14c5b795d9650f09755948ea9a4b1d98~v192483386.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792483521.2690759,
+"laatst": 1792483521.2690759,
+"keer": 0,
+"fout": ""
+},
+"1762924": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mazda CX-60 (2023)",
+"bericht": "CX-60 PHEV 2.5 141KW AUT. AWD\nexportprijs € 12.900 · 91.737 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-60-cx-60-phev-2-5-141kw-aut-awd/o/1762924",
+"foto": "https://www.schadeautos.nl/cache/picture/984/1762924/c894cebceddd4d3737ad78dda68cd5db~v176004696.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792483521.2955222,
+"laatst": 1792483521.2955222,
+"keer": 0,
+"fout": ""
+},
+"1817410": {
+"melding": {
+"titel": "Audi A4 (2024)",
+"bericht": "2.0 TFSi 110kw M-HEV / 27 DKM\n€ 14.700 · 27.617 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-2-0-tfsi-110kw-m-hev-27-dkm/o/1817410",
+"foto": "https://www.schadeautos.nl/cache/picture/72/1817410/618a5b917b0a83f18ac7865a1f2c2052~v192482109.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792483521.3241718,
+"laatst": 1792483521.3241718,
+"keer": 0,
+"fout": ""
+},
+"1796686": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Multivan (2026)",
+"bericht": "T7 Multivan 110kw DSG Automaat, Leer, Panorama, Standkachel\n€ 44.650 · 1.933 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-multivan-t7-multivan-110kw-dsg-automaat-leer-panorama-standkachel/o/1796686",
+"foto": "https://www.schadeautos.nl/cache/picture/344/1796686/364febd3dce9746a3093fd04372f0b59~v186542923.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792483521.3526766,
+"laatst": 1792483521.3526766,
 "keer": 0,
 "fout": ""
 }
