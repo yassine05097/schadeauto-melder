@@ -3770,75 +3770,44 @@
 "1817608",
 "1817606",
 "1817597",
-"1799832"
+"1799832",
+"1817641",
+"1817652",
+"1817651",
+"1669160",
+"1654697",
+"1644311",
+"1817649",
+"1817647",
+"1816263",
+"1817644",
+"1760985",
+"1817639",
+"1817638",
+"1817636"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817635,
+"hoogste_id": 1817652,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817634",
-"1743682",
-"1817628",
-"1817635",
-"1763980",
-"1772069",
-"1817627",
-"1816766",
-"1817625",
-"1817618",
-"1817617",
-"1817616"
+"1817641",
+"1817652",
+"1817651",
+"1669160",
+"1654697",
+"1644311",
+"1817649",
+"1817647",
+"1816263",
+"1817644",
+"1760985",
+"1817639"
 ]
 },
 "wachtrij": {
-"1817491": {
-"melding": {
-"titel": "Dacia Spring (2022)",
-"bericht": "45pk navi\n€ 4.550 · 119.370 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-spring-45pk-navi/o/1817491",
-"foto": "https://www.schadeautos.nl/cache/picture/109/1817491/a3de2110158ac5bcf6e2c38393fdb02b~v192490596.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792491091.6282704,
-"laatst": 1792500675.1043396,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1817422": {
-"melding": {
-"titel": "Kia Sportage (2025)",
-"bericht": "117KW M-HEV / AUTOM / 14 DKM\n€ 18.500 · 14.516 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-117kw-m-hev-autom-14-dkm/o/1817422",
-"foto": "https://www.schadeautos.nl/cache/picture/72/1817422/fd0bfb6c0033464344010cf5c5ac0d16~v192489629.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792491091.6558216,
-"laatst": 1792491091.6558216,
-"keer": 0,
-"fout": ""
-},
-"1561571": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Passat (2023)",
-"bericht": "Variant 1.4 TSI PHEV GTE Panoramadak Navi Clima\n€ 15.450 · 18.684 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-variant-1-4-tsi-phev-gte-panoramadak-navi-clima/o/1561571",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1561571/c486c3f12c0176516e34a956494d91c7~v114487726.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792491091.6833267,
-"laatst": 1792491091.6833267,
-"keer": 0,
-"fout": ""
-},
 "1817528": {
 "melding": {
 "titel": "Tesla Model Y (2024)",
@@ -3850,9 +3819,9 @@
 "WhatsApp"
 ],
 "sinds": 1792492888.3714325,
-"laatst": 1792492888.3714325,
-"keer": 0,
-"fout": ""
+"laatst": 1792502921.7449682,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817527": {
 "melding": {
@@ -4436,6 +4405,36 @@
 ],
 "sinds": 1792500680.4766629,
 "laatst": 1792500680.4766629,
+"keer": 0,
+"fout": ""
+},
+"1817647": {
+"melding": {
+"titel": "Volkswagen Polo (2025)",
+"bericht": "BENZINE -- KLIMATRONIK\n€ 9.800 · 24.501 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-benzine-klimatronik/o/1817647",
+"foto": "https://www.schadeautos.nl/cache/picture/967/1817647/d8fa554131dbfdbe70d2210b97dd4043~v192501813.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792502923.0293655,
+"laatst": 1792502923.0293655,
+"keer": 0,
+"fout": ""
+},
+"1817644": {
+"melding": {
+"titel": "Volkswagen ID.3 (2026)",
+"bericht": "Pro S 150 kW 2026\n€ 6.900 · 19.000 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-3-pro-s-150-kw-2026/o/1817644",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1817644/c426ed2b1efada6ca667b5eacd1e5d9d~v192501520.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792502923.0569544,
+"laatst": 1792502923.0569544,
 "keer": 0,
 "fout": ""
 }
