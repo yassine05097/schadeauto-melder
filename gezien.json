@@ -3870,120 +3870,36 @@
 "1817723",
 "1817719",
 "1817722",
-"1817720"
+"1817720",
+"1817740",
+"1817738",
+"1817737",
+"1817736",
+"1817735",
+"1817734"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817732,
+"hoogste_id": 1817740,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1817740",
+"1817738",
+"1817737",
+"1817736",
+"1817735",
+"1817734",
 "1817732",
 "1817729",
 "1817726",
 "1817730",
 "1817724",
-"1817725",
-"1814659",
-"1817723",
-"1817719",
-"1817722",
-"1817720",
-"1817716"
+"1817725"
 ]
 },
 "wachtrij": {
-"1817634": {
-"melding": {
-"titel": "BMW X5 (2022)",
-"bericht": "€ 41.900 · 44.500 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5/o/1817634",
-"foto": "https://www.schadeautos.nl/cache/picture/981/1817634/b243fc8116c0cdfebb1b2426687f7d69~v192500529.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792500676.5494535,
-"laatst": 1792511391.2124436,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1817615": {
-"melding": {
-"titel": "Opel Corsa (2024)",
-"bericht": "1.2 Turbo GS\n€ 8.700 · 25.050 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-gs/o/1817615",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1817615/b38698a33f35357c7faaf0f923038572~v192499302.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792500679.5886722,
-"laatst": 1792500679.5886722,
-"keer": 0,
-"fout": ""
-},
-"1817519": {
-"melding": {
-"titel": "Lynk & Co 01 (2023)",
-"bericht": "1.5 Panoramadak Automaat\n€ 14.750 · 91.481 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-panoramadak-automaat/o/1817519",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1817519/4a9d3bfbf00ebb3e16a90e579a84e603~v192492294.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792500679.8049092,
-"laatst": 1792500679.8049092,
-"keer": 0,
-"fout": ""
-},
-"1817610": {
-"melding": {
-"titel": "Audi A1 (2026)",
-"bericht": "3.0 TFSI S-Line 115pk aut\n€ 13.500 · 16.781 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-3-0-tfsi-s-line-115pk-aut/o/1817610",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1817610/f9bd632251a042966d7e0bc738787e5f~v192499020.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792500680.0298116,
-"laatst": 1792500680.0298116,
-"keer": 0,
-"fout": ""
-},
-"1817606": {
-"melding": {
-"titel": "Dacia Sandero (2022)",
-"bericht": "1.0 TCE 90 Comfort\n€ 6.250 · 45.158 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-1-0-tce-90-comfort/o/1817606",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1817606/c460a116dbde0c96aab4a40d8fde7672~v192498615.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792500680.2588642,
-"laatst": 1792500680.2588642,
-"keer": 0,
-"fout": ""
-},
-"1799832": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 2008 (2023)",
-"bericht": "1.2 Puretech Allure Pack\n€ 7.950 · 127.687 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-allure-pack/o/1799832",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1799832/1200b100b81799c9826a9c615503acee~v187566676.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792500680.4766629,
-"laatst": 1792500680.4766629,
-"keer": 0,
-"fout": ""
-},
 "1817647": {
 "melding": {
 "titel": "Volkswagen Polo (2025)",
@@ -3995,9 +3911,9 @@
 "WhatsApp"
 ],
 "sinds": 1792502923.0293655,
-"laatst": 1792502923.0293655,
-"keer": 0,
-"fout": ""
+"laatst": 1792513195.7199094,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817644": {
 "melding": {
@@ -4446,6 +4362,96 @@
 ],
 "sinds": 1792511392.4261107,
 "laatst": 1792511392.4261107,
+"keer": 0,
+"fout": ""
+},
+"1817740": {
+"melding": {
+"titel": "Renault Twingo (2023)",
+"bericht": "exportprijs € 3.300 · 20.516 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-twingo/o/1817740",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817740/fbcb8210e3ac67e15062e53bf0ac1e17~v192513056.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792513197.531931,
+"laatst": 1792513197.531931,
+"keer": 0,
+"fout": ""
+},
+"1817738": {
+"melding": {
+"titel": "Kia Ceed (2023)",
+"bericht": "GT Line 160pk PANO Automaat LED\n39.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-gt-line-160pk-pano-automaat-led/o/1817738",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1817738/37ec16c26681bbb8dd5a9303866970a5~v192512567.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792513197.7453725,
+"laatst": 1792513197.7453725,
+"keer": 0,
+"fout": ""
+},
+"1817737": {
+"melding": {
+"titel": "Seat Ateca (2023)",
+"bericht": "FR 1.5 150pk automaat led virtual LEDER\n61.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-fr-1-5-150pk-automaat-led-virtual-leder/o/1817737",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1817737/da8f9390d5f604ec75e92425faad994f~v192512257.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792513197.959154,
+"laatst": 1792513197.959154,
+"keer": 0,
+"fout": ""
+},
+"1817736": {
+"melding": {
+"titel": "Cupra Leon (2025)",
+"bericht": "Nederlandse Kenteken 150pk Led Leder Nederlandse Kenteken\n€ 23.500 · 23.300 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-nederlandse-kenteken-150pk-led-leder-nederlandse-kenteken/o/1817736",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1817736/a3d19b17cc28086c4ba61b25ab0fa051~v192511923.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792513198.1849499,
+"laatst": 1792513198.1849499,
+"keer": 0,
+"fout": ""
+},
+"1817735": {
+"melding": {
+"titel": "Hyundai I-30 (2024)",
+"bericht": "N 280pk Kuipstoelen Panoramadak LED Full\n13.850 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-n-280pk-kuipstoelen-panoramadak-led-full/o/1817735",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1817735/f28d13fa4cd84ba9a3d54dfe3973d3cc~v192511605.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792513198.3940804,
+"laatst": 1792513198.3940804,
+"keer": 0,
+"fout": ""
+},
+"1817734": {
+"melding": {
+"titel": "Skoda Kamiq (2022)",
+"bericht": "Style 1.5 150pk LED VIRTUAL ACHTERUITRIJCAMERA\n44.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-style-1-5-150pk-led-virtual-achteruitrijcamera/o/1817734",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1817734/d1a10a34c351d10e3dabebdea95d3ffa~v192511390.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792513198.6051672,
+"laatst": 1792513198.6051672,
 "keer": 0,
 "fout": ""
 }
