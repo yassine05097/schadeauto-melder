@@ -3539,15 +3539,17 @@
 "1817355",
 "1817356",
 "1817354",
-"1817352"
+"1817352",
+"1817358"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817356,
+"hoogste_id": 1817358,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1817358",
 "1817355",
 "1817356",
 "1817354",
@@ -3558,26 +3560,10 @@
 "1817348",
 "1817347",
 "1817346",
-"1817345",
-"1810615"
+"1817345"
 ]
 },
 "wachtrij": {
-"1817350": {
-"melding": {
-"titel": "Volkswagen ID.4 (2024)",
-"bericht": "exportprijs € 8.500 · 14.051 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-4/o/1817350",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1817350/3dc458210ec1ea9e159ec20f1486cc43~v192448736.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792449214.2389896,
-"laatst": 1792458692.9688075,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1817351": {
 "melding": {
 "titel": "Opel Corsa (2025)",
@@ -3589,9 +3575,9 @@
 "WhatsApp"
 ],
 "sinds": 1792455966.8855247,
-"laatst": 1792455966.8855247,
-"keer": 0,
-"fout": ""
+"laatst": 1792460625.6998684,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817356": {
 "melding": {
