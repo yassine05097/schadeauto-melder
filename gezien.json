@@ -3726,27 +3726,50 @@
 "1817536",
 "1817540",
 "1779553",
-"1817551"
+"1817551",
+"1791916",
+"1789172",
+"1812504",
+"1812535",
+"1811174",
+"1811178",
+"1817602",
+"1817600",
+"1817601",
+"1766407",
+"1817598",
+"1817595",
+"1817596",
+"1817525",
+"1817594",
+"1635964",
+"1817586",
+"1817593",
+"1808214",
+"1784578",
+"1817588",
+"1817587",
+"1817585"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817584,
+"hoogste_id": 1817602,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817584",
-"1802952",
-"1817581",
-"1817572",
-"1817553",
-"1783158",
-"1750129",
-"1790414",
-"1817577",
-"1817574",
-"1817575",
-"1817562"
+"1791916",
+"1789172",
+"1812504",
+"1812535",
+"1811174",
+"1811178",
+"1817602",
+"1817600",
+"1817601",
+"1813919",
+"1816267",
+"1766407"
 ]
 },
 "wachtrij": {
@@ -3761,8 +3784,8 @@
 "WhatsApp"
 ],
 "sinds": 1792487536.106778,
-"laatst": 1792496564.001146,
-"keer": 1,
+"laatst": 1792498252.25912,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817447": {
@@ -4182,6 +4205,201 @@
 ],
 "sinds": 1792496571.1747227,
 "laatst": 1792496571.1747227,
+"keer": 0,
+"fout": ""
+},
+"1791916": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche Taycan (2025)",
+"bericht": "GTS 105 kWh PDLS+ Sport Chrono ACC Pano HUD Bose 360° 3.885 km!\n€ 74.450 · 3.835 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-gts-105-kwh-pdls-sport-chrono-acc-pano-hud-bose-360-3-885-km/o/1791916",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1791916/fd4c373ad85bcd7702dcd5acd76aab35~v192497648.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498253.132803,
+"laatst": 1792498253.132803,
+"keer": 0,
+"fout": ""
+},
+"1789172": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche Panamera (2025)",
+"bericht": "2.9 4S E-Hybrid Pano PDLS+ ACC Bose HUD Memory Camera\n€ 89.950 · 21.474 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-panamera-2-9-4s-e-hybrid-pano-pdls-acc-bose-hud-memory-camera/o/1789172",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1789172/526b1169230a61f8c58fd86115b529e0~v192497596.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498253.2451262,
+"laatst": 1792498253.2451262,
+"keer": 0,
+"fout": ""
+},
+"1812504": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche Panamera (2026)",
+"bericht": "2.9 4S E-Hybrid Pano ACC Sport Chrono PDLS+ Burmester 360° HUD 4.658 km!\n€ 83.950 · 4.658 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-panamera-2-9-4s-e-hybrid-pano-acc-sport-chrono-pdls-burmester-360-hud-4-658-km/o/1812504",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1812504/3366f6a1428e4a0bb0520c3bd5a6e006~v192497523.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498253.3500006,
+"laatst": 1792498253.3500006,
+"keer": 0,
+"fout": ""
+},
+"1812535": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche 911 (2024)",
+"bericht": "4.0 GT3 Touring PDK PCCB PDLS+ Sport Chrono Camera SHZ\n€ 102.450 · 7.894 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-911-4-0-gt3-touring-pdk-pccb-pdls-sport-chrono-camera-shz/o/1812535",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1812535/898dbe4bfa09d36b14e931651e064b63~v192497263.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498253.4556813,
+"laatst": 1792498253.4556813,
+"keer": 0,
+"fout": ""
+},
+"1811174": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes GLS (2025)",
+"bericht": "450 d 4MATIC AMG Line 7p. Pano Burmester 360° AHK ACC HUD Memory SHZ Virtual\n€ 58.250 · 15.249 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-gls-450-d-4matic-amg-line-7p-pano-burmester-360-ahk-acc-hud-memory-shz-virtual/o/1811174",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1811174/454aa960978f5c142005d1c8e3435063~v192497105.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498253.5567667,
+"laatst": 1792498253.5567667,
+"keer": 0,
+"fout": ""
+},
+"1811178": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche Macan (2026)",
+"bericht": "GTS 100 kWh Pano LED ACC Sport Chrono Bose Camera SHZ\n€ 70.750 · 3.752 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-macan-gts-100-kwh-pano-led-acc-sport-chrono-bose-camera-shz/o/1811178",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1811178/3bc2e591f6edd0ffb61a82f36120dac5~v192496892.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498253.6625016,
+"laatst": 1792498253.6625016,
+"keer": 0,
+"fout": ""
+},
+"1817602": {
+"melding": {
+"titel": "Fiat 600 (2025)",
+"bericht": "Hybrid 1.2 Hybrid DCT Automatik\n€ 10.900 · 1 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-600-hybrid-1-2-hybrid-dct-automatik/o/1817602",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1817602/d4539b24e1b4cd6a902b6692a2927164~v192497923.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498253.7651775,
+"laatst": 1792498253.7651775,
+"keer": 0,
+"fout": ""
+},
+"1817601": {
+"melding": {
+"titel": "Audi A3 (2023)",
+"bericht": "S-TRONIC\n38.605 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-s-tronic/o/1817601",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1817601/1a8583195264172db9ece1c29bed692e~v192497758.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498253.8740363,
+"laatst": 1792498253.8740363,
+"keer": 0,
+"fout": ""
+},
+"1817525": {
+"melding": {
+"titel": "Ford Custom (2025)",
+"bericht": "340 2.5 PHEV L2H1 Trend\n€ 40.750 · 36.030 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-custom-340-2-5-phev-l2h1-trend/o/1817525",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1817525/e5df275494ccf87ccf6db5225c45cf42~v192497198.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498256.568342,
+"laatst": 1792498256.568342,
+"keer": 0,
+"fout": ""
+},
+"1817594": {
+"melding": {
+"titel": "BMW 3-serie (2022)",
+"bericht": "Touring 330e AUTOMAAT\n€ 16.950 · 130.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-touring-330e-automaat/o/1817594",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1817594/c20efd0f2b7f496e680ce6823db01541~v192497298.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498256.6794374,
+"laatst": 1792498256.6794374,
+"keer": 0,
+"fout": ""
+},
+"1635964": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mini Countryman (2024)",
+"bericht": "2.0 JCW ALL4 Autom. 221kw Navi Clima\n€ 27.250 · 24.685 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-countryman-2-0-jcw-all4-autom-221kw-navi-clima/o/1635964",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1635964/da1a142c644839ab0edeb840836f48f6~v138148935.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498256.7946446,
+"laatst": 1792498256.7946446,
+"keer": 0,
+"fout": ""
+},
+"1817593": {
+"melding": {
+"titel": "Kia Picanto (2025)",
+"bericht": "1.0 DPI DynamicLine\n€ 9.700 · 23.145 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-dynamicline/o/1817593",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1817593/e5196c7fb2d297fc750c5c7e3962ed8a~v192497085.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498256.9139502,
+"laatst": 1792498256.9139502,
+"keer": 0,
+"fout": ""
+},
+"1817588": {
+"melding": {
+"titel": "Renault 4 (2025)",
+"bericht": "comfort range techno 52 kWh\n€ 14.500 · 38.357 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-4-comfort-range-techno-52-kwh/o/1817588",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1817588/3b8b8c331e0dc58a2b59d480852835e9~v192496829.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792498260.6314104,
+"laatst": 1792498260.6314104,
 "keer": 0,
 "fout": ""
 }
