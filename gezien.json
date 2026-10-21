@@ -3921,7 +3921,13 @@
 "1817788",
 "1817787",
 "1817792",
-"1817791"
+"1817791",
+"1808432",
+"1813334",
+"1813030",
+"1812153",
+"1809309",
+"1800815"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -3930,21 +3936,67 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1767429",
-"1817792",
-"1814914",
-"1815803",
-"1817791",
-"1817789",
-"1812185",
-"1808417",
-"1810774",
-"1789952",
-"1674475",
-"1786541"
+"1808468",
+"1808432",
+"1813973",
+"1813334",
+"1813030",
+"1812153",
+"1809309",
+"1800815",
+"1769532",
+"1785814",
+"1813309",
+"1815169"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1813334": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes Cla-klasse (2026)",
+"bericht": "250+ Business Solution AMG 85.5 kWh PANORAMADAK\n€ 32.600 · 1.017 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-250-business-solution-amg-85-5-kwh-panoramadak/o/1813334",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1813334/45913249ea48e8594479db7234df3ef7~v191298602.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792559146.480924,
+"laatst": 1792559146.480924,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1813030": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes Cla-klasse (2024)",
+"bericht": "Shooting Brake 250 AUTOMAAT e Star Edition AMG Line\n€ 16.500 · 74.463 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-shooting-brake-250-automaat-e-star-edition-amg-line/o/1813030",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1813030/10f5d89aec390fd4b6ea47ddd02a74c0~v191277684.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792559146.6909688,
+"laatst": 1792559146.6909688,
+"keer": 0,
+"fout": ""
+},
+"1800815": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia EV6 (2024)",
+"bericht": "Light Edition 58 kwh\n€ 11.300 · 54.943 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev6-light-edition-58-kwh/o/1800815",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1800815/efad1928ee82f95394c9a04d54c2b79c~v188889629.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792559146.897414,
+"laatst": 1792559146.897414,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
