@@ -4034,27 +4034,39 @@
 "1817916",
 "1809067",
 "1817914",
-"1817911"
+"1817911",
+"1817949",
+"1817950",
+"1817948",
+"1812901",
+"1817947",
+"1809942",
+"1745392",
+"1817926",
+"1817941",
+"1817943",
+"1817940",
+"1817938"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817937,
+"hoogste_id": 1817950,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1785394",
-"1810828",
-"1817502",
-"1801171",
-"1797212",
-"1815887",
-"1791918",
-"1817937",
-"1773256",
-"1817936",
-"1817935",
-"1766839"
+"1817949",
+"1817950",
+"1817948",
+"1812901",
+"1817947",
+"1816621",
+"1809942",
+"1745392",
+"1816918",
+"1817926",
+"1817941",
+"1817943"
 ]
 },
 "wachtrij": {
@@ -4069,8 +4081,8 @@
 "WhatsApp"
 ],
 "sinds": 1792567713.3880904,
-"laatst": 1792576332.8078237,
-"keer": 1,
+"laatst": 1792577964.0940504,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1810182": {
@@ -4595,6 +4607,81 @@
 ],
 "sinds": 1792576344.5336194,
 "laatst": 1792576344.5336194,
+"keer": 0,
+"fout": ""
+},
+"1817950": {
+"melding": {
+"titel": "Volkswagen T-Cross (2022)",
+"bericht": "STYLE 110 PK NAVI CLIMA CAMERA VIRT DASH B.J 09-2022\n€ 10.950 · 57.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-style-110-pk-navi-clima-camera-virt-dash-b-j-09-2022/o/1817950",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1817950/8be77dcb4158588e44e847fc90000284~v192577698.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792577967.2445931,
+"laatst": 1792577967.2445931,
+"keer": 0,
+"fout": ""
+},
+"1817948": {
+"melding": {
+"titel": "Suzuki Ignis (2024)",
+"bericht": "1.2 Smart Hybrid Select\n€ 12.250 · 2.512 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-ignis-1-2-smart-hybrid-select/o/1817948",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1817948/d8c404cbc30b784d03e51c5b6af118f4~v192577326.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792577967.3767114,
+"laatst": 1792577967.3767114,
+"keer": 0,
+"fout": ""
+},
+"1817947": {
+"melding": {
+"titel": "Toyota Yaris Cross (2023)",
+"bericht": "1.5 AUTOMAAT HYBRIDE NAVI CLIMA CAMERA PDC B.J 06-2023\n€ 14.950 · 79.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-1-5-automaat-hybride-navi-clima-camera-pdc-b-j-06-2023/o/1817947",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1817947/e65544a9861adf0cc446f22d3a9818d7~v192577255.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792577967.5076022,
+"laatst": 1792577967.5076022,
+"keer": 0,
+"fout": ""
+},
+"1817941": {
+"melding": {
+"titel": "Dacia Jogger (2026)",
+"bericht": "1.8 AUTOMAAT 7 PERS EXTREEM NAVI CLIMA CAMERA CRUISE LED B.J 04-2026\n€ 16.990 · 5.950 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-1-8-automaat-7-pers-extreem-navi-clima-camera-cruise-led-b-j-04-2026/o/1817941",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1817941/57ebcd5598ee929d8b83101943d6cb0a~v192576763.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792577967.639513,
+"laatst": 1792577967.639513,
+"keer": 0,
+"fout": ""
+},
+"1817938": {
+"melding": {
+"titel": "Ford Ranger (2026)",
+"bericht": "Wildtrak 2.0 Ecoblue Doublecab Aut.\nexportprijs € 28.750 · 6.481 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-wildtrak-2-0-ecoblue-doublecab-aut/o/1817938",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1817938/b72576bc85bd8d4aff659944f053eca0~v192576302.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792577970.4513655,
+"laatst": 1792577970.4513655,
 "keer": 0,
 "fout": ""
 }
