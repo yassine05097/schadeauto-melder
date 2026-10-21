@@ -3976,60 +3976,42 @@
 "1816858",
 "1816850",
 "1763521",
-"1817834"
+"1817834",
+"1817885",
+"1806845",
+"1817877",
+"1702322",
+"1817880",
+"1817882",
+"1809993",
+"1817881",
+"1817874",
+"1692853",
+"1817871",
+"1762092"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817854,
+"hoogste_id": 1817885,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1749289",
-"1797242",
-"1817853",
-"1817843",
-"1817854",
-"1817852",
-"1817851",
-"1705031",
-"1817761",
-"1816939",
-"1816872",
-"1816805"
+"1817885",
+"1807014",
+"1816086",
+"1816518",
+"1806845",
+"1813103",
+"1809502",
+"1817877",
+"1702322",
+"1817880",
+"1817882",
+"1811830"
 ]
 },
 "wachtrij": {
-"1817796": {
-"melding": {
-"titel": "Ford Ranger (2024)",
-"bericht": "Wildtrak e-4WD 3.0L 177KW Automatic\n€ 23.900 · 52.000 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-wildtrak-e-4wd-3-0l-177kw-automatic/o/1817796",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1817796/70957f572aba263afe9a0d0e59a009bd~v192560309.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792560915.4227207,
-"laatst": 1792570148.678439,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1817795": {
-"melding": {
-"titel": "BMW X1 (2023)",
-"bericht": "xDrive 30e M Sport Leder HUD Harman\n€ 16.900 · 41.553 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive-30e-m-sport-leder-hud-harman/o/1817795",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1817795/568acb3932954b6923ad9d1ac7e2cc41~v192560307.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792560915.4945881,
-"laatst": 1792560915.4945881,
-"keer": 0,
-"fout": ""
-},
 "1773975": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen Up! (2023)",
@@ -4041,9 +4023,9 @@
 "WhatsApp"
 ],
 "sinds": 1792565063.9409227,
-"laatst": 1792565063.9409227,
-"keer": 0,
-"fout": ""
+"laatst": 1792572158.3477373,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1799240": {
 "melding": {
@@ -4192,6 +4174,81 @@
 ],
 "sinds": 1792570152.4986684,
 "laatst": 1792570152.4986684,
+"keer": 0,
+"fout": ""
+},
+"1817880": {
+"melding": {
+"titel": "Volkswagen Passat (2022)",
+"bericht": "Volkswagen Passat Variant Business, DSG, Navi, Kamera, AHK\n€ 9.450 · 100.108 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-volkswagen-passat-variant-business-dsg-navi-kamera-ahk/o/1817880",
+"foto": "https://www.schadeautos.nl/cache/picture/743/1817880/c5cf2d24595860d8640a8922486bb846~v192571686.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792572159.4044614,
+"laatst": 1792572159.4044614,
+"keer": 0,
+"fout": ""
+},
+"1817882": {
+"melding": {
+"titel": "Opel Corsa (2024)",
+"bericht": "GS SPORT 100 PK NAVI CLIMA CAMERA VIRT DASH LED B.J 2024\n€ 8.990 · 8.600 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-sport-100-pk-navi-clima-camera-virt-dash-led-b-j-2024/o/1817882",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1817882/bdc70c20e08268605b196008203175f1~v192571935.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792572159.5784395,
+"laatst": 1792572159.5784395,
+"keer": 0,
+"fout": ""
+},
+"1817881": {
+"melding": {
+"titel": "Renault Twingo (2022)",
+"bericht": "1.0 LOOK SPORT\n€ 2.050 · 26.103 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-twingo-1-0-look-sport/o/1817881",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1817881/60df03ea096fe4be1d2fc3ce03b6ec00~v192571419.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792572162.4424996,
+"laatst": 1792572162.4424996,
+"keer": 0,
+"fout": ""
+},
+"1817874": {
+"melding": {
+"titel": "Hyundai Kona (2026)",
+"bericht": "64.8 kWh Long range\n€ 22.850 · 986 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-64-8-kwh-long-range/o/1817874",
+"foto": "https://www.schadeautos.nl/cache/picture/451/1817874/f529f4ba5299c10a6c7531d4802f827a~v192571317.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792572162.6185966,
+"laatst": 1792572162.6185966,
+"keer": 0,
+"fout": ""
+},
+"1692853": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Astra (2023)",
+"bericht": "ST 1.2 Turbo 81kW Clima Camera\n€ 8.300 · 49.309 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-st-1-2-turbo-81kw-clima-camera/o/1692853",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1692853/940d63745a664748632170815b4d8064~v155248456.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792572162.8025262,
+"laatst": 1792572162.8025262,
 "keer": 0,
 "fout": ""
 }
