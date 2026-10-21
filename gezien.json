@@ -3961,75 +3961,45 @@
 "1817806",
 "1817808",
 "1817807",
-"1740414"
+"1740414",
+"1817853",
+"1817843",
+"1817854",
+"1817852",
+"1817851",
+"1705031",
+"1811694",
+"1817835",
+"1790070",
+"1816864",
+"1816860",
+"1816858",
+"1816850",
+"1763521",
+"1817834"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817824,
+"hoogste_id": 1817854,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817679",
-"1707834",
-"1756652",
-"1810182",
-"1670881",
-"1817816",
-"1817824",
-"1817823",
-"1817822",
-"1817793",
-"1817794",
-"1817817"
+"1749289",
+"1797242",
+"1817853",
+"1817843",
+"1817854",
+"1817852",
+"1817851",
+"1705031",
+"1817761",
+"1816939",
+"1816872",
+"1816805"
 ]
 },
 "wachtrij": {
-"1813334": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes Cla-klasse (2026)",
-"bericht": "250+ Business Solution AMG 85.5 kWh PANORAMADAK\n€ 32.600 · 1.017 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-250-business-solution-amg-85-5-kwh-panoramadak/o/1813334",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1813334/45913249ea48e8594479db7234df3ef7~v191298602.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792559146.480924,
-"laatst": 1792567712.2868826,
-"keer": 5,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1813030": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes Cla-klasse (2024)",
-"bericht": "Shooting Brake 250 AUTOMAAT e Star Edition AMG Line\n€ 16.500 · 74.463 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-shooting-brake-250-automaat-e-star-edition-amg-line/o/1813030",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1813030/10f5d89aec390fd4b6ea47ddd02a74c0~v191277684.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792559146.6909688,
-"laatst": 1792559146.6909688,
-"keer": 0,
-"fout": ""
-},
-"1800815": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia EV6 (2024)",
-"bericht": "Light Edition 58 kwh\n€ 11.300 · 54.943 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev6-light-edition-58-kwh/o/1800815",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1800815/efad1928ee82f95394c9a04d54c2b79c~v188889629.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792559146.897414,
-"laatst": 1792559146.897414,
-"keer": 0,
-"fout": ""
-},
 "1817796": {
 "melding": {
 "titel": "Ford Ranger (2024)",
@@ -4041,9 +4011,9 @@
 "WhatsApp"
 ],
 "sinds": 1792560915.4227207,
-"laatst": 1792560915.4227207,
-"keer": 0,
-"fout": ""
+"laatst": 1792570148.678439,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817795": {
 "melding": {
@@ -4192,6 +4162,36 @@
 ],
 "sinds": 1792567720.0131774,
 "laatst": 1792567720.0131774,
+"keer": 0,
+"fout": ""
+},
+"1811694": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Fiesta (2023)",
+"bericht": "Ford fiesta titanium X mild hybrid Navi Kamera Acc Klimatronik\n€ 7.999 · 159.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-ford-fiesta-titanium-x-mild-hybrid-navi-kamera-acc-klimatronik/o/1811694",
+"foto": "https://www.schadeautos.nl/cache/picture/397/1811694/ca731678df2fdd55f87dbb34051b9a39~v190855652.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792570152.3921788,
+"laatst": 1792570152.3921788,
+"keer": 0,
+"fout": ""
+},
+"1790070": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Sportage (2024)",
+"bericht": "Kia Sportage 1.6 T plug in 4x4 2024 driveable rijdend mee tenemen\n€ 18.990 · 61.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-kia-sportage-1-6-t-plug-in-4x4-2024-driveable-rijdend-mee-tenemen/o/1790070",
+"foto": "https://www.schadeautos.nl/cache/picture/858/1790070/98fc3908e671e82621c36312ffcb8473~v184028040.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792570152.4986684,
+"laatst": 1792570152.4986684,
 "keer": 0,
 "fout": ""
 }
