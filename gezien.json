@@ -4067,60 +4067,42 @@
 "1817955",
 "1785859",
 "1817954",
-"1817953"
+"1817953",
+"1754297",
+"1817985",
+"1817976",
+"1817980",
+"1817970",
+"1817972",
+"1768464",
+"1788757",
+"1817974",
+"1817973",
+"1792128",
+"1817971"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817967,
+"hoogste_id": 1817985,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817963",
-"1817967",
-"1743327",
-"1817965",
-"1816557",
-"1817964",
-"1815254",
-"1783406",
-"1817966",
-"1757912",
-"1815521",
-"1817962"
+"1754297",
+"1817985",
+"1815152",
+"1817976",
+"1817980",
+"1817970",
+"1817972",
+"1768464",
+"1788757",
+"1817974",
+"1817973",
+"1792128"
 ]
 },
 "wachtrij": {
-"1811694": {
-"melding": {
-"titel": "Opnieuw geplaatst: Ford Fiesta (2023)",
-"bericht": "Ford fiesta titanium X mild hybrid Navi Kamera Acc Klimatronik\n€ 7.999 · 159.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-ford-fiesta-titanium-x-mild-hybrid-navi-kamera-acc-klimatronik/o/1811694",
-"foto": "https://www.schadeautos.nl/cache/picture/397/1811694/ca731678df2fdd55f87dbb34051b9a39~v190855652.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792570152.3921788,
-"laatst": 1792580112.0581515,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1790070": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Sportage (2024)",
-"bericht": "Kia Sportage 1.6 T plug in 4x4 2024 driveable rijdend mee tenemen\n€ 18.990 · 61.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-kia-sportage-1-6-t-plug-in-4x4-2024-driveable-rijdend-mee-tenemen/o/1790070",
-"foto": "https://www.schadeautos.nl/cache/picture/858/1790070/98fc3908e671e82621c36312ffcb8473~v184028040.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792570152.4986684,
-"laatst": 1792570152.4986684,
-"keer": 0,
-"fout": ""
-},
 "1817880": {
 "melding": {
 "titel": "Volkswagen Passat (2022)",
@@ -4132,9 +4114,9 @@
 "WhatsApp"
 ],
 "sinds": 1792572159.4044614,
-"laatst": 1792572159.4044614,
-"keer": 0,
-"fout": ""
+"laatst": 1792581705.0319777,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1817882": {
 "melding": {
@@ -4748,6 +4730,81 @@
 ],
 "sinds": 1792580121.5135376,
 "laatst": 1792580121.5135376,
+"keer": 0,
+"fout": ""
+},
+"1754297": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Astra (2022)",
+"bericht": "ST 1.2 81kW Clima Camera Design & Tech\n€ 8.500 · 119.407 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-st-1-2-81kw-clima-camera-design-tech/o/1754297",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1754297/b48812e195dc5eb45af71521daf9dbe5~v173339439.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792581706.8340774,
+"laatst": 1792581706.8340774,
+"keer": 0,
+"fout": ""
+},
+"1817980": {
+"melding": {
+"titel": "Toyota Yaris (2022)",
+"bericht": "exportprijs € 7.500 · 16.267 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris/o/1817980",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817980/0971f9d77b9dab0173b452180bdb9da2~v192581052.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792581706.9453049,
+"laatst": 1792581706.9453049,
+"keer": 0,
+"fout": ""
+},
+"1817970": {
+"melding": {
+"titel": "Mercedes C-klasse (2024)",
+"bericht": "C 180 T- Kombi AMG Panoramadak\n€ 17.500 · 32.769 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c-180-t-kombi-amg-panoramadak/o/1817970",
+"foto": "https://www.schadeautos.nl/cache/picture/13/1817970/710d04ce7db9220d63e5a4a19a7c81b0~v192580193.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792581707.0477793,
+"laatst": 1792581707.0477793,
+"keer": 0,
+"fout": ""
+},
+"1817974": {
+"melding": {
+"titel": "BMW 2-serie (2026)",
+"bericht": "0 Gran Coupe M Sport HUD/360/NAVI\n€ 17.900 · 4.798 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie-0-gran-coupe-m-sport-hud-360-navi/o/1817974",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1817974/5202e0ac7bec8b2f72c943a51cf0781f~v192580706.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792581707.164629,
+"laatst": 1792581707.164629,
+"keer": 0,
+"fout": ""
+},
+"1817971": {
+"melding": {
+"titel": "Opel Mokka (2025)",
+"bericht": "6200KM AUTOMAAT\n€ 5.200 · 6.200 km",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-mokka-6200km-automaat/o/1817971",
+"foto": "https://www.schadeautos.nl/cache/picture/1066/1817971/56599998dc75275fd7930a02598a92d8~v192580142.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792581709.8144038,
+"laatst": 1792581709.8144038,
 "keer": 0,
 "fout": ""
 }
