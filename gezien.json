@@ -3939,27 +3939,49 @@
 "1817799",
 "1773975",
 "1787707",
-"1799240"
+"1799240",
+"1707834",
+"1756652",
+"1810182",
+"1670881",
+"1817816",
+"1817824",
+"1817823",
+"1817822",
+"1817793",
+"1817794",
+"1817817",
+"1817821",
+"1817820",
+"1817815",
+"1767339",
+"1806173",
+"1797369",
+"1817812",
+"1817806",
+"1817808",
+"1817807",
+"1740414"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817800,
+"hoogste_id": 1817824,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817283",
-"1817800",
-"1716195",
-"1715776",
-"1776588",
-"1816895",
-"1817799",
-"1815497",
-"1773975",
-"1787707",
-"1799240",
-"1783570"
+"1817679",
+"1707834",
+"1756652",
+"1810182",
+"1670881",
+"1817816",
+"1817824",
+"1817823",
+"1817822",
+"1817793",
+"1817794",
+"1817817"
 ]
 },
 "wachtrij": {
@@ -3974,8 +3996,8 @@
 "WhatsApp"
 ],
 "sinds": 1792559146.480924,
-"laatst": 1792565058.3586109,
-"keer": 4,
+"laatst": 1792567712.2868826,
+"keer": 5,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1813030": {
@@ -4065,6 +4087,111 @@
 ],
 "sinds": 1792565063.9674506,
 "laatst": 1792565063.9674506,
+"keer": 0,
+"fout": ""
+},
+"1707834": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen T-Roc (2023)",
+"bericht": "1.0 TSI Life\n€ 11.500 · 35.780 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-0-tsi-life/o/1707834",
+"foto": "https://www.schadeautos.nl/cache/picture/270/1707834/97a3fb2a9544687787f43f9732301eb1~v159845286.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792567713.3880904,
+"laatst": 1792567713.3880904,
+"keer": 0,
+"fout": ""
+},
+"1810182": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Picanto (2023)",
+"bericht": "1.0 DPi DynamicLine Cruise Camera Apple/Android Airco\n€ 7.450 · 78.136 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-dynamicline-cruise-camera-apple-android-airco/o/1810182",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1810182/a6aaf739b72dd60f1ae3abfc170a68a9~v192567009.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792567713.565334,
+"laatst": 1792567713.565334,
+"keer": 0,
+"fout": ""
+},
+"1817794": {
+"melding": {
+"titel": "Dacia Jogger (2023)",
+"bericht": "XTREME 1.0 TCe 100 ECO-G\n€ 5.450 · 64.000 km · lpg",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-xtreme-1-0-tce-100-eco-g/o/1817794",
+"foto": "https://www.schadeautos.nl/cache/picture/1050/1817794/2205af99b8f8736c51867ef6e7f9387e~v192559660.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792567713.7412882,
+"laatst": 1792567713.7412882,
+"keer": 0,
+"fout": ""
+},
+"1817817": {
+"melding": {
+"titel": "Audi Q2 (2026)",
+"bericht": "35 TDI s-Tronic / Sline\n€ 19.900 · 9.086 km · hybride diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q2-35-tdi-s-tronic-sline/o/1817817",
+"foto": "https://www.schadeautos.nl/cache/picture/931/1817817/ce0efa930618eaaf3550286a99b7792d~v192566304.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792567713.918568,
+"laatst": 1792567713.918568,
+"keer": 0,
+"fout": ""
+},
+"1817815": {
+"melding": {
+"titel": "Kia Picanto (2025)",
+"bericht": "1.0 DPI DYNAMIC LINE-AIRCO-NAVI-CAMERA-PDC\n€ 10.250 · 4.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-dynamic-line-airco-navi-camera-pdc/o/1817815",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1817815/0d441b3dc49f7eb7dfd9dea5d0cc4564~v192565820.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792567717.0091708,
+"laatst": 1792567717.0091708,
+"keer": 0,
+"fout": ""
+},
+"1817812": {
+"melding": {
+"titel": "Ford Fiesta (2023)",
+"bericht": "1.5 ST 200cv\n39.317 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-5-st-200cv/o/1817812",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1817812/3ea7046b663fc8aad6c90ead2757251c~v192565416.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792567717.1831162,
+"laatst": 1792567717.1831162,
+"keer": 0,
+"fout": ""
+},
+"1740414": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Grandland (2024)",
+"bericht": "1.6 Turbo Plug-In Hybrid GS LED ACC Apple/Android LRHZ AHK\n€ 9.950 · 109.159 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-grandland-1-6-turbo-plug-in-hybrid-gs-led-acc-apple-android-lrhz-ahk/o/1740414",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1740414/0a0e4de030c648d9a0fdc26e2c0aff01~v192565189.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792567720.0131774,
+"laatst": 1792567720.0131774,
 "keer": 0,
 "fout": ""
 }
