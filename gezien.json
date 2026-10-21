@@ -4009,60 +4009,55 @@
 "1817890",
 "1817884",
 "1817883",
-"1806866"
+"1806866",
+"1785394",
+"1801171",
+"1791918",
+"1817937",
+"1773256",
+"1817936",
+"1817935",
+"1817933",
+"1817932",
+"1817930",
+"1817931",
+"1817928",
+"1775517",
+"1817925",
+"1817924",
+"1817922",
+"1706790",
+"1817919",
+"1817918",
+"1817915",
+"1817917",
+"1817916",
+"1809067",
+"1817914",
+"1817911"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817913,
+"hoogste_id": 1817937,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817913",
-"1817908",
-"1788659",
-"1817904",
-"1817909",
-"1733287",
-"1817891",
-"1817907",
-"1817905",
-"1682215",
-"1810299",
-"1817899"
+"1785394",
+"1810828",
+"1817502",
+"1801171",
+"1797212",
+"1815887",
+"1791918",
+"1817937",
+"1773256",
+"1817936",
+"1817935",
+"1766839"
 ]
 },
 "wachtrij": {
-"1773975": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Up! (2023)",
-"bericht": "1.0\n€ 6.850 · 46.438 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-up-1-0/o/1773975",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1773975/f9d88b4695b5b0d93aa2e9db270b2391~v179290883.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792565063.9409227,
-"laatst": 1792574183.4292178,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1799240": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW 2-serie (2023)",
-"bericht": "Active Tourer 218i AUTOMAAT\n€ 14.750 · 35.346 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie-active-tourer-218i-automaat/o/1799240",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1799240/97ec2ca0c3cb37b40044c6c294cb5039~v187303990.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792565063.9674506,
-"laatst": 1792565063.9674506,
-"keer": 0,
-"fout": ""
-},
 "1707834": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen T-Roc (2023)",
@@ -4074,9 +4069,9 @@
 "WhatsApp"
 ],
 "sinds": 1792567713.3880904,
-"laatst": 1792567713.3880904,
-"keer": 0,
-"fout": ""
+"laatst": 1792576332.8078237,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1810182": {
 "melding": {
@@ -4390,6 +4385,216 @@
 ],
 "sinds": 1792574187.3210862,
 "laatst": 1792574187.3210862,
+"keer": 0,
+"fout": ""
+},
+"1785394": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes Cla-klasse (2022)",
+"bericht": "Shooting Brake 250e Autom. AMG Panoramadak\n€ 17.750 · 173.086 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-shooting-brake-250e-autom-amg-panoramadak/o/1785394",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1785394/e327708c295fcd05cd1240f3af2efbc4~v182729381.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576333.807829,
+"laatst": 1792576333.807829,
+"keer": 0,
+"fout": ""
+},
+"1773256": {
+"melding": {
+"titel": "Opnieuw geplaatst: Seat Arona (2025)",
+"bericht": "1.0EcoTSI 70kW Style\n€ 15.950 · 8.901 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-arona-1-0ecotsi-70kw-style/o/1773256",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1773256/2be64b62382b0454a0e859cfc410b9fe~v179173349.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576333.9935045,
+"laatst": 1792576333.9935045,
+"keer": 0,
+"fout": ""
+},
+"1817936": {
+"melding": {
+"titel": "Dacia Jogger (2025)",
+"bericht": "exportprijs € 3.950 · 26.054 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger/o/1817936",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817936/838e75a4729142187fae4b2f0780b378~v192576087.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576334.170444,
+"laatst": 1792576334.170444,
+"keer": 0,
+"fout": ""
+},
+"1817935": {
+"melding": {
+"titel": "Volkswagen T-Cross (2022)",
+"bericht": "exportprijs € 9.500 · 59.820 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross/o/1817935",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817935/c45e8a5c00868c92cddb2e43350d123b~v192576072.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576334.3581138,
+"laatst": 1792576334.3581138,
+"keer": 0,
+"fout": ""
+},
+"1817933": {
+"melding": {
+"titel": "Ford Focus (2023)",
+"bericht": "exportprijs € 7.800 · 75.305 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus/o/1817933",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817933/266302635b8325c01626d4b64ab68dc8~v192575753.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576337.2829542,
+"laatst": 1792576337.2829542,
+"keer": 0,
+"fout": ""
+},
+"1817932": {
+"melding": {
+"titel": "Opel Vivaro (2024)",
+"bericht": "exportprijs € 10.500 · 38.620 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vivaro/o/1817932",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817932/dc50a99f370f965b880f125d661310a3~v192575736.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576337.4567268,
+"laatst": 1792576337.4567268,
+"keer": 0,
+"fout": ""
+},
+"1817931": {
+"melding": {
+"titel": "Volvo EX30 (2024)",
+"bericht": "exportprijs € 7.950 · 33.102 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-ex30/o/1817931",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817931/3cdb7d9d390f12bef48917fdf3acd809~v192575699.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576337.631271,
+"laatst": 1792576337.631271,
+"keer": 0,
+"fout": ""
+},
+"1817928": {
+"melding": {
+"titel": "BMW iX1 (2025)",
+"bericht": "eDrive 20 67 KWH. ( schroefschade )\n€ 26.450 · 13.369 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-edrive-20-67-kwh-schroefschade/o/1817928",
+"foto": "https://www.schadeautos.nl/cache/picture/1006/1817928/20f46420743c0a3cad9e9360d0170453~v192575557.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576337.806448,
+"laatst": 1792576337.806448,
+"keer": 0,
+"fout": ""
+},
+"1817925": {
+"melding": {
+"titel": "Renault Zoé (2023)",
+"bericht": "ZOE\nexportprijs € 6.600 · 5.884 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-zoe-zoe/o/1817925",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1817925/530d4d723d3d25a28abb154b5a3881ff~v192575149.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576340.8126183,
+"laatst": 1792576340.8126183,
+"keer": 0,
+"fout": ""
+},
+"1817922": {
+"melding": {
+"titel": "Volkswagen Golf (2023)",
+"bericht": "8 TSI 110 PK NAVI CLIMA CAMERA LED PDC PRIVACY GLASS B.J 04-2023\n€ 12.500 · 51.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-camera-led-pdc-privacy-glass-b-j-04-2023/o/1817922",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1817922/847cfc66786dd3272e3278993c6f73ff~v192575139.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576340.989331,
+"laatst": 1792576340.989331,
+"keer": 0,
+"fout": ""
+},
+"1817917": {
+"melding": {
+"titel": "Dacia Jogger (2024)",
+"bericht": "EXTREEM 110 PK NAVI CLIMA CAMERA 5 P B.J 06-2024\n€ 11.950 · 38.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreem-110-pk-navi-clima-camera-5-p-b-j-06-2024/o/1817917",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1817917/fe666ff39bdc1d2d6995f68d36b80902~v192574594.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576341.3135214,
+"laatst": 1792576341.3135214,
+"keer": 0,
+"fout": ""
+},
+"1817916": {
+"melding": {
+"titel": "Seat Ibiza (2026)",
+"bericht": "FR 1.0 TSI 85 kW Kuipstoelen Led Virual\n7.400 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-fr-1-0-tsi-85-kw-kuipstoelen-led-virual/o/1817916",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1817916/a139ac299fbc55c73bc8a6d9c772f3fd~v192574436.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576341.4881887,
+"laatst": 1792576341.4881887,
+"keer": 0,
+"fout": ""
+},
+"1817914": {
+"melding": {
+"titel": "Skoda Scala (2026)",
+"bericht": "TOUR 1.5 150Pk Automaat Stoelverwarming Achteruitrij camera\n15.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-tour-1-5-150pk-automaat-stoelverwarming-achteruitrij-camera/o/1817914",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1817914/a800e4c43c17d559bec2f47900340788~v192574209.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576344.3545616,
+"laatst": 1792576344.3545616,
+"keer": 0,
+"fout": ""
+},
+"1817911": {
+"melding": {
+"titel": "Skoda Octavia (2024)",
+"bericht": "AUTOMAAT HYBRIDE NAVI CLIMA VIRT DASH CAMERA TREKHAAK LED B.J 12-2024\n€ 13.950 · 11.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-automaat-hybride-navi-clima-virt-dash-camera-trekhaak-led-b-j-12-2024/o/1817911",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1817911/118272104b110cbe7032834aad52ca26~v192574297.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792576344.5336194,
+"laatst": 1792576344.5336194,
 "keer": 0,
 "fout": ""
 }
