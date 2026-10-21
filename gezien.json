@@ -3927,15 +3927,21 @@
 "1813030",
 "1812153",
 "1809309",
-"1800815"
+"1800815",
+"1817796",
+"1817795",
+"1756250"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1817792,
+"hoogste_id": 1817796,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1817796",
+"1817795",
+"1756250",
 "1808468",
 "1808432",
 "1813973",
@@ -3944,10 +3950,7 @@
 "1812153",
 "1809309",
 "1800815",
-"1769532",
-"1785814",
-"1813309",
-"1815169"
+"1769532"
 ]
 },
 "wachtrij": {
@@ -3962,8 +3965,8 @@
 "WhatsApp"
 ],
 "sinds": 1792559146.480924,
-"laatst": 1792559146.480924,
-"keer": 1,
+"laatst": 1792560914.431916,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1813030": {
@@ -3993,6 +3996,36 @@
 ],
 "sinds": 1792559146.897414,
 "laatst": 1792559146.897414,
+"keer": 0,
+"fout": ""
+},
+"1817796": {
+"melding": {
+"titel": "Ford Ranger (2024)",
+"bericht": "Wildtrak e-4WD 3.0L 177KW Automatic\n€ 23.900 · 52.000 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-wildtrak-e-4wd-3-0l-177kw-automatic/o/1817796",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1817796/70957f572aba263afe9a0d0e59a009bd~v192560309.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792560915.4227207,
+"laatst": 1792560915.4227207,
+"keer": 0,
+"fout": ""
+},
+"1817795": {
+"melding": {
+"titel": "BMW X1 (2023)",
+"bericht": "xDrive 30e M Sport Leder HUD Harman\n€ 16.900 · 41.553 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive-30e-m-sport-leder-hud-harman/o/1817795",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1817795/568acb3932954b6923ad9d1ac7e2cc41~v192560307.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792560915.4945881,
+"laatst": 1792560915.4945881,
 "keer": 0,
 "fout": ""
 }
