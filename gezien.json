@@ -4425,210 +4425,48 @@
 "1817001",
 "1797948",
 "1818388",
-"1731351"
+"1731351",
+"1818418",
+"1818420",
+"1818417",
+"1818416",
+"1742634",
+"1818415",
+"1818404",
+"1818310",
+"1818414",
+"1818410",
+"1818412",
+"1818411",
+"1818409",
+"1818408",
+"1818407",
+"1818406",
+"1751307",
+"1818401"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818403,
+"hoogste_id": 1818420,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818403",
-"1818398",
-"1786673",
-"1786679",
-"1741419",
-"1787580",
-"1787554",
-"1801134",
-"1818393",
-"1812665",
-"1816641",
-"1818395"
+"1818418",
+"1818420",
+"1818417",
+"1818416",
+"1742634",
+"1818415",
+"1818404",
+"1818310",
+"1818414",
+"1818410",
+"1818412",
+"1818411"
 ]
 },
 "wachtrij": {
-"1818253": {
-"melding": {
-"titel": "DFSK Navor E5 (2025)",
-"bericht": "1.5 PHEV L2 7 PERSOONS AUTOMAAT REST BPM €300,-!!!\n€ 14.500 · 24.319 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dfsk-navor-e5-1-5-phev-l2-7-persoons-automaat-rest-bpm-eur300/o/1818253",
-"foto": "https://www.schadeautos.nl/cache/picture/252/1818253/69b89fcb0fac8d84ef3641a9c82dd90a~v192669347.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670118.5590909,
-"laatst": 1792679211.0322218,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1818273": {
-"melding": {
-"titel": "Dacia Duster (2023)",
-"bericht": "AUTOMAAT\n€ 8.900 · 54.671 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-duster-automaat/o/1818273",
-"foto": "https://www.schadeautos.nl/cache/picture/1026/1818273/9be1776df763e468719b3ec793a9aa18~v192669929.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670118.7730606,
-"laatst": 1792670118.7730606,
-"keer": 0,
-"fout": ""
-},
-"1818254": {
-"melding": {
-"titel": "Toyota Aygo (2024)",
-"bericht": "X 1.0 VVTi MT Pulse\n€ 11.995 · 11.288 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-0-vvti-mt-pulse/o/1818254",
-"foto": "https://www.schadeautos.nl/cache/picture/13/1818254/8446a733eb341270dd3b31e5343efe77~v192669817.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670119.0004737,
-"laatst": 1792670119.0004737,
-"keer": 0,
-"fout": ""
-},
-"1795209": {
-"melding": {
-"titel": "Opnieuw geplaatst: Opel Corsa-E (2025)",
-"bericht": "51kWH 115kW Long Range Edition\n€ 11.950 · 33.276 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-e-51kwh-115kw-long-range-edition/o/1795209",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1795209/28093d3e037a9af058a0015b47b9b891~v186005219.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670122.1687577,
-"laatst": 1792670122.1687577,
-"keer": 0,
-"fout": ""
-},
-"1818233": {
-"melding": {
-"titel": "Kia EV9 (2026)",
-"bericht": "GT 4WD 374kw Panoramadak\n€ 56.250 · 8.342 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev9-gt-4wd-374kw-panoramadak/o/1818233",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1818233/5fb594fa0d8a754c2d279a0a35547b0f~v192669148.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670122.3762667,
-"laatst": 1792670122.3762667,
-"keer": 0,
-"fout": ""
-},
-"1818265": {
-"melding": {
-"titel": "Mazda 2 (2023)",
-"bericht": "€ 5.500 · 15.826 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-2/o/1818265",
-"foto": "https://www.schadeautos.nl/cache/picture/1026/1818265/e7092fae8cc504e5c13e45e4c6c6c592~v192669507.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670122.585768,
-"laatst": 1792670122.585768,
-"keer": 0,
-"fout": ""
-},
-"1810889": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A3 (2025)",
-"bericht": "40 TFSI e Pro Line AUTOMAAT 150PK\n€ 13.950 · 26.879 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-40-tfsi-e-pro-line-automaat-150pk/o/1810889",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1810889/8d5aec9fb83bac9f402293dbf02150fb~v190693117.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670128.6058178,
-"laatst": 1792670128.6058178,
-"keer": 0,
-"fout": ""
-},
-"1818224": {
-"melding": {
-"titel": "Toyota Yaris Cross (2023)",
-"bericht": "1.5 - Hybride 68 Kw\n€ 11.350 · 90.427 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-1-5-hybride-68-kw/o/1818224",
-"foto": "https://www.schadeautos.nl/cache/picture/13/1818224/8979cd91ee9b9b9fa18aeb4199332f1a~v192668679.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670128.8317654,
-"laatst": 1792670128.8317654,
-"keer": 0,
-"fout": ""
-},
-"1818244": {
-"melding": {
-"titel": "Ford Ranger (2026)",
-"bericht": "Wildtrak 2.0 Ecoblue Doublecab Aut.\nexportprijs € 28.750 · 6.481 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger-wildtrak-2-0-ecoblue-doublecab-aut/o/1818244",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1818244/401cee31113c5fedddda3b0a3313c0ba~v192668693.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670129.0438137,
-"laatst": 1792670129.0438137,
-"keer": 0,
-"fout": ""
-},
-"1818240": {
-"melding": {
-"titel": "Peugeot 308 (2023)",
-"bericht": "Puretech 130 Aut Navi Camera Clima\n€ 10.450 · 91.103 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-puretech-130-aut-navi-camera-clima/o/1818240",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1818240/237109a6282414076b1ea42668f9f248~v192668443.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670129.255326,
-"laatst": 1792670129.255326,
-"keer": 0,
-"fout": ""
-},
-"1818232": {
-"melding": {
-"titel": "Volkswagen Polo (2025)",
-"bericht": "1.0 TSI Life Edition\n€ 12.850 · 22.238 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-edition/o/1818232",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1818232/60c3c06fcfdda12794293ec25933f791~v192668222.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670129.4709394,
-"laatst": 1792670129.4709394,
-"keer": 0,
-"fout": ""
-},
-"1818227": {
-"melding": {
-"titel": "Toyota Aygo (2024)",
-"bericht": "1.0 VVTI Airco Camera\n€ 9.350 · 91.578 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-1-0-vvti-airco-camera/o/1818227",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1818227/45df5a3db0e4edd5570ca460b7efdc52~v192668058.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792670132.4999309,
-"laatst": 1792670132.4999309,
-"keer": 0,
-"fout": ""
-},
 "1818285": {
 "melding": {
 "titel": "Mitsubishi Space-star (2023)",
@@ -4640,9 +4478,9 @@
 "WhatsApp"
 ],
 "sinds": 1792671887.2211618,
-"laatst": 1792671887.2211618,
-"keer": 0,
-"fout": ""
+"laatst": 1792681380.469731,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1818276": {
 "melding": {
@@ -5316,6 +5154,51 @@
 ],
 "sinds": 1792679218.5074267,
 "laatst": 1792679218.5074267,
+"keer": 0,
+"fout": ""
+},
+"1818404": {
+"melding": {
+"titel": "Skoda Elroq (2026)",
+"bericht": "60 Business Edition\n€ 15.900 · 3.385 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-elroq-60-business-edition/o/1818404",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1818404/19ace6ec1dff38e348fc7e616f2bcd91~v192679869.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792681381.5939238,
+"laatst": 1792681381.5939238,
+"keer": 0,
+"fout": ""
+},
+"1818410": {
+"melding": {
+"titel": "Kia Picanto (2022)",
+"bericht": "1.0 DPi ComfortLine 5p\n€ 6.750 · 94.200 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline-5p/o/1818410",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1818410/a8cfcce4a6fd869afff45e1c48b52614~v192679597.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792681381.7213051,
+"laatst": 1792681381.7213051,
+"keer": 0,
+"fout": ""
+},
+"1818401": {
+"melding": {
+"titel": "Nissan Micra (2023)",
+"bericht": "1.0 IG-T N-Design\n€ 4.250 · 64.880 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-micra-1-0-ig-t-n-design/o/1818401",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1818401/8b4673b326146667feff35835d068296~v192679110.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792681384.4323707,
+"laatst": 1792681384.4323707,
 "keer": 0,
 "fout": ""
 }
