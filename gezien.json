@@ -4443,195 +4443,39 @@
 "1818407",
 "1818406",
 "1751307",
-"1818401"
+"1818401",
+"1815641",
+"1818435",
+"1818434",
+"1816374",
+"1818427",
+"1818431",
+"1818430",
+"1818428",
+"1818421"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818420,
+"hoogste_id": 1818435,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818418",
-"1818420",
-"1818417",
-"1818416",
-"1742634",
-"1818415",
-"1818404",
-"1818310",
-"1818414",
-"1818410",
-"1818412",
-"1818411"
+"1815641",
+"1818435",
+"1783010",
+"1818434",
+"1816374",
+"1818427",
+"1818431",
+"1818430",
+"1818428",
+"1816098",
+"1811830",
+"1818364"
 ]
 },
 "wachtrij": {
-"1818285": {
-"melding": {
-"titel": "Mitsubishi Space-star (2023)",
-"bericht": "1.2 Connect+\n€ 3.500 · 50.630 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star-1-2-connect/o/1818285",
-"foto": "https://www.schadeautos.nl/cache/picture/270/1818285/912a2603f687c5e2a48961cb349b74b3~v192670991.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671887.2211618,
-"laatst": 1792681380.469731,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1818276": {
-"melding": {
-"titel": "Audi Q4 (2026)",
-"bericht": "45 E-Tron 45 Quattro S-Edition Competition\n€ 27.950 · 7.760 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-45-e-tron-45-quattro-s-edition-competition/o/1818276",
-"foto": "https://www.schadeautos.nl/cache/picture/13/1818276/92c9d8b37f2e70db26d2173469b757e5~v192670703.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671887.2495089,
-"laatst": 1792671887.2495089,
-"keer": 0,
-"fout": ""
-},
-"1760017": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche Taycan (2024)",
-"bericht": "Sport Turismo Proforma Battery Plus 94.3kWh\n€ 65.000 · 24.766 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-sport-turismo-proforma-battery-plus-94-3kwh/o/1760017",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1760017/6720747c3d70d2e2fb0f492c22165eb0~v175046931.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671887.2763667,
-"laatst": 1792671887.2763667,
-"keer": 0,
-"fout": ""
-},
-"1799299": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mazda 2 (2026)",
-"bericht": "1.5 Centre-Line Hybrid Automaat\n€ 7.850 · 133 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-2-1-5-centre-line-hybrid-automaat/o/1799299",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1799299/c6f61bd1aac68864678b400f8647fb63~v187312037.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671889.87602,
-"laatst": 1792671889.87602,
-"keer": 0,
-"fout": ""
-},
-"1818279": {
-"melding": {
-"titel": "Volkswagen T-Cross (2022)",
-"bericht": "1.0 TSI SPORT AUTOMAAT\n€ 9.950 · 87.390 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-1-0-tsi-sport-automaat/o/1818279",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1818279/3b0aa578e54ddb13399ea69c9db25152~v192670495.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671889.9038522,
-"laatst": 1792671889.9038522,
-"keer": 0,
-"fout": ""
-},
-"1801497": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Transporter (2024)",
-"bericht": "2.0 TDI DSG Bulli Pano LED ACC 7-Pers. Camera SHZ\n€ 35.950 · 6.452 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-transporter-2-0-tdi-dsg-bulli-pano-led-acc-7-pers-camera-shz/o/1801497",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1801497/07d4abd53b5a5d84facec7f4e57f6648~v192670543.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671889.9333122,
-"laatst": 1792671889.9333122,
-"keer": 0,
-"fout": ""
-},
-"1792291": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche Taycan (2024)",
-"bericht": "Performance Battery Plus 84kWh\n€ 57.900 · 28.430 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-performance-battery-plus-84kwh/o/1792291",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1792291/d21168c6b7312effecfa591a882af38b~v184810643.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671889.9695175,
-"laatst": 1792671889.9695175,
-"keer": 0,
-"fout": ""
-},
-"1799425": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche 911 (2024)",
-"bericht": "4.0 GT3 RS Weissach PCCB PASM Lift Bose Camera Cruise\n€ 231.950 · 6.649 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-911-4-0-gt3-rs-weissach-pccb-pasm-lift-bose-camera-cruise/o/1799425",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1799425/76d2351c7143afe14e33865464c20321~v192670313.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671889.9986916,
-"laatst": 1792671889.9986916,
-"keer": 0,
-"fout": ""
-},
-"1818264": {
-"melding": {
-"titel": "BMW X3 (2023)",
-"bericht": "Panaromadak Automaat xDrive30e High Executive\n€ 23.950 · 55.484 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x3-panaromadak-automaat-xdrive30e-high-executive/o/1818264",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1818264/30436bc67a54bd10977414cf6e78ba47~v192670242.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671890.02889,
-"laatst": 1792671890.02889,
-"keer": 0,
-"fout": ""
-},
-"1783586": {
-"melding": {
-"titel": "Opnieuw geplaatst: Ford Kuga (2022)",
-"bericht": "1.5 EcoBoost Titanium\n€ 11.950 · 74.294 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-1-5-ecoboost-titanium/o/1783586",
-"foto": "https://www.schadeautos.nl/cache/picture/1041/1783586/447ef6b3bcada20bbd72982054444485~v182143581.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671892.5634086,
-"laatst": 1792671892.5634086,
-"keer": 0,
-"fout": ""
-},
-"1778807": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche 911 (2024)",
-"bericht": "992 4.0 GT3 RS Weissach Lift PCCB PASM PDLS+ Bose Camera\n€ 207.950 · 13.921 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-911-992-4-0-gt3-rs-weissach-lift-pccb-pasm-pdls-bose-camera/o/1778807",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1778807/4b151b0ffab2f7412774ad60b5446cb0~v192670182.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792671892.5968087,
-"laatst": 1792671892.5968087,
-"keer": 0,
-"fout": ""
-},
 "1778662": {
 "melding": {
 "titel": "Opnieuw geplaatst: Opel Corsa (2026)",
@@ -4643,9 +4487,9 @@
 "WhatsApp"
 ],
 "sinds": 1792674858.790379,
-"laatst": 1792674858.790379,
-"keer": 0,
-"fout": ""
+"laatst": 1792683401.3917086,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1771108": {
 "melding": {
@@ -5199,6 +5043,36 @@
 ],
 "sinds": 1792681384.4323707,
 "laatst": 1792681384.4323707,
+"keer": 0,
+"fout": ""
+},
+"1818435": {
+"melding": {
+"titel": "Skoda Karoq (2022)",
+"bericht": "AMBITION\n€ 10.650 · 75.245 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-karoq-ambition/o/1818435",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1818435/73a77ceead1d404e2d8c570246a6fe97~v192683068.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792683402.043392,
+"laatst": 1792683402.043392,
+"keer": 0,
+"fout": ""
+},
+"1818428": {
+"melding": {
+"titel": "Peugeot e-2008 (2023)",
+"bericht": "EV Allure 50 kWh\n€ 11.450 · 71.530 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-e-2008-ev-allure-50-kwh/o/1818428",
+"foto": "https://www.schadeautos.nl/cache/picture/131/1818428/0d8f53163e18ba4019de7259fc10a27b~v192681961.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792683402.070328,
+"laatst": 1792683402.070328,
 "keer": 0,
 "fout": ""
 }
