@@ -4202,35 +4202,365 @@
 "1818134",
 "1818131",
 "1818128",
-"1818124"
+"1818124",
+"1798888",
+"1818165",
+"1818199",
+"1818197",
+"1786513",
+"1818192",
+"1818191",
+"1818190",
+"1818189",
+"1818188",
+"1818187",
+"1818186",
+"1818185",
+"1818184",
+"1818183",
+"1818182",
+"1818181",
+"1818180",
+"1818177",
+"1818176",
+"1818175",
+"1818174",
+"1818171",
+"1818172",
+"1651583",
+"1818168",
+"1818167",
+"1765465",
+"1817892",
+"1817897",
+"1817900",
+"1817896",
+"1753444"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818158,
+"hoogste_id": 1818199,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818158",
-"1818047",
-"1814047",
-"1818145",
-"1818156",
-"1818155",
-"1818154",
-"1818152",
-"1818148",
-"1818147",
-"1818138",
-"1818143"
+"1798888",
+"1817167",
+"1818165",
+"1818199",
+"1818197",
+"1811830",
+"1816279",
+"1786513",
+"1804383",
+"1816446",
+"1818192",
+"1818191"
 ]
 },
-"wachtrij": {},
-"storing": {
-"sinds": 1792664480.4421139,
-"keer": 1,
-"laatst": 1792664480.4421139
+"wachtrij": {
+"1818197": {
+"melding": {
+"titel": "Skoda Octavia (2026)",
+"bericht": "Combi 2.0 TDI 110 kW Tour\n€ 8.500 · 13.315 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-combi-2-0-tdi-110-kw-tour/o/1818197",
+"foto": "https://www.schadeautos.nl/cache/picture/323/1818197/5fe4704c6b4be95b20534a58596796ae~v192665806.jpg"
 },
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666508.5305355,
+"laatst": 1792666508.5305355,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1786513": {
+"melding": {
+"titel": "Opnieuw geplaatst: Tesla Model Y (2024)",
+"bericht": "75kWh Long Range 258kW AWD\n€ 23.750 · 108.438 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-75kwh-long-range-258kw-awd/o/1786513",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1786513/170fed6cb880540714a68ab985dfdeef~v182978693.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666508.558256,
+"laatst": 1792666508.558256,
+"keer": 0,
+"fout": ""
+},
+"1818192": {
+"melding": {
+"titel": "Land Rover Discovery (2023)",
+"bericht": "SPORT\n97.925 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-discovery-sport/o/1818192",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1818192/f75f00722237db6276bf8e52a4dd46f3~v192665005.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666508.5865676,
+"laatst": 1792666508.5865676,
+"keer": 0,
+"fout": ""
+},
+"1818189": {
+"melding": {
+"titel": "Toyota bZ4X (2024)",
+"bericht": "€ 18.090 · 75.997 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-bz4x/o/1818189",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1818189/5c9d471a05cbbc32c84840710d505001~v192662328.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666511.285247,
+"laatst": 1792666511.285247,
+"keer": 0,
+"fout": ""
+},
+"1818188": {
+"melding": {
+"titel": "Peugeot 3008 (2025)",
+"bericht": "HYBRID 136 GT\n€ 15.950 · 40.971 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-3008-hybrid-136-gt/o/1818188",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1818188/bf979567dd64dd4e150490c59b43f6a8~v192662327.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666511.312615,
+"laatst": 1792666511.312615,
+"keer": 0,
+"fout": ""
+},
+"1818187": {
+"melding": {
+"titel": "Dacia Jogger (2023)",
+"bericht": "exportprijs € 4.300 · 26.463 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger/o/1818187",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818187/bde726bc057d4ef3f1081cd1d5aee85d~v192660676.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666511.3404486,
+"laatst": 1792666511.3404486,
+"keer": 0,
+"fout": ""
+},
+"1818186": {
+"melding": {
+"titel": "BMW X1 (2024)",
+"bericht": "xDrive 25e 180KW Plug in hybrid Panorama\n€ 7.900 · 6.500 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive-25e-180kw-plug-in-hybrid-panorama/o/1818186",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1818186/eac7aa4194e21fd4187ff6cbfb9199fa~v192657398.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666511.3689516,
+"laatst": 1792666511.3689516,
+"keer": 0,
+"fout": ""
+},
+"1818185": {
+"melding": {
+"titel": "MG 3 (2026)",
+"bericht": "MG\nexportprijs € 7.800 · 535 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-3-mg/o/1818185",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818185/9c8e275bea4b962bf49b662d0b59803e~v192657090.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666511.3966467,
+"laatst": 1792666511.3966467,
+"keer": 0,
+"fout": ""
+},
+"1818184": {
+"melding": {
+"titel": "Peugeot 2008 (2023)",
+"bericht": "exportprijs € 8.950 · 77.084 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008/o/1818184",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818184/c8fc2b54f774c9894dfb05ea58d90f60~v192657083.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666511.423379,
+"laatst": 1792666511.423379,
+"keer": 0,
+"fout": ""
+},
+"1818183": {
+"melding": {
+"titel": "Kia Picanto (2023)",
+"bericht": "exportprijs € 5.400 · 28.099 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto/o/1818183",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818183/96517925130a342881b329384245a9cb~v192657067.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666511.4513333,
+"laatst": 1792666511.4513333,
+"keer": 0,
+"fout": ""
+},
+"1818182": {
+"melding": {
+"titel": "Peugeot 3008 (2024)",
+"bericht": "exportprijs € 17.500 · 42.237 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-3008/o/1818182",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818182/b5515a6f0c6e211df8e6d905d5347391~v192657064.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666511.4767392,
+"laatst": 1792666511.4767392,
+"keer": 0,
+"fout": ""
+},
+"1818181": {
+"melding": {
+"titel": "Peugeot 208 (2024)",
+"bericht": "exportprijs € 7.500 · 9.499 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1818181",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818181/a4c46804a738ada7ff5334bfa935b959~v192657056.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666511.502065,
+"laatst": 1792666511.502065,
+"keer": 0,
+"fout": ""
+},
+"1818180": {
+"melding": {
+"titel": "Renault 5 (2025)",
+"bericht": "R\nexportprijs € 8.600 · 9.800 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-5-r/o/1818180",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818180/117df3ec18e75f2c2fc6b789bfd2d5b5~v192656814.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666511.5283654,
+"laatst": 1792666511.5283654,
+"keer": 0,
+"fout": ""
+},
+"1818177": {
+"melding": {
+"titel": "Skoda Kamiq (2023)",
+"bericht": "exportprijs € 12.400 · 43.658 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq/o/1818177",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818177/f2dceb385988bbbd830a11b8da237088~v192596339.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666513.9947262,
+"laatst": 1792666513.9947262,
+"keer": 0,
+"fout": ""
+},
+"1818175": {
+"melding": {
+"titel": "Renault Arkana (2024)",
+"bericht": "exportprijs € 5.400 · 1 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-arkana/o/1818175",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818175/fdd08a1e5e9948ee892ce893544e8dfe~v192596086.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666514.0233462,
+"laatst": 1792666514.0233462,
+"keer": 0,
+"fout": ""
+},
+"1818174": {
+"melding": {
+"titel": "Peugeot 5008 (2022)",
+"bericht": "exportprijs € 7.400 · 118.385 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-5008/o/1818174",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818174/6dbe4cb7532f80339e0804f60eb67f7f~v192596064.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666514.0502498,
+"laatst": 1792666514.0502498,
+"keer": 0,
+"fout": ""
+},
+"1818171": {
+"melding": {
+"titel": "BMW X7 (2022)",
+"bericht": "xDrive 40i High Executive-4 WIEL BESTURING-PANO-LEDER-360 CAMERA\nexportprijs € 45.950 · 114.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x7-xdrive-40i-high-executive-4-wiel-besturing-pano-leder-360-camera/o/1818171",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1818171/13b3b168d4d89a776ff924639fcb9a18~v192595520.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666514.077881,
+"laatst": 1792666514.077881,
+"keer": 0,
+"fout": ""
+},
+"1818172": {
+"melding": {
+"titel": "Citroën C3 (2026)",
+"bericht": "exportprijs € 4.950 · 10.860 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1818172",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818172/10cdd30a2a87f318de5a45035c3532c2~v192595621.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666514.104058,
+"laatst": 1792666514.104058,
+"keer": 0,
+"fout": ""
+},
+"1765465": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi (2026)",
+"bericht": "export / douane / tenaamstelling tarief",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-export-douane-tenaamstelling-tarief/o/1765465",
+"foto": "https://www.schadeautos.nl/cache/picture/66/1765465/43d1af17f2ab4ba8a2d47528b8d16272~v176769880.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666514.133603,
+"laatst": 1792666514.133603,
+"keer": 0,
+"fout": ""
+},
+"1753444": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi A1 (2025)",
+"bericht": "ALLSTREET 1.5 35 TFSI 16V Hatchback 4Dr Benzine 1.498cc 110kW (150pk) FWD\n€ 24.850 · 7.884 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-allstreet-1-5-35-tfsi-16v-hatchback-4dr-benzine-1-498cc-110kw-150pk-fwd/o/1753444",
+"foto": "https://www.schadeautos.nl/cache/picture/146/1753444/da403612df52ff4329e0d0ddc9d13999~v173154601.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792666516.7944765,
+"laatst": 1792666516.7944765,
+"keer": 0,
+"fout": ""
+}
+},
+"storing": {},
 "kanaal_storing": {
 "WhatsApp": {
 "sinds": 1791487272.8609586
