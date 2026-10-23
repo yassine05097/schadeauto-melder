@@ -4516,90 +4516,55 @@
 "1755392",
 "1818526",
 "1801290",
-"1801291"
+"1801291",
+"1818562",
+"1810180",
+"1818561",
+"1810192",
+"1818548",
+"1742373",
+"1798016",
+"1818538",
+"1818550",
+"1818547",
+"1801630",
+"1818541",
+"1818544",
+"1818545",
+"1796739",
+"1818542",
+"1810177",
+"1794078",
+"1818532",
+"1765064",
+"1809819",
+"1809817",
+"1818535",
+"1818536",
+"1818534"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818526,
+"hoogste_id": 1818562,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1816521",
-"1809821",
-"1809812",
-"1809820",
-"1770138",
-"1763991",
-"1775450",
-"1788788",
-"1755392",
-"1818526",
-"1801290",
-"1801291"
+"1772003",
+"1818562",
+"1810180",
+"1818561",
+"1810192",
+"1818548",
+"1798127",
+"1816805",
+"1742373",
+"1817346",
+"1817051",
+"1798016"
 ]
 },
 "wachtrij": {
-"1818510": {
-"melding": {
-"titel": "Peugeot 308 (2023)",
-"bericht": "Puretech 130 Aut Navi Camera Clima\n€ 10.450 · 91.103 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-puretech-130-aut-navi-camera-clima/o/1818510",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1818510/13e51fb9e3a038a1396fb899c04cadfc~v192727213.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792728208.9601424,
-"laatst": 1792737806.064852,
-"keer": 6,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1818509": {
-"melding": {
-"titel": "Volkswagen Polo (2025)",
-"bericht": "1.0 TSI Life Edition\n€ 12.850 · 22.238 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-edition/o/1818509",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1818509/6b4c3cfcc46a1a2eb329fefd809b409e~v192727114.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792728209.062701,
-"laatst": 1792728209.062701,
-"keer": 0,
-"fout": ""
-},
-"1818508": {
-"melding": {
-"titel": "Toyota Aygo (2024)",
-"bericht": "X 1.0 VVTI Airco Camera\n€ 9.350 · 91.578 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-0-vvti-airco-camera/o/1818508",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1818508/ed841c81fa35d73c850790957ba79a31~v192727014.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792728209.127587,
-"laatst": 1792728209.127587,
-"keer": 0,
-"fout": ""
-},
-"1818506": {
-"melding": {
-"titel": "Volkswagen Up! (2022)",
-"bericht": "1.0 Airco\n€ 2.250 · 99.074 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-up-1-0-airco/o/1818506",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1818506/9a02611173c4a9c8e743a237ca87ebde~v192726814.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792728209.1701136,
-"laatst": 1792728209.1701136,
-"keer": 0,
-"fout": ""
-},
 "1809821": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volvo EX30 (2024)",
@@ -4611,9 +4576,9 @@
 "WhatsApp"
 ],
 "sinds": 1792737808.9898584,
-"laatst": 1792737808.9898584,
-"keer": 0,
-"fout": ""
+"laatst": 1792740461.5912962,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1809812": {
 "melding": {
@@ -4702,6 +4667,126 @@
 ],
 "sinds": 1792737809.4522858,
 "laatst": 1792737809.4522858,
+"keer": 0,
+"fout": ""
+},
+"1810180": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Fabia (2022)",
+"bericht": "Combi 1.0 TSI Ambition ACC Navi Apple/Android PDC AHK Airco\n€ 6.250 · 121.706 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-combi-1-0-tsi-ambition-acc-navi-apple-android-pdc-ahk-airco/o/1810180",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1810180/72e5dab032c6ce54abe8aa19cb5aceb0~v192740185.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792740462.538759,
+"laatst": 1792740462.538759,
+"keer": 0,
+"fout": ""
+},
+"1810192": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Fiesta (2023)",
+"bericht": "1.0 EcoBoost Mild Hybrid Titanium X B&O SHZ Camera LrHZ Clima Apple/Android\n€ 6.650 · 94.095 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-ecoboost-mild-hybrid-titanium-x-b-o-shz-camera-lrhz-clima-apple-android/o/1810192",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1810192/64a3731a13247e2115a3f9235c39adea~v192740150.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792740462.7190459,
+"laatst": 1792740462.7190459,
+"keer": 0,
+"fout": ""
+},
+"1818548": {
+"melding": {
+"titel": "Volkswagen Caddy (2024)",
+"bericht": "Maxi Combi Plus\n€ 14.520 · 93.447 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-maxi-combi-plus/o/1818548",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1818548/6a7d0e346f72044f210e423a2fe9d18c~v192739904.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792740462.8933737,
+"laatst": 1792740462.8933737,
+"keer": 0,
+"fout": ""
+},
+"1801630": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Captur (2022)",
+"bericht": "1.6 E-Tech Hybrid 145 Zen Cruise Navi Clima Camera PDC\n€ 7.450 · 159.861 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-1-6-e-tech-hybrid-145-zen-cruise-navi-clima-camera-pdc/o/1801630",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1801630/5e35f2ae935915b5dfc8e9a7ff74d76c~v192739370.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792740465.7043996,
+"laatst": 1792740465.7043996,
+"keer": 0,
+"fout": ""
+},
+"1818544": {
+"melding": {
+"titel": "Volkswagen Caddy maxi (2025)",
+"bericht": "Kombi 2.0 TDI\n€ 19.900 · 29.700 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-maxi-kombi-2-0-tdi/o/1818544",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1818544/32bb7f85a7f01cf5e98b9298749a74dd~v192739106.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792740468.4838042,
+"laatst": 1792740468.4838042,
+"keer": 0,
+"fout": ""
+},
+"1810177": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Corsa-E (2023)",
+"bericht": "Level 2 50 kWh Cruise Navi Clima Virtual Apple/Android PDC\n€ 9.950 · 44.863 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-e-level-2-50-kwh-cruise-navi-clima-virtual-apple-android-pdc/o/1810177",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1810177/e1cd5c6dfb8304f782815a8a8635d264~v192738628.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792740468.657835,
+"laatst": 1792740468.657835,
+"keer": 0,
+"fout": ""
+},
+"1818535": {
+"melding": {
+"titel": "Volkswagen ID.5 (2023)",
+"bericht": "Pro 82 kWh AHK/NAVI\n€ 23.900 · 36.640 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-5-pro-82-kwh-ahk-navi/o/1818535",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1818535/8be92409e89ee62a9c9573980b2e1e91~v192737907.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792740471.6344454,
+"laatst": 1792740471.6344454,
+"keer": 0,
+"fout": ""
+},
+"1818534": {
+"melding": {
+"titel": "Volkswagen ID.3 (2025)",
+"bericht": "GTX 210kW 84 kWh\n€ 24.900 · 17.554 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-3-gtx-210kw-84-kwh/o/1818534",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1818534/77e80af30e10d02e13ba4a69554b2c67~v192737905.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792740471.8078043,
+"laatst": 1792740471.8078043,
 "keer": 0,
 "fout": ""
 }
