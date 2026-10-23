@@ -4666,90 +4666,37 @@
 "1818696",
 "1818720",
 "1818719",
-"1818718"
+"1818718",
+"1818745",
+"1818746",
+"1818739",
+"1818714",
+"1818735",
+"1813350",
+"1799242"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818721,
+"hoogste_id": 1818746,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1818745",
+"1818746",
+"1818739",
+"1818714",
+"1818735",
+"1813350",
+"1799242",
+"1810828",
+"1812466",
+"1817500",
 "1818696",
-"1818720",
-"1818122",
-"1817094",
-"1817213",
-"1818719",
-"1818718",
-"1818721",
-"1813371",
-"1754285",
-"1802406",
-"1818364"
+"1818720"
 ]
 },
 "wachtrij": {
-"1740860": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW i4 (2023)",
-"bericht": "eDrive40 84kWh 250kW High Executive\n€ 14.500 · 70.326 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i4-edrive40-84kwh-250kw-high-executive/o/1740860",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1740860/b7eb99db1eb345e1d744d2940f43d324~v169710600.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792744746.5927718,
-"laatst": 1792754203.4510622,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1818614": {
-"melding": {
-"titel": "Audi Q4 (2025)",
-"bericht": "e-tron\nexportprijs € 9.400 · 8.380 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-e-tron/o/1818614",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1818614/7a6dcd0091fa318f0f6687ea47eda0e1~v192744174.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792744746.8120246,
-"laatst": 1792744746.8120246,
-"keer": 0,
-"fout": ""
-},
-"1818580": {
-"melding": {
-"titel": "Renault Twingo (2022)",
-"bericht": "3 URBAN NIGHT SCE\n€ 4.450 · 28.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-twingo-3-urban-night-sce/o/1818580",
-"foto": "https://www.schadeautos.nl/cache/picture/1050/1818580/7979595dcb49a99a8092371e30cc0752~v192742158.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792744749.8746245,
-"laatst": 1792744749.8746245,
-"keer": 0,
-"fout": ""
-},
-"1818578": {
-"melding": {
-"titel": "MG MG5 (2022)",
-"bericht": "61 KWH LONG RANGE BREAK + MANY PARTS\n€ 6.250 · 39.000 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-mg5-61-kwh-long-range-break-many-parts/o/1818578",
-"foto": "https://www.schadeautos.nl/cache/picture/1050/1818578/9a85dede473af05594b9b219b8647e20~v192742024.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792744750.096312,
-"laatst": 1792744750.096312,
-"keer": 0,
-"fout": ""
-},
 "1818639": {
 "melding": {
 "titel": "Renault Austral (2023)",
@@ -4761,9 +4708,9 @@
 "WhatsApp"
 ],
 "sinds": 1792746824.4206715,
-"laatst": 1792746824.4206715,
-"keer": 0,
-"fout": ""
+"laatst": 1792756324.1772997,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1818637": {
 "melding": {
@@ -5017,6 +4964,51 @@
 ],
 "sinds": 1792754205.0416737,
 "laatst": 1792754205.0416737,
+"keer": 0,
+"fout": ""
+},
+"1818739": {
+"melding": {
+"titel": "Renault Clio (2022)",
+"bericht": "1.0 TCe Zen\n€ 5.700 · 103.190 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1818739",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1818739/90882162dfecb786d7303cbe37d524ab~v192755563.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792756325.4889693,
+"laatst": 1792756325.4889693,
+"keer": 0,
+"fout": ""
+},
+"1818735": {
+"melding": {
+"titel": "Volkswagen ID.7 (2026)",
+"bericht": "Tourer GTX 4Motion HUD/AHK/360/NAVI/H&K\n€ 42.900 · 5.857 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-7-tourer-gtx-4motion-hud-ahk-360-navi-h-k/o/1818735",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1818735/d8817b89685684440416c20e9e8392bc~v192754708.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792756325.5166197,
+"laatst": 1792756325.5166197,
+"keer": 0,
+"fout": ""
+},
+"1799242": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 2008 (2025)",
+"bericht": "PEUGEOT 2008 1.2I 2025\n€ 13.200 · 33.243 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-peugeot-2008-1-2i-2025/o/1799242",
+"foto": "https://www.schadeautos.nl/cache/picture/982/1799242/2be9b437582695becddd972cc6ca8d2e~v187304089.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792756325.5454745,
+"laatst": 1792756325.5454745,
 "keer": 0,
 "fout": ""
 }
