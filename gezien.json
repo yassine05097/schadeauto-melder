@@ -4673,27 +4673,39 @@
 "1818714",
 "1818735",
 "1813350",
-"1799242"
+"1799242",
+"1818783",
+"1818751",
+"1818777",
+"1818761",
+"1818762",
+"1818756",
+"1818740",
+"1818760",
+"1818755",
+"1818747",
+"1818753",
+"1818743"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818746,
+"hoogste_id": 1818783,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818745",
-"1818746",
-"1818739",
-"1818714",
-"1818735",
-"1813350",
-"1799242",
-"1810828",
-"1812466",
-"1817500",
-"1818696",
-"1818720"
+"1818783",
+"1818751",
+"1818777",
+"1818761",
+"1818762",
+"1818756",
+"1818740",
+"1818760",
+"1818755",
+"1818747",
+"1818753",
+"1818743"
 ]
 },
 "wachtrij": {
@@ -4708,8 +4720,8 @@
 "WhatsApp"
 ],
 "sinds": 1792746824.4206715,
-"laatst": 1792756324.1772997,
-"keer": 1,
+"laatst": 1792757610.7905786,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1818637": {
@@ -5009,6 +5021,51 @@
 ],
 "sinds": 1792756325.5454745,
 "laatst": 1792756325.5454745,
+"keer": 0,
+"fout": ""
+},
+"1818777": {
+"melding": {
+"titel": "BMW iX1 (2024)",
+"bericht": "eDrive20 67 kWh M Sport H/K ACC Navi Virtual Apple/Android Memory Camera PDC Clima\n€ 8.950 · 70.835 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-edrive20-67-kwh-m-sport-h-k-acc-navi-virtual-apple-android-memory-camera-pdc-clima/o/1818777",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1818777/b86b13736e50b8f22e0abed3fce0d6ce~v192757413.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792757611.7427745,
+"laatst": 1792757611.7427745,
+"keer": 0,
+"fout": ""
+},
+"1818756": {
+"melding": {
+"titel": "Peugeot e-208 (2022)",
+"bericht": "EV Active Pack 50 kWh 136 PK\n€ 8.700 · 92.819 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-e-208-ev-active-pack-50-kwh-136-pk/o/1818756",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1818756/13960f91fd9681ba37f85c177b0d2ed6~v192757012.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792757611.92458,
+"laatst": 1792757611.92458,
+"keer": 0,
+"fout": ""
+},
+"1818740": {
+"melding": {
+"titel": "Skoda Enyaq (2024)",
+"bericht": "85 / 210kw / 38 dkm\n€ 26.500 · 38.000 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-enyaq-85-210kw-38-dkm/o/1818740",
+"foto": "https://www.schadeautos.nl/cache/picture/72/1818740/0aa2f32b356e3412a444191143959cc4~v192755739.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792757612.1120548,
+"laatst": 1792757612.1120548,
 "keer": 0,
 "fout": ""
 }
