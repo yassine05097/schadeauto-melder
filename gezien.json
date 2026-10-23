@@ -4495,30 +4495,96 @@
 "1818492",
 "1818496",
 "1818502",
-"1818503"
+"1818503",
+"1818510",
+"1818509",
+"1818508",
+"1818507",
+"1818506"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818503,
+"hoogste_id": 1818510,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1818510",
+"1818509",
+"1818508",
+"1818507",
+"1818506",
 "1818503",
 "1818502",
 "1818496",
 "1756110",
 "1818493",
 "1818492",
-"1818487",
-"1818488",
-"1818484",
-"1818482",
-"1818480",
-"1814637"
+"1818487"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1818510": {
+"melding": {
+"titel": "Peugeot 308 (2023)",
+"bericht": "Puretech 130 Aut Navi Camera Clima\n€ 10.450 · 91.103 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-puretech-130-aut-navi-camera-clima/o/1818510",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1818510/13e51fb9e3a038a1396fb899c04cadfc~v192727213.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792728208.9601424,
+"laatst": 1792728208.9601424,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1818509": {
+"melding": {
+"titel": "Volkswagen Polo (2025)",
+"bericht": "1.0 TSI Life Edition\n€ 12.850 · 22.238 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-edition/o/1818509",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1818509/6b4c3cfcc46a1a2eb329fefd809b409e~v192727114.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792728209.062701,
+"laatst": 1792728209.062701,
+"keer": 0,
+"fout": ""
+},
+"1818508": {
+"melding": {
+"titel": "Toyota Aygo (2024)",
+"bericht": "X 1.0 VVTI Airco Camera\n€ 9.350 · 91.578 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-0-vvti-airco-camera/o/1818508",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1818508/ed841c81fa35d73c850790957ba79a31~v192727014.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792728209.127587,
+"laatst": 1792728209.127587,
+"keer": 0,
+"fout": ""
+},
+"1818506": {
+"melding": {
+"titel": "Volkswagen Up! (2022)",
+"bericht": "1.0 Airco\n€ 2.250 · 99.074 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-up-1-0-airco/o/1818506",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1818506/9a02611173c4a9c8e743a237ca87ebde~v192726814.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792728209.1701136,
+"laatst": 1792728209.1701136,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
