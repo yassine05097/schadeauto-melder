@@ -4805,15 +4805,23 @@
 "1818906",
 "1818903",
 "1818904",
-"1818902"
+"1818902",
+"1818914",
+"1818913",
+"1818912",
+"1818905"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818910,
+"hoogste_id": 1818914,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1818914",
+"1818913",
+"1818912",
+"1818905",
 "1818910",
 "1818909",
 "1818908",
@@ -4821,11 +4829,7 @@
 "1818906",
 "1816054",
 "1818903",
-"1818904",
-"1818902",
-"1818899",
-"1818901",
-"1818900"
+"1818904"
 ]
 },
 "wachtrij": {
@@ -4840,8 +4844,8 @@
 "WhatsApp"
 ],
 "sinds": 1792764858.1922576,
-"laatst": 1792773128.9897075,
-"keer": 1,
+"laatst": 1792775334.758663,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1818861": {
@@ -5111,6 +5115,21 @@
 ],
 "sinds": 1792773129.8299773,
 "laatst": 1792773129.8299773,
+"keer": 0,
+"fout": ""
+},
+"1818913": {
+"melding": {
+"titel": "Volkswagen Golf (2023)",
+"bericht": "exportprijs € 11.400 · 101.974 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf/o/1818913",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1818913/ecc4fd3557b696d3248bd1bfaccfd5bc~v192774086.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792775336.195968,
+"laatst": 1792775336.195968,
 "keer": 0,
 "fout": ""
 }
