@@ -4541,27 +4541,49 @@
 "1809817",
 "1818535",
 "1818536",
-"1818534"
+"1818534",
+"1818584",
+"1818582",
+"1810486",
+"1649629",
+"1785657",
+"1763791",
+"1818552",
+"1818576",
+"1796574",
+"1811677",
+"1818575",
+"1818574",
+"1801631",
+"1801638",
+"1810187",
+"1810175",
+"1818569",
+"1796932",
+"1818563",
+"1818551",
+"1818565",
+"1810174"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818562,
+"hoogste_id": 1818584,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1772003",
-"1818562",
-"1810180",
-"1818561",
-"1810192",
-"1818548",
-"1798127",
-"1816805",
-"1742373",
-"1817346",
-"1817051",
-"1798016"
+"1818584",
+"1818582",
+"1810486",
+"1649629",
+"1785657",
+"1763791",
+"1815250",
+"1818552",
+"1813781",
+"1818576",
+"1816115",
+"1796574"
 ]
 },
 "wachtrij": {
@@ -4576,8 +4598,8 @@
 "WhatsApp"
 ],
 "sinds": 1792737808.9898584,
-"laatst": 1792740461.5912962,
-"keer": 1,
+"laatst": 1792742790.3978212,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1809812": {
@@ -4787,6 +4809,36 @@
 ],
 "sinds": 1792740471.8078043,
 "laatst": 1792740471.8078043,
+"keer": 0,
+"fout": ""
+},
+"1818575": {
+"melding": {
+"titel": "Dacia Jogger (2025)",
+"bericht": "EXTREME/ LPG/7 PLACE\n63.170 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreme-lpg-7-place/o/1818575",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1818575/a683aa009636ec41e76405fc8b68f076~v192741505.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792742794.9658384,
+"laatst": 1792742794.9658384,
+"keer": 0,
+"fout": ""
+},
+"1801631": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes C-klasse (2026)",
+"bericht": "Estate 200 AMG Line Memory SHZ LrHZ Virtual Apple/Android 360° AHK\n€ 26.950 · 2.035 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-estate-200-amg-line-memory-shz-lrhz-virtual-apple-android-360-ahk/o/1801631",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1801631/4591ef5e51c1ab5eac10cd91013fd360~v192741477.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792742795.140726,
+"laatst": 1792742795.140726,
 "keer": 0,
 "fout": ""
 }
