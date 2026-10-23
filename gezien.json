@@ -4839,68 +4839,7 @@
 "1818913"
 ]
 },
-"wachtrij": {
-"1810020": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen T-Cross (2026)",
-"bericht": "Volkswagen T-Cross 1.0 TSI 85 kW DSG 2x R-Line 2026 Camera\n€ 17.950 · 1.601 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-volkswagen-t-cross-1-0-tsi-85-kw-dsg-2x-r-line-2026-camera/o/1810020",
-"foto": "https://www.schadeautos.nl/cache/picture/1024/1810020/dc386602c03fcdea7109bc0308dbdb7f~v190359909.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792786074.1637733,
-"laatst": 1792796527.9836717,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1811940": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Fabia (2026)",
-"bericht": "SKODA Fabia Monte Carlo DSG Camera AppleCarplay VOL\n€ 15.950 · 18.311 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-skoda-fabia-monte-carlo-dsg-camera-applecarplay-vol/o/1811940",
-"foto": "https://www.schadeautos.nl/cache/picture/1024/1811940/3ec67589248769f24a53a9bab54127c5~v190886141.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792786074.271474,
-"laatst": 1792786074.271474,
-"keer": 0,
-"fout": ""
-},
-"1792902": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi S6 (2026)",
-"bericht": "S6 e-tron Sportback Quattro 370 kW PANORAMA HUD Luchtvering Massage VOL!!\n€ 49.950 · 16.970 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-s6-s6-e-tron-sportback-quattro-370-kw-panorama-hud-luchtvering-massage-vol/o/1792902",
-"foto": "https://www.schadeautos.nl/cache/picture/1024/1792902/e698d512a72198891aaab910b4a68b48~v185007473.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792786074.3767633,
-"laatst": 1792786074.3767633,
-"keer": 0,
-"fout": ""
-},
-"1818928": {
-"melding": {
-"titel": "Audi Q5 (2025)",
-"bericht": "AUDI Q5 Sportback 40 TDI Quattro S line PANORAMA Trekhaak VOLL\n€ 29.750 · 64.832 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q5-audi-q5-sportback-40-tdi-quattro-s-line-panorama-trekhaak-voll/o/1818928",
-"foto": "https://www.schadeautos.nl/cache/picture/1024/1818928/3d60facf3e1d903e4e2d89450b23e9c8~v192784687.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792786074.4915917,
-"laatst": 1792786074.4915917,
-"keer": 0,
-"fout": ""
-}
-},
+"wachtrij": {},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
