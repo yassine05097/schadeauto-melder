@@ -4662,7 +4662,11 @@
 "1818707",
 "1818704",
 "1818703",
-"1754461"
+"1754461",
+"1818696",
+"1818720",
+"1818719",
+"1818718"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -4671,51 +4675,21 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1818696",
+"1818720",
+"1818122",
+"1817094",
+"1817213",
+"1818719",
+"1818718",
 "1818721",
 "1813371",
 "1754285",
 "1802406",
-"1818364",
-"1816098",
-"1806168",
-"1726577",
-"1818715",
-"1818693",
-"1818711",
-"1818710"
+"1818364"
 ]
 },
 "wachtrij": {
-"1818575": {
-"melding": {
-"titel": "Dacia Jogger (2025)",
-"bericht": "EXTREME/ LPG/7 PLACE\n63.170 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreme-lpg-7-place/o/1818575",
-"foto": "https://www.schadeautos.nl/cache/picture/926/1818575/a683aa009636ec41e76405fc8b68f076~v192741505.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792742794.9658384,
-"laatst": 1792752642.8634002,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1801631": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes C-klasse (2026)",
-"bericht": "Estate 200 AMG Line Memory SHZ LrHZ Virtual Apple/Android 360° AHK\n€ 26.950 · 2.035 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-estate-200-amg-line-memory-shz-lrhz-virtual-apple-android-360-ahk/o/1801631",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1801631/4591ef5e51c1ab5eac10cd91013fd360~v192741477.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792742795.140726,
-"laatst": 1792742795.140726,
-"keer": 0,
-"fout": ""
-},
 "1740860": {
 "melding": {
 "titel": "Opnieuw geplaatst: BMW i4 (2023)",
@@ -4727,9 +4701,9 @@
 "WhatsApp"
 ],
 "sinds": 1792744746.5927718,
-"laatst": 1792744746.5927718,
-"keer": 0,
-"fout": ""
+"laatst": 1792754203.4510622,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1818614": {
 "melding": {
@@ -5013,6 +4987,36 @@
 ],
 "sinds": 1792752648.4747968,
 "laatst": 1792752648.4747968,
+"keer": 0,
+"fout": ""
+},
+"1818720": {
+"melding": {
+"titel": "Skoda Fabia (2024)",
+"bericht": "1.0 TSI Monte Carlo\n€ 12.650 · 53.761 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-1-0-tsi-monte-carlo/o/1818720",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1818720/45950f074ec5c7fe32436ccd44a5c01d~v192753669.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792754204.8580813,
+"laatst": 1792754204.8580813,
+"keer": 0,
+"fout": ""
+},
+"1818719": {
+"melding": {
+"titel": "Renault Arkana (2025)",
+"bericht": "1.6 E-TECH Hybrid Aut. Techno Climat HalfLeer Navi Camera Keyless-Go .....\n€ 13.200 · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-arkana-1-6-e-tech-hybrid-aut-techno-climat-halfleer-navi-camera-keyless-go/o/1818719",
+"foto": "https://www.schadeautos.nl/cache/picture/739/1818719/bab7367891079bebc641065eef3f0e6b~v192752554.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792754205.0416737,
+"laatst": 1792754205.0416737,
 "keer": 0,
 "fout": ""
 }
