@@ -4764,105 +4764,43 @@
 "1809908",
 "1818852",
 "1818851",
-"1818849"
+"1818849",
+"1818874",
+"1818868",
+"1818855",
+"1818870",
+"1818873",
+"1818872",
+"1818871",
+"1818866",
+"1818862",
+"1818863",
+"1818859",
+"1752160",
+"1803733"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818861,
+"hoogste_id": 1818874,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818856",
-"1791907",
-"1818861",
-"1818860",
-"1766460",
-"1818546",
-"1818540",
-"1818543",
-"1818553",
-"1818566",
-"1818537",
-"1818854"
+"1818874",
+"1818868",
+"1818855",
+"1818870",
+"1818873",
+"1817966",
+"1818872",
+"1818871",
+"1818866",
+"1778239",
+"1795564",
+"1811171"
 ]
 },
 "wachtrij": {
-"1818720": {
-"melding": {
-"titel": "Skoda Fabia (2024)",
-"bericht": "1.0 TSI Monte Carlo\n€ 12.650 · 53.761 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-1-0-tsi-monte-carlo/o/1818720",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1818720/45950f074ec5c7fe32436ccd44a5c01d~v192753669.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792754204.8580813,
-"laatst": 1792764856.9911153,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1818719": {
-"melding": {
-"titel": "Renault Arkana (2025)",
-"bericht": "1.6 E-TECH Hybrid Aut. Techno Climat HalfLeer Navi Camera Keyless-Go .....\n€ 13.200 · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-arkana-1-6-e-tech-hybrid-aut-techno-climat-halfleer-navi-camera-keyless-go/o/1818719",
-"foto": "https://www.schadeautos.nl/cache/picture/739/1818719/bab7367891079bebc641065eef3f0e6b~v192752554.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792754205.0416737,
-"laatst": 1792754205.0416737,
-"keer": 0,
-"fout": ""
-},
-"1818739": {
-"melding": {
-"titel": "Renault Clio (2022)",
-"bericht": "1.0 TCe Zen\n€ 5.700 · 103.190 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-zen/o/1818739",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1818739/90882162dfecb786d7303cbe37d524ab~v192755563.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792756325.4889693,
-"laatst": 1792756325.4889693,
-"keer": 0,
-"fout": ""
-},
-"1818735": {
-"melding": {
-"titel": "Volkswagen ID.7 (2026)",
-"bericht": "Tourer GTX 4Motion HUD/AHK/360/NAVI/H&K\n€ 42.900 · 5.857 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-7-tourer-gtx-4motion-hud-ahk-360-navi-h-k/o/1818735",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1818735/d8817b89685684440416c20e9e8392bc~v192754708.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792756325.5166197,
-"laatst": 1792756325.5166197,
-"keer": 0,
-"fout": ""
-},
-"1799242": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 2008 (2025)",
-"bericht": "PEUGEOT 2008 1.2I 2025\n€ 13.200 · 33.243 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-peugeot-2008-1-2i-2025/o/1799242",
-"foto": "https://www.schadeautos.nl/cache/picture/982/1799242/2be9b437582695becddd972cc6ca8d2e~v187304089.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792756325.5454745,
-"laatst": 1792756325.5454745,
-"keer": 0,
-"fout": ""
-},
 "1818777": {
 "melding": {
 "titel": "BMW iX1 (2024)",
@@ -4874,9 +4812,9 @@
 "WhatsApp"
 ],
 "sinds": 1792757611.7427745,
-"laatst": 1792757611.7427745,
-"keer": 0,
-"fout": ""
+"laatst": 1792767149.7829525,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1818756": {
 "melding": {
@@ -5355,6 +5293,96 @@
 ],
 "sinds": 1792764861.824597,
 "laatst": 1792764861.824597,
+"keer": 0,
+"fout": ""
+},
+"1818868": {
+"melding": {
+"titel": "Skoda Octavia (2024)",
+"bericht": "Combi 1.0 e-TSI Business Edition\n€ 7.900 · 131.241 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-combi-1-0-e-tsi-business-edition/o/1818868",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1818868/8f5277165b24b31663df06ddadc72159~v192766275.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792767150.9450512,
+"laatst": 1792767150.9450512,
+"keer": 0,
+"fout": ""
+},
+"1818873": {
+"melding": {
+"titel": "Audi Q7 (2023)",
+"bericht": "50 TDI Quattro Pro Line S-Line Virtual Navi Cruise\n€ 18.950 · 92.181 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q7-50-tdi-quattro-pro-line-s-line-virtual-navi-cruise/o/1818873",
+"foto": "https://www.schadeautos.nl/cache/picture/644/1818873/db236fc87b4a489963e006df0433f1f5~v192766953.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792767151.0617611,
+"laatst": 1792767151.0617611,
+"keer": 0,
+"fout": ""
+},
+"1818862": {
+"melding": {
+"titel": "Cupra Leon (2025)",
+"bericht": "Sportstourer 1.5 e-Hybrid 200 kW VZ Extreme\n€ 23.995 · 12.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-sportstourer-1-5-e-hybrid-200-kw-vz-extreme/o/1818862",
+"foto": "https://www.schadeautos.nl/cache/picture/344/1818862/9c389a85235552d8f2cd15eea1894a30~v192765137.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792767153.867039,
+"laatst": 1792767153.867039,
+"keer": 0,
+"fout": ""
+},
+"1818859": {
+"melding": {
+"titel": "Mercedes C-klasse (2026)",
+"bericht": "C-220d 2.0 Turbo 16V Sedan 4Dr Elektrisch Diesel 1.992cc 145kW (197pk) RWD\n€ 13.750 · 11.016 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c-220d-2-0-turbo-16v-sedan-4dr-elektrisch-diesel-1-992cc-145kw-197pk-rwd/o/1818859",
+"foto": "https://www.schadeautos.nl/cache/picture/146/1818859/ca80d7dd95e874f5e7cb8f0fe054e228~v192764962.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792767153.9722817,
+"laatst": 1792767153.9722817,
+"keer": 0,
+"fout": ""
+},
+"1752160": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW M5 (2025)",
+"bericht": "Touring Drivers Package HUD Carbon B&W ACC 360° AHK\n€ 64.250 · 12.056 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m5-touring-drivers-package-hud-carbon-b-w-acc-360-ahk/o/1752160",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1752160/4e10cbd2e2799f67c22524014b219b9a~v192765049.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792767154.0738492,
+"laatst": 1792767154.0738492,
+"keer": 0,
+"fout": ""
+},
+"1803733": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche 718 Cayman (2023)",
+"bericht": "GT4 RS Clubsport Weissach 4.0 PDK Sport Chrono Carbon Lift vPDLS+ PASM\n€ 112.950 · 17.708 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-718-cayman-gt4-rs-clubsport-weissach-4-0-pdk-sport-chrono-carbon-lift-vpdls-pasm/o/1803733",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1803733/cab4888c5f1fbe08c60d75c8448f0f08~v192764911.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792767154.1798623,
+"laatst": 1792767154.1798623,
 "keer": 0,
 "fout": ""
 }
