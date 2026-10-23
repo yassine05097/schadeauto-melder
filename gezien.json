@@ -4601,135 +4601,56 @@
 "1654719",
 "1818622",
 "1818620",
-"1818611"
+"1818611",
+"1818667",
+"1818666",
+"1818665",
+"1685740",
+"1745384",
+"1771897",
+"1662777",
+"1818658",
+"1818649",
+"1810073",
+"1818646",
+"1801263",
+"1807284",
+"1809251",
+"1818656",
+"1818654",
+"1818655",
+"1781242",
+"1499117",
+"1818651",
+"1818636",
+"1818650",
+"1818641",
+"1818648",
+"1818644",
+"1818645"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818639,
+"hoogste_id": 1818667,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818639",
-"1816631",
-"1818638",
-"1818637",
-"1747097",
-"1818634",
-"1652680",
-"1818632",
-"1818633",
-"1818635",
-"1814091",
-"1816179"
+"1818667",
+"1818666",
+"1818665",
+"1802547",
+"1685740",
+"1745384",
+"1771897",
+"1808605",
+"1662777",
+"1818658",
+"1818649",
+"1810073"
 ]
 },
 "wachtrij": {
-"1809821": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volvo EX30 (2024)",
-"bericht": "Single Motor Extended Range Plus 69 kWh H/K ACC Navi Clima SHZ Apple/Android Camera PDC\n€ 14.750 · 95.054 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-ex30-single-motor-extended-range-plus-69-kwh-h-k-acc-navi-clima-shz-apple-android-camera-pdc/o/1809821",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1809821/af1b9d49c138609f01b27a8862c01cf1~v192737465.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792737808.9898584,
-"laatst": 1792746823.7783337,
-"keer": 4,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1809812": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW 1-serie (2026)",
-"bericht": "116i M-Sport Shadow line HUD ACC 360° LrHZ SHZ\n€ 21.450 · 17.155 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116i-m-sport-shadow-line-hud-acc-360-lrhz-shz/o/1809812",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1809812/3442aad3c2bedef439e20eb8f8716edb~v192737428.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792737809.0728173,
-"laatst": 1792737809.0728173,
-"keer": 0,
-"fout": ""
-},
-"1770138": {
-"melding": {
-"titel": "Opnieuw geplaatst: Toyota Aygo (2023)",
-"bericht": "X 1.0 VVT-i MT\n€ 5.650 · 89.621 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-0-vvt-i-mt/o/1770138",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1770138/3059e1e6368d81832c6c607b8e83de59~v178069845.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792737809.1484804,
-"laatst": 1792737809.1484804,
-"keer": 0,
-"fout": ""
-},
-"1788788": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 208 (2022)",
-"bericht": "LIKE\n€ 5.800 · 100.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-like/o/1788788",
-"foto": "https://www.schadeautos.nl/cache/picture/977/1788788/e506698ddb39910ce517245ad7440260~v192737004.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792737809.2240381,
-"laatst": 1792737809.2240381,
-"keer": 0,
-"fout": ""
-},
-"1818526": {
-"melding": {
-"titel": "Volkswagen Passat (2025)",
-"bericht": "Variant 1.5 TSI e-Hybrid R-Line HUD/KAM\n€ 27.900 · 55.052 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-variant-1-5-tsi-e-hybrid-r-line-hud-kam/o/1818526",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1818526/2398769235788616ce04751e1f765844~v192736703.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792737809.3001208,
-"laatst": 1792737809.3001208,
-"keer": 0,
-"fout": ""
-},
-"1801290": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Polo (2025)",
-"bericht": "1.0 MPI Teilediebstahl Edition Cruise Airco Virtual Apple/Android PDC\n€ 12.950 · 20.485 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-mpi-teilediebstahl-edition-cruise-airco-virtual-apple-android-pdc/o/1801290",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1801290/eab9b309f05740256531dd50b897cdd3~v192736125.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792737809.3766286,
-"laatst": 1792737809.3766286,
-"keer": 0,
-"fout": ""
-},
-"1801291": {
-"melding": {
-"titel": "Opnieuw geplaatst: Opel Frontera (2026)",
-"bericht": "1.2 Turbo Hybrid GS ACC Navi Clima SHZ LrHZ Apple/Android PDC\n€ 13.250 · 369 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-frontera-1-2-turbo-hybrid-gs-acc-navi-clima-shz-lrhz-apple-android-pdc/o/1801291",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1801291/f91652960aef0c91e5d1abd134592f1d~v192736091.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792737809.4522858,
-"laatst": 1792737809.4522858,
-"keer": 0,
-"fout": ""
-},
 "1810180": {
 "melding": {
 "titel": "Opnieuw geplaatst: Skoda Fabia (2022)",
@@ -4741,9 +4662,9 @@
 "WhatsApp"
 ],
 "sinds": 1792740462.538759,
-"laatst": 1792740462.538759,
-"keer": 0,
-"fout": ""
+"laatst": 1792748818.4808059,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1810192": {
 "melding": {
@@ -5027,6 +4948,51 @@
 ],
 "sinds": 1792746827.688108,
 "laatst": 1792746827.688108,
+"keer": 0,
+"fout": ""
+},
+"1781242": {
+"melding": {
+"titel": "Opnieuw geplaatst: BYD Dolphin (2024)",
+"bericht": "60.4kWh 150kW Design\n€ 13.550 · 79.416 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/byd-dolphin-60-4kwh-150kw-design/o/1781242",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1781242/e71c35e62209e049b2238627fbd09b1f~v181507349.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792748822.4954891,
+"laatst": 1792748822.4954891,
+"keer": 0,
+"fout": ""
+},
+"1818648": {
+"melding": {
+"titel": "Peugeot e-208 (2023)",
+"bericht": "EV GT 350 50 kWh\n€ 9.500 · 160.950 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-e-208-ev-gt-350-50-kwh/o/1818648",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1818648/6d60ee74dcd2dfd1426a319f49846773~v192747285.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792748825.4530823,
+"laatst": 1792748825.4530823,
+"keer": 0,
+"fout": ""
+},
+"1818644": {
+"melding": {
+"titel": "Toyota Aygo (2022)",
+"bericht": "X-1.0 VVT-i MT First-CLIMA-CAMERA-CRUISE\n€ 9.000 · 79.200 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-0-vvt-i-mt-first-clima-camera-cruise/o/1818644",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1818644/b0e07a0d5b999318be3d43285c231834~v192747159.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792748825.5615675,
+"laatst": 1792748825.5615675,
 "keer": 0,
 "fout": ""
 }
