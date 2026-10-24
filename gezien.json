@@ -4860,60 +4860,35 @@
 "1819009",
 "1819015",
 "1819014",
-"1819013"
+"1819013",
+"1819020",
+"1819018",
+"1819017",
+"1819016",
+"1802454"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819015,
+"hoogste_id": 1819020,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1819020",
+"1819018",
+"1819017",
+"1819016",
+"1802454",
+"1814913",
+"1817005",
 "1819015",
 "1819014",
 "1811138",
 "1819013",
-"1819012",
-"1819010",
-"1819009",
-"1819008",
-"1818995",
-"1818996",
-"1818986",
-"1819006"
+"1819012"
 ]
 },
 "wachtrij": {
-"1813421": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Superb (2022)",
-"bericht": "1.5 TSI Bussines Navi Stoelverw.\n€ 12.950 · 117.609 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-1-5-tsi-bussines-navi-stoelverw/o/1813421",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1813421/093b5c8f000b5a643561efbc6c134962~v191346371.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792832935.7594361,
-"laatst": 1792842672.917692,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1818990": {
-"melding": {
-"titel": "Opel Corsa (2023)",
-"bericht": "1.5 D Elegance Navi Airco\n€ 9.450 · 142.071 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-5-d-elegance-navi-airco/o/1818990",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1818990/94a53d4a18de103df6447ddf28be0a1f~v192832044.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1792832935.787105,
-"laatst": 1792832935.787105,
-"keer": 0,
-"fout": ""
-},
 "1819008": {
 "melding": {
 "titel": "Ford Kuga (2023)",
@@ -4925,9 +4900,9 @@
 "WhatsApp"
 ],
 "sinds": 1792839475.0703695,
-"laatst": 1792839475.0703695,
-"keer": 0,
-"fout": ""
+"laatst": 1792843906.0931916,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1818996": {
 "melding": {
@@ -5001,6 +4976,21 @@
 ],
 "sinds": 1792842674.1473086,
 "laatst": 1792842674.1473086,
+"keer": 0,
+"fout": ""
+},
+"1819016": {
+"melding": {
+"titel": "Audi Q5 (2026)",
+"bericht": "LUFTFEDERUNG SOUND BANG&OLUFSEN\n€ 44.649 · 2.000 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q5-luftfederung-sound-bang-olufsen/o/1819016",
+"foto": "https://www.schadeautos.nl/cache/picture/987/1819016/9c45bf0991f6cfa4762b25c7bb9f76eb~v192843206.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792843906.8054903,
+"laatst": 1792843906.8054903,
 "keer": 0,
 "fout": ""
 }
