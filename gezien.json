@@ -4828,27 +4828,31 @@
 "1818955",
 "1683395",
 "1818951",
-"1818949"
+"1818949",
+"1744065",
+"1796825",
+"1818962",
+"1751233"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818959,
+"hoogste_id": 1818962,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818959",
-"1818224",
-"1818955",
-"1683395",
-"1818951",
-"1818949",
-"1818948",
-"1816031",
-"1810098",
-"1753215",
-"1814335",
-"1812658"
+"1803868",
+"1744065",
+"1796932",
+"1809461",
+"1796825",
+"1818551",
+"1818962",
+"1809947",
+"1817970",
+"1751233",
+"1818276",
+"1816802"
 ]
 },
 "wachtrij": {
@@ -4863,8 +4867,8 @@
 "WhatsApp"
 ],
 "sinds": 1792823808.8009565,
-"laatst": 1792826235.5060053,
-"keer": 2,
+"laatst": 1792828185.5952363,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1683395": {
@@ -4879,6 +4883,21 @@
 ],
 "sinds": 1792826236.0685616,
 "laatst": 1792826236.0685616,
+"keer": 0,
+"fout": ""
+},
+"1751233": {
+"melding": {
+"titel": "Opnieuw geplaatst: Seat Ibiza (2025)",
+"bericht": "1.0 MPI 12V Hatchback 4Dr Benzine 999cc 59kW (80pk) FWD\n€ 7.750 · 8.812 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-1-0-mpi-12v-hatchback-4dr-benzine-999cc-59kw-80pk-fwd/o/1751233",
+"foto": "https://www.schadeautos.nl/cache/picture/146/1751233/db0019356c1e3bfaa6093a6eef194d9f~v172552277.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792828186.6862361,
+"laatst": 1792828186.6862361,
 "keer": 0,
 "fout": ""
 }
