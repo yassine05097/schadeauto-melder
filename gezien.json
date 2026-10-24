@@ -4823,27 +4823,32 @@
 "1810087",
 "1725509",
 "1716908",
-"1767164"
+"1767164",
+"1818959",
+"1818955",
+"1683395",
+"1818951",
+"1818949"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1818948,
+"hoogste_id": 1818959,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1818959",
+"1818224",
+"1818955",
+"1683395",
+"1818951",
+"1818949",
 "1818948",
 "1816031",
 "1810098",
 "1753215",
 "1814335",
-"1812658",
-"1810087",
-"1725509",
-"1716908",
-"1767164",
-"1810020",
-"1811940"
+"1812658"
 ]
 },
 "wachtrij": {
@@ -4858,9 +4863,24 @@
 "WhatsApp"
 ],
 "sinds": 1792823808.8009565,
-"laatst": 1792823808.8009565,
-"keer": 1,
+"laatst": 1792826235.5060053,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1683395": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 308 (2022)",
+"bericht": "1.2 PureTech 81kW Active Pack Business\n€ 11.500 · 136.538 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2-puretech-81kw-active-pack-business/o/1683395",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1683395/63d2d26192991cfce7092899545992e8~v151983178.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792826236.0685616,
+"laatst": 1792826236.0685616,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
