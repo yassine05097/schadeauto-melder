@@ -4857,15 +4857,22 @@
 "1819007",
 "1819012",
 "1819010",
-"1819009"
+"1819009",
+"1819015",
+"1819014",
+"1819013"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819012,
+"hoogste_id": 1819015,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1819015",
+"1819014",
+"1811138",
+"1819013",
 "1819012",
 "1819010",
 "1819009",
@@ -4873,11 +4880,7 @@
 "1818995",
 "1818996",
 "1818986",
-"1819006",
-"1818987",
-"1818983",
-"1819004",
-"1818999"
+"1819006"
 ]
 },
 "wachtrij": {
@@ -4892,8 +4895,8 @@
 "WhatsApp"
 ],
 "sinds": 1792832935.7594361,
-"laatst": 1792840824.9439702,
-"keer": 2,
+"laatst": 1792842672.917692,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1818990": {
@@ -4983,6 +4986,21 @@
 ],
 "sinds": 1792839475.9029715,
 "laatst": 1792839475.9029715,
+"keer": 0,
+"fout": ""
+},
+"1819015": {
+"melding": {
+"titel": "Skoda Kamiq (2022)",
+"bericht": "1.0 TSI Monte Carlo\n€ 12.950 · 79.323 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-1-0-tsi-monte-carlo/o/1819015",
+"foto": "https://www.schadeautos.nl/cache/picture/1060/1819015/2f84189a4b6fd8c6170cb8f9087f15e7~v192842556.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792842674.1473086,
+"laatst": 1792842674.1473086,
 "keer": 0,
 "fout": ""
 }
