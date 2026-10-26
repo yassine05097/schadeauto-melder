@@ -5188,27 +5188,48 @@
 "1819404",
 "1819401",
 "1818270",
-"1819400"
+"1819400",
+"1781791",
+"1819480",
+"1819484",
+"1819476",
+"1819177",
+"1819477",
+"1819475",
+"1818628",
+"1819473",
+"1819474",
+"1725452",
+"1722792",
+"1819001",
+"1819470",
+"1819468",
+"1819469",
+"1819466",
+"1819465",
+"1777227",
+"1819000",
+"1819462"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819461,
+"hoogste_id": 1819484,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1788306",
-"1819450",
-"1816876",
-"1819388",
-"1819461",
-"1819459",
-"1819449",
-"1819454",
-"1819455",
-"1765465",
-"1819451",
-"1819424"
+"1781791",
+"1819480",
+"1819484",
+"1819476",
+"1819177",
+"1623118",
+"1819477",
+"1819475",
+"1818628",
+"1819473",
+"1815937",
+"1819474"
 ]
 },
 "wachtrij": {
@@ -5223,8 +5244,8 @@
 "WhatsApp"
 ],
 "sinds": 1793022072.4032805,
-"laatst": 1793027995.1379786,
-"keer": 1,
+"laatst": 1793031393.9294753,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1819394": {
@@ -5704,6 +5725,111 @@
 ],
 "sinds": 1793028019.3219192,
 "laatst": 1793028019.3219192,
+"keer": 0,
+"fout": ""
+},
+"1819484": {
+"melding": {
+"titel": "Renault Clio (2023)",
+"bericht": "exportprijs € 4.950 · 26.805 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio/o/1819484",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1819484/c7803d6841dce86488c267d14ff2478f~v193031003.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793031394.879787,
+"laatst": 1793031394.879787,
+"keer": 0,
+"fout": ""
+},
+"1819177": {
+"melding": {
+"titel": "Peugeot 308 (2025)",
+"bericht": "SW 1.6Plug-in Hybrid 133kW Automaat 180 Allure Avantage\n€ 13.250 · 21.089 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-sw-1-6plug-in-hybrid-133kw-automaat-180-allure-avantage/o/1819177",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1819177/80e860c3d416fba1dbae9832e001cfaa~v193007665.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793031395.0083313,
+"laatst": 1793031395.0083313,
+"keer": 0,
+"fout": ""
+},
+"1818628": {
+"melding": {
+"titel": "BMW i4 (2022)",
+"bericht": "84kWh 250kW Edrive40 High Executive Luchtvering\n€ 16.750 · 70.499 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i4-84kwh-250kw-edrive40-high-executive-luchtvering/o/1818628",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1818628/7ef00cc0a38ee658167eebc5a1d96777~v192745884.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793031395.1351774,
+"laatst": 1793031395.1351774,
+"keer": 0,
+"fout": ""
+},
+"1725452": {
+"melding": {
+"titel": "Opnieuw geplaatst: Nissan Ariya (2024)",
+"bericht": "Advance 66 kWh Panoramadak\n€ 13.750 · 20.693 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-ariya-advance-66-kwh-panoramadak/o/1725452",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1725452/071b897276d50918ab44222a87df95c8~v164673873.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793031398.0556252,
+"laatst": 1793031398.0556252,
+"keer": 0,
+"fout": ""
+},
+"1819466": {
+"melding": {
+"titel": "Volkswagen Taigo (2023)",
+"bericht": "36.713 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-taigo/o/1819466",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1819466/d99220cf8e5b768f2f282d91f207effc~v193028617.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793031398.187009,
+"laatst": 1793031398.187009,
+"keer": 0,
+"fout": ""
+},
+"1819465": {
+"melding": {
+"titel": "Mini Cooper (2022)",
+"bericht": "116.224 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-cooper/o/1819465",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1819465/2a60f14e3d61f0cba97e4b30d4218f42~v193028606.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793031398.3139231,
+"laatst": 1793031398.3139231,
+"keer": 0,
+"fout": ""
+},
+"1819462": {
+"melding": {
+"titel": "Xpeng G9 (2024)",
+"bericht": "AWD Performance 98 kWh 551 PK\n€ 23.900 · 91.104 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/xpeng-g9-awd-performance-98-kwh-551-pk/o/1819462",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1819462/9535c18502e6e2fd0a43f46f849956fb~v193028064.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793031401.0857797,
+"laatst": 1793031401.0857797,
 "keer": 0,
 "fout": ""
 }
