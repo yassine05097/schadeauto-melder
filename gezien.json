@@ -5057,150 +5057,50 @@
 "1819201",
 "1819200",
 "1819206",
-"1819204"
+"1819204",
+"1819261",
+"1819255",
+"1819264",
+"1809022",
+"1806992",
+"1749603",
+"1807387",
+"1819260",
+"1819259",
+"1819258",
+"1819256",
+"1819257",
+"1819241",
+"1819253",
+"1819208",
+"1819248",
+"1819249",
+"1804575",
+"1819247",
+"1819243"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819244,
+"hoogste_id": 1819264,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1786482",
-"1807192",
-"1819244",
-"1819242",
-"1819240",
-"1819151",
-"1819224",
-"1706357",
-"1819237",
-"1749471",
-"1812290",
-"1819234"
+"1819261",
+"1819255",
+"1819264",
+"1809022",
+"1787345",
+"1806992",
+"1749603",
+"1807387",
+"1819260",
+"1819259",
+"1819258",
+"1720085"
 ]
 },
 "wachtrij": {
-"1772454": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A4 (2024)",
-"bericht": "Avant 35 TFSI S edition Competition LED Virtual Cruise SHZ PDC\n€ 19.950 · 84.573 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-35-tfsi-s-edition-competition-led-virtual-cruise-shz-pdc/o/1772454",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1772454/19c0a432e1f1abb1748e2a8f83c7580d~v193001211.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793001440.3826275,
-"laatst": 1793011401.6815145,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1810819": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Passat (2025)",
-"bericht": "Variant 2.0 TDI DSG Business HUD 360° Massage ACC LrHZ SHZ\n€ 14.750 · 72.967 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-variant-2-0-tdi-dsg-business-hud-360-massage-acc-lrhz-shz/o/1810819",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1810819/53efdbead97608b02f542a3b34851b22~v193000951.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793001440.5482512,
-"laatst": 1793001440.5482512,
-"keer": 0,
-"fout": ""
-},
-"1810818": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi Q3 (2025)",
-"bericht": "35 TDI Advanced edition AHK ACC SHZ Camera Virtual LED\n€ 21.950 · 11.634 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q3-35-tdi-advanced-edition-ahk-acc-shz-camera-virtual-led/o/1810818",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1810818/31d2724d4aef154a962e7f8ba10901cf~v193001079.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793001440.7110186,
-"laatst": 1793001440.7110186,
-"keer": 0,
-"fout": ""
-},
-"1772016": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW iX1 (2025)",
-"bericht": "xDrive30 67 kWh LED ACC Apple/Android Camera SHZ\n€ 22.950 · 16.077 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-xdrive30-67-kwh-led-acc-apple-android-camera-shz/o/1772016",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1772016/72e3a0d65aa3e2db2cafb1bb4b8855a3~v193001046.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793001440.8737528,
-"laatst": 1793001440.8737528,
-"keer": 0,
-"fout": ""
-},
-"1810814": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volvo XC40 (2026)",
-"bericht": "2.0 B4 Plus Dark Pano AHK Camera H/K ACC Memory SHZ LrHZ 4455km!\n€ 29.950 · 4.455 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc40-2-0-b4-plus-dark-pano-ahk-camera-h-k-acc-memory-shz-lrhz-4455km/o/1810814",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1810814/ad898c690b2db4450b7b99674f36228b~v193000288.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793001441.037181,
-"laatst": 1793001441.037181,
-"keer": 0,
-"fout": ""
-},
-"1810822": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW 3-serie (2025)",
-"bericht": "318i Aut. M-Sport Pano AHK Camera SHZ Leder LED\n€ 33.950 · 25.228 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-318i-aut-m-sport-pano-ahk-camera-shz-leder-led/o/1810822",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1810822/fd54826d32350739cd7097069203510a~v193000099.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793001441.196119,
-"laatst": 1793001441.196119,
-"keer": 0,
-"fout": ""
-},
-"1795394": {
-"melding": {
-"titel": "Opnieuw geplaatst: Nissan Qashqai (2022)",
-"bericht": "1.3MHEV 116kW Automaat Xtronic N-Style\n€ 15.800 · 40.275 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-1-3mhev-116kw-automaat-xtronic-n-style/o/1795394",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1795394/815442018d9be041e9faa9505d82e364~v186037397.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793001444.2954931,
-"laatst": 1793001444.2954931,
-"keer": 0,
-"fout": ""
-},
-"1807003": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A3 (2023)",
-"bericht": "A3 40 TFSI e S tronic Sportback plugin rijdbaar\n€ 16.950 · 45.162 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-a3-40-tfsi-e-s-tronic-sportback-plugin-rijdbaar/o/1807003",
-"foto": "https://www.schadeautos.nl/cache/picture/788/1807003/25df5bf9eba321509f3dbf8e2ae6c58c~v189636414.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793001447.2036052,
-"laatst": 1793001447.2036052,
-"keer": 0,
-"fout": ""
-},
 "1819142": {
 "melding": {
 "titel": "Land Rover Range Rover sport (2025)",
@@ -5212,9 +5112,9 @@
 "WhatsApp"
 ],
 "sinds": 1793003867.2141192,
-"laatst": 1793003867.2141192,
-"keer": 0,
-"fout": ""
+"laatst": 1793013750.7982163,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1819135": {
 "melding": {
@@ -5708,6 +5608,96 @@
 ],
 "sinds": 1793011411.5752523,
 "laatst": 1793011411.5752523,
+"keer": 0,
+"fout": ""
+},
+"1819264": {
+"melding": {
+"titel": "Volkswagen Tiguan (2024)",
+"bericht": "1.5 AUTOMAAT 150 PK NAVI CLIMA CAMERA VIR DASHBOARD LED TREKHAAK B.J 2024\n€ 18.950 · 51.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-automaat-150-pk-navi-clima-camera-vir-dashboard-led-trekhaak-b-j-2024/o/1819264",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1819264/5607a72272df4fe3e069516daeaa1b09~v193013584.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793013752.2314477,
+"laatst": 1793013752.2314477,
+"keer": 0,
+"fout": ""
+},
+"1819259": {
+"melding": {
+"titel": "Volkswagen Passat (2025)",
+"bericht": "VW Passat 1.5 TSI eHybrid 150kW R-Line PANO MASSAGE HUD Trekhaak VOL VOL\n€ 28.950 · 22.501 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-vw-passat-1-5-tsi-ehybrid-150kw-r-line-pano-massage-hud-trekhaak-vol-vol/o/1819259",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1819259/78a3587545fb2fdd42af59a6553d5774~v193012851.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793013752.339889,
+"laatst": 1793013752.339889,
+"keer": 0,
+"fout": ""
+},
+"1819258": {
+"melding": {
+"titel": "Volkswagen Golf (2026)",
+"bericht": "2.0 TDi DSG -110 kw Energy\n€ 24.900 · 13.718 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-2-0-tdi-dsg-110-kw-energy/o/1819258",
+"foto": "https://www.schadeautos.nl/cache/picture/931/1819258/28439eb7f524b234c8b0500045ce1d93~v193013061.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793013752.4433994,
+"laatst": 1793013752.4433994,
+"keer": 0,
+"fout": ""
+},
+"1819257": {
+"melding": {
+"titel": "Dacia Jogger (2026)",
+"bericht": "1.8 AUTOMAAT 7 PERS EXTREEM NAVI CLIMA CAMERA CRUISE LED B.J 04-2026\n€ 17.500 · 5.950 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-1-8-automaat-7-pers-extreem-navi-clima-camera-cruise-led-b-j-04-2026/o/1819257",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1819257/17b29bc8ec1f4c1e78a918671bd33507~v193012592.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793013755.0932248,
+"laatst": 1793013755.0932248,
+"keer": 0,
+"fout": ""
+},
+"1819253": {
+"melding": {
+"titel": "Renault Austral (2024)",
+"bericht": "E-TECH HYBRIDE TECHNO PANO AUTOMAAT LED NAVI CAMERA CLIMA B.J 11-2024\n€ 17.950 · 14.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral-e-tech-hybride-techno-pano-automaat-led-navi-camera-clima-b-j-11-2024/o/1819253",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1819253/ad1f7d4f745b7a81d6da1a9d6141e3fd~v193012151.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793013755.780601,
+"laatst": 1793013755.780601,
+"keer": 0,
+"fout": ""
+},
+"1819248": {
+"melding": {
+"titel": "Volkswagen Caddy (2025)",
+"bericht": ".5 GEEL KENTEKEN 116 PK CLIMA CAMERA TREKHAAK B.J 05-2025\n€ 16.750 · 28.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-5-geel-kenteken-116-pk-clima-camera-trekhaak-b-j-05-2025/o/1819248",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1819248/b7cb5a3c1f193fc751e7f43648d96edd~v193011755.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793013755.8923073,
+"laatst": 1793013755.8923073,
 "keer": 0,
 "fout": ""
 }
