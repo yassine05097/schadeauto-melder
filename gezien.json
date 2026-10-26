@@ -5026,27 +5026,58 @@
 "1801887",
 "1721065",
 "1819176",
-"1819174"
+"1819174",
+"1786482",
+"1807192",
+"1819244",
+"1819242",
+"1819240",
+"1819224",
+"1706357",
+"1819237",
+"1819234",
+"1819231",
+"1666212",
+"1819227",
+"1819226",
+"1819223",
+"1819222",
+"1819221",
+"1819195",
+"1819210",
+"1819216",
+"1819196",
+"1819220",
+"1819219",
+"1819218",
+"1819217",
+"1819211",
+"1819209",
+"1819205",
+"1819201",
+"1819200",
+"1819206",
+"1819204"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819203,
+"hoogste_id": 1819244,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1819203",
-"1819202",
-"1819198",
-"1811011",
-"1819191",
-"1766407",
-"1818253",
-"1819197",
-"1819194",
-"1794243",
-"1804934",
-"1819189"
+"1786482",
+"1807192",
+"1819244",
+"1819242",
+"1819240",
+"1819151",
+"1819224",
+"1706357",
+"1819237",
+"1749471",
+"1812290",
+"1819234"
 ]
 },
 "wachtrij": {
@@ -5061,8 +5092,8 @@
 "WhatsApp"
 ],
 "sinds": 1793001440.3826275,
-"laatst": 1793009189.5266545,
-"keer": 2,
+"laatst": 1793011401.6815145,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1810819": {
@@ -5482,6 +5513,201 @@
 ],
 "sinds": 1793009197.2577178,
 "laatst": 1793009197.2577178,
+"keer": 0,
+"fout": ""
+},
+"1819244": {
+"melding": {
+"titel": "Skoda Octavia (2024)",
+"bericht": "AUTOMAAT HYBRIDE NAVI CLIMA VIRT DASH CAMERA TREKHAAK LED B.J 12-2024\n€ 14.500 · 11.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-automaat-hybride-navi-clima-virt-dash-camera-trekhaak-led-b-j-12-2024/o/1819244",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1819244/4d74fddbe9c570b700a6430f881417eb~v193011361.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011403.6235821,
+"laatst": 1793011403.6235821,
+"keer": 0,
+"fout": ""
+},
+"1819242": {
+"melding": {
+"titel": "Volkswagen Golf (2023)",
+"bericht": "8 TSI 110 PK NAVI CLIMA CAMERA LED PDC PRIVACY GLASS B.J 04-2023\n€ 12.950 · 51.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-110-pk-navi-clima-camera-led-pdc-privacy-glass-b-j-04-2023/o/1819242",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1819242/7dc58dbf14afa5f694c96dff4ae97e72~v193011107.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011403.6676605,
+"laatst": 1793011403.6676605,
+"keer": 0,
+"fout": ""
+},
+"1819234": {
+"melding": {
+"titel": "Mercedes Sprinter (2022)",
+"bericht": "exportprijs € 12.800 · 160.288 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-sprinter/o/1819234",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1819234/c2df42674d21a194e23a90824e2eeb8a~v193010487.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011403.7101939,
+"laatst": 1793011403.7101939,
+"keer": 0,
+"fout": ""
+},
+"1819231": {
+"melding": {
+"titel": "Toyota Yaris (2022)",
+"bericht": "exportprijs € 5.500 · 86.247 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris/o/1819231",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1819231/91144b9a41942131b86c9b4e8406c062~v193010391.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011406.2271538,
+"laatst": 1793011406.2271538,
+"keer": 0,
+"fout": ""
+},
+"1819226": {
+"melding": {
+"titel": "Opel Corsa (2024)",
+"bericht": "GS SPORT 100 PK NAVI CLIMA CAMERA VIRT DASH LED B.J 2024\n€ 9.500 · 8.600 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-sport-100-pk-navi-clima-camera-virt-dash-led-b-j-2024/o/1819226",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1819226/5c12972f3a8f385fb6881c6a32e1b88e~v193010388.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011406.2723255,
+"laatst": 1793011406.2723255,
+"keer": 0,
+"fout": ""
+},
+"1819223": {
+"melding": {
+"titel": "Skoda Kamiq (2023)",
+"bericht": "Ambition\n€ 5.566 · 74.862 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-ambition/o/1819223",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1819223/e8c160fe9acdcdabe6c532fb9442a328~v193010133.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011406.3156376,
+"laatst": 1793011406.3156376,
+"keer": 0,
+"fout": ""
+},
+"1819221": {
+"melding": {
+"titel": "Volkswagen Polo (2023)",
+"bericht": "exportprijs € 7.600 · 94.748 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo/o/1819221",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1819221/609757ab4b02675b002347e60895df74~v193009859.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011406.3633127,
+"laatst": 1793011406.3633127,
+"keer": 0,
+"fout": ""
+},
+"1819195": {
+"melding": {
+"titel": "Renault Clio (2026)",
+"bericht": "VI 115 TCe Evolution\n€ 12.826 · 10.437 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-vi-115-tce-evolution/o/1819195",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1819195/139d46a34c18c0a52dfdf2115a5323ff~v193009034.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011406.406579,
+"laatst": 1793011406.406579,
+"keer": 0,
+"fout": ""
+},
+"1819196": {
+"melding": {
+"titel": "Mercedes Vito (2025)",
+"bericht": "TOURER 114 CDI 100KW 9 PERS. LANG AUT. NEW MODEL MBUX NAVI\nexportprijs € 19.850 · 41.000 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-vito-tourer-114-cdi-100kw-9-pers-lang-aut-new-model-mbux-navi/o/1819196",
+"foto": "https://www.schadeautos.nl/cache/picture/33/1819196/514bc6c8b0bf7f093d4e4467597c4215~v193009696.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011408.9500678,
+"laatst": 1793011408.9500678,
+"keer": 0,
+"fout": ""
+},
+"1819219": {
+"melding": {
+"titel": "Toyota Aygo (2025)",
+"bericht": "X\n€ 3.800 · 24.593 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x/o/1819219",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1819219/b1e66b8e3ad1869ea933840e385b0bb9~v193009711.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011408.992719,
+"laatst": 1793011408.992719,
+"keer": 0,
+"fout": ""
+},
+"1819217": {
+"melding": {
+"titel": "Peugeot 308 (2024)",
+"bericht": "ALLURE/AUTOMAAT/HDI\n44.245 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-allure-automaat-hdi/o/1819217",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1819217/4a6d2e8ce859a413fb9b23f21c070159~v193009705.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011409.0353894,
+"laatst": 1793011409.0353894,
+"keer": 0,
+"fout": ""
+},
+"1819209": {
+"melding": {
+"titel": "Audi A3 (2023)",
+"bericht": "30 TFSI Advanced edition\n€ 9.800 · 113.015 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-30-tfsi-advanced-edition/o/1819209",
+"foto": "https://www.schadeautos.nl/cache/picture/257/1819209/d9bc714b0eaf277b2837cd212c9d11ca~v193009444.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011409.0779886,
+"laatst": 1793011409.0779886,
+"keer": 0,
+"fout": ""
+},
+"1819206": {
+"melding": {
+"titel": "Peugeot 208 (2022)",
+"bericht": "exportprijs € 5.950 · 46.101 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1819206",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1819206/3d9bcad9d8d1ba30e516153aded493f4~v193009191.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793011411.5752523,
+"laatst": 1793011411.5752523,
 "keer": 0,
 "fout": ""
 }
