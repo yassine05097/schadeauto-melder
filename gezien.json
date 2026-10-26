@@ -4929,30 +4929,128 @@
 "1801831",
 "1785582",
 "1819095",
-"1819094"
+"1819094",
+"1819102",
+"1819101",
+"1819100",
+"1819099",
+"1819098",
+"1819097",
+"1819096"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819095,
+"hoogste_id": 1819102,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1819102",
+"1819101",
+"1819100",
+"1819099",
+"1819098",
+"1819097",
+"1819096",
 "1819095",
 "1819094",
 "1781207",
 "1808500",
-"1818145",
-"1818110",
-"1800111",
-"1760025",
-"1817311",
-"1785582",
-"1793323",
-"1805951"
+"1818145"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1819102": {
+"melding": {
+"titel": "Opel Corsa (2023)",
+"bericht": "1.5 D Elegance Navi Airco\n€ 9.450 · 142.071 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-5-d-elegance-navi-airco/o/1819102",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1819102/2f7336aef0e002ecf83d25f09e7923f6~v192994037.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792995366.5143173,
+"laatst": 1792995366.5143173,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1819101": {
+"melding": {
+"titel": "Volkswagen Polo (2025)",
+"bericht": "1.0 TSI Life Edition\n€ 12.850 · 22.238 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-edition/o/1819101",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1819101/7d1359c054832cad8bf5bd53a3b1d23a~v192993944.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792995366.7949545,
+"laatst": 1792995366.7949545,
+"keer": 0,
+"fout": ""
+},
+"1819100": {
+"melding": {
+"titel": "Toyota Aygo (2024)",
+"bericht": "X 1.0 VVTI Airco Camera\n€ 9.350 · 91.578 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-0-vvti-airco-camera/o/1819100",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1819100/520548eb31ac5096de5e99ef04a57c20~v192993850.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792995367.0519238,
+"laatst": 1792995367.0519238,
+"keer": 0,
+"fout": ""
+},
+"1819099": {
+"melding": {
+"titel": "Hyundai I-10 (2024)",
+"bericht": "1.0 Comfort Airco\n€ 8.750 · 83.586 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-airco/o/1819099",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1819099/192e48ab5d69ba986a6292432de5962c~v192993720.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792995367.2764854,
+"laatst": 1792995367.2764854,
+"keer": 0,
+"fout": ""
+},
+"1819098": {
+"melding": {
+"titel": "Skoda Superb (2023)",
+"bericht": "1.5 TSI Aut. Bussines Ed\n€ 15.950 · 118.622 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-1-5-tsi-aut-bussines-ed/o/1819098",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1819098/f4693abac7c0aeeee880c180ccdcf76f~v192993539.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792995367.4854,
+"laatst": 1792995367.4854,
+"keer": 0,
+"fout": ""
+},
+"1819096": {
+"melding": {
+"titel": "Mercedes C-klasse (2025)",
+"bericht": "C180 Aut. AMG Line Pano Stoelverw Led\n€ 25.350 · 35.855 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c180-aut-amg-line-pano-stoelverw-led/o/1819096",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1819096/68e1011ce607d973bdd5e8c693c69008~v192993307.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1792995367.6995862,
+"laatst": 1792995367.6995862,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
