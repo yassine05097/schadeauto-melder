@@ -5002,27 +5002,51 @@
 "1773897",
 "1802130",
 "1809097",
-"1819145"
+"1819145",
+"1819203",
+"1819202",
+"1819198",
+"1811011",
+"1819191",
+"1819197",
+"1819194",
+"1794243",
+"1804934",
+"1819189",
+"1746516",
+"1757002",
+"1819180",
+"1612562",
+"1769466",
+"1698487",
+"1819184",
+"1735745",
+"1819179",
+"1819178",
+"1801887",
+"1721065",
+"1819176",
+"1819174"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819168,
+"hoogste_id": 1819203,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1817496",
-"1661305",
-"1819168",
-"1789173",
-"1783752",
-"1786843",
-"1797374",
-"1549664",
-"1819166",
-"1819162",
-"1814599",
-"1819004"
+"1819203",
+"1819202",
+"1819198",
+"1811011",
+"1819191",
+"1766407",
+"1818253",
+"1819197",
+"1819194",
+"1794243",
+"1804934",
+"1819189"
 ]
 },
 "wachtrij": {
@@ -5037,8 +5061,8 @@
 "WhatsApp"
 ],
 "sinds": 1793001440.3826275,
-"laatst": 1793006487.284739,
-"keer": 1,
+"laatst": 1793009189.5266545,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1810819": {
@@ -5323,6 +5347,141 @@
 ],
 "sinds": 1793006495.245854,
 "laatst": 1793006495.245854,
+"keer": 0,
+"fout": ""
+},
+"1819203": {
+"melding": {
+"titel": "BMW 3-serie (2023)",
+"bericht": "318\nexportprijs € 13.950 · 67.730 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-318/o/1819203",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1819203/70629cc2a42083f2c08d5d9f6510f410~v193009176.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793009190.5553927,
+"laatst": 1793009190.5553927,
+"keer": 0,
+"fout": ""
+},
+"1819202": {
+"melding": {
+"titel": "Citroën C3 (2022)",
+"bericht": "exportprijs € 5.500 · 54.527 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1819202",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1819202/23d65b84d10ba80432b74833ecc6a06a~v193009156.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793009190.730588,
+"laatst": 1793009190.730588,
+"keer": 0,
+"fout": ""
+},
+"1811011": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes Cla-klasse (2022)",
+"bericht": "250e 118kW Automaat Shooting Brake Premium Plus\n€ 13.500 · 41.710 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-250e-118kw-automaat-shooting-brake-premium-plus/o/1811011",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1811011/e7220db7bb71e5c1f26c805b0cd04a96~v190753362.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793009190.9089234,
+"laatst": 1793009190.9089234,
+"keer": 0,
+"fout": ""
+},
+"1819191": {
+"melding": {
+"titel": "Ford Transit Connect (2022)",
+"bericht": "1.5 TDCI Aut L2 Navi Stoelverw.\nexportprijs € 4.450 · 239.535 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit-connect-1-5-tdci-aut-l2-navi-stoelverw/o/1819191",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1819191/64ce7a4b92345fdaabd11f4914d25f2a~v193008887.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793009191.0879135,
+"laatst": 1793009191.0879135,
+"keer": 0,
+"fout": ""
+},
+"1804934": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 1-serie (2022)",
+"bericht": "118i Business Edition\n€ 8.750 · 85.757 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-118i-business-edition/o/1804934",
+"foto": "https://www.schadeautos.nl/cache/picture/182/1804934/9bd9824e9ce73dfc15abac98d2e695d0~v188947209.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793009191.2718806,
+"laatst": 1793009191.2718806,
+"keer": 0,
+"fout": ""
+},
+"1746516": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2023)",
+"bericht": "1.2PureTech 74kW Clima Camera Allure Pack\n€ 5.700 · 11.971 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2puretech-74kw-clima-camera-allure-pack/o/1746516",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1746516/7af64c7990970fcaced69de408138b79~v171345624.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793009194.073788,
+"laatst": 1793009194.073788,
+"keer": 0,
+"fout": ""
+},
+"1757002": {
+"melding": {
+"titel": "Opnieuw geplaatst: Suzuki Vitara (2022)",
+"bericht": "1.4 Boosterjet style smart hybrid\n€ 8.750 · 141.813 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-vitara-1-4-boosterjet-style-smart-hybrid/o/1757002",
+"foto": "https://www.schadeautos.nl/cache/picture/182/1757002/b9a881ec2fcf099573033e2b73455871~v174276001.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793009194.250584,
+"laatst": 1793009194.250584,
+"keer": 0,
+"fout": ""
+},
+"1819178": {
+"melding": {
+"titel": "Volkswagen ID.3 (2023)",
+"bericht": "Pro Performance 150 kW\n€ 19.118 · 94.935 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-3-pro-performance-150-kw/o/1819178",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1819178/10e9d21fc0166b8b43b524a0a75c1b0d~v193007497.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793009194.428164,
+"laatst": 1793009194.428164,
+"keer": 0,
+"fout": ""
+},
+"1819174": {
+"melding": {
+"titel": "Audi Q2 (2026)",
+"bericht": "16.512 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q2/o/1819174",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1819174/9442691b8cbc4ec4d0346ab39e014244~v193007037.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793009197.2577178,
+"laatst": 1793009197.2577178,
 "keer": 0,
 "fout": ""
 }
