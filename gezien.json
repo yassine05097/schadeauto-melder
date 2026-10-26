@@ -4960,27 +4960,51 @@
 "1746932",
 "1759578",
 "1791609",
-"1807003"
+"1807003",
+"1808841",
+"1819146",
+"1819142",
+"1819135",
+"1819128",
+"1771948",
+"1819131",
+"1819126",
+"1811645",
+"1819120",
+"1819121",
+"1810811",
+"1819118",
+"1819119",
+"1779135",
+"1771930",
+"1819116",
+"1819117",
+"1810820",
+"1810816",
+"1788141",
+"1819115",
+"1789042",
+"1778838"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819114,
+"hoogste_id": 1819146,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1819114",
-"1772454",
-"1810819",
-"1810818",
-"1772016",
-"1819112",
-"1723730",
-"1810814",
-"1810822",
-"1788142",
-"1813935",
-"1810086"
+"1808841",
+"1815480",
+"1819146",
+"1809098",
+"1819142",
+"1808183",
+"1818031",
+"1815326",
+"1815801",
+"1818610",
+"1819135",
+"1792203"
 ]
 },
 "wachtrij": {
@@ -4995,8 +5019,8 @@
 "WhatsApp"
 ],
 "sinds": 1792995366.5143173,
-"laatst": 1793001438.568916,
-"keer": 3,
+"laatst": 1793003866.6281712,
+"keer": 4,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1819101": {
@@ -5191,6 +5215,156 @@
 ],
 "sinds": 1793001447.2036052,
 "laatst": 1793001447.2036052,
+"keer": 0,
+"fout": ""
+},
+"1819142": {
+"melding": {
+"titel": "Land Rover Range Rover sport (2025)",
+"bericht": "P460e Dynamic HSE PHEV Pano HUD ACC Virtual Memory SHZ LrHZ Camera PDC AHK\n€ 51.950 · 17.268 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-range-rover-sport-p460e-dynamic-hse-phev-pano-hud-acc-virtual-memory-shz-lrhz-camera-pdc-ahk/o/1819142",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1819142/124d96c8138ed98846b4a12e1097ae85~v193003720.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793003867.2141192,
+"laatst": 1793003867.2141192,
+"keer": 0,
+"fout": ""
+},
+"1819135": {
+"melding": {
+"titel": "Seat Ateca (2026)",
+"bericht": "FR 1.5 TSI DSG\n€ 13.900 · 7.271 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-fr-1-5-tsi-dsg/o/1819135",
+"foto": "https://www.schadeautos.nl/cache/picture/323/1819135/ea60e6d57507cc5dc231644384746796~v193003514.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793003867.2470682,
+"laatst": 1793003867.2470682,
+"keer": 0,
+"fout": ""
+},
+"1819128": {
+"melding": {
+"titel": "Mazda CX-5 (2023)",
+"bericht": "2.0 SkyActiv-G 165 NewGround NAP Nederlandse Auto\n€ 19.750 · 83.230 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-5-2-0-skyactiv-g-165-newground-nap-nederlandse-auto/o/1819128",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1819128/3d408e78cdc71045f29b719b1a4fdd06~v193003499.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793003869.725441,
+"laatst": 1793003869.725441,
+"keer": 0,
+"fout": ""
+},
+"1771948": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Corsa (2025)",
+"bericht": "1.2 Turbo Hybrid Fahrbereit! Ultimate LED ACC Apple/Android Camera LRHZ SHZ\n€ 6.950 · 35.721 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-hybrid-fahrbereit-ultimate-led-acc-apple-android-camera-lrhz-shz/o/1771948",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1771948/87e637773e0abe71624e5e090442cb78~v193003533.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793003869.7560272,
+"laatst": 1793003869.7560272,
+"keer": 0,
+"fout": ""
+},
+"1819131": {
+"melding": {
+"titel": "Volkswagen Amarok (2025)",
+"bericht": "3.387 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-amarok/o/1819131",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1819131/6b27bce32937c451927e9e2b83873268~v193003406.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793003869.78802,
+"laatst": 1793003869.78802,
+"keer": 0,
+"fout": ""
+},
+"1810811": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi A4 (2023)",
+"bericht": "Avant 35 TDI Launch Edition Sport S-Line Aut. Camera ACC Virtual SHZ Clima\n€ 10.950 · 135.037 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-35-tdi-launch-edition-sport-s-line-aut-camera-acc-virtual-shz-clima/o/1810811",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1810811/9831ec2201dcce36042b11662109b6c1~v193002310.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793003869.819465,
+"laatst": 1793003869.819465,
+"keer": 0,
+"fout": ""
+},
+"1819118": {
+"melding": {
+"titel": "Volvo Xc-60 (2024)",
+"bericht": "2.0 T6 293-KW Automaat AWD Plug-In-Hybrid\nexportprijs € 10.900 · 110.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc-60-2-0-t6-293-kw-automaat-awd-plug-in-hybrid/o/1819118",
+"foto": "https://www.schadeautos.nl/cache/picture/28/1819118/dd35a3cd9e6a18ab7caaa64f299e5339~v193002121.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793003869.8516243,
+"laatst": 1793003869.8516243,
+"keer": 0,
+"fout": ""
+},
+"1771930": {
+"melding": {
+"titel": "Opnieuw geplaatst: Seat Tarraco (2024)",
+"bericht": "2.0 TDI 150 PK DSG LED ACC Virtual Memory Camera LRHZ SHZ\n€ 13.450 · 93.633 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-tarraco-2-0-tdi-150-pk-dsg-led-acc-virtual-memory-camera-lrhz-shz/o/1771930",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1771930/9ec90117b39dfc81e44c15c47f55d65b~v193002142.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793003872.3484967,
+"laatst": 1793003872.3484967,
+"keer": 0,
+"fout": ""
+},
+"1810820": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes A-klasse (2023)",
+"bericht": "180 Business Line ACC Camera SHZ Virtual Clima Navi LED LMV\n€ 13.950 · 70.329 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse-180-business-line-acc-camera-shz-virtual-clima-navi-led-lmv/o/1810820",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1810820/0dbe0bad8f4db753c8e2f0cd6cd03f41~v193001769.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793003872.378481,
+"laatst": 1793003872.378481,
+"keer": 0,
+"fout": ""
+},
+"1788141": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Golf (2024)",
+"bericht": "1.5 GTE HUD ACC Navi Clima SHZ LrHZ Apple/Android Camera PDC\n€ 17.450 · 20.468 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5-gte-hud-acc-navi-clima-shz-lrhz-apple-android-camera-pdc/o/1788141",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1788141/12bd30c3f0a287d101b12725bb1b7723~v193001669.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793003872.408086,
+"laatst": 1793003872.408086,
 "keer": 0,
 "fout": ""
 }
