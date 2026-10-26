@@ -5249,315 +5249,34 @@
 "1819518",
 "1819516",
 "1812194",
-"1819515"
+"1819515",
+"1819525",
+"1819524",
+"1819523",
+"1819521"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819519,
+"hoogste_id": 1819525,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1819525",
+"1819524",
+"1819523",
+"1819521",
+"1819022",
 "1748684",
 "1819519",
 "1810577",
 "1784318",
 "1775871",
 "1754139",
-"1819518",
-"1819516",
-"1812194",
-"1817532",
-"1808468",
-"1813334"
+"1819518"
 ]
 },
 "wachtrij": {
-"1819450": {
-"melding": {
-"titel": "Kia Picanto (2023)",
-"bericht": "1.0 Dynamic Line AIRCO\n€ 6.500 · 100.980 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dynamic-line-airco/o/1819450",
-"foto": "https://www.schadeautos.nl/cache/picture/8/1819450/4f8c8ce1e23461daf28e17d21d474529~v193027619.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793027996.8181345,
-"laatst": 1793038416.400188,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1819455": {
-"melding": {
-"titel": "Hyundai I-20 (2024)",
-"bericht": "AUTOMAAT 100 PK PREMIUM SPORT BOSE NAVI CLIMA CAMERA LED B.J 12-2024\n€ 12.950 · 16.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-automaat-100-pk-premium-sport-bose-navi-clima-camera-led-b-j-12-2024/o/1819455",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1819455/10d34d5c8a9a677ddf21a794a195906d~v193027495.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793027997.0334635,
-"laatst": 1793027997.0334635,
-"keer": 0,
-"fout": ""
-},
-"1819424": {
-"melding": {
-"titel": "Ford Transit (2022)",
-"bericht": "350 2.0 TDCI L3H2 Trend MHEV -AIRCO 129 PK\nexportprijs € 5.750 · 194.862 km · hybride diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit-350-2-0-tdci-l3h2-trend-mhev-airco-129-pk/o/1819424",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1819424/91820172aabf8bb24647953f99ae9b90~v193025166.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793027997.2429693,
-"laatst": 1793027997.2429693,
-"keer": 0,
-"fout": ""
-},
-"1819453": {
-"melding": {
-"titel": "Toyota Yaris Cross (2023)",
-"bericht": "1.5 AUTOMAAT HYBRIDE NAVI CLIMA CAMERA PDC B.J 06-2023\n€ 14.990 · 79.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-1-5-automaat-hybride-navi-clima-camera-pdc-b-j-06-2023/o/1819453",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1819453/9aedb5ef80001f634dc7b030c4a10ecb~v193027086.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028000.1848066,
-"laatst": 1793028000.1848066,
-"keer": 0,
-"fout": ""
-},
-"1819225": {
-"melding": {
-"titel": "Ford Fiesta (2023)",
-"bericht": "1.0 EcoBoost Hybrid Clima 82.295 km NAP Titanium\n€ 6.560 · 82.295 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-ecoboost-hybrid-clima-82-295-km-nap-titanium/o/1819225",
-"foto": "https://www.schadeautos.nl/cache/picture/66/1819225/621c67aac161954395ab4cf38be1e5f1~v193010293.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028000.3911376,
-"laatst": 1793028000.3911376,
-"keer": 0,
-"fout": ""
-},
-"1819444": {
-"melding": {
-"titel": "Dacia Jogger (2024)",
-"bericht": "EXTREEM 110 PK NAVI CLIMA CAMERA 5 P B.J 06-2024\n€ 11.950 · 38.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreem-110-pk-navi-clima-camera-5-p-b-j-06-2024/o/1819444",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1819444/a2cb2ed85f1e96c192f1a659de5e403f~v193026627.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028003.722858,
-"laatst": 1793028003.722858,
-"keer": 0,
-"fout": ""
-},
-"1819434": {
-"melding": {
-"titel": "Cupra Born (2022)",
-"bericht": "Adr. One 62 kWh\n€ 9.500 · 164.174 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-born-adr-one-62-kwh/o/1819434",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1819434/4a0974a9e8c396f02a3708bf79051314~v193025943.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028003.9452908,
-"laatst": 1793028003.9452908,
-"keer": 0,
-"fout": ""
-},
-"1819442": {
-"melding": {
-"titel": "Kia Ceed (2024)",
-"bericht": "GT Line Business DIESEL HYBRIDE PANO LEDER LED\n11.688 km · hybride diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-gt-line-business-diesel-hybride-pano-leder-led/o/1819442",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1819442/f2ec2f9a47e7a321f86d7111538e398c~v193026322.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028004.1540437,
-"laatst": 1793028004.1540437,
-"keer": 0,
-"fout": ""
-},
-"1819436": {
-"melding": {
-"titel": "Hyundai I-30 (2024)",
-"bericht": "N 280pk Kuipstoelen Panoramadak LED Full\n13.850 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-n-280pk-kuipstoelen-panoramadak-led-full/o/1819436",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1819436/f14adac71580871dd3a605604fcd160e~v193026060.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028004.3716943,
-"laatst": 1793028004.3716943,
-"keer": 0,
-"fout": ""
-},
-"1819431": {
-"melding": {
-"titel": "BMW 1-serie (2023)",
-"bericht": "128ti M-PAKKET HIGH EXE 265 PK -PANO-LEDER-CAMERA-NAVI\n€ 29.999 · 50.239 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-128ti-m-pakket-high-exe-265-pk-pano-leder-camera-navi/o/1819431",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1819431/515b5d10b6411e87e2f98cab77207e8d~v193025697.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028004.591202,
-"laatst": 1793028004.591202,
-"keer": 0,
-"fout": ""
-},
-"1819435": {
-"melding": {
-"titel": "Hyundai I-30 (2026)",
-"bericht": "1.0 TURBO\n1.126 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-1-0-turbo/o/1819435",
-"foto": "https://www.schadeautos.nl/cache/picture/909/1819435/2f768fe68d86720b25b67b5e59f5b43d~v193025809.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028008.021363,
-"laatst": 1793028008.021363,
-"keer": 0,
-"fout": ""
-},
-"1818568": {
-"melding": {
-"titel": "Skoda Octavia (2025)",
-"bericht": "1.5TSI MHEV 85kW Automaat Business Edition\n€ 17.950 · 40.003 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-5tsi-mhev-85kw-automaat-business-edition/o/1818568",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1818568/f92b9db2cd230b51898a5c66732e06c6~v192741065.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028008.2272522,
-"laatst": 1793028008.2272522,
-"keer": 0,
-"fout": ""
-},
-"1819428": {
-"melding": {
-"titel": "Kia Ceed (2023)",
-"bericht": "GT Line 160pk PANO Automaat LED\n39.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-gt-line-160pk-pano-automaat-led/o/1819428",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1819428/214856b180f96a2032c9940df84e1b9d~v193025561.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028008.4404025,
-"laatst": 1793028008.4404025,
-"keer": 0,
-"fout": ""
-},
-"1819425": {
-"melding": {
-"titel": "Skoda Scala (2022)",
-"bericht": "Style 1.5 150pk LED VIRTUAL ACHTERUITRIJCAMERA\n44.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-style-1-5-150pk-led-virtual-achteruitrijcamera/o/1819425",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1819425/fd360a1fddf207b86e3c7bcdcbdc1979~v193025029.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028008.6548102,
-"laatst": 1793028008.6548102,
-"keer": 0,
-"fout": ""
-},
-"1819422": {
-"melding": {
-"titel": "Renault Austral (2023)",
-"bericht": "exportprijs € 5.750 · 104.036 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral/o/1819422",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1819422/e75df7f569fce32482bddf01d8fe2cae~v193024737.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028008.8687673,
-"laatst": 1793028008.8687673,
-"keer": 0,
-"fout": ""
-},
-"1819418": {
-"melding": {
-"titel": "Skoda Scala (2026)",
-"bericht": "TOUR 1.5 150Pk Automaat Stoelverwarming Achteruitrij camera\n15.500 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-tour-1-5-150pk-automaat-stoelverwarming-achteruitrij-camera/o/1819418",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1819418/486b885a6247e752380ee6a19b5312f1~v193024591.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028009.0830045,
-"laatst": 1793028009.0830045,
-"keer": 0,
-"fout": ""
-},
-"1819421": {
-"melding": {
-"titel": "Audi Q4 (2025)",
-"bericht": "e-tron\nexportprijs € 10.900 · 24.205 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-e-tron/o/1819421",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1819421/15e30df22cb205f6e5148938f3916341~v193024651.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028012.6865103,
-"laatst": 1793028012.6865103,
-"keer": 0,
-"fout": ""
-},
-"1817411": {
-"melding": {
-"titel": "Tesla Model 3 (2023)",
-"bericht": "60kWh Plus 175kW RWD\n€ 23.950 · 124.476 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-60kwh-plus-175kw-rwd/o/1817411",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1817411/8936c196f7384ea2d9a3d7ac994494a6~v192482181.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028019.1059344,
-"laatst": 1793028019.1059344,
-"keer": 0,
-"fout": ""
-},
-"1819403": {
-"melding": {
-"titel": "Seat Ateca (2023)",
-"bericht": "FR 1.5 150PK automaat LEDER LED DODEHOEK KEYLESS ENTRY & GO\n44.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-fr-1-5-150pk-automaat-leder-led-dodehoek-keyless-entry-go/o/1819403",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1819403/af087abad7fb31ff53b8696f5a641602~v193022957.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793028019.3219192,
-"laatst": 1793028019.3219192,
-"keer": 0,
-"fout": ""
-},
 "1819484": {
 "melding": {
 "titel": "Renault Clio (2023)",
@@ -5569,9 +5288,9 @@
 "WhatsApp"
 ],
 "sinds": 1793031394.879787,
-"laatst": 1793031394.879787,
-"keer": 0,
-"fout": ""
+"laatst": 1793041211.1751435,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1819177": {
 "melding": {
@@ -5870,6 +5589,21 @@
 ],
 "sinds": 1793038417.0864277,
 "laatst": 1793038417.0864277,
+"keer": 0,
+"fout": ""
+},
+"1819521": {
+"melding": {
+"titel": "Audi Q4 (2025)",
+"bericht": "45 E-Tron S Edition Performance\n€ 27.500 · 35.180 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-45-e-tron-s-edition-performance/o/1819521",
+"foto": "https://www.schadeautos.nl/cache/picture/13/1819521/7683af81fdd8419d1563cb9773e8f070~v193040709.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793041213.6920493,
+"laatst": 1793041213.6920493,
 "keer": 0,
 "fout": ""
 }
