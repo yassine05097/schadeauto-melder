@@ -4938,27 +4938,49 @@
 "1819097",
 "1819096",
 "1819107",
-"1751317"
+"1751317",
+"1819114",
+"1772454",
+"1810819",
+"1810818",
+"1772016",
+"1819112",
+"1723730",
+"1810814",
+"1810822",
+"1788142",
+"1810086",
+"1795394",
+"1808265",
+"1805336",
+"1819110",
+"1592924",
+"1812963",
+"1630186",
+"1746932",
+"1759578",
+"1791609",
+"1807003"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819107,
+"hoogste_id": 1819114,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1819107",
-"1751317",
-"1819102",
-"1819101",
-"1819100",
-"1819099",
-"1819098",
-"1819097",
-"1819096",
-"1819095",
-"1819094",
-"1781207"
+"1819114",
+"1772454",
+"1810819",
+"1810818",
+"1772016",
+"1819112",
+"1723730",
+"1810814",
+"1810822",
+"1788142",
+"1813935",
+"1810086"
 ]
 },
 "wachtrij": {
@@ -4973,8 +4995,8 @@
 "WhatsApp"
 ],
 "sinds": 1792995366.5143173,
-"laatst": 1792998634.458061,
-"keer": 2,
+"laatst": 1793001438.568916,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1819101": {
@@ -5049,6 +5071,126 @@
 ],
 "sinds": 1792995367.6995862,
 "laatst": 1792995367.6995862,
+"keer": 0,
+"fout": ""
+},
+"1772454": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi A4 (2024)",
+"bericht": "Avant 35 TFSI S edition Competition LED Virtual Cruise SHZ PDC\n€ 19.950 · 84.573 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a4-avant-35-tfsi-s-edition-competition-led-virtual-cruise-shz-pdc/o/1772454",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1772454/19c0a432e1f1abb1748e2a8f83c7580d~v193001211.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793001440.3826275,
+"laatst": 1793001440.3826275,
+"keer": 0,
+"fout": ""
+},
+"1810819": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Passat (2025)",
+"bericht": "Variant 2.0 TDI DSG Business HUD 360° Massage ACC LrHZ SHZ\n€ 14.750 · 72.967 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-variant-2-0-tdi-dsg-business-hud-360-massage-acc-lrhz-shz/o/1810819",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1810819/53efdbead97608b02f542a3b34851b22~v193000951.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793001440.5482512,
+"laatst": 1793001440.5482512,
+"keer": 0,
+"fout": ""
+},
+"1810818": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi Q3 (2025)",
+"bericht": "35 TDI Advanced edition AHK ACC SHZ Camera Virtual LED\n€ 21.950 · 11.634 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q3-35-tdi-advanced-edition-ahk-acc-shz-camera-virtual-led/o/1810818",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1810818/31d2724d4aef154a962e7f8ba10901cf~v193001079.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793001440.7110186,
+"laatst": 1793001440.7110186,
+"keer": 0,
+"fout": ""
+},
+"1772016": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW iX1 (2025)",
+"bericht": "xDrive30 67 kWh LED ACC Apple/Android Camera SHZ\n€ 22.950 · 16.077 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-xdrive30-67-kwh-led-acc-apple-android-camera-shz/o/1772016",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1772016/72e3a0d65aa3e2db2cafb1bb4b8855a3~v193001046.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793001440.8737528,
+"laatst": 1793001440.8737528,
+"keer": 0,
+"fout": ""
+},
+"1810814": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volvo XC40 (2026)",
+"bericht": "2.0 B4 Plus Dark Pano AHK Camera H/K ACC Memory SHZ LrHZ 4455km!\n€ 29.950 · 4.455 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc40-2-0-b4-plus-dark-pano-ahk-camera-h-k-acc-memory-shz-lrhz-4455km/o/1810814",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1810814/ad898c690b2db4450b7b99674f36228b~v193000288.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793001441.037181,
+"laatst": 1793001441.037181,
+"keer": 0,
+"fout": ""
+},
+"1810822": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 3-serie (2025)",
+"bericht": "318i Aut. M-Sport Pano AHK Camera SHZ Leder LED\n€ 33.950 · 25.228 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-318i-aut-m-sport-pano-ahk-camera-shz-leder-led/o/1810822",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1810822/fd54826d32350739cd7097069203510a~v193000099.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793001441.196119,
+"laatst": 1793001441.196119,
+"keer": 0,
+"fout": ""
+},
+"1795394": {
+"melding": {
+"titel": "Opnieuw geplaatst: Nissan Qashqai (2022)",
+"bericht": "1.3MHEV 116kW Automaat Xtronic N-Style\n€ 15.800 · 40.275 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-1-3mhev-116kw-automaat-xtronic-n-style/o/1795394",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1795394/815442018d9be041e9faa9505d82e364~v186037397.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793001444.2954931,
+"laatst": 1793001444.2954931,
+"keer": 0,
+"fout": ""
+},
+"1807003": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi A3 (2023)",
+"bericht": "A3 40 TFSI e S tronic Sportback plugin rijdbaar\n€ 16.950 · 45.162 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-a3-40-tfsi-e-s-tronic-sportback-plugin-rijdbaar/o/1807003",
+"foto": "https://www.schadeautos.nl/cache/picture/788/1807003/25df5bf9eba321509f3dbf8e2ae6c58c~v189636414.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793001447.2036052,
+"laatst": 1793001447.2036052,
 "keer": 0,
 "fout": ""
 }
