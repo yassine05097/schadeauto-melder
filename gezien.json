@@ -5501,195 +5501,67 @@
 "1819768",
 "1819767",
 "1819766",
-"1819765"
+"1819765",
+"1819866",
+"1819864",
+"1819865",
+"1819859",
+"1819857",
+"1809504",
+"1788455",
+"1819842",
+"1819846",
+"1819850",
+"1819851",
+"1819849",
+"1819847",
+"1819844",
+"1819841",
+"1645992",
+"1819843",
+"1819834",
+"1819835",
+"1818389",
+"1819836",
+"1819805",
+"1649158",
+"1819824",
+"1819827",
+"1630309",
+"1819833",
+"1819826",
+"1819830",
+"1819822",
+"1658704",
+"1819815",
+"1819823",
+"1819807",
+"1819801",
+"1819821",
+"1819816"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819818,
+"hoogste_id": 1819866,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1819818",
-"1819803",
-"1819811",
-"1819806",
-"1819812",
-"1660784",
-"1808579",
-"1819799",
-"1819809",
-"1819808",
-"1819780",
-"1819795"
+"1819866",
+"1819864",
+"1819865",
+"1813694",
+"1649365",
+"1819859",
+"1819857",
+"1809504",
+"1788455",
+"1798599",
+"1802406",
+"1816279"
 ]
 },
 "wachtrij": {
-"1819644": {
-"melding": {
-"titel": "Volkswagen Golf (2025)",
-"bericht": "1.5 TSI R-Line Edition\n€ 15.750 · 35.252 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5-tsi-r-line-edition/o/1819644",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1819644/667f54ad90842785734c87d07989de0d~v193097358.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097457.7539537,
-"laatst": 1793106895.9685397,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1819665": {
-"melding": {
-"titel": "Volkswagen Transporter (2026)",
-"bericht": "exportprijs € 17.800 · 20.745 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-transporter/o/1819665",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1819665/0806006383a83e259de57088239e8037~v193097144.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097457.7963326,
-"laatst": 1793097457.7963326,
-"keer": 0,
-"fout": ""
-},
-"1806836": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A5 (2026)",
-"bericht": "Avant TDI S-Tronic 150kw\n€ 32.900 · 26.866 km · hybride diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a5-avant-tdi-s-tronic-150kw/o/1806836",
-"foto": "https://www.schadeautos.nl/cache/picture/931/1806836/4a2db1f9397fcefec4dac1c61ee25e69~v189548493.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097460.2908216,
-"laatst": 1793097460.2908216,
-"keer": 0,
-"fout": ""
-},
-"1819640": {
-"melding": {
-"titel": "Kia EV3 (2026)",
-"bericht": "€ 15.800 · 7.462 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev3/o/1819640",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1819640/033a3d432f1b8dab72a9a53ab5d79a4d~v193095708.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097460.33233,
-"laatst": 1793097460.33233,
-"keer": 0,
-"fout": ""
-},
-"1819658": {
-"melding": {
-"titel": "Audi A6 Limousine (2023)",
-"bericht": "40 TDI Sport S tronic KAM/NAVI\n€ 23.900 · 39.729 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-limousine-40-tdi-sport-s-tronic-kam-navi/o/1819658",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1819658/c5f7f971d0c012c1388753f0e32e26bf~v193096706.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097460.376471,
-"laatst": 1793097460.376471,
-"keer": 0,
-"fout": ""
-},
-"1819650": {
-"melding": {
-"titel": "Peugeot 2008 (2025)",
-"bericht": "Style\n€ 12.900 · 41.653 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-style/o/1819650",
-"foto": "https://www.schadeautos.nl/cache/picture/931/1819650/865a458efa6812a02b1b0574b448272f~v193096525.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097462.8707232,
-"laatst": 1793097462.8707232,
-"keer": 0,
-"fout": ""
-},
-"1819651": {
-"melding": {
-"titel": "Peugeot 508 (2023)",
-"bericht": "exportprijs € 9.500 · 58.399 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-508/o/1819651",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1819651/75e45ae43c7b9c0ebb9e92a6813f0ec5~v193096315.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097462.9129024,
-"laatst": 1793097462.9129024,
-"keer": 0,
-"fout": ""
-},
-"1819649": {
-"melding": {
-"titel": "Dacia Sandero (2022)",
-"bericht": "exportprijs € 3.950 · 20.997 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero/o/1819649",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1819649/e14c3d7a48599aded3a434ede8235fec~v193096129.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097462.9544182,
-"laatst": 1793097462.9544182,
-"keer": 0,
-"fout": ""
-},
-"1819645": {
-"melding": {
-"titel": "Volkswagen Golf (2025)",
-"bericht": "1.5 TSI Goal\n€ 16.900 · 59.418 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5-tsi-goal/o/1819645",
-"foto": "https://www.schadeautos.nl/cache/picture/931/1819645/3690d80d32519fd9d03801de2f11b53f~v193096107.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097462.9968696,
-"laatst": 1793097462.9968696,
-"keer": 0,
-"fout": ""
-},
-"1819641": {
-"melding": {
-"titel": "Peugeot 208 (2022)",
-"bericht": "exportprijs € 4.950 · 72.119 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1819641",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1819641/6de36cf2365bec0cfc140b83abfeb3a0~v193095614.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097465.6065078,
-"laatst": 1793097465.6065078,
-"keer": 0,
-"fout": ""
-},
-"1819639": {
-"melding": {
-"titel": "Mazda 3 (2026)",
-"bericht": "2.5 e-SkyActiv-G M Hybrid 140 Exc-line Bns Edition\n€ 16.950 · 15.524 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-3-2-5-e-skyactiv-g-m-hybrid-140-exc-line-bns-edition/o/1819639",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1819639/0d8036efef9b1a9ae15d18893737993d~v193095529.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793097465.6485062,
-"laatst": 1793097465.6485062,
-"keer": 0,
-"fout": ""
-},
 "1819709": {
 "melding": {
 "titel": "Porsche 911 (2025)",
@@ -5701,9 +5573,9 @@
 "WhatsApp"
 ],
 "sinds": 1793099755.5002303,
-"laatst": 1793099755.5002303,
-"keer": 0,
-"fout": ""
+"laatst": 1793109800.6003015,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1819701": {
 "melding": {
@@ -6317,6 +6189,186 @@
 ],
 "sinds": 1793106907.5597508,
 "laatst": 1793106907.5597508,
+"keer": 0,
+"fout": ""
+},
+"1819866": {
+"melding": {
+"titel": "Hyundai Bayon (2025)",
+"bericht": "AUTOMAAT GDI 100 PK NAVI AIRCO CAMERA LED VIRT DASH B.J 11/2025\n€ 12.990 · 1.800 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-automaat-gdi-100-pk-navi-airco-camera-led-virt-dash-b-j-11-2025/o/1819866",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109801.9844334,
+"laatst": 1793109801.9844334,
+"keer": 0,
+"fout": ""
+},
+"1819864": {
+"melding": {
+"titel": "Tesla Model Y (2023)",
+"bericht": "RWD 58 kWh\n€ 18.950 · 60.140 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-rwd-58-kwh/o/1819864",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1819864/09b39d0adabbe28c13eb82b5937638b0~v193109731.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109802.2043989,
+"laatst": 1793109802.2043989,
+"keer": 0,
+"fout": ""
+},
+"1819859": {
+"melding": {
+"titel": "Volkswagen T-Cross (2022)",
+"bericht": "STYLE 110 PK NAVI CLIMA CAMERA VIRT DASH B.J 09-2022\n€ 10.990 · 57.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-style-110-pk-navi-clima-camera-virt-dash-b-j-09-2022/o/1819859",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1819859/3b1d3c8406474521ecb45df7dc7e7ebb~v193109594.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109802.4244373,
+"laatst": 1793109802.4244373,
+"keer": 0,
+"fout": ""
+},
+"1819857": {
+"melding": {
+"titel": "Audi Q4 (2025)",
+"bericht": "40 E-TRON 40 Adv. Ed. 63 kWh\n€ 27.500 · 17.173 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-40-e-tron-40-adv-ed-63-kwh/o/1819857",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1819857/2e573ae33a86b36236a484c90429e1d0~v193109354.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109802.665373,
+"laatst": 1793109802.665373,
+"keer": 0,
+"fout": ""
+},
+"1788455": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche Panamera (2026)",
+"bericht": "4 E-Hybrid Full Option Rechtslenker\n€ 82.500 · 25 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-panamera-4-e-hybrid-full-option-rechtslenker/o/1788455",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1788455/1f695df126323baab8f9639bb3731086~v183515657.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109802.8853168,
+"laatst": 1793109802.8853168,
+"keer": 0,
+"fout": ""
+},
+"1819850": {
+"melding": {
+"titel": "Tesla Model 3 (2024)",
+"bericht": "RWD 60 kWh\n€ 23.700 · 42.764 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-rwd-60-kwh/o/1819850",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1819850/3d3f518bca7c9adc8bf2959970920632~v193109018.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109805.864574,
+"laatst": 1793109805.864574,
+"keer": 0,
+"fout": ""
+},
+"1819851": {
+"melding": {
+"titel": "Volkswagen T-Cross (2024)",
+"bericht": "AUTOMAAT 116 PK NAVI CLIMA CAMERA LED B.J 06-2024\n€ 14.950 · 16.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-automaat-116-pk-navi-clima-camera-led-b-j-06-2024/o/1819851",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1819851/a78f4e4d2b078c6b73f2f11cf8679982~v193109087.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109806.0857651,
+"laatst": 1793109806.0857651,
+"keer": 0,
+"fout": ""
+},
+"1819841": {
+"melding": {
+"titel": "BMW X1 (2023)",
+"bericht": "xDrive 25 e\n€ 16.940 · 55.594 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive-25-e/o/1819841",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1819841/6cf9067250f5567a4e10b49b7d4efac0~v193108332.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109806.3060305,
+"laatst": 1793109806.3060305,
+"keer": 0,
+"fout": ""
+},
+"1630309": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mazda 3 (2022)",
+"bericht": "2.0 e-SkyActiv-X M 186PK Navi Camera Clima Cruise SHZ\n€ 7.950 · 21.439 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-3-2-0-e-skyactiv-x-m-186pk-navi-camera-clima-cruise-shz/o/1630309",
+"foto": "https://www.schadeautos.nl/cache/picture/644/1630309/475afc32788bd699e7f284bcbb4cf95e~v193107825.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109809.2953897,
+"laatst": 1793109809.2953897,
+"keer": 0,
+"fout": ""
+},
+"1819830": {
+"melding": {
+"titel": "Volkswagen ID.Buzz (2024)",
+"bericht": "Cargo 210 kW Pro 82KWH Navi+\n€ 11.979 · 116.614 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-buzz-cargo-210-kw-pro-82kwh-navi/o/1819830",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1819830/c0a2394ae13191efc7e8ffe13aca059c~v193107507.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109812.288017,
+"laatst": 1793109812.288017,
+"keer": 0,
+"fout": ""
+},
+"1819815": {
+"melding": {
+"titel": "Volkswagen Golf (2024)",
+"bericht": "VIII Lim. Life eTSI\n€ 15.972 · 44.317 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-viii-lim-life-etsi/o/1819815",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1819815/9b70d49d1b5081828440668d30e8d12e~v193106878.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109812.5090773,
+"laatst": 1793109812.5090773,
+"keer": 0,
+"fout": ""
+},
+"1819801": {
+"melding": {
+"titel": "Mercedes EQB (2025)",
+"bericht": "250+ Pano Led Stoelverw.\n€ 19.995 · 71.884 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-250-pano-led-stoelverw/o/1819801",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1819801/cd2fbe713aa01195b6febc0d80f2df9d~v193106123.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793109812.729706,
+"laatst": 1793109812.729706,
 "keer": 0,
 "fout": ""
 }
