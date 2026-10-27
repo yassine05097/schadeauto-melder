@@ -5675,15 +5675,19 @@
 "1795387",
 "1782910",
 "1807467",
-"1812875"
+"1812875",
+"1820018",
+"1820017"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820013,
+"hoogste_id": 1820018,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1820018",
+"1820017",
 "1788212",
 "1692014",
 "1795387",
@@ -5693,162 +5697,10 @@
 "1812882",
 "1812875",
 "1819128",
-"1814728",
-"1805528",
-"1814741"
+"1814728"
 ]
 },
 "wachtrij": {
-"1819958": {
-"melding": {
-"titel": "Dacia Jogger (2025)",
-"bericht": "TCe 7-Zits Airco Navi Camera CruiseControl Pdc....\n€ 9.600 · 26.454 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-tce-7-zits-airco-navi-camera-cruisecontrol-pdc/o/1819958",
-"foto": "https://www.schadeautos.nl/cache/picture/739/1819958/6d013bf1cb4477e207158920fc61612b~v193114900.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793115113.8164566,
-"laatst": 1793125339.6658845,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1801903": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi A3 (2026)",
-"bericht": "30TFSI 85kW Automaat Pano S Edition\n€ 19.350 · 4.055 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-30tfsi-85kw-automaat-pano-s-edition/o/1801903",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1801903/6da293f0e650599f056b1f099e4330a1~v188158650.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793115114.0330648,
-"laatst": 1793115114.0330648,
-"keer": 0,
-"fout": ""
-},
-"1819949": {
-"melding": {
-"titel": "Opel Astra (2024)",
-"bericht": "GS LINE AUTOMAAT LED XENON FULL\n€ 13.850 · 49.360 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-gs-line-automaat-led-xenon-full/o/1819949",
-"foto": "https://www.schadeautos.nl/cache/picture/1063/1819949/9cebe983797499a2b8e69135658acfd4~v193114285.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793115114.2495215,
-"laatst": 1793115114.2495215,
-"keer": 0,
-"fout": ""
-},
-"1795529": {
-"melding": {
-"titel": "Opnieuw geplaatst: Dacia Jogger (2024)",
-"bericht": "Tce/Eco-G Benzine-LPG 45.348km Airco Camera CruiseControl......\n€ 8.950 · 45.348 km · lpg",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-tce-eco-g-benzine-lpg-45-348km-airco-camera-cruisecontrol/o/1795529",
-"foto": "https://www.schadeautos.nl/cache/picture/739/1795529/af91e6139c8a39d6fd03d49f2c3eca88~v186098695.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793115114.4657598,
-"laatst": 1793115114.4657598,
-"keer": 0,
-"fout": ""
-},
-"1819938": {
-"melding": {
-"titel": "Renault Kangoo (2024)",
-"bericht": "VAN\n€ 7.750 · 166.061 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-kangoo-van/o/1819938",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1819938/64711ec434f3a88e041fa29f4eb3cd0a~v193113377.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793115117.5084522,
-"laatst": 1793115117.5084522,
-"keer": 0,
-"fout": ""
-},
-"1819820": {
-"melding": {
-"titel": "Kia Picanto (2023)",
-"bericht": "1.0 DPi Airco Camera 70.066 km NAP DynamicLine\n€ 7.230 · 70.066 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-airco-camera-70-066-km-nap-dynamicline/o/1819820",
-"foto": "https://www.schadeautos.nl/cache/picture/66/1819820/964b0480c7bbd150b1fcb52bf80b0651~v193107178.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793115120.4585166,
-"laatst": 1793115120.4585166,
-"keer": 0,
-"fout": ""
-},
-"1819935": {
-"melding": {
-"titel": "Volkswagen Tiguan (2024)",
-"bericht": "1.5 AUTOMAAT 150 PK NAVI CLIMA CAMERA VIR DASHBOARD LED TREKHAAK B.J 2024\n€ 18.950 · 51.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-automaat-150-pk-navi-clima-camera-vir-dashboard-led-trekhaak-b-j-2024/o/1819935",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1819935/c6ef8d48c8c86524f72580c5ef8fd1a0~v193113119.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793115123.5611703,
-"laatst": 1793115123.5611703,
-"keer": 0,
-"fout": ""
-},
-"1819924": {
-"melding": {
-"titel": "Opel Grandland (2022)",
-"bericht": "1.2 96Kw AUTOMAAT Clima - Navi\n€ 13.500 · 120.728 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-grandland-1-2-96kw-automaat-clima-navi/o/1819924",
-"foto": "https://www.schadeautos.nl/cache/picture/8/1819924/4ecc3a0831065d9403be81353f5c271d~v193112806.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793115123.7768855,
-"laatst": 1793115123.7768855,
-"keer": 0,
-"fout": ""
-},
-"1819918": {
-"melding": {
-"titel": "Hyundai Tucson (2023)",
-"bericht": "1.6 T-GDI PHEV C Sm\n€ 10.950 · 80.713 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-phev-c-sm/o/1819918",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1819918/13ad1cece45d2aa56e1d31bfd2939192~v193112790.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793115123.9998412,
-"laatst": 1793115123.9998412,
-"keer": 0,
-"fout": ""
-},
-"1819932": {
-"melding": {
-"titel": "Dacia Jogger (2024)",
-"bericht": "EXTREEM 110 PK NAVI CLIMA CAMERA 5 P B.J 06-2024\n€ 12.450 · 38.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreem-110-pk-navi-clima-camera-5-p-b-j-06-2024/o/1819932",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1819932/12da560e1e6cdcc67c05662ba8629b99~v193112780.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793115124.21667,
-"laatst": 1793115124.21667,
-"keer": 0,
-"fout": ""
-},
 "1819984": {
 "melding": {
 "titel": "Audi A4 (2024)",
@@ -5860,9 +5712,9 @@
 "WhatsApp"
 ],
 "sinds": 1793117980.8282793,
-"laatst": 1793117980.8282793,
-"keer": 0,
-"fout": ""
+"laatst": 1793128144.6012723,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1819983": {
 "melding": {
@@ -6146,6 +5998,21 @@
 ],
 "sinds": 1793125340.4048011,
 "laatst": 1793125340.4048011,
+"keer": 0,
+"fout": ""
+},
+"1820017": {
+"melding": {
+"titel": "Audi A1 (2024)",
+"bericht": "34.914 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1/o/1820017",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1820017/d4097cbb593521f993b38f5c9577ab06~v193125807.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793128148.8332226,
+"laatst": 1793128148.8332226,
 "keer": 0,
 "fout": ""
 }
