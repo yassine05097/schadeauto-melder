@@ -5646,210 +5646,50 @@
 "1819964",
 "1819962",
 "1819963",
-"1819954"
+"1819954",
+"1764929",
+"1820008",
+"1820007",
+"1820006",
+"1820004",
+"1820002",
+"1820001",
+"1820000",
+"1819997",
+"1789031",
+"1819998",
+"1819995",
+"1819994",
+"1819993",
+"1819992",
+"1819991",
+"1819990",
+"1819987",
+"1819970",
+"1819985"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819984,
+"hoogste_id": 1820008,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1819984",
-"1819983",
-"1819982",
-"1819981",
-"1819979",
-"1819973",
-"1819980",
-"1818043",
-"1816916",
-"1819976",
-"1819959",
-"1757033"
+"1764929",
+"1815574",
+"1820008",
+"1820007",
+"1820006",
+"1820004",
+"1820002",
+"1820001",
+"1820000",
+"1819997",
+"1815706",
+"1817345"
 ]
 },
 "wachtrij": {
-"1819866": {
-"melding": {
-"titel": "Hyundai Bayon (2025)",
-"bericht": "AUTOMAAT GDI 100 PK NAVI AIRCO CAMERA LED VIRT DASH B.J 11/2025\n€ 12.990 · 1.800 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-automaat-gdi-100-pk-navi-airco-camera-led-virt-dash-b-j-11-2025/o/1819866",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109801.9844334,
-"laatst": 1793117978.2323716,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1819864": {
-"melding": {
-"titel": "Tesla Model Y (2023)",
-"bericht": "RWD 58 kWh\n€ 18.950 · 60.140 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-rwd-58-kwh/o/1819864",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1819864/09b39d0adabbe28c13eb82b5937638b0~v193109731.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109802.2043989,
-"laatst": 1793109802.2043989,
-"keer": 0,
-"fout": ""
-},
-"1819859": {
-"melding": {
-"titel": "Volkswagen T-Cross (2022)",
-"bericht": "STYLE 110 PK NAVI CLIMA CAMERA VIRT DASH B.J 09-2022\n€ 10.990 · 57.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-style-110-pk-navi-clima-camera-virt-dash-b-j-09-2022/o/1819859",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1819859/3b1d3c8406474521ecb45df7dc7e7ebb~v193109594.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109802.4244373,
-"laatst": 1793109802.4244373,
-"keer": 0,
-"fout": ""
-},
-"1819857": {
-"melding": {
-"titel": "Audi Q4 (2025)",
-"bericht": "40 E-TRON 40 Adv. Ed. 63 kWh\n€ 27.500 · 17.173 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-40-e-tron-40-adv-ed-63-kwh/o/1819857",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1819857/2e573ae33a86b36236a484c90429e1d0~v193109354.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109802.665373,
-"laatst": 1793109802.665373,
-"keer": 0,
-"fout": ""
-},
-"1788455": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche Panamera (2026)",
-"bericht": "4 E-Hybrid Full Option Rechtslenker\n€ 82.500 · 25 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-panamera-4-e-hybrid-full-option-rechtslenker/o/1788455",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1788455/1f695df126323baab8f9639bb3731086~v183515657.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109802.8853168,
-"laatst": 1793109802.8853168,
-"keer": 0,
-"fout": ""
-},
-"1819850": {
-"melding": {
-"titel": "Tesla Model 3 (2024)",
-"bericht": "RWD 60 kWh\n€ 23.700 · 42.764 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-rwd-60-kwh/o/1819850",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1819850/3d3f518bca7c9adc8bf2959970920632~v193109018.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109805.864574,
-"laatst": 1793109805.864574,
-"keer": 0,
-"fout": ""
-},
-"1819851": {
-"melding": {
-"titel": "Volkswagen T-Cross (2024)",
-"bericht": "AUTOMAAT 116 PK NAVI CLIMA CAMERA LED B.J 06-2024\n€ 14.950 · 16.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-automaat-116-pk-navi-clima-camera-led-b-j-06-2024/o/1819851",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1819851/a78f4e4d2b078c6b73f2f11cf8679982~v193109087.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109806.0857651,
-"laatst": 1793109806.0857651,
-"keer": 0,
-"fout": ""
-},
-"1819841": {
-"melding": {
-"titel": "BMW X1 (2023)",
-"bericht": "xDrive 25 e\n€ 16.940 · 55.594 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive-25-e/o/1819841",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1819841/6cf9067250f5567a4e10b49b7d4efac0~v193108332.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109806.3060305,
-"laatst": 1793109806.3060305,
-"keer": 0,
-"fout": ""
-},
-"1630309": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mazda 3 (2022)",
-"bericht": "2.0 e-SkyActiv-X M 186PK Navi Camera Clima Cruise SHZ\n€ 7.950 · 21.439 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-3-2-0-e-skyactiv-x-m-186pk-navi-camera-clima-cruise-shz/o/1630309",
-"foto": "https://www.schadeautos.nl/cache/picture/644/1630309/475afc32788bd699e7f284bcbb4cf95e~v193107825.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109809.2953897,
-"laatst": 1793109809.2953897,
-"keer": 0,
-"fout": ""
-},
-"1819830": {
-"melding": {
-"titel": "Volkswagen ID.Buzz (2024)",
-"bericht": "Cargo 210 kW Pro 82KWH Navi+\n€ 11.979 · 116.614 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-buzz-cargo-210-kw-pro-82kwh-navi/o/1819830",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1819830/c0a2394ae13191efc7e8ffe13aca059c~v193107507.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109812.288017,
-"laatst": 1793109812.288017,
-"keer": 0,
-"fout": ""
-},
-"1819815": {
-"melding": {
-"titel": "Volkswagen Golf (2024)",
-"bericht": "VIII Lim. Life eTSI\n€ 15.972 · 44.317 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-viii-lim-life-etsi/o/1819815",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1819815/9b70d49d1b5081828440668d30e8d12e~v193106878.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109812.5090773,
-"laatst": 1793109812.5090773,
-"keer": 0,
-"fout": ""
-},
-"1819801": {
-"melding": {
-"titel": "Mercedes EQB (2025)",
-"bericht": "250+ Pano Led Stoelverw.\n€ 19.995 · 71.884 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-250-pano-led-stoelverw/o/1819801",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1819801/cd2fbe713aa01195b6febc0d80f2df9d~v193106123.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793109812.729706,
-"laatst": 1793109812.729706,
-"keer": 0,
-"fout": ""
-},
 "1819905": {
 "melding": {
 "titel": "Hyundai Ionq 9 (2026)",
@@ -5861,9 +5701,9 @@
 "WhatsApp"
 ],
 "sinds": 1793112520.9415407,
-"laatst": 1793112520.9415407,
-"keer": 0,
-"fout": ""
+"laatst": 1793120873.0816464,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1819917": {
 "melding": {
@@ -6267,6 +6107,126 @@
 ],
 "sinds": 1793117987.877422,
 "laatst": 1793117987.877422,
+"keer": 0,
+"fout": ""
+},
+"1820007": {
+"melding": {
+"titel": "Fiat Doblo (2023)",
+"bericht": "€ 7.018 · 74.121 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-doblo/o/1820007",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1820007/bfaf93bd412884ddc9dac6fea4a33e9c~v193119545.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793120874.3145695,
+"laatst": 1793120874.3145695,
+"keer": 0,
+"fout": ""
+},
+"1820006": {
+"melding": {
+"titel": "Alfa Romeo Tonale (2023)",
+"bericht": "IBRIDA\n€ 15.730 · 127.404 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-tonale-ibrida/o/1820006",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1820006/abfa0e92da816a83811c2f5e6c8661aa~v193119542.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793120874.3453538,
+"laatst": 1793120874.3453538,
+"keer": 0,
+"fout": ""
+},
+"1820004": {
+"melding": {
+"titel": "Renault Mégane E-Tech (2023)",
+"bericht": "IV GRANDTOUR\n€ 3.146 · 117.035 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-e-tech-iv-grandtour/o/1820004",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1820004/2bea71ea4e10f0e8609e53f77ad45a68~v193119532.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793120874.3759058,
+"laatst": 1793120874.3759058,
+"keer": 0,
+"fout": ""
+},
+"1820001": {
+"melding": {
+"titel": "BMW 1-serie (2023)",
+"bericht": "I\n€ 13.915 · 64.545 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-i/o/1820001",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1820001/48479e687759a35bdfc66530596caa17~v193119518.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793120874.4061046,
+"laatst": 1793120874.4061046,
+"keer": 0,
+"fout": ""
+},
+"1819998": {
+"melding": {
+"titel": "Renault Express (2022)",
+"bericht": "exportprijs € 7.600 · 69.972 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-express/o/1819998",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1819998/4e9e67d14a8091e9431a7a3ed0e1cd64~v193118943.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793120877.0829296,
+"laatst": 1793120877.0829296,
+"keer": 0,
+"fout": ""
+},
+"1819994": {
+"melding": {
+"titel": "Opel Corsa (2024)",
+"bericht": "EDITION\n€ 7.300 · 24.210 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-edition/o/1819994",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1819994/1b66207024e3a1dc1caea45ee61915de~v193118630.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793120877.1137917,
+"laatst": 1793120877.1137917,
+"keer": 0,
+"fout": ""
+},
+"1819993": {
+"melding": {
+"titel": "Dacia Jogger (2023)",
+"bericht": "EXPRESSION\n€ 3.900 · 105.867 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-expression/o/1819993",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1819993/676945d52f2cbe8da1f320e1822cdddd~v193118627.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793120877.1446917,
+"laatst": 1793120877.1446917,
+"keer": 0,
+"fout": ""
+},
+"1819990": {
+"melding": {
+"titel": "Renault Mégane (2023)",
+"bericht": "41.984 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane/o/1819990",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1819990/4a4266167b062f7825970ca88eba1e8a~v193118609.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793120877.1762369,
+"laatst": 1793120877.1762369,
 "keer": 0,
 "fout": ""
 }
