@@ -5339,90 +5339,48 @@
 "1819588",
 "1819587",
 "1819585",
-"1819586"
+"1819586",
+"1819635",
+"1819633",
+"1819638",
+"1819637",
+"1819636",
+"1819634",
+"1819631",
+"1819628",
+"1819624",
+"1819629",
+"1819627",
+"1819614",
+"1819604",
+"1788402",
+"1819611",
+"1819471",
+"1819608",
+"1819472"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819595,
+"hoogste_id": 1819638,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1772003",
-"1785500",
-"1819595",
-"1648759",
-"1819592",
-"1819594",
-"1819589",
-"1819591",
-"1819588",
-"1813696",
-"1819587",
-"1819585"
+"1819635",
+"1819633",
+"1819638",
+"1819637",
+"1819636",
+"1819634",
+"1819631",
+"1819628",
+"1819624",
+"1819629",
+"1813467",
+"1819627"
 ]
 },
 "wachtrij": {
-"1819549": {
-"melding": {
-"titel": "BMW X1 (2023)",
-"bericht": "xDrive 30 e Sport 240KW Plug in Leder LED\n€ 16.900 · 92.005 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive-30-e-sport-240kw-plug-in-leder-led/o/1819549",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1819549/f9489dd720c93ce53d27d3c54e99f829~v193082307.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793082543.05676,
-"laatst": 1793092898.4076276,
-"keer": 5,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1819544": {
-"melding": {
-"titel": "Dacia Jogger (2022)",
-"bericht": "1.0 Tce 7 Stoelen Airco Navi\n€ 10.950 · 115.562 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-1-0-tce-7-stoelen-airco-navi/o/1819544",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1819544/3286e908851696984386443616c6d7e5~v193081226.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793082545.996138,
-"laatst": 1793082545.996138,
-"keer": 0,
-"fout": ""
-},
-"1819543": {
-"melding": {
-"titel": "Skoda Octavia (2025)",
-"bericht": "1.5 TSI Aut. Bussines Ed.\n€ 13.950 · 41.161 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-5-tsi-aut-bussines-ed/o/1819543",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1819543/d996488782b6065c791ec12450c3fc74~v193081078.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793082549.8004367,
-"laatst": 1793082549.8004367,
-"keer": 0,
-"fout": ""
-},
-"1819540": {
-"melding": {
-"titel": "Peugeot 308 (2023)",
-"bericht": "Puretech 130 Aut Navi Camera Clima\n€ 10.450 · 91.103 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-puretech-130-aut-navi-camera-clima/o/1819540",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1819540/f0a01b8c6efe049a4dcdcfbd2581cf0d~v193080783.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793082550.0197113,
-"laatst": 1793082550.0197113,
-"keer": 0,
-"fout": ""
-},
 "1819553": {
 "melding": {
 "titel": "Mercedes Sprinter (2026)",
@@ -5434,9 +5392,9 @@
 "WhatsApp"
 ],
 "sinds": 1793085745.7358522,
-"laatst": 1793085745.7358522,
-"keer": 0,
-"fout": ""
+"laatst": 1793095338.4242473,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1790172": {
 "melding": {
@@ -5630,6 +5588,96 @@
 ],
 "sinds": 1793092899.4159818,
 "laatst": 1793092899.4159818,
+"keer": 0,
+"fout": ""
+},
+"1819635": {
+"melding": {
+"titel": "Volkswagen T-Roc (2026)",
+"bericht": "1.5 eTSI R-Line / Nieuw model\n€ 24.900 · 4.569 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5-etsi-r-line-nieuw-model/o/1819635",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793095339.392618,
+"laatst": 1793095339.392618,
+"keer": 0,
+"fout": ""
+},
+"1819633": {
+"melding": {
+"titel": "Peugeot 208 (2022)",
+"bericht": "1.2 PureTech Active\n€ 7.500 · 44.302 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-active/o/1819633",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1819633/3863344ed1c06e39d13347289a16e38a~v193095153.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793095339.553215,
+"laatst": 1793095339.553215,
+"keer": 0,
+"fout": ""
+},
+"1819637": {
+"melding": {
+"titel": "Renault Master (2025)",
+"bericht": "€ 17.908 · 95.000 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-master/o/1819637",
+"foto": "https://www.schadeautos.nl/cache/picture/987/1819637/f749585720d1148a09366ae4bf93f77b~v193095213.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793095339.7160795,
+"laatst": 1793095339.7160795,
+"keer": 0,
+"fout": ""
+},
+"1819628": {
+"melding": {
+"titel": "Volvo EX30 (2026)",
+"bericht": "Extended Plus 69 kWh\n€ 9.100 · 4.857 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-ex30-extended-plus-69-kwh/o/1819628",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1819628/cf31133140c09de8655f6f6edd88cf5f~v193094330.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793095339.8855078,
+"laatst": 1793095339.8855078,
+"keer": 0,
+"fout": ""
+},
+"1819614": {
+"melding": {
+"titel": "Audi A6 avant (2025)",
+"bericht": "etron S Line Edition Automaat ( Nieuwste Model ) nw prijs 74000,00\n€ 38.500 · 15.672 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-etron-s-line-edition-automaat-nieuwste-model-nw-prijs-74000-00/o/1819614",
+"foto": "https://www.schadeautos.nl/cache/picture/38/1819614/7ff7b7494e93d30c9080c891baccf4d7~v193094720.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793095342.8065774,
+"laatst": 1793095342.8065774,
+"keer": 0,
+"fout": ""
+},
+"1819608": {
+"melding": {
+"titel": "Volkswagen Golf (2026)",
+"bericht": "1.5 eHybrid Automaat Life Edition 5 Drs\n€ 15.500 · 19.668 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5-ehybrid-automaat-life-edition-5-drs/o/1819608",
+"foto": "https://www.schadeautos.nl/cache/picture/38/1819608/fb47c35faaa1754abe57c012a21eeae5~v193094410.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793095342.970065,
+"laatst": 1793095342.970065,
 "keer": 0,
 "fout": ""
 }
