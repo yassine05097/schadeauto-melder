@@ -5328,27 +5328,38 @@
 "1819566",
 "1802308",
 "1819568",
-"1819567"
+"1819567",
+"1785500",
+"1819595",
+"1648759",
+"1819592",
+"1819594",
+"1819589",
+"1819591",
+"1819588",
+"1819587",
+"1819585",
+"1819586"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1819584,
+"hoogste_id": 1819595,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1819584",
-"1819583",
-"1758087",
-"1819582",
-"1793755",
-"1817928",
-"1627062",
-"1811177",
-"1819572",
-"1816684",
-"1819478",
-"1816805"
+"1772003",
+"1785500",
+"1819595",
+"1648759",
+"1819592",
+"1819594",
+"1819589",
+"1819591",
+"1819588",
+"1813696",
+"1819587",
+"1819585"
 ]
 },
 "wachtrij": {
@@ -5363,8 +5374,8 @@
 "WhatsApp"
 ],
 "sinds": 1793082543.05676,
-"laatst": 1793090673.3850524,
-"keer": 4,
+"laatst": 1793092898.4076276,
+"keer": 5,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1819544": {
@@ -5589,6 +5600,36 @@
 ],
 "sinds": 1793090677.2045052,
 "laatst": 1793090677.2045052,
+"keer": 0,
+"fout": ""
+},
+"1785500": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Explorer (2024)",
+"bericht": "3.0 V6 EcoBoost PHEV ST-Line B&O Sound Stoelverkoeling Leer ACC Navigatie Camera\n€ 25.950 · 138.367 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-explorer-3-0-v6-ecoboost-phev-st-line-b-o-sound-stoelverkoeling-leer-acc-navigatie-camera/o/1785500",
+"foto": "https://www.schadeautos.nl/cache/picture/644/1785500/16ca8219a2eec247173406e5d0d4be68~v193092728.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793092899.2840974,
+"laatst": 1793092899.2840974,
+"keer": 0,
+"fout": ""
+},
+"1819588": {
+"melding": {
+"titel": "Lynk & Co 01 (2024)",
+"bericht": "1.5 HYBRIDE 180PK AUTOMAAT PANORAMA\n€ 14.500 · 43.914 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-hybride-180pk-automaat-panorama/o/1819588",
+"foto": "https://www.schadeautos.nl/cache/picture/104/1819588/c967f502985ffc4b33c18301285689b7~v193091470.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793092899.4159818,
+"laatst": 1793092899.4159818,
 "keer": 0,
 "fout": ""
 }
