@@ -5692,15 +5692,21 @@
 "1820027",
 "1820025",
 "1750834",
-"1808271"
+"1808271",
+"1820034",
+"1820033",
+"1820032"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820030,
+"hoogste_id": 1820034,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1820034",
+"1820033",
+"1820032",
 "1750834",
 "1808271",
 "1786694",
@@ -5709,13 +5715,41 @@
 "1815148",
 "1798186",
 "1815720",
-"1726577",
-"1812448",
-"1820030",
-"1820028"
+"1726577"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1820034": {
+"melding": {
+"titel": "Opel Corsa (2023)",
+"bericht": "1.5 D Elegance Navi Airco\n€ 9.450 · 142.071 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-5-d-elegance-navi-airco/o/1820034",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1820034/5abf83c4ba80e8461b69810f0b90da27~v193168556.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793168630.357612,
+"laatst": 1793168630.357612,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1820032": {
+"melding": {
+"titel": "Hyundai I-10 (2026)",
+"bericht": "1.0 Airco Motor defekt\n€ 1.200 · 160.000 km",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-airco-motor-defekt/o/1820032",
+"foto": "https://www.schadeautos.nl/cache/picture/1066/1820032/a5067d4a1f837ce2b31083171dc7e4c1~v193167305.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793168630.4608974,
+"laatst": 1793168630.4608974,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
