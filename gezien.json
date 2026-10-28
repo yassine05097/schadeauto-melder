@@ -6000,45 +6000,38 @@
 "1811502",
 "1820421",
 "1820438",
-"1808926"
+"1808926",
+"1820454",
+"1820453",
+"1809160",
+"1682546",
+"1810954",
+"1797787",
+"1820452",
+"1820451"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820438,
+"hoogste_id": 1820454,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1808926",
-"1820438",
-"1815835",
-"1795114",
-"1811502",
-"1809097",
-"1820421",
-"1815479",
-"1820423",
-"1820422",
-"1820418",
-"1820419"
+"1820454",
+"1820453",
+"1809160",
+"1682546",
+"1810954",
+"1797787",
+"1820452",
+"1820451",
+"1812303",
+"1810828",
+"1814134",
+"1808926"
 ]
 },
 "wachtrij": {
-"1820421": {
-"melding": {
-"titel": "Zeekr (2025)",
-"bericht": "001 RWD. Long Range 100 Kw/h\n€ 27.500 · 30.200 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/zeekr-001-rwd-long-range-100-kw-h/o/1820421",
-"foto": "https://www.schadeautos.nl/cache/picture/13/1820421/8a03ff3fb642abd4d65334ec98563ce4~v193206942.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793209222.912992,
-"laatst": 1793219486.9795244,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1820438": {
 "melding": {
 "titel": "Fiat 600 (2024)",
@@ -6050,9 +6043,9 @@
 "WhatsApp"
 ],
 "sinds": 1793214877.658047,
-"laatst": 1793214877.658047,
-"keer": 0,
-"fout": ""
+"laatst": 1793222034.648065,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1808926": {
 "melding": {
@@ -6066,6 +6059,21 @@
 ],
 "sinds": 1793217445.2790198,
 "laatst": 1793217445.2790198,
+"keer": 0,
+"fout": ""
+},
+"1797787": {
+"melding": {
+"titel": "Opnieuw geplaatst: Citroën C5 Aircross (2024)",
+"bericht": "1.6 Plug-In Hybride 225\n€ 15.950 · 81.863 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c5-aircross-1-6-plug-in-hybride-225/o/1797787",
+"foto": "https://www.schadeautos.nl/cache/picture/8/1797787/8adc19ee5ef7bd34049e4f9206a719ae~v186977539.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793222035.60157,
+"laatst": 1793222035.60157,
 "keer": 0,
 "fout": ""
 }
