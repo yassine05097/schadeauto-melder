@@ -5831,90 +5831,59 @@
 "1820200",
 "1820193",
 "1820187",
-"1715997"
+"1715997",
+"1820238",
+"1802261",
+"1820248",
+"1820245",
+"1820242",
+"1791981",
+"1820239",
+"1808389",
+"1820229",
+"1820236",
+"1764984",
+"1772837",
+"1820235",
+"1818466",
+"1820226",
+"1791327",
+"1806730",
+"1820227",
+"1820233",
+"1820234",
+"1820231",
+"1820222",
+"1820228",
+"1820225",
+"1820224",
+"1820218",
+"1820220",
+"1820221",
+"1820196"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820219,
+"hoogste_id": 1820248,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1820219",
-"1794434",
-"1820217",
-"1820212",
-"1820216",
-"1818570",
-"1820204",
-"1820208",
-"1820206",
-"1820190",
-"1815013",
-"1820203"
+"1796338",
+"1794039",
+"1820238",
+"1802261",
+"1809567",
+"1810328",
+"1820248",
+"1816883",
+"1817696",
+"1820245",
+"1820242",
+"1791981"
 ]
 },
 "wachtrij": {
-"1775735": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Octavia (2022)",
-"bericht": "1.0 e-TSI Ambition\n€ 8.950 · 164.139 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-0-e-tsi-ambition/o/1775735",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1775735/7390ad7c349cb25c0c54f079888c788a~v179958809.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793178608.6105976,
-"laatst": 1793188723.5407102,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1820065": {
-"melding": {
-"titel": "Kia Picanto (2026)",
-"bericht": "1.0 GDi DynamicLine Airco Navi Camera\n€ 13.450 · 10.657 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-gdi-dynamicline-airco-navi-camera/o/1820065",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1820065/18918ebf56984c974ecf17c7115e572a~v193176530.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793178615.2445931,
-"laatst": 1793178615.2445931,
-"keer": 0,
-"fout": ""
-},
-"1820059": {
-"melding": {
-"titel": "Renault Mégane (2024)",
-"bericht": "EV 60 OPTIMUM SPORT 96KW\n€ 12.750 · 54.551 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-ev-60-optimum-sport-96kw/o/1820059",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1820059/755e8e1d9171673db05ecaf42484d0d3~v193176117.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793178615.4224546,
-"laatst": 1793178615.4224546,
-"keer": 0,
-"fout": ""
-},
-"1761496": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Polo (2025)",
-"bericht": "1.0 TSI Life Edition\n€ 10.250 · 64.317 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-edition/o/1761496",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1761496/83cf97fa232c0467d7eaeee7cd49ba1e~v175571952.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793178619.5531652,
-"laatst": 1793178619.5531652,
-"keer": 0,
-"fout": ""
-},
 "1811702": {
 "melding": {
 "titel": "Opnieuw geplaatst: Audi Q4 (2023)",
@@ -5926,9 +5895,9 @@
 "WhatsApp"
 ],
 "sinds": 1793181295.3550663,
-"laatst": 1793181295.3550663,
-"keer": 0,
-"fout": ""
+"laatst": 1793191296.1287713,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1811709": {
 "melding": {
@@ -6422,6 +6391,126 @@
 ],
 "sinds": 1793188730.7161756,
 "laatst": 1793188730.7161756,
+"keer": 0,
+"fout": ""
+},
+"1791981": {
+"melding": {
+"titel": "Opnieuw geplaatst: BYD Seal U (2025)",
+"bericht": "1.5DM-i Hybrid 160kW Automaat Pano FWD Boost\n€ 14.800 · 32.999 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/byd-seal-u-1-5dm-i-hybrid-160kw-automaat-pano-fwd-boost/o/1791981",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1791981/af492f27bd1f53f669220e2522215ad8~v184699876.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793191303.4778893,
+"laatst": 1793191303.4778893,
+"keer": 0,
+"fout": ""
+},
+"1820239": {
+"melding": {
+"titel": "Peugeot 208 (2023)",
+"bericht": "1.2 PureTech Active Pack\n€ 5.750 · 82.128 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-active-pack/o/1820239",
+"foto": "https://www.schadeautos.nl/cache/picture/131/1820239/9ff0550d8edf344dd06ad4feee9d55ec~v193190409.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793191313.7966917,
+"laatst": 1793191313.7966917,
+"keer": 0,
+"fout": ""
+},
+"1808389": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 3-serie (2022)",
+"bericht": "320e M-Pakket Pano\n€ 13.500 · 69.138 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-320e-m-pakket-pano/o/1808389",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1808389/45a840fd5b55eeaa67a98e7d29e16fab~v190018059.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793191315.2012851,
+"laatst": 1793191315.2012851,
+"keer": 0,
+"fout": ""
+},
+"1820235": {
+"melding": {
+"titel": "Citroën Berlingo (2022)",
+"bericht": "1.5 hdi\n€ 3.550 · 124.841 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-berlingo-1-5-hdi/o/1820235",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1820235/d2060ccebc9fdc6036b34b2514599f00~v193190066.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793191320.5786138,
+"laatst": 1793191320.5786138,
+"keer": 0,
+"fout": ""
+},
+"1791327": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW M3 (2022)",
+"bericht": "M3 COMPETITION M XDRIVE 510Pk NAP ORGINEEL NEDERLANDSE AUTO! Keramisch Carbon Dak\n€ 53.950 · 84.531 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m3-m3-competition-m-xdrive-510pk-nap-orgineel-nederlandse-auto-keramisch-carbon-dak/o/1791327",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1791327/4ca6250248c675f6875d73e0c59b90ef~v184317016.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793191320.9485905,
+"laatst": 1793191320.9485905,
+"keer": 0,
+"fout": ""
+},
+"1820228": {
+"melding": {
+"titel": "Peugeot 308 (2023)",
+"bericht": "€ 9.679 · 23.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308/o/1820228",
+"foto": "https://www.schadeautos.nl/cache/picture/987/1820228/fd10b984395085af9200cabf550842fe~v193189712.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793191325.444745,
+"laatst": 1793191325.444745,
+"keer": 0,
+"fout": ""
+},
+"1820225": {
+"melding": {
+"titel": "Opel Frontera (2025)",
+"bericht": "€ 14.520 · 22.187 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-frontera/o/1820225",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1820225/46b0d703b323b254cb509ee55286be9c~v193189482.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793191331.8437526,
+"laatst": 1793191331.8437526,
+"keer": 0,
+"fout": ""
+},
+"1820218": {
+"melding": {
+"titel": "Toyota Yaris (2022)",
+"bericht": "1.5 Hybrid.Active AUT WEINIG KM REST BPM €200,-!!!\n€ 9.500 · 48.967 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5-hybrid-active-aut-weinig-km-rest-bpm-eur200/o/1820218",
+"foto": "https://www.schadeautos.nl/cache/picture/252/1820218/6a17e386fca9a32a8ef8f2088852ad7e~v193188741.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793191332.2207227,
+"laatst": 1793191332.2207227,
 "keer": 0,
 "fout": ""
 }
