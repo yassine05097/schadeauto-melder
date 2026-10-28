@@ -5764,105 +5764,56 @@
 "1820107",
 "1820106",
 "1820104",
-"1820102"
+"1820102",
+"1820165",
+"1820161",
+"1820160",
+"1820159",
+"1820157",
+"1820155",
+"1820154",
+"1820153",
+"1820140",
+"1802729",
+"1820150",
+"1780446",
+"1820149",
+"1820148",
+"1820147",
+"1820146",
+"1820145",
+"1818621",
+"1820130",
+"1802736",
+"1782163",
+"1802727",
+"1820142",
+"1798027",
+"1801519",
+"1776848"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820135,
+"hoogste_id": 1820165,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1820134",
-"1820135",
-"1820133",
-"1817378",
-"1814342",
-"1814319",
-"1818581",
-"1814045",
-"1811702",
-"1777843",
-"1811709",
-"1811706"
+"1820165",
+"1813452",
+"1820161",
+"1820160",
+"1819161",
+"1814164",
+"1820159",
+"1820157",
+"1820155",
+"1820154",
+"1820153",
+"1820140"
 ]
 },
 "wachtrij": {
-"1806152": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen T-Roc (2024)",
-"bericht": "1.5TSI 110kW Automaat Life Business\n€ 18.350 · 53.335 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5tsi-110kw-automaat-life-business/o/1806152",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1806152/f8e1cbead7c9498e362952e9f4e6d5bd~v189383708.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793172566.3740432,
-"laatst": 1793181294.136721,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1802492": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Cee d (2023)",
-"bericht": "PULSE 1.6 CRDI ISG\n€ 8.228 · 115.648 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-cee-d-pulse-1-6-crdi-isg/o/1802492",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1802492/246d9dd80aacf1c8764ededfa16b52fc~v193169908.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793172566.499348,
-"laatst": 1793172566.499348,
-"keer": 0,
-"fout": ""
-},
-"1802699": {
-"melding": {
-"titel": "Opnieuw geplaatst: Citroën C3 (2022)",
-"bericht": "1.2 PureTech Feel Navi Airco\n€ 4.950 · 64.897 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-feel-navi-airco/o/1802699",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1802699/f18fde34a318188a34bfa1dd66405682~v188326712.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793172566.631538,
-"laatst": 1793172566.631538,
-"keer": 0,
-"fout": ""
-},
-"1802490": {
-"melding": {
-"titel": "Opnieuw geplaatst: Renault Mégane (2022)",
-"bericht": "IV GRANDTOUR\n€ 6.800 · 51.041 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-iv-grandtour/o/1802490",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1802490/5efc4c90cbf00685a7c2917f51e655c9~v193169023.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793172566.7576272,
-"laatst": 1793172566.7576272,
-"keer": 0,
-"fout": ""
-},
-"1820037": {
-"melding": {
-"titel": "Mercedes EQB (2025)",
-"bericht": "250+ Pano Led Stoelverw.\n€ 19.995 · 71.884 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-250-pano-led-stoelverw/o/1820037",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1820037/928d2754a585e11cefe4d7dabd72b588~v193168999.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793172566.8932245,
-"laatst": 1793172566.8932245,
-"keer": 0,
-"fout": ""
-},
 "1790221": {
 "melding": {
 "titel": "Opnieuw geplaatst: Opel Astra (2024)",
@@ -5874,9 +5825,9 @@
 "WhatsApp"
 ],
 "sinds": 1793175611.9500506,
-"laatst": 1793175611.9500506,
-"keer": 0,
-"fout": ""
+"laatst": 1793183531.1561542,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1816492": {
 "melding": {
@@ -6115,6 +6066,141 @@
 ],
 "sinds": 1793181309.4689255,
 "laatst": 1793181309.4689255,
+"keer": 0,
+"fout": ""
+},
+"1820165": {
+"melding": {
+"titel": "Renault Clio (2024)",
+"bericht": "1.0 Tce 90 Gpf Evolution\n€ 9.800 · 75.983 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-90-gpf-evolution/o/1820165",
+"foto": "https://www.schadeautos.nl/cache/picture/270/1820165/8ab0afb2dc89d2c59b2983053b037e77~v193183240.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793183532.4206922,
+"laatst": 1793183532.4206922,
+"keer": 0,
+"fout": ""
+},
+"1820155": {
+"melding": {
+"titel": "Cupra Leon (2024)",
+"bericht": "Sportstourer 1.4 e-Hybrid VZ 245 pk\n€ 13.000 · 62.228 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-sportstourer-1-4-e-hybrid-vz-245-pk/o/1820155",
+"foto": "https://www.schadeautos.nl/cache/picture/1060/1820155/cae1d241401981f74480606d3500262d~v193182642.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793183533.5801184,
+"laatst": 1793183533.5801184,
+"keer": 0,
+"fout": ""
+},
+"1820140": {
+"melding": {
+"titel": "Volvo V-60 (2024)",
+"bericht": "2.0 B3 Essential Edition\n€ 20.500 · 72.966 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-0-b3-essential-edition/o/1820140",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1820140/1e846f6b976fe9ce03a6e06b97b229bd~v193181965.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793183533.7188306,
+"laatst": 1793183533.7188306,
+"keer": 0,
+"fout": ""
+},
+"1820149": {
+"melding": {
+"titel": "Mercedes S-klasse (2022)",
+"bericht": "€ 71.995 · 79.500 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-s-klasse/o/1820149",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1820149/ae85428d581d836629eae730023d3683~v193181905.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793183536.8057735,
+"laatst": 1793183536.8057735,
+"keer": 0,
+"fout": ""
+},
+"1820130": {
+"melding": {
+"titel": "Renault Clio (2024)",
+"bericht": "E-Tech 145\n€ 6.950 · 20.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-e-tech-145/o/1820130",
+"foto": "https://www.schadeautos.nl/cache/picture/1050/1820130/b49a553d9e0cba03fca2250ed69126d6~v193180653.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793183536.9207053,
+"laatst": 1793183536.9207053,
+"keer": 0,
+"fout": ""
+},
+"1802736": {
+"melding": {
+"titel": "Opnieuw geplaatst: Lynk & Co 01 (2022)",
+"bericht": "1.5 HEV Infinity Pano ACC Navi Clima SHZ Virtual Apple/Android Camera PDC AHK\n€ 8.950 · 44.304 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-hev-infinity-pano-acc-navi-clima-shz-virtual-apple-android-camera-pdc-ahk/o/1802736",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1802736/119a667668dcbcbee26411f76ef9dc84~v193181717.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793183539.8172596,
+"laatst": 1793183539.8172596,
+"keer": 0,
+"fout": ""
+},
+"1782163": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 308 (2023)",
+"bericht": "SW 1.2 PureTech Active Pack Business\n€ 10.750 · 147.237 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-sw-1-2-puretech-active-pack-business/o/1782163",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1782163/70954307345bd64cb95b4ba6e1ad43a0~v181685616.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793183541.329858,
+"laatst": 1793183541.329858,
+"keer": 0,
+"fout": ""
+},
+"1802727": {
+"melding": {
+"titel": "Opnieuw geplaatst: Suzuki Swift (2026)",
+"bericht": "1.2 Style Smart Hybrid Aut. Cruise Navi Clima SHZ Apple/Android Camera PDC AHK\n€ 9.950 · 3.899 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-swift-1-2-style-smart-hybrid-aut-cruise-navi-clima-shz-apple-android-camera-pdc-ahk/o/1802727",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1802727/b672aa07dfcfdcf50a706c0083f2eefc~v193181689.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793183541.4698155,
+"laatst": 1793183541.4698155,
+"keer": 0,
+"fout": ""
+},
+"1776848": {
+"melding": {
+"titel": "Opnieuw geplaatst: Leapmotor C10 (2025)",
+"bericht": "REEV Design 28.4 kWh Pano LED ACC 360° Ventilatie LRHZ Camera\n€ 8.950 · 31.641 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/leapmotor-c10-reev-design-28-4-kwh-pano-led-acc-360-ventilatie-lrhz-camera/o/1776848",
+"foto": "https://www.schadeautos.nl/cache/picture/985/1776848/74880e050696343059a1a32affed1fc3~v186440789.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793183543.6915398,
+"laatst": 1793183543.6915398,
 "keer": 0,
 "fout": ""
 }
