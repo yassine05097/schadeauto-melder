@@ -5695,27 +5695,41 @@
 "1808271",
 "1820034",
 "1820033",
-"1820032"
+"1820032",
+"1820043",
+"1736297",
+"1788783",
+"1806152",
+"1820042",
+"1802492",
+"1788440",
+"1802699",
+"1802490",
+"1820037",
+"1798723",
+"1820038",
+"1820036",
+"1820035"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820034,
+"hoogste_id": 1820043,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1820034",
-"1820033",
-"1820032",
-"1750834",
-"1808271",
-"1786694",
-"1817534",
-"1813309",
-"1815148",
-"1798186",
-"1815720",
-"1726577"
+"1819551",
+"1820043",
+"1736297",
+"1788783",
+"1788012",
+"1806152",
+"1820042",
+"1802492",
+"1788440",
+"1802699",
+"1802490",
+"1820037"
 ]
 },
 "wachtrij": {
@@ -5730,8 +5744,8 @@
 "WhatsApp"
 ],
 "sinds": 1793168630.357612,
-"laatst": 1793168630.357612,
-"keer": 1,
+"laatst": 1793172562.098623,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1820032": {
@@ -5746,6 +5760,81 @@
 ],
 "sinds": 1793168630.4608974,
 "laatst": 1793168630.4608974,
+"keer": 0,
+"fout": ""
+},
+"1806152": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen T-Roc (2024)",
+"bericht": "1.5TSI 110kW Automaat Life Business\n€ 18.350 · 53.335 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5tsi-110kw-automaat-life-business/o/1806152",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1806152/f8e1cbead7c9498e362952e9f4e6d5bd~v189383708.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793172566.3740432,
+"laatst": 1793172566.3740432,
+"keer": 0,
+"fout": ""
+},
+"1802492": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Cee d (2023)",
+"bericht": "PULSE 1.6 CRDI ISG\n€ 8.228 · 115.648 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-cee-d-pulse-1-6-crdi-isg/o/1802492",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1802492/246d9dd80aacf1c8764ededfa16b52fc~v193169908.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793172566.499348,
+"laatst": 1793172566.499348,
+"keer": 0,
+"fout": ""
+},
+"1802699": {
+"melding": {
+"titel": "Opnieuw geplaatst: Citroën C3 (2022)",
+"bericht": "1.2 PureTech Feel Navi Airco\n€ 4.950 · 64.897 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-feel-navi-airco/o/1802699",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1802699/f18fde34a318188a34bfa1dd66405682~v188326712.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793172566.631538,
+"laatst": 1793172566.631538,
+"keer": 0,
+"fout": ""
+},
+"1802490": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Mégane (2022)",
+"bericht": "IV GRANDTOUR\n€ 6.800 · 51.041 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-iv-grandtour/o/1802490",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1802490/5efc4c90cbf00685a7c2917f51e655c9~v193169023.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793172566.7576272,
+"laatst": 1793172566.7576272,
+"keer": 0,
+"fout": ""
+},
+"1820037": {
+"melding": {
+"titel": "Mercedes EQB (2025)",
+"bericht": "250+ Pano Led Stoelverw.\n€ 19.995 · 71.884 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-250-pano-led-stoelverw/o/1820037",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1820037/928d2754a585e11cefe4d7dabd72b588~v193168999.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793172566.8932245,
+"laatst": 1793172566.8932245,
 "keer": 0,
 "fout": ""
 }
