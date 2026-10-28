@@ -5915,165 +5915,66 @@
 "1819977",
 "1820251",
 "1820252",
-"1820247"
+"1820247",
+"1820340",
+"1820336",
+"1819199",
+"1820335",
+"1820333",
+"1820329",
+"1812223",
+"1820331",
+"1790473",
+"1806589",
+"1790075",
+"1758621",
+"1668935",
+"1728545",
+"1820327",
+"1778359",
+"1820328",
+"1760791",
+"1810705",
+"1820319",
+"1768353",
+"1662985",
+"1808862",
+"1766098",
+"1774248",
+"1811695",
+"1820321",
+"1810346",
+"1764774",
+"1775434",
+"1820320",
+"1820313",
+"1820298",
+"1783836",
+"1771555",
+"1768365"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820299,
+"hoogste_id": 1820340,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1746787",
-"1820299",
-"1814315",
-"1798179",
-"1799299",
-"1784979",
-"1741055",
-"1694882",
-"1812703",
-"1801587",
-"1820294",
-"1801210"
+"1820340",
+"1808007",
+"1817051",
+"1820336",
+"1819199",
+"1819964",
+"1820335",
+"1820333",
+"1809993",
+"1820329",
+"1812223",
+"1820331"
 ]
 },
 "wachtrij": {
-"1820183": {
-"melding": {
-"titel": "Peugeot 208 (2022)",
-"bericht": "1.2 PureTech Allure\n€ 6.250 · 53.437 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-allure/o/1820183",
-"foto": "https://www.schadeautos.nl/cache/picture/131/1820183/866d23427f04075665028a064e959bee~v193185235.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793186202.3735971,
-"laatst": 1793194733.340355,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816960": {
-"melding": {
-"titel": "Renault Clio (2022)",
-"bericht": "1.0TCe 67kW Equilibre\n€ 7.500 · 122.500 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0tce-67kw-equilibre/o/1816960",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1816960/7a5ece9257c46bff827bad76ff574dc9~v192393641.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793186204.5924625,
-"laatst": 1793186204.5924625,
-"keer": 0,
-"fout": ""
-},
-"1820177": {
-"melding": {
-"titel": "Toyota ProAce (2025)",
-"bericht": "City\n€ 13.800 · 7.664 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-proace-city/o/1820177",
-"foto": "https://www.schadeautos.nl/cache/picture/1060/1820177/6d39f055c0a9930a753bf02a0c75af01~v193185131.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793186209.725448,
-"laatst": 1793186209.725448,
-"keer": 0,
-"fout": ""
-},
-"1798019": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 2008 (2024)",
-"bericht": "1.2 PureTech 100 Allure Navi Clima\n€ 13.500 · 27.557 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-100-allure-navi-clima/o/1798019",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1798019/6a805538343d500be2989b1b592033bd~v187051185.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793186219.5318577,
-"laatst": 1793186219.5318577,
-"keer": 0,
-"fout": ""
-},
-"1812135": {
-"melding": {
-"titel": "Opnieuw geplaatst: Jeep Avenger (2024)",
-"bericht": "1.2 Altitude JBL ACC Navi Clima SHZ PDC\n€ 11.450 · 39.163 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-avenger-1-2-altitude-jbl-acc-navi-clima-shz-pdc/o/1812135",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1812135/87a2b597a68e64678b0bbb68109ad55a~v193183856.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793186228.1748455,
-"laatst": 1793186228.1748455,
-"keer": 0,
-"fout": ""
-},
-"1788926": {
-"melding": {
-"titel": "Opnieuw geplaatst: Nio EL7 (2024)",
-"bericht": "100 kWh !Ohne Batterie! HUD ACC Clima Navi Memory Leder SHZ Camera 360° PDC\n€ 15.450 · 30.483 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nio-el7-100-kwh-ohne-batterie-hud-acc-clima-navi-memory-leder-shz-camera-360-pdc/o/1788926",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1788926/186d1a4aa0db4ad02deab5c6b677afb0~v193183786.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793186228.321137,
-"laatst": 1793186228.321137,
-"keer": 0,
-"fout": ""
-},
-"1812130": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volvo S-90 (2024)",
-"bericht": "2.0 T8 AWD Ultimate Dark Pano LED ACC H/K HUD Memory 360°\n€ 19.950 · 40.196 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-s-90-2-0-t8-awd-ultimate-dark-pano-led-acc-h-k-hud-memory-360/o/1812130",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1812130/edadaae6ce3ab05cb293389aa86b66f7~v193183738.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793186228.4511669,
-"laatst": 1793186228.4511669,
-"keer": 0,
-"fout": ""
-},
-"1812269": {
-"melding": {
-"titel": "Opnieuw geplaatst: Alfa Romeo Stelvio (2022)",
-"bericht": "2.0 T AWD Sprint Pano ACC Memory Leder SHZ LrHZ Navi Apple/Android Camera PDC\n€ 22.450 · 132.198 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-stelvio-2-0-t-awd-sprint-pano-acc-memory-leder-shz-lrhz-navi-apple-android-camera-pdc/o/1812269",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1812269/1f2c11af9c3423379cce733a46a7ab1b~v193183715.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793186228.578721,
-"laatst": 1793186228.578721,
-"keer": 0,
-"fout": ""
-},
-"1758381": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes C-klasse (2024)",
-"bericht": "C300D 4 matic 266PK! Camera Led stoelverwarming\n€ 35.900 · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c300d-4-matic-266pk-camera-led-stoelverwarming/o/1758381",
-"foto": "https://www.schadeautos.nl/cache/picture/1048/1758381/225915171acbd9ff84620a84932f5726~v174543415.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793186228.70155,
-"laatst": 1793186228.70155,
-"keer": 0,
-"fout": ""
-},
 "1820219": {
 "melding": {
 "titel": "Polestar 2 (2025)",
@@ -6085,9 +5986,9 @@
 "WhatsApp"
 ],
 "sinds": 1793188724.660248,
-"laatst": 1793188724.660248,
-"keer": 0,
-"fout": ""
+"laatst": 1793197762.057192,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1794434": {
 "melding": {
@@ -6521,6 +6422,216 @@
 ],
 "sinds": 1793194767.2492888,
 "laatst": 1793194767.2492888,
+"keer": 0,
+"fout": ""
+},
+"1820340": {
+"melding": {
+"titel": "Skoda Octavia (2024)",
+"bericht": "1.5 TSI Hybrid Automaat Stationcar First Edition\n€ 14.500 · 86.030 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-5-tsi-hybrid-automaat-stationcar-first-edition/o/1820340",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197762.857633,
+"laatst": 1793197762.857633,
+"keer": 0,
+"fout": ""
+},
+"1790473": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Polo (2023)",
+"bericht": "1.0 TSI Life 5drs Airco\n€ 5.750 · 109.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-5drs-airco/o/1790473",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1790473/989d105900d317844c9957fe9cb41af5~v184116520.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197765.4267907,
+"laatst": 1793197765.4267907,
+"keer": 0,
+"fout": ""
+},
+"1668935": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Polo (2024)",
+"bericht": "1.0 TSI Life 95pk Navi Airco\n€ 9.750 · 21.940 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-95pk-navi-airco/o/1668935",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1668935/77ac95005d36777aed702ea2c1c275cb~v147743208.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197765.4556293,
+"laatst": 1793197765.4556293,
+"keer": 0,
+"fout": ""
+},
+"1728545": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Golf (2025)",
+"bericht": "1.5 TSI Life Edition\n€ 6.250 · 4.778 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5-tsi-life-edition/o/1728545",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1728545/6a381398112d48b71a9423a3394be433~v189994047.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197765.4850564,
+"laatst": 1793197765.4850564,
+"keer": 0,
+"fout": ""
+},
+"1820327": {
+"melding": {
+"titel": "BMW M3 (2026)",
+"bericht": "BMW M3 Touring xDrive Competition M-SPORT CARBON 2026 390kw VOLLL\n€ 69.950 · 12.613 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m3-bmw-m3-touring-xdrive-competition-m-sport-carbon-2026-390kw-volll/o/1820327",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1820327/cb2d286ade01bcc2af3eb03dbf29d099~v193195828.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197765.5141509,
+"laatst": 1793197765.5141509,
+"keer": 0,
+"fout": ""
+},
+"1810705": {
+"melding": {
+"titel": "Opnieuw geplaatst: Seat Leon (2022)",
+"bericht": "1.0 TSI Style Business Intense 110pk\n€ 9.650 · 111.921 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-leon-1-0-tsi-style-business-intense-110pk/o/1810705",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1810705/21a8a46137e65a550dcb88c433064cae~v190680598.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197768.0227628,
+"laatst": 1793197768.0227628,
+"keer": 0,
+"fout": ""
+},
+"1768353": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Mégane (2023)",
+"bericht": "1.3 TCe 140 Equilibre Navi\n€ 9.750 · 255.720 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-1-3-tce-140-equilibre-navi/o/1768353",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1768353/d20ccb2eb7f47c054b71fc0ccf8829d7~v177551031.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197770.9929194,
+"laatst": 1793197770.9929194,
+"keer": 0,
+"fout": ""
+},
+"1766098": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2023)",
+"bericht": "1.2 Puretech Allure Pack Aut\n€ 9.800 · 48.283 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-allure-pack-aut/o/1766098",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1766098/7e8617ae90126d23f8b55032ae06f538~v176859993.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197771.0234613,
+"laatst": 1793197771.0234613,
+"keer": 0,
+"fout": ""
+},
+"1774248": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2026)",
+"bericht": "1.2 Hybrid 110 e-DCS6 Style\n€ 8.450 · 15.340 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-hybrid-110-e-dcs6-style/o/1774248",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1774248/15df8d19e77327ddd61e6c516ddf6710~v179367805.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197774.3245127,
+"laatst": 1793197774.3245127,
+"keer": 0,
+"fout": ""
+},
+"1764774": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 2008 (2022)",
+"bericht": "1.2 PureTech Active Pack\n€ 8.750 · 105.242 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-active-pack/o/1764774",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1764774/07a892679cca46861491bc7b5232e1b4~v176429537.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197774.3563962,
+"laatst": 1793197774.3563962,
+"keer": 0,
+"fout": ""
+},
+"1775434": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 2008 (2022)",
+"bericht": "1.2 PureTech Active Pack 102pk\n€ 7.950 · 108.519 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-active-pack-102pk/o/1775434",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1775434/bb4cd1810aaa49aa7434197e3fbe9726~v179886112.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197774.3849773,
+"laatst": 1793197774.3849773,
+"keer": 0,
+"fout": ""
+},
+"1820320": {
+"melding": {
+"titel": "BMW 1-serie (2026)",
+"bericht": "Autoton Gesloten",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-autoton-gesloten/o/1820320",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1820320/47af8bce9648eb0d8c5e5a510303bd27~v193195066.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197774.4181461,
+"laatst": 1793197774.4181461,
+"keer": 0,
+"fout": ""
+},
+"1771555": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Corsa (2026)",
+"bericht": "1.2 Turbo Hybrid Edition\n€ 12.500 · 3.941 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-hybrid-edition/o/1771555",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1771555/70c77d1a7160e18fb8ca81a0ac52e9e0~v178501141.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197777.4516065,
+"laatst": 1793197777.4516065,
+"keer": 0,
+"fout": ""
+},
+"1768365": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Astra (2023)",
+"bericht": "SPORTS TOURER 1.2 Business Elegance\n€ 8.600 · 71.512 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-2-business-elegance/o/1768365",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1768365/b0c9127663a0d5cb8c47d251971d6dc2~v177553591.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793197777.4802165,
+"laatst": 1793197777.4802165,
 "keer": 0,
 "fout": ""
 }
