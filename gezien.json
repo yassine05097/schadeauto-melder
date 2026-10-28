@@ -5816,60 +5816,45 @@
 "1812130",
 "1812269",
 "1758381",
-"1817944"
+"1817944",
+"1820219",
+"1794434",
+"1820217",
+"1820212",
+"1820216",
+"1818570",
+"1820204",
+"1820208",
+"1820206",
+"1820190",
+"1820203",
+"1820200",
+"1820193",
+"1820187",
+"1715997"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820185,
+"hoogste_id": 1820219,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1820173",
-"1816268",
-"1820182",
-"1820185",
-"1820184",
-"1820183",
-"1817237",
-"1816960",
-"1820177",
-"1820181",
-"1819489",
-"1820180"
+"1820219",
+"1794434",
+"1820217",
+"1820212",
+"1820216",
+"1818570",
+"1820204",
+"1820208",
+"1820206",
+"1820190",
+"1815013",
+"1820203"
 ]
 },
 "wachtrij": {
-"1790221": {
-"melding": {
-"titel": "Opnieuw geplaatst: Opel Astra (2024)",
-"bericht": "exportprijs € 11.500 · 59.917 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra/o/1790221",
-"foto": "https://www.schadeautos.nl/cache/picture/997/1790221/17f85e4afc63c616fddf7de9ed9074d8~v184042613.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793175611.9500506,
-"laatst": 1793186198.2541544,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1816492": {
-"melding": {
-"titel": "Porsche 911 (2026)",
-"bericht": "4.0 GT3 992.2 Schalter Clubsport PCCB Chrono PDLS+ Lift Camera SHZ\n€ 162.950 · 18.081 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-911-4-0-gt3-992-2-schalter-clubsport-pccb-chrono-pdls-lift-camera-shz/o/1816492",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1816492/e690911b4a1b798adb9e2a91acb7b3af~v193175138.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793175612.1373703,
-"laatst": 1793175612.1373703,
-"keer": 0,
-"fout": ""
-},
 "1775735": {
 "melding": {
 "titel": "Opnieuw geplaatst: Skoda Octavia (2022)",
@@ -5881,9 +5866,9 @@
 "WhatsApp"
 ],
 "sinds": 1793178608.6105976,
-"laatst": 1793178608.6105976,
-"keer": 0,
-"fout": ""
+"laatst": 1793188723.5407102,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1820065": {
 "melding": {
@@ -6362,6 +6347,81 @@
 ],
 "sinds": 1793186228.70155,
 "laatst": 1793186228.70155,
+"keer": 0,
+"fout": ""
+},
+"1820219": {
+"melding": {
+"titel": "Polestar 2 (2025)",
+"bericht": "exportprijs € 7.800 · 8.976 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/polestar-2/o/1820219",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1820219/2acc2868677f36533c47f67d182f2e39~v193188498.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793188724.660248,
+"laatst": 1793188724.660248,
+"keer": 0,
+"fout": ""
+},
+"1794434": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes EQE (2023)",
+"bericht": "300 89kWh 180kW Luxury Line Pano Luchtvering\n€ 24.150 · 82.509 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqe-300-89kwh-180kw-luxury-line-pano-luchtvering/o/1794434",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1794434/60aa797b1871319eeb610d08375fce4a~v185734515.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793188724.790121,
+"laatst": 1793188724.790121,
+"keer": 0,
+"fout": ""
+},
+"1820212": {
+"melding": {
+"titel": "Volkswagen ID.3 (2023)",
+"bericht": "BEV 58KWH 150KW PRO EDITION ADVANTAGE\n€ 13.950 · 168.249 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-3-bev-58kwh-150kw-pro-edition-advantage/o/1820212",
+"foto": "https://www.schadeautos.nl/cache/picture/125/1820212/5d145eecabc2077b290ce32dfffaee7b~v193187978.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793188724.9211888,
+"laatst": 1793188724.9211888,
+"keer": 0,
+"fout": ""
+},
+"1820216": {
+"melding": {
+"titel": "Citroën Jumpy (2023)",
+"bericht": "exportprijs € 6.950 · 45.409 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-jumpy/o/1820216",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1820216/d6dc8ae5cfc00fb78a90752c18152958~v193187970.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793188730.58984,
+"laatst": 1793188730.58984,
+"keer": 0,
+"fout": ""
+},
+"1818570": {
+"melding": {
+"titel": "Peugeot 5008 (2022)",
+"bericht": "1.2PT 96kW Active Pack Business 7Persoons\n€ 10.950 · 132.849 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-5008-1-2pt-96kw-active-pack-business-7persoons/o/1818570",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1818570/98037f9c2dc7cc98de23c4e51fc5522f~v192741669.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793188730.7161756,
+"laatst": 1793188730.7161756,
 "keer": 0,
 "fout": ""
 }
