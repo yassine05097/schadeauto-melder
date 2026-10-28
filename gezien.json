@@ -5963,150 +5963,52 @@
 "1736863",
 "1820347",
 "1820346",
-"1820339"
+"1820339",
+"1807837",
+"1820382",
+"1820403",
+"1820406",
+"1820402",
+"1809338",
+"1820404",
+"1523660",
+"1820401",
+"1820398",
+"1820399",
+"1820396",
+"1798935",
+"1751647",
+"1820393",
+"1798798",
+"1820395",
+"1820379",
+"1820374",
+"1820377",
+"1820368",
+"1820349"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820366,
+"hoogste_id": 1820406,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1820137",
-"1820366",
-"1811477",
-"1765465",
-"1820074",
-"1820099",
-"1820090",
-"1820078",
-"1820354",
-"1728914",
-"1736863",
-"1820347"
+"1815481",
+"1807837",
+"1814147",
+"1818458",
+"1820382",
+"1820403",
+"1820406",
+"1820402",
+"1809338",
+"1820404",
+"1523660",
+"1820401"
 ]
 },
 "wachtrij": {
-"1791981": {
-"melding": {
-"titel": "Opnieuw geplaatst: BYD Seal U (2025)",
-"bericht": "1.5DM-i Hybrid 160kW Automaat Pano FWD Boost\n€ 14.800 · 32.999 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/byd-seal-u-1-5dm-i-hybrid-160kw-automaat-pano-fwd-boost/o/1791981",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1791981/af492f27bd1f53f669220e2522215ad8~v184699876.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793191303.4778893,
-"laatst": 1793200883.5025487,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1820239": {
-"melding": {
-"titel": "Peugeot 208 (2023)",
-"bericht": "1.2 PureTech Active Pack\n€ 5.750 · 82.128 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-active-pack/o/1820239",
-"foto": "https://www.schadeautos.nl/cache/picture/131/1820239/9ff0550d8edf344dd06ad4feee9d55ec~v193190409.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793191313.7966917,
-"laatst": 1793191313.7966917,
-"keer": 0,
-"fout": ""
-},
-"1808389": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW 3-serie (2022)",
-"bericht": "320e M-Pakket Pano\n€ 13.500 · 69.138 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-320e-m-pakket-pano/o/1808389",
-"foto": "https://www.schadeautos.nl/cache/picture/899/1808389/45a840fd5b55eeaa67a98e7d29e16fab~v190018059.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793191315.2012851,
-"laatst": 1793191315.2012851,
-"keer": 0,
-"fout": ""
-},
-"1820235": {
-"melding": {
-"titel": "Citroën Berlingo (2022)",
-"bericht": "1.5 hdi\n€ 3.550 · 124.841 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-berlingo-1-5-hdi/o/1820235",
-"foto": "https://www.schadeautos.nl/cache/picture/909/1820235/d2060ccebc9fdc6036b34b2514599f00~v193190066.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793191320.5786138,
-"laatst": 1793191320.5786138,
-"keer": 0,
-"fout": ""
-},
-"1791327": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW M3 (2022)",
-"bericht": "M3 COMPETITION M XDRIVE 510Pk NAP ORGINEEL NEDERLANDSE AUTO! Keramisch Carbon Dak\n€ 53.950 · 84.531 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m3-m3-competition-m-xdrive-510pk-nap-orgineel-nederlandse-auto-keramisch-carbon-dak/o/1791327",
-"foto": "https://www.schadeautos.nl/cache/picture/899/1791327/4ca6250248c675f6875d73e0c59b90ef~v184317016.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793191320.9485905,
-"laatst": 1793191320.9485905,
-"keer": 0,
-"fout": ""
-},
-"1820228": {
-"melding": {
-"titel": "Peugeot 308 (2023)",
-"bericht": "€ 9.679 · 23.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308/o/1820228",
-"foto": "https://www.schadeautos.nl/cache/picture/987/1820228/fd10b984395085af9200cabf550842fe~v193189712.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793191325.444745,
-"laatst": 1793191325.444745,
-"keer": 0,
-"fout": ""
-},
-"1820225": {
-"melding": {
-"titel": "Opel Frontera (2025)",
-"bericht": "€ 14.520 · 22.187 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-frontera/o/1820225",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1820225/46b0d703b323b254cb509ee55286be9c~v193189482.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793191331.8437526,
-"laatst": 1793191331.8437526,
-"keer": 0,
-"fout": ""
-},
-"1820218": {
-"melding": {
-"titel": "Toyota Yaris (2022)",
-"bericht": "1.5 Hybrid.Active AUT WEINIG KM REST BPM €200,-!!!\n€ 9.500 · 48.967 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5-hybrid-active-aut-weinig-km-rest-bpm-eur200/o/1820218",
-"foto": "https://www.schadeautos.nl/cache/picture/252/1820218/6a17e386fca9a32a8ef8f2088852ad7e~v193188741.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793191332.2207227,
-"laatst": 1793191332.2207227,
-"keer": 0,
-"fout": ""
-},
 "1798179": {
 "melding": {
 "titel": "Opnieuw geplaatst: MG ZS (2026)",
@@ -6118,9 +6020,9 @@
 "WhatsApp"
 ],
 "sinds": 1793194735.7971811,
-"laatst": 1793194735.7971811,
-"keer": 0,
-"fout": ""
+"laatst": 1793203913.7391362,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1812703": {
 "melding": {
@@ -6599,6 +6501,21 @@
 ],
 "sinds": 1793200886.226967,
 "laatst": 1793200886.226967,
+"keer": 0,
+"fout": ""
+},
+"1820379": {
+"melding": {
+"titel": "Suzuki Ignis (2024)",
+"bericht": "1.2 Hybrid\n€ 6.250 · 27.917 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-ignis-1-2-hybrid/o/1820379",
+"foto": "https://www.schadeautos.nl/cache/picture/1060/1820379/a3c53cb3f6dccafb9bbf9b8aeb960f06~v193202029.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793203917.173471,
+"laatst": 1793203917.173471,
 "keer": 0,
 "fout": ""
 }
