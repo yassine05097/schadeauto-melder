@@ -6299,195 +6299,38 @@
 "1820809",
 "1820808",
 "1820803",
-"1820806"
+"1820806",
+"1820825",
+"1820824",
+"1820822",
+"1820823",
+"1820821",
+"1813348",
+"1628395",
+"1820820"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820819,
+"hoogste_id": 1820825,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1820825",
+"1820824",
+"1820822",
+"1820823",
+"1820821",
+"1813348",
+"1628395",
+"1820820",
 "1820088",
 "1820819",
 "1820818",
-"1820815",
-"1820817",
-"1820247",
-"1820766",
-"1820813",
-"1820812",
-"1820809",
-"1820808",
-"1820803"
+"1820815"
 ]
 },
 "wachtrij": {
-"1820739": {
-"melding": {
-"titel": "Opel Corsa (2025)",
-"bericht": "GS line Automaat led stoelverwarming achteruitrijcamera\n25.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-line-automaat-led-stoelverwarming-achteruitrijcamera/o/1820739",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1820739/427a92a168948b6d9f43440c78bf75ac~v193283700.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283784.2712717,
-"laatst": 1793293090.9131923,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1820732": {
-"melding": {
-"titel": "Volvo V-60 (2023)",
-"bericht": "2.0 B4 PLUS BRIGHT AUTOMAAT 200 PK BJ 2023 51000 KM\n€ 14.950 · 51.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-0-b4-plus-bright-automaat-200-pk-bj-2023-51000-km/o/1820732",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1820732/086f1e65100850e142c68e698e6e1def~v193283215.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283784.3880444,
-"laatst": 1793283784.3880444,
-"keer": 0,
-"fout": ""
-},
-"1820722": {
-"melding": {
-"titel": "Audi Q4 (2025)",
-"bericht": "e-tron 40 Advanced edition 63 kWh\n€ 27.500 · 17.173 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-e-tron-40-advanced-edition-63-kwh/o/1820722",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1820722/bbed20238967bca449c3e71e86fd6239~v193282396.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283784.5090435,
-"laatst": 1793283784.5090435,
-"keer": 0,
-"fout": ""
-},
-"1820728": {
-"melding": {
-"titel": "Fiat Ducato (2025)",
-"bericht": "2.2MJ Maxi L4H2 Ecc Navi 2xCamera Lane-Assist Usb MF-Stuur 103KW/140PK\nexportprijs € 9.950 · 38.000 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-ducato-2-2mj-maxi-l4h2-ecc-navi-2xcamera-lane-assist-usb-mf-stuur-103kw-140pk/o/1820728",
-"foto": "https://www.schadeautos.nl/cache/picture/1013/1820728/811a3caa3c513c16b4098f04204f5b9c~v193282507.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283784.9478655,
-"laatst": 1793283784.9478655,
-"keer": 0,
-"fout": ""
-},
-"1820726": {
-"melding": {
-"titel": "Ford Focus (2023)",
-"bericht": "1.0 Hybrid ST Line X ( Panoramadak )\n€ 8.750 · 118.111 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-hybrid-st-line-x-panoramadak/o/1820726",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283787.823952,
-"laatst": 1793283787.823952,
-"keer": 0,
-"fout": ""
-},
-"1820719": {
-"melding": {
-"titel": "Opel Corsa (2024)",
-"bericht": "1.2 T Hybrid Edition\n€ 8.850 · 36.330 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-t-hybrid-edition/o/1820719",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283787.925759,
-"laatst": 1793283787.925759,
-"keer": 0,
-"fout": ""
-},
-"1820710": {
-"melding": {
-"titel": "Tesla Model 3 (2024)",
-"bericht": "RWD\n€ 28.800 · 94.244 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-rwd/o/1820710",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1820710/83b1be2c47a7f436157ff42a8cd70e3c~v193281080.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283788.029269,
-"laatst": 1793283788.029269,
-"keer": 0,
-"fout": ""
-},
-"1820709": {
-"melding": {
-"titel": "Dacia Jogger (2023)",
-"bericht": "1.0 TCe Extreme 7 Persoons ( Koppakking stuk ) op LPG\n€ 8.950 · 168.266 km · lpg",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-1-0-tce-extreme-7-persoons-koppakking-stuk-op-lpg/o/1820709",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283790.694601,
-"laatst": 1793283790.694601,
-"keer": 0,
-"fout": ""
-},
-"1820704": {
-"melding": {
-"titel": "Mercedes Citan (2026)",
-"bericht": "110 CDI 3pers Camera Airco\nexportprijs € 10.950 · 10.679 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-citan-110-cdi-3pers-camera-airco/o/1820704",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1820704/45df921ea13e5ceeb0e366bf33462dc5~v193280736.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283790.8064806,
-"laatst": 1793283790.8064806,
-"keer": 0,
-"fout": ""
-},
-"1820703": {
-"melding": {
-"titel": "Mercedes Vito (2025)",
-"bericht": "114 CDI Aut. Dubbelcabine\nexportprijs € 19.950 · 30.005 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-vito-114-cdi-aut-dubbelcabine/o/1820703",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1820703/9c6b528e3e40adf59b71feeee5641f7f~v193280535.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283790.92173,
-"laatst": 1793283790.92173,
-"keer": 0,
-"fout": ""
-},
-"1820698": {
-"melding": {
-"titel": "BYD SEAL (2026)",
-"bericht": "1.5 dm-I comfort hybride aut 6 touring bj 2026\n€ 14.900 · 5.340 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/byd-seal-1-5-dm-i-comfort-hybride-aut-6-touring-bj-2026/o/1820698",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1820698/729925f297a82c2e24121ed007238e70~v193280653.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793283794.1403582,
-"laatst": 1793283794.1403582,
-"keer": 0,
-"fout": ""
-},
 "1820707": {
 "melding": {
 "titel": "Kia Picanto (2022)",
@@ -6499,9 +6342,9 @@
 "WhatsApp"
 ],
 "sinds": 1793286997.1621559,
-"laatst": 1793286997.1621559,
-"keer": 0,
-"fout": ""
+"laatst": 1793295662.2659788,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1820512": {
 "melding": {
@@ -6800,6 +6643,36 @@
 ],
 "sinds": 1793293092.079433,
 "laatst": 1793293092.079433,
+"keer": 0,
+"fout": ""
+},
+"1820825": {
+"melding": {
+"titel": "Fiat 600 (2026)",
+"bericht": "HYBRID LA PRIMA\n€ 15.670 · 6.465 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-600-hybrid-la-prima/o/1820825",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1820825/839829d510bca96bc36e3e6000571f28~v193295015.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793295663.7327576,
+"laatst": 1793295663.7327576,
+"keer": 0,
+"fout": ""
+},
+"1820824": {
+"melding": {
+"titel": "Peugeot 2008 (2022)",
+"bericht": "ALLURE\n€ 8.950 · 44.219 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-allure/o/1820824",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1820824/0e30e349eedfa2c484ab2e7fccab72ea~v193295010.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793295663.7624853,
+"laatst": 1793295663.7624853,
 "keer": 0,
 "fout": ""
 }
