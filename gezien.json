@@ -6094,90 +6094,51 @@
 "1820544",
 "1820539",
 "1741316",
-"1820535"
+"1820535",
+"1820599",
+"1820591",
+"1820596",
+"1740138",
+"1820593",
+"1820590",
+"1820575",
+"1820587",
+"1820586",
+"1679601",
+"1820584",
+"1820407",
+"1820578",
+"1820579",
+"1820580",
+"1820564",
+"1820576",
+"1820577",
+"1636739",
+"1820574",
+"1820572"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820573,
+"hoogste_id": 1820599,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818211",
-"1820563",
-"1820565",
-"1774400",
-"1820573",
-"1820571",
-"1819415",
-"1816179",
-"1815590",
-"1811456",
-"1818371",
-"1820541"
+"1820599",
+"1820591",
+"1820596",
+"1740138",
+"1820593",
+"1820590",
+"1819013",
+"1820575",
+"1820587",
+"1820586",
+"1679601",
+"1820584"
 ]
 },
 "wachtrij": {
-"1799978": {
-"melding": {
-"titel": "Opnieuw geplaatst: Citroën C3 Aircross (2024)",
-"bericht": "Feel Pack\n€ 6.500 · 47.033 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-aircross-feel-pack/o/1799978",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1799978/20adef683d46fbe3c0ef54403e237231~v187578689.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793260511.8990324,
-"laatst": 1793269292.1037283,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1811315": {
-"melding": {
-"titel": "Opnieuw geplaatst: Citroën C3 (2024)",
-"bericht": "Shine\n€ 7.865 · 33.845 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-shine/o/1811315",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1811315/4046fe09771bc3ad99b8577a4f33a5d9~v190777631.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793260512.0200438,
-"laatst": 1793260512.0200438,
-"keer": 0,
-"fout": ""
-},
-"1783960": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW iX3 (2022)",
-"bericht": "M Sport\n€ 15.730 · 107.565 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix3-m-sport/o/1783960",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1783960/a9fbbdf030af689589de7db3e4728521~v182226198.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793260512.1487913,
-"laatst": 1793260512.1487913,
-"keer": 0,
-"fout": ""
-},
-"1820479": {
-"melding": {
-"titel": "Suzuki Wagon r (2022)",
-"bericht": "+ 1.3 GL MPV STUURBEKRACHTIGING ELEC PAKKET AFN TREKH B.J 2002\n€ 375 · 225.000 km",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-wagon-r-1-3-gl-mpv-stuurbekrachtiging-elec-pakket-afn-trekh-b-j-2002/o/1820479",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1820479/1c2b9011d6c701672e2352deac1cb30b~v193257491.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793260512.2886934,
-"laatst": 1793260512.2886934,
-"keer": 0,
-"fout": ""
-},
 "1820495": {
 "melding": {
 "titel": "Mercedes GLA (2022)",
@@ -6189,9 +6150,9 @@
 "WhatsApp"
 ],
 "sinds": 1793263252.9975967,
-"laatst": 1793263252.9975967,
-"keer": 0,
-"fout": ""
+"laatst": 1793271976.1889977,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1679865": {
 "melding": {
@@ -6280,6 +6241,66 @@
 ],
 "sinds": 1793269296.6567214,
 "laatst": 1793269296.6567214,
+"keer": 0,
+"fout": ""
+},
+"1820599": {
+"melding": {
+"titel": "Ford Galaxy (2023)",
+"bericht": "Hybrid Titanium 140KW 7-Sitzer\n€ 8.900 · 59.137 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-galaxy-hybrid-titanium-140kw-7-sitzer/o/1820599",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1820599/5c4a2c1d61a32eb606fa68fcdb22983b~v193271907.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793271977.1344304,
+"laatst": 1793271977.1344304,
+"keer": 0,
+"fout": ""
+},
+"1820577": {
+"melding": {
+"titel": "Tesla Model Y (2026)",
+"bericht": "Longe range awd 351 pk bj 2026 !\n€ 33.950 · 989 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-longe-range-awd-351-pk-bj-2026/o/1820577",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1820577/50992d7f50e910e93e23ef11794e7680~v193269584.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793271979.9879117,
+"laatst": 1793271979.9879117,
+"keer": 0,
+"fout": ""
+},
+"1820574": {
+"melding": {
+"titel": "Renault Austral (2024)",
+"bericht": "E-TECH 200 HYBRIDE TECHNO PANODAK AUTOMAAT LED NAVI CAMERA CLIMA B.J 11-2024\n€ 17.500 · 14.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral-e-tech-200-hybride-techno-panodak-automaat-led-navi-camera-clima-b-j-11-2024/o/1820574",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1820574/c46341e7788e8f8d849989620ab94aaa~v193269379.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793271980.1266763,
+"laatst": 1793271980.1266763,
+"keer": 0,
+"fout": ""
+},
+"1820572": {
+"melding": {
+"titel": "Kia Sportage (2026)",
+"bericht": "1.6 T-GDi Hybrid Comfortline Navi Clima\n€ 25.250 · 3.471 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-1-6-t-gdi-hybrid-comfortline-navi-clima/o/1820572",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1820572/58dbd64aa85ccfa1c153b0d0083f1d24~v193270190.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793271982.8785427,
+"laatst": 1793271982.8785427,
 "keer": 0,
 "fout": ""
 }
