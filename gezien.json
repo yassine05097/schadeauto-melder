@@ -6026,27 +6026,33 @@
 "1820468",
 "1820467",
 "1820466",
-"1820465"
+"1820465",
+"1820476",
+"1820475",
+"1820474",
+"1820473",
+"1820472",
+"1820471"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820470,
+"hoogste_id": 1820476,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1820464",
-"1820470",
-"1803094",
-"1820469",
-"1803091",
-"1806349",
-"1820468",
-"1820467",
-"1820466",
-"1820465",
-"1820226",
-"1820463"
+"1813811",
+"1820460",
+"1820025",
+"1816895",
+"1819069",
+"1820476",
+"1820475",
+"1820474",
+"1820473",
+"1820472",
+"1820471",
+"1820464"
 ]
 },
 "wachtrij": {
@@ -6061,8 +6067,8 @@
 "WhatsApp"
 ],
 "sinds": 1793254185.0955875,
-"laatst": 1793254185.0955875,
-"keer": 1,
+"laatst": 1793257141.1220255,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1820469": {
@@ -6137,6 +6143,66 @@
 ],
 "sinds": 1793254185.2458434,
 "laatst": 1793254185.2458434,
+"keer": 0,
+"fout": ""
+},
+"1820475": {
+"melding": {
+"titel": "Mercedes EQB (2025)",
+"bericht": "250+ Pano Led Stoelverw.\n€ 19.995 · 71.884 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-250-pano-led-stoelverw/o/1820475",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1820475/9af2d499974c30bb610e87757a5ac315~v193255291.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793257142.320114,
+"laatst": 1793257142.320114,
+"keer": 0,
+"fout": ""
+},
+"1820474": {
+"melding": {
+"titel": "Hyundai I-10 (2024)",
+"bericht": "1.0 Comfort Airco\n€ 8.750 · 83.586 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-airco/o/1820474",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1820474/72768cc7c3dc65e52d1ff3fcce059937~v193255185.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793257142.4626503,
+"laatst": 1793257142.4626503,
+"keer": 0,
+"fout": ""
+},
+"1820472": {
+"melding": {
+"titel": "Hyundai Tucson (2023)",
+"bericht": "1.6 T-GDI Aut. MHEV Leder Stoeverw Navi Led\n€ 14.250 · 31.833 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-aut-mhev-leder-stoeverw-navi-led/o/1820472",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1820472/cffb3eccc51c09e570c2897e02d18818~v193254941.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793257142.6658454,
+"laatst": 1793257142.6658454,
+"keer": 0,
+"fout": ""
+},
+"1820471": {
+"melding": {
+"titel": "Volkswagen Polo (2025)",
+"bericht": "1.0 TSI Life Edition\n€ 12.850 · 22.238 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-edition/o/1820471",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1820471/65dbd7b57913f1d301ba6d0c47dfa981~v193254749.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793257142.7937043,
+"laatst": 1793257142.7937043,
 "keer": 0,
 "fout": ""
 }
