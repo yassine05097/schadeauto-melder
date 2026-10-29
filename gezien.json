@@ -6016,30 +6016,131 @@
 "1820461",
 "1820460",
 "1820462",
-"1820463"
+"1820463",
+"1820464",
+"1820470",
+"1803094",
+"1820469",
+"1803091",
+"1806349",
+"1820468",
+"1820467",
+"1820466",
+"1820465"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820463,
+"hoogste_id": 1820470,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1820464",
+"1820470",
+"1803094",
+"1820469",
+"1803091",
+"1806349",
+"1820468",
+"1820467",
+"1820466",
+"1820465",
 "1820226",
-"1820463",
-"1820462",
-"1820461",
-"1820460",
-"1820459",
-"1820458",
-"1820457",
-"1820455",
-"1820454",
-"1820453",
-"1809160"
+"1820463"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1803094": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Octavia (2024)",
+"bericht": "AMBITION\n€ 12.300 · 41.002 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-ambition/o/1803094",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1803094/c76c9760a84e5fc2b6617e27a8746f7f~v193253631.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793254185.0955875,
+"laatst": 1793254185.0955875,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1820469": {
+"melding": {
+"titel": "Alfa Romeo Tonale (2023)",
+"bericht": "1.6D\n€ 13.000 · 50.709 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-tonale-1-6d/o/1820469",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1820469/814e47005c165c88273d396cc145db52~v193253628.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793254185.125399,
+"laatst": 1793254185.125399,
+"keer": 0,
+"fout": ""
+},
+"1806349": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 308 (2023)",
+"bericht": "III ACTIVE PACK\n€ 6.413 · 52.574 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-iii-active-pack/o/1806349",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1806349/895b94aa3aae46b9eee5c94707b9702a~v193253623.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793254185.157039,
+"laatst": 1793254185.157039,
+"keer": 0,
+"fout": ""
+},
+"1820468": {
+"melding": {
+"titel": "Opel Corsa (2022)",
+"bericht": "€ 4.400 · 61.728 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa/o/1820468",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1820468/be6016159bbf33e27e7900ba6b99879f~v193253619.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793254185.187797,
+"laatst": 1793254185.187797,
+"keer": 0,
+"fout": ""
+},
+"1820466": {
+"melding": {
+"titel": "Renault Captur (2025)",
+"bericht": "II EVOLUTION\n€ 11.500 · 30.280 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-ii-evolution/o/1820466",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1820466/71662f53ee8e26f4be881cf78054e6b6~v193253612.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793254185.2168572,
+"laatst": 1793254185.2168572,
+"keer": 0,
+"fout": ""
+},
+"1820465": {
+"melding": {
+"titel": "Nissan Qashqai (2024)",
+"bericht": "N-CONNECTA\n€ 13.915 · 22.666 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-n-connecta/o/1820465",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1820465/ef0c1eda49b982aa5a6a9645e81388fc~v193253609.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793254185.2458434,
+"laatst": 1793254185.2458434,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
