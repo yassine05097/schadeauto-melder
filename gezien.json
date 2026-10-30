@@ -6404,27 +6404,38 @@
 "1820967",
 "1808330",
 "1820958",
-"1802027"
+"1802027",
+"1820999",
+"1820994",
+"1820998",
+"1820997",
+"1820992",
+"1820996",
+"1820990",
+"1820988",
+"1820975",
+"1820987",
+"1820984"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820979,
+"hoogste_id": 1820999,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1815623",
-"1791085",
-"1819805",
-"1809435",
-"1819877",
-"1818372",
-"1820979",
-"1750129",
-"1808495",
-"1820102",
-"1812737",
-"1817262"
+"1820999",
+"1820994",
+"1820998",
+"1814917",
+"1820997",
+"1820992",
+"1820996",
+"1820354",
+"1817065",
+"1820990",
+"1820988",
+"1820975"
 ]
 },
 "wachtrij": {
@@ -6439,8 +6450,8 @@
 "WhatsApp"
 ],
 "sinds": 1793349075.3966706,
-"laatst": 1793357733.4332743,
-"keer": 3,
+"laatst": 1793359583.2526348,
+"keer": 4,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1820886": {
@@ -6740,6 +6751,21 @@
 ],
 "sinds": 1793357737.1683676,
 "laatst": 1793357737.1683676,
+"keer": 0,
+"fout": ""
+},
+"1820997": {
+"melding": {
+"titel": "Hyundai I-10 (2022)",
+"bericht": "1.0 TREND\n€ 3.950 · 13.465 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-trend/o/1820997",
+"foto": "https://www.schadeautos.nl/cache/picture/932/1820997/c44e2118c9516bf59957ba35e04d7977~v193358908.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793359584.321294,
+"laatst": 1793359584.321294,
 "keer": 0,
 "fout": ""
 }
