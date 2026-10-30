@@ -6477,90 +6477,47 @@
 "1820131",
 "1821066",
 "1797129",
-"1821063"
+"1821063",
+"1821128",
+"1821129",
+"1821084",
+"1784613",
+"1759210",
+"1821124",
+"1821122",
+"1821110",
+"1795608",
+"1765784",
+"1821121",
+"1821119",
+"1821120",
+"1821118",
+"1731426",
+"1821109",
+"1821108"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821106,
+"hoogste_id": 1821129,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1798227",
-"1811820",
-"1821094",
-"1821093",
-"1821106",
-"1821092",
-"1820070",
-"1797212",
-"1819145",
-"1821085",
-"1821087",
-"1821086"
+"1821128",
+"1821129",
+"1821084",
+"1784613",
+"1759210",
+"1821124",
+"1821122",
+"1821110",
+"1795608",
+"1765784",
+"1821121",
+"1799994"
 ]
 },
 "wachtrij": {
-"1791085": {
-"melding": {
-"titel": "Opnieuw geplaatst: Hyundai Kona (2024)",
-"bericht": "1.6GDI 77kW HEV Premium Leder Memory\n€ 15.700 · 14.916 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-1-6gdi-77kw-hev-premium-leder-memory/o/1791085",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1791085/65ac00f72dcbe1972398226a1bbdf03d~v184276094.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793357734.3949661,
-"laatst": 1793368282.1567159,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1820979": {
-"melding": {
-"titel": "Opel Combo (2023)",
-"bericht": "Life E Ultimate\n94.322 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-combo-life-e-ultimate/o/1820979",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1820979/60320181a9ea705fd6550206630e7f6e~v193356860.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793357734.5009665,
-"laatst": 1793357734.5009665,
-"keer": 0,
-"fout": ""
-},
-"1820972": {
-"melding": {
-"titel": "Volkswagen Golf (2024)",
-"bericht": "1.4 eHybrid\n€ 15.500 · 51.521 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-4-ehybrid/o/1820972",
-"foto": "https://www.schadeautos.nl/cache/picture/270/1820972/396a233d061451a15fb787d43e2e0183~v193356122.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793357737.1683676,
-"laatst": 1793357737.1683676,
-"keer": 0,
-"fout": ""
-},
-"1820997": {
-"melding": {
-"titel": "Hyundai I-10 (2022)",
-"bericht": "1.0 TREND\n€ 3.950 · 13.465 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-trend/o/1820997",
-"foto": "https://www.schadeautos.nl/cache/picture/932/1820997/c44e2118c9516bf59957ba35e04d7977~v193358908.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793359584.321294,
-"laatst": 1793359584.321294,
-"keer": 0,
-"fout": ""
-},
 "1821055": {
 "melding": {
 "titel": "Volkswagen Caravelle (2024)",
@@ -6572,9 +6529,9 @@
 "WhatsApp"
 ],
 "sinds": 1793365026.3903763,
-"laatst": 1793365026.3903763,
-"keer": 0,
-"fout": ""
+"laatst": 1793371316.141232,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821052": {
 "melding": {
@@ -6813,6 +6770,36 @@
 ],
 "sinds": 1793368289.560569,
 "laatst": 1793368289.560569,
+"keer": 0,
+"fout": ""
+},
+"1821119": {
+"melding": {
+"titel": "Kia Rio (2023)",
+"bericht": "BENZINE - GT-LINE\n€ 7.250 · 49.758 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-rio-benzine-gt-line/o/1821119",
+"foto": "https://www.schadeautos.nl/cache/picture/967/1821119/a1723fa9a0348ad70a02b1813ddeb420~v193369319.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793371319.4199615,
+"laatst": 1793371319.4199615,
+"keer": 0,
+"fout": ""
+},
+"1821118": {
+"melding": {
+"titel": "BYD Seal U (2026)",
+"bericht": "1.5 DM-i FWD Boost\n€ 17.700 · 2.235 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/byd-seal-u-1-5-dm-i-fwd-boost/o/1821118",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1821118/b7e157e2eed04d3edbeeae9ebf1b9519~v193368710.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793371319.450291,
+"laatst": 1793371319.450291,
 "keer": 0,
 "fout": ""
 }
