@@ -6395,27 +6395,36 @@
 "1820934",
 "1820933",
 "1820932",
-"1756169"
+"1756169",
+"1791085",
+"1820979",
+"1808495",
+"1820972",
+"1820969",
+"1820967",
+"1808330",
+"1820958",
+"1802027"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820961,
+"hoogste_id": 1820979,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1819145",
-"1820961",
-"1820957",
-"1820959",
-"1778239",
-"1819142",
-"1792907",
-"1752160",
-"1819121",
-"1804355",
-"1760086",
-"1796772"
+"1815623",
+"1791085",
+"1819805",
+"1809435",
+"1819877",
+"1818372",
+"1820979",
+"1750129",
+"1808495",
+"1820102",
+"1812737",
+"1817262"
 ]
 },
 "wachtrij": {
@@ -6430,8 +6439,8 @@
 "WhatsApp"
 ],
 "sinds": 1793349075.3966706,
-"laatst": 1793355171.1444485,
-"keer": 2,
+"laatst": 1793357733.4332743,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1820886": {
@@ -6686,6 +6695,51 @@
 ],
 "sinds": 1793355184.2382965,
 "laatst": 1793355184.2382965,
+"keer": 0,
+"fout": ""
+},
+"1791085": {
+"melding": {
+"titel": "Opnieuw geplaatst: Hyundai Kona (2024)",
+"bericht": "1.6GDI 77kW HEV Premium Leder Memory\n€ 15.700 · 14.916 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-1-6gdi-77kw-hev-premium-leder-memory/o/1791085",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1791085/65ac00f72dcbe1972398226a1bbdf03d~v184276094.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793357734.3949661,
+"laatst": 1793357734.3949661,
+"keer": 0,
+"fout": ""
+},
+"1820979": {
+"melding": {
+"titel": "Opel Combo (2023)",
+"bericht": "Life E Ultimate\n94.322 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-combo-life-e-ultimate/o/1820979",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1820979/60320181a9ea705fd6550206630e7f6e~v193356860.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793357734.5009665,
+"laatst": 1793357734.5009665,
+"keer": 0,
+"fout": ""
+},
+"1820972": {
+"melding": {
+"titel": "Volkswagen Golf (2024)",
+"bericht": "1.4 eHybrid\n€ 15.500 · 51.521 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-4-ehybrid/o/1820972",
+"foto": "https://www.schadeautos.nl/cache/picture/270/1820972/396a233d061451a15fb787d43e2e0183~v193356122.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793357737.1683676,
+"laatst": 1793357737.1683676,
 "keer": 0,
 "fout": ""
 }
