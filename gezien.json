@@ -6370,27 +6370,52 @@
 "1820892",
 "1781401",
 "1789195",
-"1789533"
+"1789533",
+"1820961",
+"1820957",
+"1820959",
+"1804355",
+"1820947",
+"1766751",
+"1820948",
+"1784995",
+"1820942",
+"1808494",
+"1809467",
+"1782189",
+"1809523",
+"1813498",
+"1782168",
+"1820926",
+"1820946",
+"1820944",
+"1820940",
+"1757346",
+"1782191",
+"1820934",
+"1820933",
+"1820932",
+"1756169"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1820917,
+"hoogste_id": 1820961,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1820916",
-"1820911",
-"1820917",
-"1820914",
-"1735692",
-"1820901",
-"1820908",
-"1820905",
-"1817625",
-"1814553",
-"1812466",
-"1817500"
+"1819145",
+"1820961",
+"1820957",
+"1820959",
+"1778239",
+"1819142",
+"1792907",
+"1752160",
+"1819121",
+"1804355",
+"1760086",
+"1796772"
 ]
 },
 "wachtrij": {
@@ -6405,8 +6430,8 @@
 "WhatsApp"
 ],
 "sinds": 1793349075.3966706,
-"laatst": 1793352166.1691995,
-"keer": 1,
+"laatst": 1793355171.1444485,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1820886": {
@@ -6541,6 +6566,126 @@
 ],
 "sinds": 1793352173.559057,
 "laatst": 1793352173.559057,
+"keer": 0,
+"fout": ""
+},
+"1820961": {
+"melding": {
+"titel": "Polestar 4 (2025)",
+"bericht": "Coupe 400 kW Long Range Dual\n€ 22.385 · 22.395 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/polestar-4-coupe-400-kw-long-range-dual/o/1820961",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1820961/dcc8a3070d811864778f3b88ea983188~v193354832.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793355172.1167693,
+"laatst": 1793355172.1167693,
+"keer": 0,
+"fout": ""
+},
+"1820947": {
+"melding": {
+"titel": "Opel Corsa (2023)",
+"bericht": "EDITION\n€ 7.400 · 85.525 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-edition/o/1820947",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1820947/433f23339dc6c3ace7c3c35d7f2495be~v193354010.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793355175.782188,
+"laatst": 1793355175.782188,
+"keer": 0,
+"fout": ""
+},
+"1784995": {
+"melding": {
+"titel": "Opnieuw geplaatst: Fiat 500 (2023)",
+"bericht": "1.0 Hybrid\n€ 6.600 · 18.749 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybrid/o/1784995",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1784995/72c034340efe6a81ccf887dbfce3f7b3~v182467149.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793355175.886244,
+"laatst": 1793355175.886244,
+"keer": 0,
+"fout": ""
+},
+"1820942": {
+"melding": {
+"titel": "Toyota Aygo (2023)",
+"bericht": "X Pulse\n€ 6.900 · 57.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-pulse/o/1820942",
+"foto": "https://www.schadeautos.nl/cache/picture/270/1820942/78a3fc51235460615f2f082ba6005cbc~v193353827.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793355176.006301,
+"laatst": 1793355176.006301,
+"keer": 0,
+"fout": ""
+},
+"1808494": {
+"melding": {
+"titel": "Opnieuw geplaatst: Fiat 500 (2023)",
+"bericht": "1.0 Hybrid\n€ 6.850 · 18.749 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybrid/o/1808494",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1808494/9f7b928886fb3a08604226d9a4bbf3e5~v190067882.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793355176.11579,
+"laatst": 1793355176.11579,
+"keer": 0,
+"fout": ""
+},
+"1809523": {
+"melding": {
+"titel": "Opnieuw geplaatst: Fiat 500 (2023)",
+"bericht": "1.0 Hybrid\n€ 8.650 · 28.396 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybrid/o/1809523",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1809523/53cccbe1d324a139b0bc02faae993961~v190259725.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793355176.2169485,
+"laatst": 1793355176.2169485,
+"keer": 0,
+"fout": ""
+},
+"1757346": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia EV3 (2025)",
+"bericht": "Air 81.4 kWh\n€ 17.450 · 23.686 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev3-air-81-4-kwh/o/1757346",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1757346/4f3ad147325126ee2bcaf7037b21707a~v174349373.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793355181.5801039,
+"laatst": 1793355181.5801039,
+"keer": 0,
+"fout": ""
+},
+"1820932": {
+"melding": {
+"titel": "Suzuki Wagon r (2022)",
+"bericht": "R + 1.3 GL MPV STUURBEKRACHTIGING ELEC PAKKET AFN TREKH B.J 2002\n€ 390 · 225.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-wagon-r-r-1-3-gl-mpv-stuurbekrachtiging-elec-pakket-afn-trekh-b-j-2002/o/1820932",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1820932/ee06b97646d7690845c18815bafd327a~v193352444.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793355184.2382965,
+"laatst": 1793355184.2382965,
 "keer": 0,
 "fout": ""
 }
