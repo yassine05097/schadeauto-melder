@@ -6454,150 +6454,53 @@
 "1821035",
 "1821034",
 "1821029",
-"1821028"
+"1821028",
+"1821094",
+"1821093",
+"1821106",
+"1821092",
+"1820070",
+"1821085",
+"1821087",
+"1821086",
+"1716039",
+"1821081",
+"1821077",
+"1821080",
+"1821033",
+"1821075",
+"1821079",
+"1821078",
+"1821073",
+"1821072",
+"1821069",
+"1820131",
+"1821066",
+"1797129",
+"1821063"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821061,
+"hoogste_id": 1821106,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821059",
-"1821061",
-"1809214",
-"1821042",
-"1821056",
-"1821057",
-"1821055",
-"1821046",
-"1821052",
-"1821051",
-"1821050",
-"1821049"
+"1798227",
+"1811820",
+"1821094",
+"1821093",
+"1821106",
+"1821092",
+"1820070",
+"1797212",
+"1819145",
+"1821085",
+"1821087",
+"1821086"
 ]
 },
 "wachtrij": {
-"1820961": {
-"melding": {
-"titel": "Polestar 4 (2025)",
-"bericht": "Coupe 400 kW Long Range Dual\n€ 22.385 · 22.395 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/polestar-4-coupe-400-kw-long-range-dual/o/1820961",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1820961/dcc8a3070d811864778f3b88ea983188~v193354832.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793355172.1167693,
-"laatst": 1793365025.5795307,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1820947": {
-"melding": {
-"titel": "Opel Corsa (2023)",
-"bericht": "EDITION\n€ 7.400 · 85.525 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-edition/o/1820947",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1820947/433f23339dc6c3ace7c3c35d7f2495be~v193354010.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793355175.782188,
-"laatst": 1793355175.782188,
-"keer": 0,
-"fout": ""
-},
-"1784995": {
-"melding": {
-"titel": "Opnieuw geplaatst: Fiat 500 (2023)",
-"bericht": "1.0 Hybrid\n€ 6.600 · 18.749 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybrid/o/1784995",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1784995/72c034340efe6a81ccf887dbfce3f7b3~v182467149.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793355175.886244,
-"laatst": 1793355175.886244,
-"keer": 0,
-"fout": ""
-},
-"1820942": {
-"melding": {
-"titel": "Toyota Aygo (2023)",
-"bericht": "X Pulse\n€ 6.900 · 57.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-pulse/o/1820942",
-"foto": "https://www.schadeautos.nl/cache/picture/270/1820942/78a3fc51235460615f2f082ba6005cbc~v193353827.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793355176.006301,
-"laatst": 1793355176.006301,
-"keer": 0,
-"fout": ""
-},
-"1808494": {
-"melding": {
-"titel": "Opnieuw geplaatst: Fiat 500 (2023)",
-"bericht": "1.0 Hybrid\n€ 6.850 · 18.749 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybrid/o/1808494",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1808494/9f7b928886fb3a08604226d9a4bbf3e5~v190067882.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793355176.11579,
-"laatst": 1793355176.11579,
-"keer": 0,
-"fout": ""
-},
-"1809523": {
-"melding": {
-"titel": "Opnieuw geplaatst: Fiat 500 (2023)",
-"bericht": "1.0 Hybrid\n€ 8.650 · 28.396 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybrid/o/1809523",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1809523/53cccbe1d324a139b0bc02faae993961~v190259725.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793355176.2169485,
-"laatst": 1793355176.2169485,
-"keer": 0,
-"fout": ""
-},
-"1757346": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia EV3 (2025)",
-"bericht": "Air 81.4 kWh\n€ 17.450 · 23.686 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev3-air-81-4-kwh/o/1757346",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1757346/4f3ad147325126ee2bcaf7037b21707a~v174349373.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793355181.5801039,
-"laatst": 1793355181.5801039,
-"keer": 0,
-"fout": ""
-},
-"1820932": {
-"melding": {
-"titel": "Suzuki Wagon r (2022)",
-"bericht": "R + 1.3 GL MPV STUURBEKRACHTIGING ELEC PAKKET AFN TREKH B.J 2002\n€ 390 · 225.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-wagon-r-r-1-3-gl-mpv-stuurbekrachtiging-elec-pakket-afn-trekh-b-j-2002/o/1820932",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1820932/ee06b97646d7690845c18815bafd327a~v193352444.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793355184.2382965,
-"laatst": 1793355184.2382965,
-"keer": 0,
-"fout": ""
-},
 "1791085": {
 "melding": {
 "titel": "Opnieuw geplaatst: Hyundai Kona (2024)",
@@ -6609,9 +6512,9 @@
 "WhatsApp"
 ],
 "sinds": 1793357734.3949661,
-"laatst": 1793357734.3949661,
-"keer": 0,
-"fout": ""
+"laatst": 1793368282.1567159,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1820979": {
 "melding": {
@@ -6790,6 +6693,126 @@
 ],
 "sinds": 1793365029.1752653,
 "laatst": 1793365029.1752653,
+"keer": 0,
+"fout": ""
+},
+"1821094": {
+"melding": {
+"titel": "Audi A5 (2026)",
+"bericht": "AVANT 2.0 e-Hybrid Quattro S-edition\n€ 36.900 · 11.566 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a5-avant-2-0-e-hybrid-quattro-s-edition/o/1821094",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1821094/3f39170fa438f4624aafd4fa8c574258~v193367953.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793368283.0276363,
+"laatst": 1793368283.0276363,
+"keer": 0,
+"fout": ""
+},
+"1820070": {
+"melding": {
+"titel": "Tesla Model 3 (2024)",
+"bericht": "78kWh 461kW Performance AWD\n€ 38.950 · 46.291 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-78kwh-461kw-performance-awd/o/1820070",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1820070/e3364fd672bc5b4de18a55d59d8db11a~v193177227.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793368283.190741,
+"laatst": 1793368283.190741,
+"keer": 0,
+"fout": ""
+},
+"1821087": {
+"melding": {
+"titel": "BMW iX1 (2023)",
+"bericht": "30 xDrive M Sport 230 KW Pano Harman LED\n€ 22.900 · 95.161 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-30-xdrive-m-sport-230-kw-pano-harman-led/o/1821087",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1821087/00ec43d7283b19b03f64398b19e6119b~v193366705.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793368283.3965724,
+"laatst": 1793368283.3965724,
+"keer": 0,
+"fout": ""
+},
+"1821086": {
+"melding": {
+"titel": "Audi A6 (2025)",
+"bericht": "e-tron Sportback performance 270 kW\n€ 23.900 · 38.348 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-e-tron-sportback-performance-270-kw/o/1821086",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1821086/f6114766c2e2eddf16a761355e069f2e~v193366703.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793368283.4968514,
+"laatst": 1793368283.4968514,
+"keer": 0,
+"fout": ""
+},
+"1821077": {
+"melding": {
+"titel": "Ford Focus (2023)",
+"bericht": "1.0 EcoBoost Hybrid ST Line\n€ 5.950 · 67.200 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line/o/1821077",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1821077/845dd72a5a83437d0683296f5ef19840~v193366429.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793368286.6603513,
+"laatst": 1793368286.6603513,
+"keer": 0,
+"fout": ""
+},
+"1821072": {
+"melding": {
+"titel": "Jeep Avenger (2024)",
+"bericht": "1.2 e-HYBRID Summit AUTOMAAT 101 PK -NAVI-PDC-CAMERA\n€ 10.750 · 53.400 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-avenger-1-2-e-hybrid-summit-automaat-101-pk-navi-pdc-camera/o/1821072",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1821072/d1ccef74c804fb727d5fe23f93cf8b46~v193366054.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793368286.7741256,
+"laatst": 1793368286.7741256,
+"keer": 0,
+"fout": ""
+},
+"1820131": {
+"melding": {
+"titel": "Skoda Kodiaq (2025)",
+"bericht": "1.5TSI 110kW Automaat PHEV Sportline Business\n€ 30.850 · 34.180 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-1-5tsi-110kw-automaat-phev-sportline-business/o/1820131",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1820131/881067d6a73760995a66cc3b696c812f~v193180796.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793368289.4454665,
+"laatst": 1793368289.4454665,
+"keer": 0,
+"fout": ""
+},
+"1797129": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Niro (2024)",
+"bericht": "1.6GDI Hybrid 77kW Automaat Dynamicline\n€ 16.350 · 34.240 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-1-6gdi-hybrid-77kw-automaat-dynamicline/o/1797129",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1797129/0b57c45f259d38d41a9f9c04e9daaf63~v186640374.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793368289.560569,
+"laatst": 1793368289.560569,
 "keer": 0,
 "fout": ""
 }
