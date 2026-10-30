@@ -6543,15 +6543,20 @@
 "1821183",
 "1821197",
 "1821190",
-"1821187"
+"1821187",
+"1821209",
+"1821198"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821197,
+"hoogste_id": 1821209,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1821209",
+"1821198",
+"1819012",
 "1821197",
 "1821190",
 "1821187",
@@ -6560,88 +6565,10 @@
 "1821183",
 "1810478",
 "1799122",
-"1821182",
-"1821174",
-"1821181",
-"1821180"
+"1821182"
 ]
 },
 "wachtrij": {
-"1821138": {
-"melding": {
-"titel": "Audi Q4 (2024)",
-"bericht": "45 Advanced Edition 82 kWh-SCHUIFDAK-CAMERA-NAVI -210 KW 286 PK\nexportprijs € 22.950 · 75.022 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-45-advanced-edition-82-kwh-schuifdak-camera-navi-210-kw-286-pk/o/1821138",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1821138/4720eab7b4d137e89af6c0b95bc6700d~v193372501.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793374222.1178792,
-"laatst": 1793384356.5096202,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1821141": {
-"melding": {
-"titel": "Audi (2026)",
-"bericht": "Gesloten maandag 2 november.",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-gesloten-maandag-2-november/o/1821141",
-"foto": "https://www.schadeautos.nl/cache/picture/67/1821141/762c22f13b78bcb782db6d21df044b8e~v193372539.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793374222.1475115,
-"laatst": 1793374222.1475115,
-"keer": 0,
-"fout": ""
-},
-"1821130": {
-"melding": {
-"titel": "Tesla Model 3 (2024)",
-"bericht": "RWD 60 kWh | Highland | Stoelverkoeling | Stuurverwarming\n€ 17.800 · 88.894 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-rwd-60-kwh-highland-stoelverkoeling-stuurverwarming/o/1821130",
-"foto": "https://www.schadeautos.nl/cache/picture/375/1821130/79c380b26e257c7a4054e6a4984de79c~v193370893.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793374222.188086,
-"laatst": 1793374222.188086,
-"keer": 0,
-"fout": ""
-},
-"1821134": {
-"melding": {
-"titel": "BMW X1 (2024)",
-"bericht": "xDrive30e M Sport Pro HUD/360/H&K/NAVI\n€ 25.900 · 38.341 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive30e-m-sport-pro-hud-360-h-k-navi/o/1821134",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1821134/4f938fdcf2332847626ca6d8ae8562ed~v193371504.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793374224.7031577,
-"laatst": 1793374224.7031577,
-"keer": 0,
-"fout": ""
-},
-"1821131": {
-"melding": {
-"titel": "Audi A3 (2022)",
-"bericht": "1.4 45 TFSIe 16V Hatchback 4Dr Elektrisch Benzine 1.395cc 180kW (245pk) FWD\n€ 11.450 · 60.348 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-1-4-45-tfsie-16v-hatchback-4dr-elektrisch-benzine-1-395cc-180kw-245pk-fwd/o/1821131",
-"foto": "https://www.schadeautos.nl/cache/picture/146/1821131/3178b13c83e1720f8679d67280416ca6~v193371266.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793374224.73306,
-"laatst": 1793374224.73306,
-"keer": 0,
-"fout": ""
-},
 "1821161": {
 "melding": {
 "titel": "Cupra Leon (2022)",
@@ -6653,9 +6580,9 @@
 "WhatsApp"
 ],
 "sinds": 1793377192.05794,
-"laatst": 1793377192.05794,
-"keer": 0,
-"fout": ""
+"laatst": 1793387384.5080626,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821165": {
 "melding": {
@@ -6819,6 +6746,36 @@
 ],
 "sinds": 1793384358.8042243,
 "laatst": 1793384358.8042243,
+"keer": 0,
+"fout": ""
+},
+"1821209": {
+"melding": {
+"titel": "Volkswagen Tiguan (2026)",
+"bericht": "1.5 TSI eHybride IQ-Light 360View Virtual Keyless Sfeerverl. Acc Lane-Assist 1/2Leder Trekhaak\n€ 9.950 · 6.500 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-tsi-ehybride-iq-light-360view-virtual-keyless-sfeerverl-acc-lane-assist-1-2leder-trekhaak/o/1821209",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1821209/e271f5469d7d7813f88ae9e246453d21~v193385372.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793387385.4954462,
+"laatst": 1793387385.4954462,
+"keer": 0,
+"fout": ""
+},
+"1821198": {
+"melding": {
+"titel": "Toyota bZ4X (2026)",
+"bericht": "Full Electric\n€ 25.500 · 30.729 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-bz4x-full-electric/o/1821198",
+"foto": "https://www.schadeautos.nl/cache/picture/13/1821198/4973d7f0a09f42ea8a737cb30867bbfa~v193384631.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793387385.522946,
+"laatst": 1793387385.522946,
 "keer": 0,
 "fout": ""
 }
