@@ -6631,15 +6631,23 @@
 "1806714",
 "1821328",
 "1821327",
-"1821326"
+"1821326",
+"1802619",
+"1821330",
+"1821331",
+"1821329"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821328,
+"hoogste_id": 1821331,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1802619",
+"1821330",
+"1821331",
+"1821329",
 "1821328",
 "1821327",
 "1821326",
@@ -6647,44 +6655,10 @@
 "1806714",
 "1821305",
 "1821301",
-"1821304",
-"1821303",
-"1821302",
-"1821300",
-"1821277"
+"1821304"
 ]
 },
 "wachtrij": {
-"1821277": {
-"melding": {
-"titel": "Skoda Octavia (2023)",
-"bericht": "1.0 TSI GREENTECH SPORT BUSINESS\n€ 10.500 · 116.653 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-0-tsi-greentech-sport-business/o/1821277",
-"foto": "https://www.schadeautos.nl/cache/picture/125/1821277/3b09d230e2d7263c4473ee05a47f3812~v193452473.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793453714.2572582,
-"laatst": 1793463655.2935817,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1821299": {
-"melding": {
-"titel": "Opel Vivaro (2022)",
-"bericht": "Kombi 1.5 CDTI L3H1 9-Sitzer Klima Tempom\n€ 19.950 · 129.717 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vivaro-kombi-1-5-cdti-l3h1-9-sitzer-klima-tempom/o/1821299",
-"foto": "https://www.schadeautos.nl/cache/picture/245/1821299/dc42bb82ac6a4e9ee435d5a85dc1b3b5~v193452083.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793453714.3598611,
-"laatst": 1793453714.3598611,
-"keer": 0,
-"fout": ""
-},
 "1821305": {
 "melding": {
 "titel": "Audi A3 (2024)",
@@ -6696,9 +6670,9 @@
 "WhatsApp"
 ],
 "sinds": 1793456087.2921603,
-"laatst": 1793456087.2921603,
-"keer": 0,
-"fout": ""
+"laatst": 1793465834.8379333,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821301": {
 "melding": {
@@ -6727,6 +6701,21 @@
 ],
 "sinds": 1793463656.2552643,
 "laatst": 1793463656.2552643,
+"keer": 0,
+"fout": ""
+},
+"1821331": {
+"melding": {
+"titel": "Smart Fortwo (2026)",
+"bericht": "Airco automaat\n€ 600 · 155.000 km",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/smart-fortwo-airco-automaat/o/1821331",
+"foto": "https://www.schadeautos.nl/cache/picture/1066/1821331/3d388ecac91086626af766276529f3a6~v193464571.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793465835.472829,
+"laatst": 1793465835.472829,
 "keer": 0,
 "fout": ""
 }
