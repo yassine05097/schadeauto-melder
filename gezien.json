@@ -6564,27 +6564,30 @@
 "1798557",
 "1821220",
 "1712416",
-"1802968"
+"1802968",
+"1693096",
+"1821225",
+"1821224"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821221,
+"hoogste_id": 1821225,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1693096",
+"1820783",
+"1809947",
+"1818224",
+"1817970",
+"1819521",
+"1821225",
+"1812285",
+"1821224",
 "1821221",
 "1783379",
-"1798557",
-"1810098",
-"1821220",
-"1816031",
-"1712416",
-"1753215",
-"1749810",
-"1816787",
-"1817418",
-"1816209"
+"1798557"
 ]
 },
 "wachtrij": {
@@ -6599,8 +6602,8 @@
 "WhatsApp"
 ],
 "sinds": 1793431128.5260167,
-"laatst": 1793433868.081092,
-"keer": 2,
+"laatst": 1793436257.9888854,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1810476": {
@@ -6630,6 +6633,21 @@
 ],
 "sinds": 1793433869.076435,
 "laatst": 1793433869.076435,
+"keer": 0,
+"fout": ""
+},
+"1821224": {
+"melding": {
+"titel": "Tesla Model Y (2024)",
+"bericht": "Long Range Dual Motor AWD 75 kWh 351 PK-LEDER-CAMERA-NAVI\nexportprijs € 21.750 · 61.749 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-long-range-dual-motor-awd-75-kwh-351-pk-leder-camera-navi/o/1821224",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1821224/689878db17c966e07666c81c215171c9~v193435579.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793436258.8482268,
+"laatst": 1793436258.8482268,
 "keer": 0,
 "fout": ""
 }
