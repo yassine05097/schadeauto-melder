@@ -6570,27 +6570,39 @@
 "1821224",
 "1821240",
 "1802134",
-"1821238"
+"1821238",
+"1819379",
+"1821252",
+"1821251",
+"1821250",
+"1816383",
+"1821248",
+"1821246",
+"1821245",
+"1821243",
+"1802091",
+"1821242",
+"1821241"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821240,
+"hoogste_id": 1821252,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821240",
-"1816972",
-"1802134",
-"1818171",
-"1821238",
-"1818451",
-"1820541",
-"1820839",
-"1820204",
-"1812849",
-"1693096",
-"1820783"
+"1819379",
+"1811391",
+"1821252",
+"1821251",
+"1821250",
+"1816383",
+"1821248",
+"1821246",
+"1821245",
+"1821243",
+"1802091",
+"1821242"
 ]
 },
 "wachtrij": {
@@ -6605,8 +6617,8 @@
 "WhatsApp"
 ],
 "sinds": 1793431128.5260167,
-"laatst": 1793438528.5911806,
-"keer": 4,
+"laatst": 1793440753.39371,
+"keer": 5,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1810476": {
@@ -6681,6 +6693,96 @@
 ],
 "sinds": 1793438529.5825295,
 "laatst": 1793438529.5825295,
+"keer": 0,
+"fout": ""
+},
+"1821251": {
+"melding": {
+"titel": "Kia Ceed (2024)",
+"bericht": "GT Line Business DIESEL HYBRIDE PANO LEDER LED\n11.688 km · hybride diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-gt-line-business-diesel-hybride-pano-leder-led/o/1821251",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1821251/abe91af3ed774b798219514761b9da6a~v193440157.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793440754.27041,
+"laatst": 1793440754.27041,
+"keer": 0,
+"fout": ""
+},
+"1821248": {
+"melding": {
+"titel": "Hyundai I-30 (2024)",
+"bericht": "N 280pk Kuipstoelen Panoramadak LED Full\n13.850 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-n-280pk-kuipstoelen-panoramadak-led-full/o/1821248",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1821248/a0663ac0d35ba85fc5a3c49a6c8bcd9f~v193439742.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793440754.3811116,
+"laatst": 1793440754.3811116,
+"keer": 0,
+"fout": ""
+},
+"1821245": {
+"melding": {
+"titel": "Seat Ibiza (2026)",
+"bericht": "FR 1.0 TSI 85 kW Kuipstoelen Led Virual\n7.400 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-fr-1-0-tsi-85-kw-kuipstoelen-led-virual/o/1821245",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1821245/504a5091b1d84122d97c32e025728130~v193439409.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793440754.505189,
+"laatst": 1793440754.505189,
+"keer": 0,
+"fout": ""
+},
+"1821243": {
+"melding": {
+"titel": "Skoda Kamiq (2022)",
+"bericht": "Style 1.5 150pk LED VIRTUAL ACHTERUITRIJCAMERA\n44.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-style-1-5-150pk-led-virtual-achteruitrijcamera/o/1821243",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1821243/79dce64d968f8b8e0ec8c169b6c50536~v193439145.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793440754.5996044,
+"laatst": 1793440754.5996044,
+"keer": 0,
+"fout": ""
+},
+"1802091": {
+"melding": {
+"titel": "Opnieuw geplaatst: DS Automobiles DS 4 (2023)",
+"bericht": "1.2 PureTech Performance Line AUTOMAAT-NAVI-CAMERA-PDC\n€ 12.500 · 142.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ds-automobiles-ds-4-1-2-puretech-performance-line-automaat-navi-camera-pdc/o/1802091",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1802091/61d4e07158943c34216436d47c61c7b6~v188177846.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793440754.7104697,
+"laatst": 1793440754.7104697,
+"keer": 0,
+"fout": ""
+},
+"1821241": {
+"melding": {
+"titel": "Hyundai I-10 (2023)",
+"bericht": "1.0 COMFORT -AIRCO-CRUISE\n€ 7.250 · 185.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-airco-cruise/o/1821241",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1821241/dbe1e95e2c07f27e0116dd5ba05eb480~v193438607.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793440757.3184116,
+"laatst": 1793440757.3184116,
 "keer": 0,
 "fout": ""
 }
