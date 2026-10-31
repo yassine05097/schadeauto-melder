@@ -6582,60 +6582,39 @@
 "1821243",
 "1802091",
 "1821242",
-"1821241"
+"1821241",
+"1821264",
+"1821255",
+"1821261",
+"1813161",
+"1821256",
+"1821257",
+"1816436",
+"1758118",
+"1821254"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821252,
+"hoogste_id": 1821264,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1819379",
-"1811391",
-"1821252",
-"1821251",
-"1821250",
-"1816383",
-"1821248",
-"1821246",
-"1821245",
-"1821243",
-"1802091",
-"1821242"
+"1821264",
+"1821255",
+"1821261",
+"1813161",
+"1821256",
+"1821257",
+"1808348",
+"1796257",
+"1811830",
+"1816436",
+"1758118",
+"1779423"
 ]
 },
 "wachtrij": {
-"1810477": {
-"melding": {
-"titel": "Opnieuw geplaatst: Renault Mégane (2023)",
-"bericht": "GRANDTOUR 1.3 TCE\n€ 8.833 · 91.030 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-grandtour-1-3-tce/o/1810477",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1810477/b5a6c70e0b6573edafaa8bd296b4001b~v193428209.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793431128.5260167,
-"laatst": 1793440753.39371,
-"keer": 5,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1810476": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 308 (2024)",
-"bericht": "1.5D III ALLURE\n€ 9.438 · 73.440 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-5d-iii-allure/o/1810476",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1810476/d83d9cc54a15199c1598569eb7b7d0dc~v193428206.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793431128.702156,
-"laatst": 1793431128.702156,
-"keer": 0,
-"fout": ""
-},
 "1821221": {
 "melding": {
 "titel": "Volkswagen T-Cross (2022)",
@@ -6647,9 +6626,9 @@
 "WhatsApp"
 ],
 "sinds": 1793433869.076435,
-"laatst": 1793433869.076435,
-"keer": 0,
-"fout": ""
+"laatst": 1793442597.863682,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821224": {
 "melding": {
@@ -6783,6 +6762,51 @@
 ],
 "sinds": 1793440757.3184116,
 "laatst": 1793440757.3184116,
+"keer": 0,
+"fout": ""
+},
+"1821257": {
+"melding": {
+"titel": "Seat Ateca (2023)",
+"bericht": "2.0 190 pk FR 4x4 Leder LED Memory Virtual\n69.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-2-0-190-pk-fr-4x4-leder-led-memory-virtual/o/1821257",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1821257/75df56e1b53eb9f88b0e23be5cf5f46b~v193441106.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793442600.9966948,
+"laatst": 1793442600.9966948,
+"keer": 0,
+"fout": ""
+},
+"1758118": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Fabia (2025)",
+"bericht": "1.0TSI 70kW Business Edition\n€ 12.500 · 36.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-1-0tsi-70kw-business-edition/o/1758118",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1758118/cbc9c18b2f58f122862aa607726d5c76~v174521314.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793442601.0380964,
+"laatst": 1793442601.0380964,
+"keer": 0,
+"fout": ""
+},
+"1821254": {
+"melding": {
+"titel": "Skoda Kodiaq (2022)",
+"bericht": "4x4 WD 190pk Sportline 2.0 Pano led kuipstoelen Leder\n64.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-4x4-wd-190pk-sportline-2-0-pano-led-kuipstoelen-leder/o/1821254",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1821254/74b71a991068c975f4423c053148c6a0~v193440750.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793442604.2693524,
+"laatst": 1793442604.2693524,
 "keer": 0,
 "fout": ""
 }
