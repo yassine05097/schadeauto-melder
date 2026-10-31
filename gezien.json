@@ -6556,7 +6556,9 @@
 "1821219",
 "1821218",
 "1807489",
-"1807486"
+"1807486",
+"1810477",
+"1810476"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -6565,6 +6567,8 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1810477",
+"1810476",
 "1821219",
 "1821218",
 "1807489",
@@ -6574,12 +6578,41 @@
 "1749567",
 "1785730",
 "1800179",
-"1780053",
-"1800175",
-"1821215"
+"1780053"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1810477": {
+"melding": {
+"titel": "Opnieuw geplaatst: Renault Mégane (2023)",
+"bericht": "GRANDTOUR 1.3 TCE\n€ 8.833 · 91.030 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-grandtour-1-3-tce/o/1810477",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1810477/b5a6c70e0b6573edafaa8bd296b4001b~v193428209.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793431128.5260167,
+"laatst": 1793431128.5260167,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1810476": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 308 (2024)",
+"bericht": "1.5D III ALLURE\n€ 9.438 · 73.440 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-5d-iii-allure/o/1810476",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1810476/d83d9cc54a15199c1598569eb7b7d0dc~v193428206.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793431128.702156,
+"laatst": 1793431128.702156,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
