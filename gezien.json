@@ -6628,15 +6628,21 @@
 "1821298",
 "1821305",
 "1821301",
-"1806714"
+"1806714",
+"1821328",
+"1821327",
+"1821326"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821305,
+"hoogste_id": 1821328,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1821328",
+"1821327",
+"1821326",
 "1813371",
 "1806714",
 "1821305",
@@ -6645,73 +6651,10 @@
 "1821303",
 "1821302",
 "1821300",
-"1821277",
-"1818904",
-"1821299",
-"1821275"
+"1821277"
 ]
 },
 "wachtrij": {
-"1821295": {
-"melding": {
-"titel": "BMW X5 (2024)",
-"bericht": "xDrive 50e HIGH EXE313 PK -PANO-KUIPSTOELEN-SKY LOUNGE VERL BOM VOLL\n€ 79.500 · 59.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5-xdrive-50e-high-exe313-pk-pano-kuipstoelen-sky-lounge-verl-bom-voll/o/1821295",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1821295/492cf5621077b856772f6349a6d1f987~v193449163.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793451223.6668913,
-"laatst": 1793461980.6947236,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1821293": {
-"melding": {
-"titel": "Mitsubishi ASX (2026)",
-"bericht": "1.8 HEV AT Intense+ Automaat Navi Clima 6819 Km NAP !\n€ 13.950 · 6.819 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-asx-1-8-hev-at-intense-automaat-navi-clima-6819-km-nap/o/1821293",
-"foto": "https://www.schadeautos.nl/cache/picture/364/1821293/3167cef139a52a49bbd1298fc8b09964~v193448166.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793451223.6951675,
-"laatst": 1793451223.6951675,
-"keer": 0,
-"fout": ""
-},
-"1821274": {
-"melding": {
-"titel": "Opel Corsa (2023)",
-"bericht": "1.2 Level 2 Navi Cruise 68344 Km NAP !\n€ 6.950 · 68.344 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-level-2-navi-cruise-68344-km-nap/o/1821274",
-"foto": "https://www.schadeautos.nl/cache/picture/364/1821274/fc018948125966d96852eb40795add93~v193444579.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793451223.7271764,
-"laatst": 1793451223.7271764,
-"keer": 0,
-"fout": ""
-},
-"1821271": {
-"melding": {
-"titel": "Ford Focus (2023)",
-"bericht": "1.0 EB Hybrid ST-Line Navi Clima Cruise NAP !\n€ 7.450 · 69.404 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-eb-hybrid-st-line-navi-clima-cruise-nap/o/1821271",
-"foto": "https://www.schadeautos.nl/cache/picture/364/1821271/12cad473861931de73b4cd320cc6e34f~v193443970.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793451223.7554166,
-"laatst": 1793451223.7554166,
-"keer": 0,
-"fout": ""
-},
 "1821277": {
 "melding": {
 "titel": "Skoda Octavia (2023)",
@@ -6723,9 +6666,9 @@
 "WhatsApp"
 ],
 "sinds": 1793453714.2572582,
-"laatst": 1793453714.2572582,
-"keer": 0,
-"fout": ""
+"laatst": 1793463655.2935817,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821299": {
 "melding": {
@@ -6769,6 +6712,21 @@
 ],
 "sinds": 1793456087.4720712,
 "laatst": 1793456087.4720712,
+"keer": 0,
+"fout": ""
+},
+"1821327": {
+"melding": {
+"titel": "Seat Arona (2023)",
+"bericht": "fr uitv 81kw autm\n€ 9.650 · 35.682 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-arona-fr-uitv-81kw-autm/o/1821327",
+"foto": "https://www.schadeautos.nl/cache/picture/799/1821327/54e6d555b284c9d53d8177b3a997ab29~v193463221.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793463656.2552643,
+"laatst": 1793463656.2552643,
 "keer": 0,
 "fout": ""
 }
