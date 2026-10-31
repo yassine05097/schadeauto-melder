@@ -6617,165 +6617,38 @@
 "1821278",
 "1821289",
 "1821273",
-"1821291"
+"1821291",
+"1821304",
+"1821303",
+"1821302",
+"1821300",
+"1821277",
+"1821299",
+"1821275",
+"1821298"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821297,
+"hoogste_id": 1821304,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1821304",
+"1821303",
+"1821302",
+"1821300",
+"1821277",
+"1818904",
+"1821299",
+"1821275",
+"1821298",
 "1821296",
 "1821297",
-"1821295",
-"1821293",
-"1821276",
-"1821274",
-"1821292",
-"1821271",
-"1821278",
-"1821289",
-"1821273",
-"1821291"
+"1821295"
 ]
 },
 "wachtrij": {
-"1821251": {
-"melding": {
-"titel": "Kia Ceed (2024)",
-"bericht": "GT Line Business DIESEL HYBRIDE PANO LEDER LED\n11.688 km · hybride diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-gt-line-business-diesel-hybride-pano-leder-led/o/1821251",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1821251/abe91af3ed774b798219514761b9da6a~v193440157.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793440754.27041,
-"laatst": 1793451222.496195,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1821248": {
-"melding": {
-"titel": "Hyundai I-30 (2024)",
-"bericht": "N 280pk Kuipstoelen Panoramadak LED Full\n13.850 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-n-280pk-kuipstoelen-panoramadak-led-full/o/1821248",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1821248/a0663ac0d35ba85fc5a3c49a6c8bcd9f~v193439742.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793440754.3811116,
-"laatst": 1793440754.3811116,
-"keer": 0,
-"fout": ""
-},
-"1821245": {
-"melding": {
-"titel": "Seat Ibiza (2026)",
-"bericht": "FR 1.0 TSI 85 kW Kuipstoelen Led Virual\n7.400 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-fr-1-0-tsi-85-kw-kuipstoelen-led-virual/o/1821245",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1821245/504a5091b1d84122d97c32e025728130~v193439409.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793440754.505189,
-"laatst": 1793440754.505189,
-"keer": 0,
-"fout": ""
-},
-"1821243": {
-"melding": {
-"titel": "Skoda Kamiq (2022)",
-"bericht": "Style 1.5 150pk LED VIRTUAL ACHTERUITRIJCAMERA\n44.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-style-1-5-150pk-led-virtual-achteruitrijcamera/o/1821243",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1821243/79dce64d968f8b8e0ec8c169b6c50536~v193439145.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793440754.5996044,
-"laatst": 1793440754.5996044,
-"keer": 0,
-"fout": ""
-},
-"1802091": {
-"melding": {
-"titel": "Opnieuw geplaatst: DS Automobiles DS 4 (2023)",
-"bericht": "1.2 PureTech Performance Line AUTOMAAT-NAVI-CAMERA-PDC\n€ 12.500 · 142.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ds-automobiles-ds-4-1-2-puretech-performance-line-automaat-navi-camera-pdc/o/1802091",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1802091/61d4e07158943c34216436d47c61c7b6~v188177846.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793440754.7104697,
-"laatst": 1793440754.7104697,
-"keer": 0,
-"fout": ""
-},
-"1821241": {
-"melding": {
-"titel": "Hyundai I-10 (2023)",
-"bericht": "1.0 COMFORT -AIRCO-CRUISE\n€ 7.250 · 185.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-airco-cruise/o/1821241",
-"foto": "https://www.schadeautos.nl/cache/picture/898/1821241/dbe1e95e2c07f27e0116dd5ba05eb480~v193438607.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793440757.3184116,
-"laatst": 1793440757.3184116,
-"keer": 0,
-"fout": ""
-},
-"1821257": {
-"melding": {
-"titel": "Seat Ateca (2023)",
-"bericht": "2.0 190 pk FR 4x4 Leder LED Memory Virtual\n69.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-2-0-190-pk-fr-4x4-leder-led-memory-virtual/o/1821257",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1821257/75df56e1b53eb9f88b0e23be5cf5f46b~v193441106.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793442600.9966948,
-"laatst": 1793442600.9966948,
-"keer": 0,
-"fout": ""
-},
-"1758118": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Fabia (2025)",
-"bericht": "1.0TSI 70kW Business Edition\n€ 12.500 · 36.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-1-0tsi-70kw-business-edition/o/1758118",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1758118/cbc9c18b2f58f122862aa607726d5c76~v174521314.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793442601.0380964,
-"laatst": 1793442601.0380964,
-"keer": 0,
-"fout": ""
-},
-"1821254": {
-"melding": {
-"titel": "Skoda Kodiaq (2022)",
-"bericht": "4x4 WD 190pk Sportline 2.0 Pano led kuipstoelen Leder\n64.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-4x4-wd-190pk-sportline-2-0-pano-led-kuipstoelen-leder/o/1821254",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1821254/74b71a991068c975f4423c053148c6a0~v193440750.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793442604.2693524,
-"laatst": 1793442604.2693524,
-"keer": 0,
-"fout": ""
-},
 "1821270": {
 "melding": {
 "titel": "Seat Ateca (2023)",
@@ -6787,9 +6660,9 @@
 "WhatsApp"
 ],
 "sinds": 1793444653.6001778,
-"laatst": 1793444653.6001778,
-"keer": 0,
-"fout": ""
+"laatst": 1793453713.426477,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821265": {
 "melding": {
@@ -6893,6 +6766,36 @@
 ],
 "sinds": 1793451223.7554166,
 "laatst": 1793451223.7554166,
+"keer": 0,
+"fout": ""
+},
+"1821277": {
+"melding": {
+"titel": "Skoda Octavia (2023)",
+"bericht": "1.0 TSI GREENTECH SPORT BUSINESS\n€ 10.500 · 116.653 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-1-0-tsi-greentech-sport-business/o/1821277",
+"foto": "https://www.schadeautos.nl/cache/picture/125/1821277/3b09d230e2d7263c4473ee05a47f3812~v193452473.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793453714.2572582,
+"laatst": 1793453714.2572582,
+"keer": 0,
+"fout": ""
+},
+"1821299": {
+"melding": {
+"titel": "Opel Vivaro (2022)",
+"bericht": "Kombi 1.5 CDTI L3H1 9-Sitzer Klima Tempom\n€ 19.950 · 129.717 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vivaro-kombi-1-5-cdti-l3h1-9-sitzer-klima-tempom/o/1821299",
+"foto": "https://www.schadeautos.nl/cache/picture/245/1821299/dc42bb82ac6a4e9ee435d5a85dc1b3b5~v193452083.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793453714.3598611,
+"laatst": 1793453714.3598611,
 "keer": 0,
 "fout": ""
 }
