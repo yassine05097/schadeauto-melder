@@ -6660,75 +6660,35 @@
 "1796375",
 "1821346",
 "1821348",
-"1821347"
+"1821347",
+"1821353",
+"1821352",
+"1821351",
+"1821350",
+"1821349"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821348,
+"hoogste_id": 1821353,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1821353",
+"1821352",
+"1821351",
+"1821350",
+"1821349",
 "1821348",
 "1821347",
 "1821138",
 "1821346",
 "1821345",
 "1700154",
-"1790878",
-"1785510",
-"1816371",
-"1771210",
-"1812328",
-"1807836"
+"1790878"
 ]
 },
 "wachtrij": {
-"1700154": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW 1-serie (2024)",
-"bericht": "116i Advantage\n€ 12.100 · 32.887 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116i-advantage/o/1700154",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1700154/a428190aa11a7724cc689f9c2eb120a3~v157427673.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793535652.379603,
-"laatst": 1793545519.3373113,
-"keer": 4,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1790878": {
-"melding": {
-"titel": "Opnieuw geplaatst: Dacia Sandero (2025)",
-"bericht": "Expression\n€ 8.800 · 25.415 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-expression/o/1790878",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1790878/b45f331dd08c0f3352767c510bedbb82~v184206045.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793535652.5576727,
-"laatst": 1793535652.5576727,
-"keer": 0,
-"fout": ""
-},
-"1785510": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW i5 (2025)",
-"bericht": "M60 xDrive\n€ 40.898 · 9.805 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i5-m60-xdrive/o/1785510",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1785510/66ea0e160ec3923210a753965e3fc634~v182743022.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793535652.7457082,
-"laatst": 1793535652.7457082,
-"keer": 0,
-"fout": ""
-},
 "1821348": {
 "melding": {
 "titel": "Volkswagen Golf (2023)",
@@ -6740,9 +6700,9 @@
 "WhatsApp"
 ],
 "sinds": 1793545520.4150302,
-"laatst": 1793545520.4150302,
-"keer": 0,
-"fout": ""
+"laatst": 1793547466.4270227,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821347": {
 "melding": {
@@ -6756,6 +6716,66 @@
 ],
 "sinds": 1793545520.4830906,
 "laatst": 1793545520.4830906,
+"keer": 0,
+"fout": ""
+},
+"1821352": {
+"melding": {
+"titel": "Volkswagen Caddy Combi (2025)",
+"bericht": "BENZINE 116 PK CLIMA CAMERA TREKHAAK B.J 05-2025\n€ 16.950 · 28.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-combi-benzine-116-pk-clima-camera-trekhaak-b-j-05-2025/o/1821352",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1821352/9f744c6a9a76c06d06b02b24ac4e47ba~v193546795.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793547467.3552983,
+"laatst": 1793547467.3552983,
+"keer": 0,
+"fout": ""
+},
+"1821351": {
+"melding": {
+"titel": "Skoda Octavia (2024)",
+"bericht": "AUTOMAAT HYBRIDE NAVI CLIMA VIRT DASH CAMERA TREKHAAK LED B.J 12-2024\n€ 13.950 · 10.500 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-automaat-hybride-navi-clima-virt-dash-camera-trekhaak-led-b-j-12-2024/o/1821351",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1821351/43e6eb622d99e5b4f02c41f83f280718~v193546344.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793547467.5298612,
+"laatst": 1793547467.5298612,
+"keer": 0,
+"fout": ""
+},
+"1821350": {
+"melding": {
+"titel": "Volkswagen Golf (2022)",
+"bericht": "TSI 110 PK NAVI CLIMA PDC CRUISE B.J 09-2022\n€ 10.950 · 48.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-tsi-110-pk-navi-clima-pdc-cruise-b-j-09-2022/o/1821350",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1821350/56b9d1936eecef9acd04feb74f6e4704~v193545904.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793547467.6890037,
+"laatst": 1793547467.6890037,
+"keer": 0,
+"fout": ""
+},
+"1821349": {
+"melding": {
+"titel": "Opel Corsa (2024)",
+"bericht": "GS SPORT 100 PK NAVI CLIMA CAMERA VIRT DASH LED B.J 2024\n€ 9.500 · 8.700 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-sport-100-pk-navi-clima-camera-virt-dash-led-b-j-2024/o/1821349",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1821349/cc86943b6b5db8a8d93cb057201c1f8d~v193545520.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793547467.8513844,
+"laatst": 1793547467.8513844,
 "keer": 0,
 "fout": ""
 }
