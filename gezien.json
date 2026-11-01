@@ -6639,15 +6639,23 @@
 "1821332",
 "1810624",
 "1821337",
-"1821336"
+"1821336",
+"1821341",
+"1821340",
+"1821339",
+"1821338"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821337,
+"hoogste_id": 1821341,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1821341",
+"1821340",
+"1821339",
+"1821338",
 "1819022",
 "1820599",
 "1821337",
@@ -6655,14 +6663,71 @@
 "1821336",
 "1812331",
 "1698899",
-"1816805",
-"1757766",
-"1815577",
-"1783724",
-"1778446"
+"1816805"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1821341": {
+"melding": {
+"titel": "BMW X1 (2023)",
+"bericht": "xDrive 25 e\n€ 19.118 · 40.178 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive-25-e/o/1821341",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1821341/f485ed15779ef6052b4c24db34f7b84a~v193524273.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793525165.1490114,
+"laatst": 1793525165.1490114,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1821340": {
+"melding": {
+"titel": "Citroën C3 (2024)",
+"bericht": "Max Shine\n€ 6.800 · 22.637 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-max-shine/o/1821340",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1821340/fe4f2b9216f1c3667700e1cc0b4dcc30~v193523732.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793525165.3242757,
+"laatst": 1793525165.3242757,
+"keer": 0,
+"fout": ""
+},
+"1821339": {
+"melding": {
+"titel": "Tesla Model Y (2024)",
+"bericht": "€ 22.990 · 16.331 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y/o/1821339",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1821339/532e8cc0a757129adabea742884abf32~v193523316.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793525165.5057633,
+"laatst": 1793525165.5057633,
+"keer": 0,
+"fout": ""
+},
+"1821338": {
+"melding": {
+"titel": "Tesla Model Y (2024)",
+"bericht": "€ 25.168 · 69.563 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y/o/1821338",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1821338/4eed9acf56c6673b977455c4eab7dd2c~v193522801.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793525165.6873584,
+"laatst": 1793525165.6873584,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
