@@ -6650,27 +6650,34 @@
 "1784313",
 "1793756",
 "1821344",
-"1821343"
+"1821343",
+"1821345",
+"1700154",
+"1790878",
+"1785510",
+"1771210",
+"1807836",
+"1796375"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821344,
+"hoogste_id": 1821345,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821344",
-"1815803",
-"1821343",
-"1812902",
-"1821342",
-"1767452",
-"1784313",
-"1793756",
-"1819943",
-"1821341",
-"1821340",
-"1821339"
+"1821345",
+"1700154",
+"1790878",
+"1785510",
+"1816371",
+"1771210",
+"1812328",
+"1807836",
+"1796375",
+"1817724",
+"1817729",
+"1821328"
 ]
 },
 "wachtrij": {
@@ -6685,8 +6692,8 @@
 "WhatsApp"
 ],
 "sinds": 1793525165.1490114,
-"laatst": 1793533749.3794074,
-"keer": 5,
+"laatst": 1793535651.401551,
+"keer": 6,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821340": {
@@ -6731,6 +6738,51 @@
 ],
 "sinds": 1793525165.6873584,
 "laatst": 1793525165.6873584,
+"keer": 0,
+"fout": ""
+},
+"1700154": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 1-serie (2024)",
+"bericht": "116i Advantage\n€ 12.100 · 32.887 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116i-advantage/o/1700154",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1700154/a428190aa11a7724cc689f9c2eb120a3~v157427673.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793535652.379603,
+"laatst": 1793535652.379603,
+"keer": 0,
+"fout": ""
+},
+"1790878": {
+"melding": {
+"titel": "Opnieuw geplaatst: Dacia Sandero (2025)",
+"bericht": "Expression\n€ 8.800 · 25.415 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-expression/o/1790878",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1790878/b45f331dd08c0f3352767c510bedbb82~v184206045.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793535652.5576727,
+"laatst": 1793535652.5576727,
+"keer": 0,
+"fout": ""
+},
+"1785510": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW i5 (2025)",
+"bericht": "M60 xDrive\n€ 40.898 · 9.805 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i5-m60-xdrive/o/1785510",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1785510/66ea0e160ec3923210a753965e3fc634~v182743022.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793535652.7457082,
+"laatst": 1793535652.7457082,
 "keer": 0,
 "fout": ""
 }
