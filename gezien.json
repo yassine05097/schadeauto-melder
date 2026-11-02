@@ -6991,120 +6991,36 @@
 "1821760",
 "1821758",
 "1821757",
-"1821756"
+"1821756",
+"1821765",
+"1808175",
+"1789570",
+"1789261",
+"1798678",
+"1821764"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821763,
+"hoogste_id": 1821765,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821763",
-"1821759",
-"1821760",
-"1821758",
-"1821596",
-"1821757",
-"1821603",
-"1821347",
-"1821756",
-"1821755",
-"1762921",
-"1821754"
+"1820336",
+"1821765",
+"1808175",
+"1789570",
+"1789261",
+"1798678",
+"1821764",
+"1821718",
+"1821654",
+"1821692",
+"1821675",
+"1821763"
 ]
 },
 "wachtrij": {
-"1821696": {
-"melding": {
-"titel": "Mercedes C-klasse (2022)",
-"bericht": "180 AMG LINE PANO NAVI CAMERA LED\n€ 25.400 · 159.894 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-180-amg-line-pano-navi-camera-led/o/1821696",
-"foto": "https://www.schadeautos.nl/cache/picture/945/1821696/e008dc7df86b73afee883f1ea09c2395~v193632540.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793633328.425865,
-"laatst": 1793643411.9757223,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1821689": {
-"melding": {
-"titel": "BMW M5 (2025)",
-"bericht": "Touring Full Option 585pk 4WD\n€ 63.500 · 18.509 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m5-touring-full-option-585pk-4wd/o/1821689",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1821689/03e4f7cd01169a0e5022c4ef473dd87e~v193632225.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793633328.4562488,
-"laatst": 1793633328.4562488,
-"keer": 0,
-"fout": ""
-},
-"1821426": {
-"melding": {
-"titel": "Ford Fiesta (2023)",
-"bericht": "1.0 Hybrid 35.236 km NAP EcoBoost Titanium\n€ 9.830 · 35.236 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-hybrid-35-236-km-nap-ecoboost-titanium/o/1821426",
-"foto": "https://www.schadeautos.nl/cache/picture/66/1821426/93f3885f11b75a2cf86c4ed1c595199b~v193606909.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793633330.9746537,
-"laatst": 1793633330.9746537,
-"keer": 0,
-"fout": ""
-},
-"1821677": {
-"melding": {
-"titel": "Skoda Scala (2026)",
-"bericht": "TOUR 1.5 150Pk Automaat Stoelverwarming Achteruitrij camera\n15.500 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-tour-1-5-150pk-automaat-stoelverwarming-achteruitrij-camera/o/1821677",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1821677/74353b6b6151d1aab3f43ba369a3e52a~v193630473.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793633334.2813466,
-"laatst": 1793633334.2813466,
-"keer": 0,
-"fout": ""
-},
-"1821649": {
-"melding": {
-"titel": "Tesla Model 3 (2023)",
-"bericht": "Model 3 Standard Range Plus /RWD\n€ 16.800 · 83.818 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-model-3-standard-range-plus-rwd/o/1821649",
-"foto": "https://www.schadeautos.nl/cache/picture/375/1821649/fa1af0474a32bf3f6720d7678c86c646~v193630518.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793633334.3112972,
-"laatst": 1793633334.3112972,
-"keer": 0,
-"fout": ""
-},
-"1821672": {
-"melding": {
-"titel": "Seat Ateca (2023)",
-"bericht": "FR 1.5 150PK automaat LEDER LED DODEHOEK KEYLESS ENTRY & GO\n44.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-fr-1-5-150pk-automaat-leder-led-dodehoek-keyless-entry-go/o/1821672",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1821672/b2fe58e047a09e20b19a4fa8674b5654~v193630068.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793633337.2006924,
-"laatst": 1793633337.2006924,
-"keer": 0,
-"fout": ""
-},
 "1821730": {
 "melding": {
 "titel": "Seat Ibiza (2024)",
@@ -7116,9 +7032,9 @@
 "WhatsApp"
 ],
 "sinds": 1793636980.8838995,
-"laatst": 1793636980.8838995,
-"keer": 0,
-"fout": ""
+"laatst": 1793646874.6436954,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821725": {
 "melding": {
@@ -7327,6 +7243,51 @@
 ],
 "sinds": 1793640348.8761005,
 "laatst": 1793640348.8761005,
+"keer": 0,
+"fout": ""
+},
+"1821765": {
+"melding": {
+"titel": "Peugeot 3008 (2025)",
+"bericht": "Hybrid 136 GT\n€ 18.755 · 27.595 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-3008-hybrid-136-gt/o/1821765",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1821765/8532c5e6fc48459a6b796cb26e360996~v193645003.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793646876.076013,
+"laatst": 1793646876.076013,
+"keer": 0,
+"fout": ""
+},
+"1798678": {
+"melding": {
+"titel": "Opnieuw geplaatst: Hyundai I-10 (2023)",
+"bericht": "1.0i 49kW E6 Comfort AIRCO\n€ 9.650 · 68.350 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0i-49kw-e6-comfort-airco/o/1798678",
+"foto": "https://www.schadeautos.nl/cache/picture/447/1798678/5a29f16cfcd20835e4e07d5be0f930af~v187147537.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793646876.1079543,
+"laatst": 1793646876.1079543,
+"keer": 0,
+"fout": ""
+},
+"1821764": {
+"melding": {
+"titel": "Toyota Yaris (2024)",
+"bericht": "1.5 Hybrid 116PK Aut. Active\n€ 12.990 · 13.471 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5-hybrid-116pk-aut-active/o/1821764",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1821764/2b6bd8dcd64d8cf91ad063671e66efe8~v193643560.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793646876.1390715,
+"laatst": 1793646876.1390715,
 "keer": 0,
 "fout": ""
 }
