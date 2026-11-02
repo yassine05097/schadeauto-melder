@@ -7003,15 +7003,19 @@
 "1821772",
 "1821771",
 "1821776",
-"1821775"
+"1821775",
+"1821780",
+"1779993"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821776,
+"hoogste_id": 1821780,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1821780",
+"1779993",
 "1821776",
 "1821775",
 "1821773",
@@ -7021,57 +7025,10 @@
 "1808392",
 "1811830",
 "1820839",
-"1820336",
-"1821765",
-"1808175"
+"1820336"
 ]
 },
 "wachtrij": {
-"1821765": {
-"melding": {
-"titel": "Peugeot 3008 (2025)",
-"bericht": "Hybrid 136 GT\n€ 18.755 · 27.595 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-3008-hybrid-136-gt/o/1821765",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1821765/8532c5e6fc48459a6b796cb26e360996~v193645003.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793646876.076013,
-"laatst": 1793657074.8082528,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1798678": {
-"melding": {
-"titel": "Opnieuw geplaatst: Hyundai I-10 (2023)",
-"bericht": "1.0i 49kW E6 Comfort AIRCO\n€ 9.650 · 68.350 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0i-49kw-e6-comfort-airco/o/1798678",
-"foto": "https://www.schadeautos.nl/cache/picture/447/1798678/5a29f16cfcd20835e4e07d5be0f930af~v187147537.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793646876.1079543,
-"laatst": 1793646876.1079543,
-"keer": 0,
-"fout": ""
-},
-"1821764": {
-"melding": {
-"titel": "Toyota Yaris (2024)",
-"bericht": "1.5 Hybrid 116PK Aut. Active\n€ 12.990 · 13.471 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5-hybrid-116pk-aut-active/o/1821764",
-"foto": "https://www.schadeautos.nl/cache/picture/871/1821764/2b6bd8dcd64d8cf91ad063671e66efe8~v193643560.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793646876.1390715,
-"laatst": 1793646876.1390715,
-"keer": 0,
-"fout": ""
-},
 "1821773": {
 "melding": {
 "titel": "Fiat Panda (2024)",
@@ -7083,7 +7040,22 @@
 "WhatsApp"
 ],
 "sinds": 1793654699.5234425,
-"laatst": 1793654699.5234425,
+"laatst": 1793659351.089521,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1821780": {
+"melding": {
+"titel": "Opel Corsa (2025)",
+"bericht": "GS Automaat Virtual Led Camera Navi-10\\'\\' Lane-Assist Drive-Mode 74KW/101PK\n€ 5.650 · 35.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-automaat-virtual-led-camera-navi-10-lane-assist-drive-mode-74kw-101pk/o/1821780",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1821780/21cd1f98249d6da87a659a051af1700f~v193658945.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793659353.9119692,
+"laatst": 1793659353.9119692,
 "keer": 0,
 "fout": ""
 }
