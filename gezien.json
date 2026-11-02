@@ -6734,105 +6734,49 @@
 "1821422",
 "1821419",
 "1821418",
-"1752570"
+"1752570",
+"1821471",
+"1821472",
+"1796758",
+"1821470",
+"1821469",
+"1821465",
+"1821464",
+"1821463",
+"1821462",
+"1819956",
+"1779853",
+"1518595",
+"1813199",
+"1821456",
+"1742087",
+"1821452",
+"1821447",
+"1821449",
+"1821448"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821443,
+"hoogste_id": 1821472,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818544",
-"1821443",
-"1810080",
-"1817195",
-"1821442",
-"1821440",
-"1821441",
-"1821439",
-"1775245",
-"1821435",
-"1738127",
-"1821436"
+"1821471",
+"1821472",
+"1817137",
+"1796758",
+"1809489",
+"1810381",
+"1811473",
+"1815661",
+"1814790",
+"1814781",
+"1754285",
+"1821470"
 ]
 },
 "wachtrij": {
-"1821378": {
-"melding": {
-"titel": "Mercedes Citan (2026)",
-"bericht": "110 CDI 3pers Camera Airco\nexportprijs € 10.950 · 10.679 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-citan-110-cdi-3pers-camera-airco/o/1821378",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1821378/977538f963beaf50b8b7acb5bcf4836f~v193599803.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793600737.7935407,
-"laatst": 1793609172.7684577,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1821377": {
-"melding": {
-"titel": "Mercedes Vito (2025)",
-"bericht": "114 CDI Aut. Dubbelcabine\nexportprijs € 19.950 · 30.005 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-vito-114-cdi-aut-dubbelcabine/o/1821377",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1821377/9850e3bc45dd690aacbd4ccdc25aa4f6~v193599700.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793600737.9543035,
-"laatst": 1793600737.9543035,
-"keer": 0,
-"fout": ""
-},
-"1821376": {
-"melding": {
-"titel": "Mercedes EQB (2025)",
-"bericht": "250+ Pano Led Stoelverw.\n€ 19.995 · 71.884 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-250-pano-led-stoelverw/o/1821376",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1821376/2c7b1e9482a20a9ecc146e09eaec0b59~v193599602.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793600738.123256,
-"laatst": 1793600738.123256,
-"keer": 0,
-"fout": ""
-},
-"1821375": {
-"melding": {
-"titel": "Mercedes C-klasse (2025)",
-"bericht": "C180 Aut. AMG Line Pano Stoelverw Led\n€ 25.350 · 35.855 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c180-aut-amg-line-pano-stoelverw-led/o/1821375",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1821375/44993cfc33c2637aad92644260854c97~v193599495.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793600738.2846203,
-"laatst": 1793600738.2846203,
-"keer": 0,
-"fout": ""
-},
-"1821374": {
-"melding": {
-"titel": "Peugeot 308 (2023)",
-"bericht": "Puretech 130 Aut Navi Camera Clima\n€ 10.450 · 91.103 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-puretech-130-aut-navi-camera-clima/o/1821374",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1821374/7b9f532d09eaeaf9a234045319f641ab~v193599365.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793600738.43855,
-"laatst": 1793600738.43855,
-"keer": 0,
-"fout": ""
-},
 "1821412": {
 "melding": {
 "titel": "BMW 1-serie (2026)",
@@ -6844,9 +6788,9 @@
 "WhatsApp"
 ],
 "sinds": 1793605929.0605085,
-"laatst": 1793605929.0605085,
-"keer": 0,
-"fout": ""
+"laatst": 1793612505.5027585,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821411": {
 "melding": {
@@ -7070,6 +7014,66 @@
 ],
 "sinds": 1793609180.1360579,
 "laatst": 1793609180.1360579,
+"keer": 0,
+"fout": ""
+},
+"1821465": {
+"melding": {
+"titel": "Kia Picanto (2024)",
+"bericht": "€ 6.999 · 35.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto/o/1821465",
+"foto": "https://www.schadeautos.nl/cache/picture/987/1821465/1a4ebad80f36f18981d03f43db90e464~v193610927.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793612510.0347824,
+"laatst": 1793612510.0347824,
+"keer": 0,
+"fout": ""
+},
+"1821464": {
+"melding": {
+"titel": "Dacia Sandero (2025)",
+"bericht": "€ 8.600 · 18.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero/o/1821464",
+"foto": "https://www.schadeautos.nl/cache/picture/987/1821464/2716f8998cded07c54b0e5e1162eddb2~v193610925.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793612510.196388,
+"laatst": 1793612510.196388,
+"keer": 0,
+"fout": ""
+},
+"1821463": {
+"melding": {
+"titel": "Mercedes A-klasse (2023)",
+"bericht": "€ 13.309 · 88.000 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-a-klasse/o/1821463",
+"foto": "https://www.schadeautos.nl/cache/picture/987/1821463/cf9d7db32379df816ec5536e157c1172~v193611816.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793612510.3622632,
+"laatst": 1793612510.3622632,
+"keer": 0,
+"fout": ""
+},
+"1518595": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes C-klasse (2023)",
+"bericht": "180 amg line hybrid 170pk pano\n€ 29.750 · 12.207 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-180-amg-line-hybrid-170pk-pano/o/1518595",
+"foto": "https://www.schadeautos.nl/cache/picture/109/1518595/8a370ad071c96a33c32efaf3b322e98c~v193609964.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793612513.243946,
+"laatst": 1793612513.243946,
 "keer": 0,
 "fout": ""
 }
