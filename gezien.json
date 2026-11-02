@@ -6906,75 +6906,65 @@
 "1821621",
 "1821618",
 "1784627",
-"1821609"
+"1821609",
+"1821709",
+"1821701",
+"1597110",
+"1821696",
+"1821695",
+"1821693",
+"1821689",
+"1821697",
+"1821690",
+"1821692",
+"1821694",
+"1821685",
+"1821426",
+"1821429",
+"1821421",
+"1821408",
+"1821687",
+"1821390",
+"1821425",
+"1821430",
+"1821686",
+"1821583",
+"1821684",
+"1772489",
+"1821682",
+"1821679",
+"1821681",
+"1821674",
+"1821677",
+"1821680",
+"1821678",
+"1821675",
+"1821649",
+"1821672",
+"1821667"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821670,
+"hoogste_id": 1821709,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821670",
-"1821668",
-"1821669",
-"1816937",
-"1821663",
-"1820989",
-"1821666",
-"1821665",
-"1821664",
-"1821662",
-"1821659",
-"1821658"
+"1821709",
+"1821701",
+"1597110",
+"1821696",
+"1821695",
+"1821693",
+"1821689",
+"1821697",
+"1821690",
+"1821692",
+"1821694",
+"1821685"
 ]
 },
 "wachtrij": {
-"1753466": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW i4 (2025)",
-"bericht": "eDrive 40 M-Sport Edition 84 kWh\n€ 24.250 · 5.923 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i4-edrive-40-m-sport-edition-84-kwh/o/1753466",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1753466/7046c53694b3d3b04cf1f378649f7059~v173156613.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793622037.0578008,
-"laatst": 1793630053.489245,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1791387": {
-"melding": {
-"titel": "Opnieuw geplaatst: Skoda Superb (2025)",
-"bericht": "1.5TSI PHEV 110kW Automaat Pano Business Edition\n€ 25.950 · 35.848 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-1-5tsi-phev-110kw-automaat-pano-business-edition/o/1791387",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1791387/5fb5e2542d2415cebf7afe8be0285945~v184372225.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793622037.2463472,
-"laatst": 1793622037.2463472,
-"keer": 0,
-"fout": ""
-},
-"1821544": {
-"melding": {
-"titel": "Alfa Romeo Stelvio (2023)",
-"bericht": "2.2 MJD ATX Competizione\nexportprijs € 13.850 · 51.353 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/alfa-romeo-stelvio-2-2-mjd-atx-competizione/o/1821544",
-"foto": "https://www.schadeautos.nl/cache/picture/451/1821544/63afc70764981df6c748149af88158c3~v193620539.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793622037.4297662,
-"laatst": 1793622037.4297662,
-"keer": 0,
-"fout": ""
-},
 "1821614": {
 "melding": {
 "titel": "Dacia Sandero (2025)",
@@ -6986,9 +6976,9 @@
 "WhatsApp"
 ],
 "sinds": 1793626412.461695,
-"laatst": 1793626412.461695,
-"keer": 0,
-"fout": ""
+"laatst": 1793633324.7647345,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821608": {
 "melding": {
@@ -7557,6 +7547,96 @@
 ],
 "sinds": 1793630067.3208828,
 "laatst": 1793630067.3208828,
+"keer": 0,
+"fout": ""
+},
+"1821696": {
+"melding": {
+"titel": "Mercedes C-klasse (2022)",
+"bericht": "180 AMG LINE PANO NAVI CAMERA LED\n€ 25.400 · 159.894 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-180-amg-line-pano-navi-camera-led/o/1821696",
+"foto": "https://www.schadeautos.nl/cache/picture/945/1821696/e008dc7df86b73afee883f1ea09c2395~v193632540.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793633328.425865,
+"laatst": 1793633328.425865,
+"keer": 0,
+"fout": ""
+},
+"1821689": {
+"melding": {
+"titel": "BMW M5 (2025)",
+"bericht": "Touring Full Option 585pk 4WD\n€ 63.500 · 18.509 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m5-touring-full-option-585pk-4wd/o/1821689",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1821689/03e4f7cd01169a0e5022c4ef473dd87e~v193632225.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793633328.4562488,
+"laatst": 1793633328.4562488,
+"keer": 0,
+"fout": ""
+},
+"1821426": {
+"melding": {
+"titel": "Ford Fiesta (2023)",
+"bericht": "1.0 Hybrid 35.236 km NAP EcoBoost Titanium\n€ 9.830 · 35.236 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-fiesta-1-0-hybrid-35-236-km-nap-ecoboost-titanium/o/1821426",
+"foto": "https://www.schadeautos.nl/cache/picture/66/1821426/93f3885f11b75a2cf86c4ed1c595199b~v193606909.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793633330.9746537,
+"laatst": 1793633330.9746537,
+"keer": 0,
+"fout": ""
+},
+"1821677": {
+"melding": {
+"titel": "Skoda Scala (2026)",
+"bericht": "TOUR 1.5 150Pk Automaat Stoelverwarming Achteruitrij camera\n15.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-tour-1-5-150pk-automaat-stoelverwarming-achteruitrij-camera/o/1821677",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1821677/74353b6b6151d1aab3f43ba369a3e52a~v193630473.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793633334.2813466,
+"laatst": 1793633334.2813466,
+"keer": 0,
+"fout": ""
+},
+"1821649": {
+"melding": {
+"titel": "Tesla Model 3 (2023)",
+"bericht": "Model 3 Standard Range Plus /RWD\n€ 16.800 · 83.818 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-model-3-standard-range-plus-rwd/o/1821649",
+"foto": "https://www.schadeautos.nl/cache/picture/375/1821649/fa1af0474a32bf3f6720d7678c86c646~v193630518.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793633334.3112972,
+"laatst": 1793633334.3112972,
+"keer": 0,
+"fout": ""
+},
+"1821672": {
+"melding": {
+"titel": "Seat Ateca (2023)",
+"bericht": "FR 1.5 150PK automaat LEDER LED DODEHOEK KEYLESS ENTRY & GO\n44.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-fr-1-5-150pk-automaat-leder-led-dodehoek-keyless-entry-go/o/1821672",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1821672/b2fe58e047a09e20b19a4fa8674b5654~v193630068.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793633337.2006924,
+"laatst": 1793633337.2006924,
 "keer": 0,
 "fout": ""
 }
