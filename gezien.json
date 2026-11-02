@@ -6688,27 +6688,55 @@
 "1821377",
 "1821376",
 "1821375",
-"1821374"
+"1821374",
+"1821412",
+"1821411",
+"1796452",
+"1803511",
+"1821410",
+"1821404",
+"1821407",
+"1821405",
+"1821399",
+"1821396",
+"1821392",
+"1821391",
+"1803173",
+"1778357",
+"1821388",
+"1758304",
+"1780392",
+"1780006",
+"1777716",
+"1812844",
+"1812848",
+"1812847",
+"1821385",
+"1810480",
+"1810479",
+"1821386",
+"1789764",
+"1821384"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821378,
+"hoogste_id": 1821412,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821378",
-"1821377",
-"1821376",
-"1821375",
-"1821374",
-"1817051",
-"1807729",
-"1800111",
-"1760025",
-"1821373",
-"1821372",
-"1821371"
+"1820256",
+"1821412",
+"1821411",
+"1796452",
+"1803511",
+"1821410",
+"1815725",
+"1820374",
+"1821404",
+"1821407",
+"1796430",
+"1821405"
 ]
 },
 "wachtrij": {
@@ -6723,8 +6751,8 @@
 "WhatsApp"
 ],
 "sinds": 1793600737.7935407,
-"laatst": 1793600737.7935407,
-"keer": 1,
+"laatst": 1793605927.8726475,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821377": {
@@ -6784,6 +6812,186 @@
 ],
 "sinds": 1793600738.43855,
 "laatst": 1793600738.43855,
+"keer": 0,
+"fout": ""
+},
+"1821412": {
+"melding": {
+"titel": "BMW 1-serie (2026)",
+"bericht": "116 M Sport Design ACC Navi Virtual Leder SHZ Apple/Android Camera PDC Clima\n€ 17.950 · 17.470 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116-m-sport-design-acc-navi-virtual-leder-shz-apple-android-camera-pdc-clima/o/1821412",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1821412/9c413a42fa618d7997f474baa7d30c2a~v193605854.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605929.0605085,
+"laatst": 1793605929.0605085,
+"keer": 0,
+"fout": ""
+},
+"1821411": {
+"melding": {
+"titel": "Audi Q8 (2023)",
+"bericht": "55 TFSI MHEV quattro ACC Navi Memory Leder SHZ Apple/Android Camera PDC Clima\n€ 28.750 · 60.497 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q8-55-tfsi-mhev-quattro-acc-navi-memory-leder-shz-apple-android-camera-pdc-clima/o/1821411",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1821411/ef9d67b4a833289ba91fc50dfbd9eecc~v193605827.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605929.2767823,
+"laatst": 1793605929.2767823,
+"keer": 0,
+"fout": ""
+},
+"1803511": {
+"melding": {
+"titel": "Opnieuw geplaatst: Audi Q5 (2024)",
+"bericht": "Sportback 55 TFSI-e 195kW Automaat Edition Competition Quattro\n€ 15.400 · 54.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q5-sportback-55-tfsi-e-195kw-automaat-edition-competition-quattro/o/1803511",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1803511/4a25102e853dcdb95b417f2bce12f3e5~v188457714.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605929.4845595,
+"laatst": 1793605929.4845595,
+"keer": 0,
+"fout": ""
+},
+"1821410": {
+"melding": {
+"titel": "BMW 1-serie (2026)",
+"bericht": "116 M Sport Design Pano ACC Navi Virtual Leder SHZ Apple/Android Camera PDC Clima\n€ 25.950 · 4.408 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116-m-sport-design-pano-acc-navi-virtual-leder-shz-apple-android-camera-pdc-clima/o/1821410",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1821410/2f553929d271a9da6b538092fbc6afe9~v193605800.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605929.6933296,
+"laatst": 1793605929.6933296,
+"keer": 0,
+"fout": ""
+},
+"1821404": {
+"melding": {
+"titel": "MG 5 (2023)",
+"bericht": "ELECTRIC Long R. Lux. 61 kWh\n€ 14.750 · 52.377 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-5-electric-long-r-lux-61-kwh/o/1821404",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1821404/78c4c4cf3bbb61d69e3e8268a026feb1~v193605770.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605929.9099312,
+"laatst": 1793605929.9099312,
+"keer": 0,
+"fout": ""
+},
+"1821405": {
+"melding": {
+"titel": "Skoda Octavia (2025)",
+"bericht": "Combi 2.0 TDI 150 PK DSG LED Apple/Android Cruise Camera SHZ\n€ 19.950 · 56.875 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-combi-2-0-tdi-150-pk-dsg-led-apple-android-cruise-camera-shz/o/1821405",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1821405/ce6f3a5ce2e7112678c361057905ba5b~v193605732.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605930.1215932,
+"laatst": 1793605930.1215932,
+"keer": 0,
+"fout": ""
+},
+"1821399": {
+"melding": {
+"titel": "Kia Ceed (2022)",
+"bericht": "1.0 T-GDi DynPlusL\n€ 5.950 · 90.930 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0-t-gdi-dynplusl/o/1821399",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1821399/971658ea7fdc65d489a17732c459ead1~v193605672.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605933.1965961,
+"laatst": 1793605933.1965961,
+"keer": 0,
+"fout": ""
+},
+"1821396": {
+"melding": {
+"titel": "Skoda Kodiaq (2024)",
+"bericht": "1.5 TSI PHEV Sportline Business Pano HUD Memory AHK SHZ Camera ACC\n€ 25.950 · 43.305 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-1-5-tsi-phev-sportline-business-pano-hud-memory-ahk-shz-camera-acc/o/1821396",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1821396/23e798483acce6d581948d22a1594dd4~v193605502.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605933.4082112,
+"laatst": 1793605933.4082112,
+"keer": 0,
+"fout": ""
+},
+"1758304": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2025)",
+"bericht": "1.2 AUTOMAAT Hybrid 110 e-DCS6 Allure\n€ 8.900 · 30.907 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-automaat-hybrid-110-e-dcs6-allure/o/1758304",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1758304/cf675ca43a9ef7ab93bed2ae21e4b73a~v174535732.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605933.6260533,
+"laatst": 1793605933.6260533,
+"keer": 0,
+"fout": ""
+},
+"1777716": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Corsa (2023)",
+"bericht": "1.2 bj 2023\n€ 8.700 · 50.525 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-bj-2023/o/1777716",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1777716/a8e162bc6ebcee8c4bcbd70aa6bdd252~v180488695.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605936.5990071,
+"laatst": 1793605936.5990071,
+"keer": 0,
+"fout": ""
+},
+"1812848": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 308 (2023)",
+"bericht": "1.2\n€ 8.228 · 73.440 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2/o/1812848",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1812848/3569e6f1340ae4764ce9bb33276e55d1~v193601915.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605936.8070567,
+"laatst": 1793605936.8070567,
+"keer": 0,
+"fout": ""
+},
+"1810480": {
+"melding": {
+"titel": "Opnieuw geplaatst: Fiat Panda (2022)",
+"bericht": "EASY\n€ 6.413 · 75.691 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-panda-easy/o/1810480",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1810480/a66147e2beace881278d1725ebbfc62e~v193601912.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793605939.736498,
+"laatst": 1793605939.736498,
 "keer": 0,
 "fout": ""
 }
