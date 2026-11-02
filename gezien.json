@@ -6753,27 +6753,45 @@
 "1821452",
 "1821447",
 "1821449",
-"1821448"
+"1821448",
+"1741938",
+"1803764",
+"1821500",
+"1821496",
+"1756038",
+"1821499",
+"1358625",
+"1657673",
+"1772428",
+"1795482",
+"1795480",
+"1803401",
+"1750598",
+"1821481",
+"1821482",
+"1821478",
+"1821459",
+"1807024"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821472,
+"hoogste_id": 1821500,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821471",
-"1821472",
-"1817137",
-"1796758",
-"1809489",
-"1810381",
-"1811473",
-"1815661",
-"1814790",
-"1814781",
-"1754285",
-"1821470"
+"1741938",
+"1803764",
+"1821500",
+"1821496",
+"1756038",
+"1821499",
+"1815200",
+"1358625",
+"1819638",
+"1817277",
+"1816268",
+"1368792"
 ]
 },
 "wachtrij": {
@@ -6788,8 +6806,8 @@
 "WhatsApp"
 ],
 "sinds": 1793605929.0605085,
-"laatst": 1793612505.5027585,
-"keer": 1,
+"laatst": 1793615813.0932662,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821411": {
@@ -7074,6 +7092,36 @@
 ],
 "sinds": 1793612513.243946,
 "laatst": 1793612513.243946,
+"keer": 0,
+"fout": ""
+},
+"1657673": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Astra (2024)",
+"bericht": "SPORTS TOURER 1.2 T. Hyb. GS LINE\n€ 12.950 · 7.563 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-2-t-hyb-gs-line/o/1657673",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1657673/d4f81fbffb1551633840619278e0dac5~v144276039.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793615818.252375,
+"laatst": 1793615818.252375,
+"keer": 0,
+"fout": ""
+},
+"1821481": {
+"melding": {
+"titel": "Cupra Born (2022)",
+"bericht": "150-KW 62kwh Automaat 5drs Perf. One\n€ 11.950 · 77.000 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-born-150-kw-62kwh-automaat-5drs-perf-one/o/1821481",
+"foto": "https://www.schadeautos.nl/cache/picture/28/1821481/52cc92ea6e6c4c73c7617adcfeb8a673~v193613966.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793615818.35136,
+"laatst": 1793615818.35136,
 "keer": 0,
 "fout": ""
 }
