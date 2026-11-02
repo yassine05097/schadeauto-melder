@@ -6997,165 +6997,31 @@
 "1789570",
 "1789261",
 "1798678",
-"1821764"
+"1821764",
+"1821770"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821765,
+"hoogste_id": 1821770,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1821770",
+"1808348",
+"1808392",
+"1811830",
+"1820839",
 "1820336",
 "1821765",
 "1808175",
 "1789570",
 "1789261",
 "1798678",
-"1821764",
-"1821718",
-"1821654",
-"1821692",
-"1821675",
-"1821763"
+"1821764"
 ]
 },
 "wachtrij": {
-"1821753": {
-"melding": {
-"titel": "Fiat 500 (2022)",
-"bericht": "Fiat 500e\n30.000 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-fiat-500e/o/1821753",
-"foto": "https://www.schadeautos.nl/cache/picture/909/1821753/dd45c792b3a74fbba3f4ba1f3a30b0aa~v193639716.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793640344.0663333,
-"laatst": 1793649704.7455742,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1821740": {
-"melding": {
-"titel": "Hongqi EHS7 (2025)",
-"bericht": "Exclusive 111kWh 344PK Aut. PANO FULL OPTIONS!\n€ 26.950 · 42.105 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hongqi-ehs7-exclusive-111kwh-344pk-aut-pano-full-options/o/1821740",
-"foto": "https://www.schadeautos.nl/cache/picture/871/1821740/479208cb72eb83e6d684a6738e7426ea~v193638868.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793640344.2950032,
-"laatst": 1793640344.2950032,
-"keer": 0,
-"fout": ""
-},
-"1821747": {
-"melding": {
-"titel": "Mazda MX-5 (2026)",
-"bericht": "VIGNET 705\n€ 15.488 · 1.497 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-mx-5-vignet-705/o/1821747",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1821747/b3a2419c38194ea2b7b0dbda739b5c2f~v193638873.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793640344.5174506,
-"laatst": 1793640344.5174506,
-"keer": 0,
-"fout": ""
-},
-"1821744": {
-"melding": {
-"titel": "Volkswagen T-Roc (2022)",
-"bericht": "LIFE\n€ 3.025 · 71.906 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-life/o/1821744",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1821744/ad3ab34ca7ca57aab8d14735e8653bc5~v193638848.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793640347.7452226,
-"laatst": 1793640347.7452226,
-"keer": 0,
-"fout": ""
-},
-"1821743": {
-"melding": {
-"titel": "Skoda Fabia (2025)",
-"bericht": "SELECTION\n€ 10.500 · 18.362 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-fabia-selection/o/1821743",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1821743/948db742b833dd44d40a32f28f125969~v193638839.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793640347.9730299,
-"laatst": 1793640347.9730299,
-"keer": 0,
-"fout": ""
-},
-"1821742": {
-"melding": {
-"titel": "Citroën C5 (2023)",
-"bericht": "AIRCROSS SHINE\n€ 10.800 · 30.075 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c5-aircross-shine/o/1821742",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1821742/008bf79f94d0a3f459caa0bca472e341~v193638827.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793640348.195075,
-"laatst": 1793640348.195075,
-"keer": 0,
-"fout": ""
-},
-"1821739": {
-"melding": {
-"titel": "Lexus ES (2025)",
-"bericht": "300h Hybrid 160-KW Automaat\nexportprijs € 18.950 · 20.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lexus-es-300h-hybrid-160-kw-automaat/o/1821739",
-"foto": "https://www.schadeautos.nl/cache/picture/28/1821739/51bf9d410ab9262386cca31580547056~v193638234.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793640348.416594,
-"laatst": 1793640348.416594,
-"keer": 0,
-"fout": ""
-},
-"1821737": {
-"melding": {
-"titel": "Audi A1 (2024)",
-"bericht": "1.0 TFSI S Line AUTOMAAT\n€ 10.900 · 8.243 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-1-0-tfsi-s-line-automaat/o/1821737",
-"foto": "https://www.schadeautos.nl/cache/picture/984/1821737/9ebf424b0c5ff4c48331d2e9ec08bca8~v193637401.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793640348.6451008,
-"laatst": 1793640348.6451008,
-"keer": 0,
-"fout": ""
-},
-"1821735": {
-"melding": {
-"titel": "Nissan Micra (2022)",
-"bericht": "54.835 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-micra/o/1821735",
-"foto": "https://www.schadeautos.nl/cache/picture/964/1821735/1a503e66906d37171094ce4c6f751ea0~v193637011.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793640348.8761005,
-"laatst": 1793640348.8761005,
-"keer": 0,
-"fout": ""
-},
 "1821765": {
 "melding": {
 "titel": "Peugeot 3008 (2025)",
@@ -7167,9 +7033,9 @@
 "WhatsApp"
 ],
 "sinds": 1793646876.076013,
-"laatst": 1793646876.076013,
-"keer": 0,
-"fout": ""
+"laatst": 1793652163.2122185,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1798678": {
 "melding": {
