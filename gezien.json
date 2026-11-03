@@ -7131,75 +7131,69 @@
 "1822008",
 "1822007",
 "1821999",
-"1822003"
+"1822003",
+"1822096",
+"1822094",
+"1822087",
+"1822088",
+"1822093",
+"1822085",
+"1822092",
+"1806271",
+"1822069",
+"1822084",
+"1822077",
+"1822079",
+"1822076",
+"1822054",
+"1822075",
+"1822074",
+"1822062",
+"1822049",
+"1822068",
+"1822067",
+"1822059",
+"1822066",
+"1822065",
+"1822063",
+"1822000",
+"1822043",
+"1822060",
+"1822056",
+"1822055",
+"1822052",
+"1822051",
+"1822050",
+"1822048",
+"1822030",
+"1822047",
+"1822044",
+"1822032",
+"1822040",
+"1822031"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822029,
+"hoogste_id": 1822096,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821617",
-"1822029",
-"1822028",
-"1814164",
-"1803017",
-"1819031",
-"1822027",
-"1820336",
-"1733078",
-"1783014",
-"1745243",
-"1795114"
+"1822096",
+"1822094",
+"1822087",
+"1822088",
+"1822093",
+"1822085",
+"1822092",
+"1806271",
+"1815641",
+"1822069",
+"1822084",
+"1822077"
 ]
 },
 "wachtrij": {
-"1821839": {
-"melding": {
-"titel": "Dacia Sandero (2023)",
-"bericht": "STEPWAY -- KLIMA -- LPG\n€ 4.600 · 28.709 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-stepway-klima-lpg/o/1821839",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793698578.0236006,
-"laatst": 1793707739.6884995,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1821834": {
-"melding": {
-"titel": "Renault Kangoo (2022)",
-"bericht": "1.3TCe Edition 5-Zits Airco HalfLeer CruiseControl Pdc Navi>android/carplay\n€ 9.250 · 61.328 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-kangoo-1-3tce-edition-5-zits-airco-halfleer-cruisecontrol-pdc-navi-android-carplay/o/1821834",
-"foto": "https://www.schadeautos.nl/cache/picture/739/1821834/41a4bbec1593ec3139cd6de8b32f5944~v193697777.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793698578.1237185,
-"laatst": 1793698578.1237185,
-"keer": 0,
-"fout": ""
-},
-"1821833": {
-"melding": {
-"titel": "Ford Focus (2024)",
-"bericht": "1.0 ecoboost Hybrid ST Line X\n€ 3.850 · 52.980 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-st-line-x/o/1821833",
-"foto": "https://www.schadeautos.nl/cache/picture/182/1821833/6c106679cf54131e13d0397d9104e3f9~v193697789.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793698578.2235222,
-"laatst": 1793698578.2235222,
-"keer": 0,
-"fout": ""
-},
 "1821886": {
 "melding": {
 "titel": "Hyundai I-30 (2024)",
@@ -7211,9 +7205,9 @@
 "WhatsApp"
 ],
 "sinds": 1793701819.6486504,
-"laatst": 1793701819.6486504,
-"keer": 0,
-"fout": ""
+"laatst": 1793711057.4137878,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821898": {
 "melding": {
@@ -7497,6 +7491,156 @@
 ],
 "sinds": 1793707749.0064614,
 "laatst": 1793707749.0064614,
+"keer": 0,
+"fout": ""
+},
+"1822085": {
+"melding": {
+"titel": "Mercedes C-klasse (2025)",
+"bericht": "C 200 T PANORAMADAK\n€ 13.900 · 24.820 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c-200-t-panoramadak/o/1822085",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1822085/7abfe57602b1babf18273b834619d6fa~v193710202.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793711058.5169299,
+"laatst": 1793711058.5169299,
+"keer": 0,
+"fout": ""
+},
+"1822062": {
+"melding": {
+"titel": "Opel Movano (2024)",
+"bericht": "120 L2 3.3T\n€ 16.000 · 50.798 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-movano-120-l2-3-3t/o/1822062",
+"foto": "https://www.schadeautos.nl/cache/picture/125/1822062/f2457f51942b012b98c8afbf447878c2~v193708982.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793711061.8113048,
+"laatst": 1793711061.8113048,
+"keer": 0,
+"fout": ""
+},
+"1822049": {
+"melding": {
+"titel": "Peugeot 208 (2026)",
+"bericht": "ALLURE\n€ 12.900 · 9.535 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-allure/o/1822049",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1822049/bce1738378f9b1951052d93dc3728399~v193708634.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793711062.020501,
+"laatst": 1793711062.020501,
+"keer": 0,
+"fout": ""
+},
+"1822059": {
+"melding": {
+"titel": "Opel Mokka-E (2023)",
+"bericht": "50KWh Aut Camera Led\n€ 10.995 · 82.716 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-mokka-e-50kwh-aut-camera-led/o/1822059",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1822059/eb84b363acb5b02f396068bfdfb6b282~v193708707.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793711062.2291882,
+"laatst": 1793711062.2291882,
+"keer": 0,
+"fout": ""
+},
+"1822066": {
+"melding": {
+"titel": "BMW 1-serie (2026)",
+"bericht": "116i M-sport Aut. Camera SHZ Clima LED Navi Cruise\n€ 9.950 · 10.782 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116i-m-sport-aut-camera-shz-clima-led-navi-cruise/o/1822066",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1822066/54545f64c9c71b9cb290c8e96b486d76~v193708731.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793711065.7684772,
+"laatst": 1793711065.7684772,
+"keer": 0,
+"fout": ""
+},
+"1822065": {
+"melding": {
+"titel": "Toyota Aygo (2026)",
+"bericht": "Hybrid 115 pulse ACC Clima PDC Apple/Android\n€ 9.950 · 17.873 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-hybrid-115-pulse-acc-clima-pdc-apple-android/o/1822065",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1822065/2e5be14adf7554b3c04cde898733da07~v193708711.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793711065.9820073,
+"laatst": 1793711065.9820073,
+"keer": 0,
+"fout": ""
+},
+"1822063": {
+"melding": {
+"titel": "Kia Sportage (2026)",
+"bericht": "1.6 T-GDi Hybrid DynamicPlusLine ACC Pano LrHZ Camera SHZ Navi\n€ 29.950 · 21.719 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-1-6-t-gdi-hybrid-dynamicplusline-acc-pano-lrhz-camera-shz-navi/o/1822063",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1822063/6f28cb18895bdcb0aee22cfd56d74a5c~v193708694.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793711066.2044692,
+"laatst": 1793711066.2044692,
+"keer": 0,
+"fout": ""
+},
+"1822056": {
+"melding": {
+"titel": "BMW (2026)",
+"bericht": "",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw/o/1822056",
+"foto": "https://www.schadeautos.nl/cache/picture/257/1822056/dad5a2838a49aa08a89ca3f46947210d~v193708624.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793711066.4110334,
+"laatst": 1793711066.4110334,
+"keer": 0,
+"fout": ""
+},
+"1822048": {
+"melding": {
+"titel": "Opel Astra (2026)",
+"bericht": "Sports Tourer 1.2 Turbo Hybrid Business Edition LED ACC Apple/Android Camera SHZ LRHZ\n€ 12.750 · 3.750 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-2-turbo-hybrid-business-edition-led-acc-apple-android-camera-shz-lrhz/o/1822048",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1822048/639bb80c9323b59df22f9dfa0d68813c~v193708474.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793711066.6292348,
+"laatst": 1793711066.6292348,
+"keer": 0,
+"fout": ""
+},
+"1822031": {
+"melding": {
+"titel": "Renault Clio (2025)",
+"bericht": "ETECH HYBRID AUTOMAAT\n€ 7.500 · 23.213 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-etech-hybrid-automaat/o/1822031",
+"foto": "https://www.schadeautos.nl/cache/picture/1026/1822031/745bcf75922c4554fbd8db25d56384e2~v193707653.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793711069.7966652,
+"laatst": 1793711069.7966652,
 "keer": 0,
 "fout": ""
 }
