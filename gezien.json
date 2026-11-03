@@ -7305,165 +7305,33 @@
 "1822296",
 "1810734",
 "1786660",
-"1730964"
+"1730964",
+"1822311",
+"1822310",
+"1822309"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822302,
+"hoogste_id": 1822311,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1818904",
+"1803838",
+"1822311",
+"1822310",
+"1780705",
+"1822309",
 "1814200",
 "1803456",
 "1730964",
 "1822302",
 "1822300",
-"1818743",
-"1817295",
-"1817685",
-"1780405",
-"1816796",
-"1754172",
-"1820914"
+"1818743"
 ]
 },
 "wachtrij": {
-"1822272": {
-"melding": {
-"titel": "Opel Corsa (2025)",
-"bericht": "GS Automaat Virtual Led Camera 1/2Leder Navi-10\\'\\' Lane-Assist Drive-Mode 74KW / 101PK\n€ 5.650 · 35.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-automaat-virtual-led-camera-1-2leder-navi-10-lane-assist-drive-mode-74kw-101pk/o/1822272",
-"foto": "https://www.schadeautos.nl/cache/picture/1013/1822272/82d17bd2438950bb29bfed44c4090c5d~v193726180.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793726898.5871408,
-"laatst": 1793735849.4750807,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1822282": {
-"melding": {
-"titel": "BMW 2-serie (2023)",
-"bericht": "€ 14.520 · 81.195 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie/o/1822282",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1822282/4ff174719d5a46d535e7d193754220f2~v193726139.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793726898.7164035,
-"laatst": 1793726898.7164035,
-"keer": 0,
-"fout": ""
-},
-"1822280": {
-"melding": {
-"titel": "Volkswagen Golf (2024)",
-"bericht": "VIII VARIANT LIFE BU\n€ 10.043 · 119.516 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-viii-variant-life-bu/o/1822280",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1822280/940f29844dec4dc2c2be04ef8249d63a~v193726131.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793726898.841112,
-"laatst": 1793726898.841112,
-"keer": 0,
-"fout": ""
-},
-"1822279": {
-"melding": {
-"titel": "Dacia Jogger (2023)",
-"bericht": "EXTREME\n€ 8.300 · 75.469 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreme/o/1822279",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1822279/f6aefbae69bc8cdc47e6903bf1358221~v193726128.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793726898.9649234,
-"laatst": 1793726898.9649234,
-"keer": 0,
-"fout": ""
-},
-"1822278": {
-"melding": {
-"titel": "Seat Ibiza (2023)",
-"bericht": "€ 10.164 · 62.406 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza/o/1822278",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1822278/5b4734c071e196b2b6a59623c9ded260~v193726126.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793726899.0990336,
-"laatst": 1793726899.0990336,
-"keer": 0,
-"fout": ""
-},
-"1822277": {
-"melding": {
-"titel": "Seat Ibiza (2023)",
-"bericht": "€ 9.922 · 54.868 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza/o/1822277",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1822277/64eb1412ee14202e713116b9612d4dd5~v193726123.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793726899.2268908,
-"laatst": 1793726899.2268908,
-"keer": 0,
-"fout": ""
-},
-"1822275": {
-"melding": {
-"titel": "Nissan Qashqai (2022)",
-"bericht": "E-POWER TEKNA\n€ 13.500 · 70.572 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-e-power-tekna/o/1822275",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1822275/c0b28b233b757a28bf47c7d2a9dd5a6f~v193726115.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793726899.360076,
-"laatst": 1793726899.360076,
-"keer": 0,
-"fout": ""
-},
-"1822274": {
-"melding": {
-"titel": "Citroën C4 (2023)",
-"bericht": "€ 9.438 · 67.642 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4/o/1822274",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1822274/cca80bb8466b22828be6b70e08838313~v193726108.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793726899.4838886,
-"laatst": 1793726899.4838886,
-"keer": 0,
-"fout": ""
-},
-"1822263": {
-"melding": {
-"titel": "Citroën Berlingo (2024)",
-"bericht": "XL 1.5 HDI\n€ 5.450 · 81.157 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-berlingo-xl-1-5-hdi/o/1822263",
-"foto": "https://www.schadeautos.nl/cache/picture/909/1822263/928d6902efe9e65e742f48b679b286c8~v193724447.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793726902.2133427,
-"laatst": 1793726902.2133427,
-"keer": 0,
-"fout": ""
-},
 "1822288": {
 "melding": {
 "titel": "Kia EV5 (2026)",
@@ -7475,9 +7343,9 @@
 "WhatsApp"
 ],
 "sinds": 1793729724.188818,
-"laatst": 1793729724.188818,
-"keer": 0,
-"fout": ""
+"laatst": 1793738318.0201252,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821484": {
 "melding": {
@@ -7611,6 +7479,36 @@
 ],
 "sinds": 1793735850.1633143,
 "laatst": 1793735850.1633143,
+"keer": 0,
+"fout": ""
+},
+"1822311": {
+"melding": {
+"titel": "Mercedes GLC (2024)",
+"bericht": "MERCEDES-BENZ GLC 300e Coupe 4Matic AMG Panorama 360view VOL\n€ 49.950 · 51.321 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glc-mercedes-benz-glc-300e-coupe-4matic-amg-panorama-360view-vol/o/1822311",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1822311/a77e8437b1bb29d5a165a1d6dcb24582~v193737488.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793738322.2717032,
+"laatst": 1793738322.2717032,
+"keer": 0,
+"fout": ""
+},
+"1822310": {
+"melding": {
+"titel": "Porsche Taycan (2023)",
+"bericht": "Taycan Sport Turismo 4 S Sport Chrono PANORAMA !\n€ 40.950 · 69.603 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-taycan-sport-turismo-4-s-sport-chrono-panorama/o/1822310",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1822310/80316645fd7c47f442d6b84e8e8edb88~v193736986.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793738322.3490274,
+"laatst": 1793738322.3490274,
 "keer": 0,
 "fout": ""
 }
