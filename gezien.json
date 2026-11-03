@@ -7206,135 +7206,52 @@
 "1822098",
 "1822105",
 "1822101",
-"1822097"
+"1822097",
+"1822196",
+"1822188",
+"1822184",
+"1822189",
+"1686703",
+"1822182",
+"1821864",
+"1822177",
+"1822180",
+"1821571",
+"1822175",
+"1822173",
+"1822168",
+"1822152",
+"1822172",
+"1822171",
+"1822170",
+"1822169",
+"1822157",
+"1822160",
+"1822159",
+"1707328"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822151,
+"hoogste_id": 1822196,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1822141",
-"1800313",
-"1817046",
-"1822147",
-"1822151",
-"1822148",
-"1822149",
-"1822143",
-"1755459",
-"1822136",
-"1822135",
-"1811020"
+"1822196",
+"1822188",
+"1822184",
+"1822189",
+"1812504",
+"1686703",
+"1816785",
+"1822182",
+"1789172",
+"1821864",
+"1822177",
+"1822180"
 ]
 },
 "wachtrij": {
-"1821976": {
-"melding": {
-"titel": "Skoda Kodiaq (2025)",
-"bericht": "iV 1.5 TSI e-Hybrid Sportline CANTON/KAM\n€ 32.900 · 15.685 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-iv-1-5-tsi-e-hybrid-sportline-canton-kam/o/1821976",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1821976/a6fee424a1be9afc41976e463b8e8981~v193703916.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793705049.5537164,
-"laatst": 1793715204.8966134,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1821975": {
-"melding": {
-"titel": "BMW M3 (2026)",
-"bericht": "Competition xDrive HUD/KAM/H&K/NAVI\n€ 69.900 · 7.100 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m3-competition-xdrive-hud-kam-h-k-navi/o/1821975",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1821975/fc3bf433cae04209578c3afc0d893109~v193703913.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793705049.5830433,
-"laatst": 1793705049.5830433,
-"keer": 0,
-"fout": ""
-},
-"1821967": {
-"melding": {
-"titel": "Dacia Bigster (2026)",
-"bericht": "1.8 Hybrid 155 Expression\n€ 13.850 · 5.578 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-bigster-1-8-hybrid-155-expression/o/1821967",
-"foto": "https://www.schadeautos.nl/cache/picture/285/1821967/8a892dec73f6730835b01e7390508a99~v193703786.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793705049.6121306,
-"laatst": 1793705049.6121306,
-"keer": 0,
-"fout": ""
-},
-"1821951": {
-"melding": {
-"titel": "Toyota Yaris (2024)",
-"bericht": "1.5 Hybrid 115 Business\n€ 13.500 · 36.941 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-1-5-hybrid-115-business/o/1821951",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1821951/c169d0e669fb3f33c6b1917ed9466d91~v193703079.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793705049.641963,
-"laatst": 1793705049.641963,
-"keer": 0,
-"fout": ""
-},
-"1821930": {
-"melding": {
-"titel": "Audi A6 avant (2024)",
-"bericht": "55 TFSIe quattro S line AHK/B&O/NAVI\n€ 29.900 · 70.000 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant-55-tfsie-quattro-s-line-ahk-b-o-navi/o/1821930",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1821930/f1c024c86f9161a19d4bdec7e27ea69c~v193702705.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793705052.5512173,
-"laatst": 1793705052.5512173,
-"keer": 0,
-"fout": ""
-},
-"1821829": {
-"melding": {
-"titel": "Tesla Model 3 (2022)",
-"bericht": "60 KWH\n€ 13.500 · 68.880 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-60-kwh/o/1821829",
-"foto": "https://www.schadeautos.nl/cache/picture/285/1821829/266d06e37e469fd2a386ff07105f8f93~v193702483.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793705052.5804777,
-"laatst": 1793705052.5804777,
-"keer": 0,
-"fout": ""
-},
-"1821905": {
-"melding": {
-"titel": "Skoda Kodiaq (2022)",
-"bericht": "4x4 WD 190pk Sportline 2.0 Pano led kuipstoelen Leder\n64.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kodiaq-4x4-wd-190pk-sportline-2-0-pano-led-kuipstoelen-leder/o/1821905",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1821905/784ac2c8218972f9e9cecc0c6b49c066~v193702021.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793705055.090791,
-"laatst": 1793705055.090791,
-"keer": 0,
-"fout": ""
-},
 "1822026": {
 "melding": {
 "titel": "Volkswagen ID.3 (2026)",
@@ -7346,9 +7263,9 @@
 "WhatsApp"
 ],
 "sinds": 1793707745.4890344,
-"laatst": 1793707745.4890344,
-"keer": 0,
-"fout": ""
+"laatst": 1793718002.3045845,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1822025": {
 "melding": {
@@ -7737,6 +7654,81 @@
 ],
 "sinds": 1793715223.842533,
 "laatst": 1793715223.842533,
+"keer": 0,
+"fout": ""
+},
+"1822182": {
+"melding": {
+"titel": "Peugeot 2008 (2025)",
+"bericht": "Allure\n€ 13.310 · 13.947 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-allure/o/1822182",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1822182/6ebbe1043b0b679f958db7282c3d2271~v193717216.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793718004.370309,
+"laatst": 1793718004.370309,
+"keer": 0,
+"fout": ""
+},
+"1822175": {
+"melding": {
+"titel": "Honda Hr-v (2026)",
+"bericht": "Advance\n€ 17.303 · 2.460 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-hr-v-advance/o/1822175",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1822175/719cc0f7321b6fafdfe2c40056127017~v193716668.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793718010.519396,
+"laatst": 1793718010.519396,
+"keer": 0,
+"fout": ""
+},
+"1822152": {
+"melding": {
+"titel": "Audi Q5 (2026)",
+"bericht": "2.0 TFSI E-Hybrid Competition Quattro S-Edition 299pk\n€ 21.500 · 1.500 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q5-2-0-tfsi-e-hybrid-competition-quattro-s-edition-299pk/o/1822152",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1822152/2ee04be7fa556f6adf226074ad7793dc~v193716305.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793718010.5974724,
+"laatst": 1793718010.5974724,
+"keer": 0,
+"fout": ""
+},
+"1822171": {
+"melding": {
+"titel": "BMW X1 (2024)",
+"bericht": "80.464 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1/o/1822171",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1822171/a864c66a67a63b84f6f1e2a1e668c01f~v193716212.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793718010.6840975,
+"laatst": 1793718010.6840975,
+"keer": 0,
+"fout": ""
+},
+"1822157": {
+"melding": {
+"titel": "Seat Ibiza (2025)",
+"bericht": "FR Anniversary Edition\n€ 9.500 · 26.684 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-fr-anniversary-edition/o/1822157",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1822157/a6adc53de2728af862700901fea6160f~v193715228.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793718015.7149532,
+"laatst": 1793718015.7149532,
 "keer": 0,
 "fout": ""
 }
