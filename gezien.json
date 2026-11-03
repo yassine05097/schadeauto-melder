@@ -7258,180 +7258,45 @@
 "1821794",
 "1821799",
 "1821796",
-"1822190"
+"1822190",
+"1822257",
+"1822255",
+"1822253",
+"1822145",
+"1822252",
+"1822251",
+"1822250",
+"1822244",
+"1822247",
+"1822249",
+"1822245",
+"1822240",
+"1809433",
+"1822239",
+"1822232"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822238,
+"hoogste_id": 1822257,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1822238",
-"1822234",
-"1822219",
-"1822236",
-"1820369",
-"1821515",
-"1822235",
-"1822214",
-"1822231",
-"1822194",
-"1822233",
-"1822217"
+"1822257",
+"1822255",
+"1817345",
+"1818762",
+"1819962",
+"1821386",
+"1822253",
+"1822145",
+"1820798",
+"1820140",
+"1820730",
+"1822252"
 ]
 },
 "wachtrij": {
-"1822085": {
-"melding": {
-"titel": "Mercedes C-klasse (2025)",
-"bericht": "C 200 T PANORAMADAK\n€ 13.900 · 24.820 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-c-200-t-panoramadak/o/1822085",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1822085/7abfe57602b1babf18273b834619d6fa~v193710202.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793711058.5169299,
-"laatst": 1793720826.0017266,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1822062": {
-"melding": {
-"titel": "Opel Movano (2024)",
-"bericht": "120 L2 3.3T\n€ 16.000 · 50.798 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-movano-120-l2-3-3t/o/1822062",
-"foto": "https://www.schadeautos.nl/cache/picture/125/1822062/f2457f51942b012b98c8afbf447878c2~v193708982.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793711061.8113048,
-"laatst": 1793711061.8113048,
-"keer": 0,
-"fout": ""
-},
-"1822049": {
-"melding": {
-"titel": "Peugeot 208 (2026)",
-"bericht": "ALLURE\n€ 12.900 · 9.535 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-allure/o/1822049",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1822049/bce1738378f9b1951052d93dc3728399~v193708634.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793711062.020501,
-"laatst": 1793711062.020501,
-"keer": 0,
-"fout": ""
-},
-"1822059": {
-"melding": {
-"titel": "Opel Mokka-E (2023)",
-"bericht": "50KWh Aut Camera Led\n€ 10.995 · 82.716 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-mokka-e-50kwh-aut-camera-led/o/1822059",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1822059/eb84b363acb5b02f396068bfdfb6b282~v193708707.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793711062.2291882,
-"laatst": 1793711062.2291882,
-"keer": 0,
-"fout": ""
-},
-"1822066": {
-"melding": {
-"titel": "BMW 1-serie (2026)",
-"bericht": "116i M-sport Aut. Camera SHZ Clima LED Navi Cruise\n€ 9.950 · 10.782 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116i-m-sport-aut-camera-shz-clima-led-navi-cruise/o/1822066",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1822066/54545f64c9c71b9cb290c8e96b486d76~v193708731.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793711065.7684772,
-"laatst": 1793711065.7684772,
-"keer": 0,
-"fout": ""
-},
-"1822065": {
-"melding": {
-"titel": "Toyota Aygo (2026)",
-"bericht": "Hybrid 115 pulse ACC Clima PDC Apple/Android\n€ 9.950 · 17.873 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-hybrid-115-pulse-acc-clima-pdc-apple-android/o/1822065",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1822065/2e5be14adf7554b3c04cde898733da07~v193708711.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793711065.9820073,
-"laatst": 1793711065.9820073,
-"keer": 0,
-"fout": ""
-},
-"1822063": {
-"melding": {
-"titel": "Kia Sportage (2026)",
-"bericht": "1.6 T-GDi Hybrid DynamicPlusLine ACC Pano LrHZ Camera SHZ Navi\n€ 29.950 · 21.719 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-1-6-t-gdi-hybrid-dynamicplusline-acc-pano-lrhz-camera-shz-navi/o/1822063",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1822063/6f28cb18895bdcb0aee22cfd56d74a5c~v193708694.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793711066.2044692,
-"laatst": 1793711066.2044692,
-"keer": 0,
-"fout": ""
-},
-"1822056": {
-"melding": {
-"titel": "BMW (2026)",
-"bericht": "",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw/o/1822056",
-"foto": "https://www.schadeautos.nl/cache/picture/257/1822056/dad5a2838a49aa08a89ca3f46947210d~v193708624.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793711066.4110334,
-"laatst": 1793711066.4110334,
-"keer": 0,
-"fout": ""
-},
-"1822048": {
-"melding": {
-"titel": "Opel Astra (2026)",
-"bericht": "Sports Tourer 1.2 Turbo Hybrid Business Edition LED ACC Apple/Android Camera SHZ LRHZ\n€ 12.750 · 3.750 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sports-tourer-1-2-turbo-hybrid-business-edition-led-acc-apple-android-camera-shz-lrhz/o/1822048",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1822048/639bb80c9323b59df22f9dfa0d68813c~v193708474.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793711066.6292348,
-"laatst": 1793711066.6292348,
-"keer": 0,
-"fout": ""
-},
-"1822031": {
-"melding": {
-"titel": "Renault Clio (2025)",
-"bericht": "ETECH HYBRID AUTOMAAT\n€ 7.500 · 23.213 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-etech-hybrid-automaat/o/1822031",
-"foto": "https://www.schadeautos.nl/cache/picture/1026/1822031/745bcf75922c4554fbd8db25d56384e2~v193707653.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793711069.7966652,
-"laatst": 1793711069.7966652,
-"keer": 0,
-"fout": ""
-},
 "1800313": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen T-Cross (2022)",
@@ -7443,9 +7308,9 @@
 "WhatsApp"
 ],
 "sinds": 1793715208.179708,
-"laatst": 1793715208.179708,
-"keer": 0,
-"fout": ""
+"laatst": 1793723740.773053,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1822148": {
 "melding": {
@@ -7774,6 +7639,36 @@
 ],
 "sinds": 1793720834.2464733,
 "laatst": 1793720834.2464733,
+"keer": 0,
+"fout": ""
+},
+"1822250": {
+"melding": {
+"titel": "Volkswagen T-Cross (2022)",
+"bericht": "STYLE 110 PK NAVI CLIMA CAMERA VIRT DASH B.J 09-2022\n€ 10.950 · 57.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-style-110-pk-navi-clima-camera-virt-dash-b-j-09-2022/o/1822250",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1822250/1f3e0e5803b088bfc7882eabf099ac3e~v193722186.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793723744.2276857,
+"laatst": 1793723744.2276857,
+"keer": 0,
+"fout": ""
+},
+"1822232": {
+"melding": {
+"titel": "Kia EV4 (2025)",
+"bericht": "81,4 kWh 204PK Air\n€ 18.600 · 25.703 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev4-81-4-kwh-204pk-air/o/1822232",
+"foto": "https://www.schadeautos.nl/cache/picture/375/1822232/8231a1a8f47a448bf0952e9f5cde47ef~v193720388.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793723747.389128,
+"laatst": 1793723747.389128,
 "keer": 0,
 "fout": ""
 }
