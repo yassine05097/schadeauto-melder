@@ -7111,90 +7111,50 @@
 "1821909",
 "1821908",
 "1821907",
-"1821903"
+"1821903",
+"1821617",
+"1822029",
+"1822028",
+"1822027",
+"1733078",
+"1783014",
+"1745243",
+"1822024",
+"1822026",
+"1822025",
+"1822016",
+"1822015",
+"1772385",
+"1821989",
+"1822012",
+"1822011",
+"1822008",
+"1822007",
+"1821999",
+"1822003"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821992,
+"hoogste_id": 1822029,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821269",
-"1821980",
-"1821992",
-"1805263",
-"1799845",
-"1821987",
-"1784205",
-"1821950",
-"1821978",
-"1820484",
-"1821445",
-"1821973"
+"1821617",
+"1822029",
+"1822028",
+"1814164",
+"1803017",
+"1819031",
+"1822027",
+"1820336",
+"1733078",
+"1783014",
+"1745243",
+"1795114"
 ]
 },
 "wachtrij": {
-"1792320": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Sportage (2022)",
-"bericht": "1.6T-GDi 132kW Automaat Plug-in Hybrid AWD Dynamicline\n€ 15.500 · 83.333 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-1-6t-gdi-132kw-automaat-plug-in-hybrid-awd-dynamicline/o/1792320",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1792320/8998ad4d3800a16775af49b86ebbeace~v184804733.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793695488.2244618,
-"laatst": 1793705045.9767344,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1821810": {
-"melding": {
-"titel": "Dacia Sandero (2024)",
-"bericht": "29.492 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero/o/1821810",
-"foto": "https://www.schadeautos.nl/cache/picture/926/1821810/36739b56d3fe72e4b5399dafe02ac014~v193694614.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793695488.2993722,
-"laatst": 1793695488.2993722,
-"keer": 0,
-"fout": ""
-},
-"1754078": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Polo (2024)",
-"bericht": "2.0 GTI Hatchback 4Dr Benzine 1.984cc 152kW (207pk) FWD\n€ 22.750 · 27.825 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-2-0-gti-hatchback-4dr-benzine-1-984cc-152kw-207pk-fwd/o/1754078",
-"foto": "https://www.schadeautos.nl/cache/picture/146/1754078/d2d5d0b1e6d2192ff023c26c9decb372~v173318160.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793695490.9066472,
-"laatst": 1793695490.9066472,
-"keer": 0,
-"fout": ""
-},
-"1749432": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Polo (2022)",
-"bericht": "2.0 GTI Turbo 16V Hatchback 4Dr Benzine 1.984cc 152kW (207pk) FWD\n€ 19.995 · 48.162 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-2-0-gti-turbo-16v-hatchback-4dr-benzine-1-984cc-152kw-207pk-fwd/o/1749432",
-"foto": "https://www.schadeautos.nl/cache/picture/146/1749432/34bd5d5bef9c97f4dcb78eca1c633542~v172093258.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793695490.9869921,
-"laatst": 1793695490.9869921,
-"keer": 0,
-"fout": ""
-},
 "1821839": {
 "melding": {
 "titel": "Dacia Sandero (2023)",
@@ -7206,9 +7166,9 @@
 "WhatsApp"
 ],
 "sinds": 1793698578.0236006,
-"laatst": 1793698578.0236006,
-"keer": 0,
-"fout": ""
+"laatst": 1793707739.6884995,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821834": {
 "melding": {
@@ -7492,6 +7452,51 @@
 ],
 "sinds": 1793705055.090791,
 "laatst": 1793705055.090791,
+"keer": 0,
+"fout": ""
+},
+"1822026": {
+"melding": {
+"titel": "Volkswagen ID.3 (2026)",
+"bericht": "Pro\n€ 23.900 · 3.263 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-3-pro/o/1822026",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822026/00a623c0cf66359d259fa2ab0d494611~v193706323.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793707745.4890344,
+"laatst": 1793707745.4890344,
+"keer": 0,
+"fout": ""
+},
+"1822025": {
+"melding": {
+"titel": "Volkswagen Golf (2026)",
+"bericht": "GTI Edition 50 HUD/KAM/H&K/NAVI\n€ 31.900 · 3.151 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-gti-edition-50-hud-kam-h-k-navi/o/1822025",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822025/eaeeec0a0ed399b0d0ec26fcad9d27dc~v193706316.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793707745.665566,
+"laatst": 1793707745.665566,
+"keer": 0,
+"fout": ""
+},
+"1822003": {
+"melding": {
+"titel": "Volkswagen Golf (2025)",
+"bericht": "GTI Clubsport PANO/KAM\n€ 24.900 · 47.793 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-gti-clubsport-pano-kam/o/1822003",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822003/915017101dd93a820cfbc27f6776ab7f~v193705111.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793707749.0064614,
+"laatst": 1793707749.0064614,
 "keer": 0,
 "fout": ""
 }
