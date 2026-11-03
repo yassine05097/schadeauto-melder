@@ -7021,27 +7021,39 @@
 "1821793",
 "1807529",
 "1774231",
-"1821792"
+"1821792",
+"1821818",
+"1821812",
+"1793995",
+"1808246",
+"1792320",
+"1821810",
+"1821807",
+"1821808",
+"1821806",
+"1821803",
+"1754078",
+"1749432"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1821802,
+"hoogste_id": 1821818,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821802",
-"1809301",
-"1820815",
-"1725590",
-"1744138",
-"1746736",
-"1781817",
-"1819584",
-"1817387",
-"1821793",
-"1812417",
-"1765465"
+"1821818",
+"1821812",
+"1793995",
+"1808246",
+"1788659",
+"1782845",
+"1816202",
+"1816192",
+"1802396",
+"1792320",
+"1821810",
+"1819556"
 ]
 },
 "wachtrij": {
@@ -7056,8 +7068,8 @@
 "WhatsApp"
 ],
 "sinds": 1793688004.3382242,
-"laatst": 1793692360.7237475,
-"keer": 2,
+"laatst": 1793695487.1620226,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1821786": {
@@ -7162,6 +7174,66 @@
 ],
 "sinds": 1793692365.4948738,
 "laatst": 1793692365.4948738,
+"keer": 0,
+"fout": ""
+},
+"1792320": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Sportage (2022)",
+"bericht": "1.6T-GDi 132kW Automaat Plug-in Hybrid AWD Dynamicline\n€ 15.500 · 83.333 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage-1-6t-gdi-132kw-automaat-plug-in-hybrid-awd-dynamicline/o/1792320",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1792320/8998ad4d3800a16775af49b86ebbeace~v184804733.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793695488.2244618,
+"laatst": 1793695488.2244618,
+"keer": 0,
+"fout": ""
+},
+"1821810": {
+"melding": {
+"titel": "Dacia Sandero (2024)",
+"bericht": "29.492 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero/o/1821810",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1821810/36739b56d3fe72e4b5399dafe02ac014~v193694614.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793695488.2993722,
+"laatst": 1793695488.2993722,
+"keer": 0,
+"fout": ""
+},
+"1754078": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Polo (2024)",
+"bericht": "2.0 GTI Hatchback 4Dr Benzine 1.984cc 152kW (207pk) FWD\n€ 22.750 · 27.825 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-2-0-gti-hatchback-4dr-benzine-1-984cc-152kw-207pk-fwd/o/1754078",
+"foto": "https://www.schadeautos.nl/cache/picture/146/1754078/d2d5d0b1e6d2192ff023c26c9decb372~v173318160.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793695490.9066472,
+"laatst": 1793695490.9066472,
+"keer": 0,
+"fout": ""
+},
+"1749432": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Polo (2022)",
+"bericht": "2.0 GTI Turbo 16V Hatchback 4Dr Benzine 1.984cc 152kW (207pk) FWD\n€ 19.995 · 48.162 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-2-0-gti-turbo-16v-hatchback-4dr-benzine-1-984cc-152kw-207pk-fwd/o/1749432",
+"foto": "https://www.schadeautos.nl/cache/picture/146/1749432/34bd5d5bef9c97f4dcb78eca1c633542~v172093258.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793695490.9869921,
+"laatst": 1793695490.9869921,
 "keer": 0,
 "fout": ""
 }
