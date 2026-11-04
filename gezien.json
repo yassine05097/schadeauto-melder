@@ -7333,27 +7333,42 @@
 "1822327",
 "1822326",
 "1822325",
-"1822324"
+"1822324",
+"1822358",
+"1813053",
+"1822355",
+"1787118",
+"1807556",
+"1807629",
+"1822350",
+"1822349",
+"1822348",
+"1822346",
+"1822342",
+"1822345",
+"1822343",
+"1822341",
+"1822338"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822337,
+"hoogste_id": 1822358,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1820576",
-"1822337",
-"1822333",
-"1822334",
-"1822335",
-"1822336",
-"1822331",
-"1822329",
-"1822328",
-"1822327",
-"1822326",
-"1822325"
+"1822358",
+"1813053",
+"1811199",
+"1822355",
+"1787118",
+"1817695",
+"1807556",
+"1817410",
+"1807629",
+"1816864",
+"1822350",
+"1808183"
 ]
 },
 "wachtrij": {
@@ -7368,8 +7383,8 @@
 "WhatsApp"
 ],
 "sinds": 1793773064.571696,
-"laatst": 1793777938.594696,
-"keer": 2,
+"laatst": 1793781420.2022376,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1758061": {
@@ -7429,6 +7444,36 @@
 ],
 "sinds": 1793777939.2831378,
 "laatst": 1793777939.2831378,
+"keer": 0,
+"fout": ""
+},
+"1822348": {
+"melding": {
+"titel": "Seat Arona (2025)",
+"bericht": "49.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-arona/o/1822348",
+"foto": "https://www.schadeautos.nl/cache/picture/987/1822348/bbe87c9545d070f10e650b23ee3c8aa0~v193779209.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793781423.9368696,
+"laatst": 1793781423.9368696,
+"keer": 0,
+"fout": ""
+},
+"1822341": {
+"melding": {
+"titel": "Seat Arona (2024)",
+"bericht": "STYLE/DSG\n80.045 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-arona-style-dsg/o/1822341",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1822341/2191ff3b5271730e9ffcf07c1b07f3bc~v193778309.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793781426.9806664,
+"laatst": 1793781426.9806664,
 "keer": 0,
 "fout": ""
 }
