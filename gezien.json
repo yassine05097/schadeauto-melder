@@ -7467,27 +7467,62 @@
 "1822497",
 "1822496",
 "1822494",
-"1822483"
+"1822483",
+"1822572",
+"1813065",
+"1822562",
+"1719788",
+"1822570",
+"1822569",
+"1735807",
+"1810600",
+"1822568",
+"1822558",
+"1822565",
+"1822563",
+"1822567",
+"1822566",
+"1822559",
+"1768283",
+"1822557",
+"1822553",
+"1822544",
+"1822556",
+"1822555",
+"1744308",
+"1721954",
+"1822552",
+"1822549",
+"1822548",
+"1718464",
+"1822550",
+"1728162",
+"1822526",
+"1749841",
+"1822546",
+"1778978",
+"1822539",
+"1822540"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822538,
+"hoogste_id": 1822572,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1780914",
-"1811830",
-"1811680",
-"1822533",
-"1822538",
-"1822488",
-"1788781",
-"1814833",
-"1822534",
-"1822525",
-"1798382",
-"1738524"
+"1822572",
+"1809945",
+"1813065",
+"1822562",
+"1719788",
+"1774218",
+"1800111",
+"1822570",
+"1822569",
+"1735807",
+"1760025",
+"1810600"
 ]
 },
 "wachtrij": {
@@ -7502,8 +7537,8 @@
 "WhatsApp"
 ],
 "sinds": 1793792097.6170607,
-"laatst": 1793799085.5632265,
-"keer": 1,
+"laatst": 1793802839.4565108,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1721612": {
@@ -7848,6 +7883,186 @@
 ],
 "sinds": 1793799094.7623715,
 "laatst": 1793799094.7623715,
+"keer": 0,
+"fout": ""
+},
+"1813065": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen Golf (2025)",
+"bericht": "1.5 TSI DSG Goal\n€ 15.900 · 10.291 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5-tsi-dsg-goal/o/1813065",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1813065/730755ab7a05113b28c191b0a93d1888~v193802304.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802840.4877315,
+"laatst": 1793802840.4877315,
+"keer": 0,
+"fout": ""
+},
+"1822562": {
+"melding": {
+"titel": "Porsche Cayenne (2026)",
+"bericht": "Electric Turbo Full Option 113kWh\n€ 127.500 · 2.569 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-electric-turbo-full-option-113kwh/o/1822562",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1822562/9fe4e161bb69990edcfcfe309e9bf5f4~v193802117.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802840.6639006,
+"laatst": 1793802840.6639006,
+"keer": 0,
+"fout": ""
+},
+"1822570": {
+"melding": {
+"titel": "Tesla Model 3 (2023)",
+"bericht": "RWD Plus 60 kWh -GLAZENDAK-LEDER-NAVI-CAMERA-PDC\nexportprijs € 15.750 · 108.400 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-rwd-plus-60-kwh-glazendak-leder-navi-camera-pdc/o/1822570",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1822570/b582b4cf8f43e3a1270b9de0d569af89~v193802083.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802840.8402457,
+"laatst": 1793802840.8402457,
+"keer": 0,
+"fout": ""
+},
+"1822568": {
+"melding": {
+"titel": "Renault Austral (2024)",
+"bericht": "E TECH 200 FULL HYBRIDE TECHNO PANODAK AUTOMAAT LED NAVI CAMERA CLIMA B.J 11-2024\n€ 17.950 · 13.435 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-austral-e-tech-200-full-hybride-techno-panodak-automaat-led-navi-camera-clima-b-j-11-2024/o/1822568",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1822568/898f253a50944c956bc4fdbb94a29bc0~v193801687.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802844.102405,
+"laatst": 1793802844.102405,
+"keer": 0,
+"fout": ""
+},
+"1822566": {
+"melding": {
+"titel": "DS Automobiles DS 7 Crossback (2022)",
+"bericht": "DS 7 CROSSBACK HYBRID 2022\n€ 9.650 · 218.871 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ds-automobiles-ds-7-crossback-ds-7-crossback-hybrid-2022/o/1822566",
+"foto": "https://www.schadeautos.nl/cache/picture/982/1822566/841bcbcf339eb2fbf5f1c2c723d6a8f4~v193801052.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802844.3014114,
+"laatst": 1793802844.3014114,
+"keer": 0,
+"fout": ""
+},
+"1822557": {
+"melding": {
+"titel": "Peugeot 208 (2023)",
+"bericht": "1.2 PureTech Active\n€ 8.300 · 56.938 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-active/o/1822557",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1822557/4c3bb2cfdbef16ca87308ea15828d4a9~v193800529.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802847.3492024,
+"laatst": 1793802847.3492024,
+"keer": 0,
+"fout": ""
+},
+"1822553": {
+"melding": {
+"titel": "Porsche Cayenne (2025)",
+"bericht": "E-Hybrid Coupe Black Edition\n€ 86.500 · 12.674 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-e-hybrid-coupe-black-edition/o/1822553",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1822553/e3e8e639ebf9b78b8c5b1d3b803ef692~v193800414.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802847.52543,
+"laatst": 1793802847.52543,
+"keer": 0,
+"fout": ""
+},
+"1822548": {
+"melding": {
+"titel": "Porsche Taycan (2026)",
+"bericht": "Black Edition Full Option\n€ 82.500 · 6.836 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-black-edition-full-option/o/1822548",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1822548/7f73943aadcc9c33d3d5e440e8863d24~v193799984.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802851.1584706,
+"laatst": 1793802851.1584706,
+"keer": 0,
+"fout": ""
+},
+"1718464": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mitsubishi Space-star (2022)",
+"bericht": "€ 3.950 · 96.468 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star/o/1718464",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1718464/42b89e828e6252824a56914464677b2d~v162522372.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802851.3354118,
+"laatst": 1793802851.3354118,
+"keer": 0,
+"fout": ""
+},
+"1728162": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2024)",
+"bericht": "1.2 PureTech 100 Allure\n€ 7.900 · 15.747 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-puretech-100-allure/o/1728162",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1728162/04542ec98175a61d1a2f6c9785a5f064~v165376772.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802851.5193648,
+"laatst": 1793802851.5193648,
+"keer": 0,
+"fout": ""
+},
+"1822526": {
+"melding": {
+"titel": "Mazda MX-30 (2024)",
+"bericht": "E-SkyActive R-EV 170 Advantage\n€ 13.700 · 24.531 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-mx-30-e-skyactive-r-ev-170-advantage/o/1822526",
+"foto": "https://www.schadeautos.nl/cache/picture/375/1822526/a4f5a5287a7b416596b079bacdccd856~v193797915.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802851.6946037,
+"laatst": 1793802851.6946037,
+"keer": 0,
+"fout": ""
+},
+"1822540": {
+"melding": {
+"titel": "Volkswagen Crafter (2024)",
+"bericht": "35 2.0 TDI L4H3 Comfortline AUTOMAAT-NAVI-CRUISE-CAMERA-PDC\nexportprijs € 16.950 · 60.163 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-crafter-35-2-0-tdi-l4h3-comfortline-automaat-navi-cruise-camera-pdc/o/1822540",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1822540/8726818826947fb9f8587c6f46ce2c77~v193799977.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793802854.5845506,
+"laatst": 1793802854.5845506,
 "keer": 0,
 "fout": ""
 }
