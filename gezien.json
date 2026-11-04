@@ -7417,60 +7417,45 @@
 "1712257",
 "1822405",
 "1822406",
-"1789828"
+"1789828",
+"1822479",
+"1769907",
+"1822474",
+"1784631",
+"1822473",
+"1822467",
+"1822464",
+"1759241",
+"1742854",
+"1822462",
+"1822465",
+"1802265",
+"1809945",
+"1812660",
+"1822208"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822459,
+"hoogste_id": 1822479,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1814728",
-"1816730",
-"1809698",
-"1727315",
-"1822459",
-"1822449",
-"1822454",
-"1721612",
-"1819590",
-"1822453",
-"1809364",
-"1785387"
+"1822479",
+"1815541",
+"1817952",
+"1769907",
+"1822474",
+"1784631",
+"1779693",
+"1821634",
+"1822473",
+"1775231",
+"1794874",
+"1762698"
 ]
 },
 "wachtrij": {
-"1822348": {
-"melding": {
-"titel": "Seat Arona (2025)",
-"bericht": "49.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-arona/o/1822348",
-"foto": "https://www.schadeautos.nl/cache/picture/987/1822348/bbe87c9545d070f10e650b23ee3c8aa0~v193779209.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793781423.9368696,
-"laatst": 1793792096.9394627,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1822341": {
-"melding": {
-"titel": "Seat Arona (2024)",
-"bericht": "STYLE/DSG\n80.045 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-arona-style-dsg/o/1822341",
-"foto": "https://www.schadeautos.nl/cache/picture/926/1822341/2191ff3b5271730e9ffcf07c1b07f3bc~v193778309.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793781426.9806664,
-"laatst": 1793781426.9806664,
-"keer": 0,
-"fout": ""
-},
 "1822400": {
 "melding": {
 "titel": "Ford Transit (2024)",
@@ -7482,9 +7467,9 @@
 "WhatsApp"
 ],
 "sinds": 1793784705.0312479,
-"laatst": 1793784705.0312479,
-"keer": 0,
-"fout": ""
+"laatst": 1793794781.1465585,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1822393": {
 "melding": {
@@ -7753,6 +7738,51 @@
 ],
 "sinds": 1793792115.5848467,
 "laatst": 1793792115.5848467,
+"keer": 0,
+"fout": ""
+},
+"1822467": {
+"melding": {
+"titel": "Kia Stonic (2025)",
+"bericht": "Stonic (YB) SUV 1.0i T-GDi 12V Eco-Dynamics+ (G3LF) [74kW] (01-2021/.= =2E.)\n€ 13.950 · 21.791 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-stonic-stonic-yb-suv-1-0i-t-gdi-12v-eco-dynamics-g3lf-74kw-01-2021-2e/o/1822467",
+"foto": "https://www.schadeautos.nl/cache/picture/693/1822467/89936ea5c632f19cdfb6101959742143~v193792937.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793794786.2564518,
+"laatst": 1793794786.2564518,
+"keer": 0,
+"fout": ""
+},
+"1822464": {
+"melding": {
+"titel": "BMW X7 (2022)",
+"bericht": "xDrive 40i HIGH EXE-360 CAMERA-LEDER-PANO-4 WIEL BESTURING\nexportprijs € 42.750 · 114.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x7-xdrive-40i-high-exe-360-camera-leder-pano-4-wiel-besturing/o/1822464",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1822464/ff4d7c7c06a7fc0fb7e27fa5d0516886~v193792691.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793794786.4326818,
+"laatst": 1793794786.4326818,
+"keer": 0,
+"fout": ""
+},
+"1822462": {
+"melding": {
+"titel": "BMW X5 (2024)",
+"bericht": "xDrive 50e HIGH EXE 313 PK-PANO-M-STOELEN-SKY LOUNGE\n€ 78.950 · 59.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5-xdrive-50e-high-exe-313-pk-pano-m-stoelen-sky-lounge/o/1822462",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1822462/0b80bc4b313420a81da97ad55c38cc78~v193792379.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793794786.6097999,
+"laatst": 1793794786.6097999,
 "keer": 0,
 "fout": ""
 }
