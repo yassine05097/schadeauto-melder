@@ -7599,15 +7599,21 @@
 "1822670",
 "1822669",
 "1822668",
-"1822667"
+"1822667",
+"1822678",
+"1822675"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822673,
+"hoogste_id": 1822678,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1822678",
+"1805377",
+"1822675",
+"1767045",
 "1822673",
 "1822672",
 "1822671",
@@ -7615,194 +7621,10 @@
 "1822669",
 "1822668",
 "1822667",
-"1822666",
-"1822665",
-"1822664",
-"1822663",
-"1807901"
+"1822666"
 ]
 },
 "wachtrij": {
-"1822598": {
-"melding": {
-"titel": "Tesla Model 3 (2026)",
-"bericht": "Long Range\n€ 26.378 · 2.832 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-long-range/o/1822598",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1822598/3be21510f0041bce0d71743deedce887~v193804854.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805955.8917449,
-"laatst": 1793815439.1700382,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1822604": {
-"melding": {
-"titel": "BMW 1-serie (2026)",
-"bericht": "120i Automaat M-Pakket ( 7 KM gelopen )\n€ 26.450 · 7 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-120i-automaat-m-pakket-7-km-gelopen/o/1822604",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805956.004382,
-"laatst": 1793805956.004382,
-"keer": 0,
-"fout": ""
-},
-"1822589": {
-"melding": {
-"titel": "Tesla Model 3 (2026)",
-"bericht": "Long Range\n€ 22.748 · 9.077 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-long-range/o/1822589",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1822589/0f7be6ace77cf59818c1a1f428e6790f~v193804126.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805959.062784,
-"laatst": 1793805959.062784,
-"keer": 0,
-"fout": ""
-},
-"1822371": {
-"melding": {
-"titel": "Volkswagen Up! (2023)",
-"bericht": "1.0 Airco 45.042 NAP\n€ 7.370 · 45.042 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-up-1-0-airco-45-042-nap/o/1822371",
-"foto": "https://www.schadeautos.nl/cache/picture/66/1822371/4961024e1db9bbc98e53195bd54ef134~v193784611.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805959.1708012,
-"laatst": 1793805959.1708012,
-"keer": 0,
-"fout": ""
-},
-"1822163": {
-"melding": {
-"titel": "Ford Focus (2023)",
-"bericht": "1.0EcoBoost 92kW Hybrid ST Line Style\n€ 6.950 · 75.668 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0ecoboost-92kw-hybrid-st-line-style/o/1822163",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1822163/301838361cd333885618e7aac52b6090~v193721007.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805959.2736914,
-"laatst": 1793805959.2736914,
-"keer": 0,
-"fout": ""
-},
-"1822593": {
-"melding": {
-"titel": "BMW 2-serie (2024)",
-"bericht": "218 gran coupe\nexportprijs € 5.500 · 61.736 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie-218-gran-coupe/o/1822593",
-"foto": "https://www.schadeautos.nl/cache/picture/956/1822593/3f892699a562fa5e88aa83be1662cf9f~v193804340.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805962.1624846,
-"laatst": 1793805962.1624846,
-"keer": 0,
-"fout": ""
-},
-"1822580": {
-"melding": {
-"titel": "Renault Symbioz (2025)",
-"bericht": "1.8 E-Tech full hybrid 160 esprit Alpine sport\n€ 17.500 · 55.199 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-symbioz-1-8-e-tech-full-hybrid-160-esprit-alpine-sport/o/1822580",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1822580/043ac2a90b755151208398b0925f581c~v193803789.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805962.271137,
-"laatst": 1793805962.271137,
-"keer": 0,
-"fout": ""
-},
-"1822586": {
-"melding": {
-"titel": "Volkswagen Caddy (2025)",
-"bericht": "5 PERSOONS BENZINE 116 PK CLIMA CAMERA TREKHAAK B.J 05-2025\n€ 16.450 · 28.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-5-persoons-benzine-116-pk-clima-camera-trekhaak-b-j-05-2025/o/1822586",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1822586/f1318a85a49fa21446282b2b59d1c072~v193803831.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805962.3676274,
-"laatst": 1793805962.3676274,
-"keer": 0,
-"fout": ""
-},
-"1822582": {
-"melding": {
-"titel": "Volkswagen ID.7 (2025)",
-"bericht": "Tourer Pro HUD/AHK/360/NAVI\n€ 13.900 · 38.556 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-7-tourer-pro-hud-ahk-360-navi/o/1822582",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1822582/181ed2ed56f7d08163394b90ca381ffc~v193803516.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805965.8139122,
-"laatst": 1793805965.8139122,
-"keer": 0,
-"fout": ""
-},
-"1684687": {
-"melding": {
-"titel": "Opnieuw geplaatst: Renault Mégane (2023)",
-"bericht": "Estate 1.3 TCe Aut. 140 Techno Navi Camera Clima Cruise\n€ 8.950 · 23.693 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-estate-1-3-tce-aut-140-techno-navi-camera-clima-cruise/o/1684687",
-"foto": "https://www.schadeautos.nl/cache/picture/644/1684687/3d8777c0990e41c529f15e30fc913000~v193803574.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805965.920117,
-"laatst": 1793805965.920117,
-"keer": 0,
-"fout": ""
-},
-"1822579": {
-"melding": {
-"titel": "Tesla Model Y (2022)",
-"bericht": "75 kWh Long Range AWD 258KW Pano Clima Navi NAP\n€ 15.500 · 162.133 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-75-kwh-long-range-awd-258kw-pano-clima-navi-nap/o/1822579",
-"foto": "https://www.schadeautos.nl/cache/picture/585/1822579/b12da0417e1e1ed25c90c179c0dd437b~v193803462.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805966.0270767,
-"laatst": 1793805966.0270767,
-"keer": 0,
-"fout": ""
-},
-"1822573": {
-"melding": {
-"titel": "Toyota Aygo (2024)",
-"bericht": "aygo x met vouwdak en lederen bekleding\n€ 8.450 · 25.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-aygo-x-met-vouwdak-en-lederen-bekleding/o/1822573",
-"foto": "https://www.schadeautos.nl/cache/picture/799/1822573/8b27fb072aabe33007d902854a7d074e~v193802779.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793805966.1223695,
-"laatst": 1793805966.1223695,
-"keer": 0,
-"fout": ""
-},
 "1821858": {
 "melding": {
 "titel": "Mazda CX-30 (2022)",
@@ -7814,9 +7636,9 @@
 "WhatsApp"
 ],
 "sinds": 1793809162.0158882,
-"laatst": 1793809162.0158882,
-"keer": 0,
-"fout": ""
+"laatst": 1793818562.51992,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1822634": {
 "melding": {
@@ -7995,6 +7817,21 @@
 ],
 "sinds": 1793815440.687183,
 "laatst": 1793815440.687183,
+"keer": 0,
+"fout": ""
+},
+"1822678": {
+"melding": {
+"titel": "Kia Pro cee d (2024)",
+"bericht": "1.5 T-GDI GT-Line GHX-07-L\n€ 14.850 · 100.628 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-pro-cee-d-1-5-t-gdi-gt-line-ghx-07-l/o/1822678",
+"foto": "https://www.schadeautos.nl/cache/picture/67/1822678/1b8dfca8f8a970dee0e9f04e534a91c6~v193818354.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793818563.7665436,
+"laatst": 1793818563.7665436,
 "keer": 0,
 "fout": ""
 }
