@@ -7604,15 +7604,21 @@
 "1822675",
 "1822676",
 "1810940",
-"1822679"
+"1822679",
+"1822685",
+"1822684",
+"1822683"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822679,
+"hoogste_id": 1822685,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1822685",
+"1822684",
+"1822683",
 "1774404",
 "1754285",
 "1822676",
@@ -7621,58 +7627,10 @@
 "1822679",
 "1822678",
 "1805377",
-"1822675",
-"1767045",
-"1822673",
-"1822672"
+"1822675"
 ]
 },
 "wachtrij": {
-"1822659": {
-"melding": {
-"titel": "Volkswagen Polo (2026)",
-"bericht": "10.985 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo/o/1822659",
-"foto": "https://www.schadeautos.nl/cache/picture/964/1822659/244f0879546dc0db8bd89d273972afa0~v193809810.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793812535.8856843,
-"laatst": 1793821676.9281313,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1788901": {
-"melding": {
-"titel": "Opnieuw geplaatst: Audi SQ5 (2023)",
-"bericht": "Sportback 3.0 TDI SQ5 Quattro\n€ 29.950 · 104.799 km · hybride diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-sq5-sportback-3-0-tdi-sq5-quattro/o/1788901",
-"foto": "https://www.schadeautos.nl/cache/picture/163/1788901/11e65270ac3de0080fa338d1cbd98376~v183606279.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793812535.9839888,
-"laatst": 1793812535.9839888,
-"keer": 0,
-"fout": ""
-},
-"1822652": {
-"melding": {
-"titel": "Cupra Leon (2025)",
-"bericht": "Sportstourer 1.5 TSI e-Hybrid Business\n€ 14.400 · 25.978 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-sportstourer-1-5-tsi-e-hybrid-business/o/1822652",
-"foto": "https://www.schadeautos.nl/cache/picture/131/1822652/f5ab6705faff09743057a4716b6d5194~v193809384.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793812539.158116,
-"laatst": 1793812539.158116,
-"keer": 0,
-"fout": ""
-},
 "1822673": {
 "melding": {
 "titel": "Renault Clio (2025)",
@@ -7684,9 +7642,9 @@
 "WhatsApp"
 ],
 "sinds": 1793815440.5120993,
-"laatst": 1793815440.5120993,
-"keer": 0,
-"fout": ""
+"laatst": 1793824538.9289541,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1822672": {
 "melding": {
@@ -7730,6 +7688,36 @@
 ],
 "sinds": 1793821681.3186443,
 "laatst": 1793821681.3186443,
+"keer": 0,
+"fout": ""
+},
+"1822685": {
+"melding": {
+"titel": "Land Rover Defender (2025)",
+"bericht": "LAND ROVER Defender 110 X-Dynamic SE PANORAMA AHK Camera !!\n€ 49.950 · 38.291 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-defender-land-rover-defender-110-x-dynamic-se-panorama-ahk-camera/o/1822685",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1822685/7e906ae4445f305a09057fc831073f9e~v193824122.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793824540.204155,
+"laatst": 1793824540.204155,
+"keer": 0,
+"fout": ""
+},
+"1822684": {
+"melding": {
+"titel": "Audi Rs6 (2022)",
+"bericht": "RS6 Avant 4.0TFSI Quattro Performance PANO AKRAPOVIC HUD VOL\n€ 41.950 · 65.641 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-rs6-rs6-avant-4-0tfsi-quattro-performance-pano-akrapovic-hud-vol/o/1822684",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1822684/7349e2e0e6d2b9ee7b721940c7913501~v193823457.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793824540.3808322,
+"laatst": 1793824540.3808322,
 "keer": 0,
 "fout": ""
 }
