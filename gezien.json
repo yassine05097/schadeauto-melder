@@ -7348,60 +7348,49 @@
 "1822345",
 "1822343",
 "1822341",
-"1822338"
+"1822338",
+"1782462",
+"1822394",
+"1822399",
+"1822400",
+"1822393",
+"1738797",
+"1822386",
+"1822389",
+"1822391",
+"1822390",
+"1458673",
+"1822381",
+"1807805",
+"1822383",
+"1822370",
+"1822369",
+"1822361",
+"1822360",
+"1822359"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822358,
+"hoogste_id": 1822400,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1822358",
-"1813053",
-"1811199",
-"1822355",
-"1787118",
-"1817695",
-"1807556",
-"1817410",
-"1807629",
-"1816864",
-"1822350",
-"1808183"
+"1782462",
+"1822394",
+"1822399",
+"1822400",
+"1815013",
+"1795990",
+"1822393",
+"1738797",
+"1822386",
+"1822389",
+"1822391",
+"1822390"
 ]
 },
 "wachtrij": {
-"1812787": {
-"melding": {
-"titel": "Opnieuw geplaatst: Opel Corsa-E (2023)",
-"bericht": "Level 2 50 kWh\n€ 4.700 · 141.509 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-e-level-2-50-kwh/o/1812787",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1812787/faaad5fff3bb8d41e0773062a2e4e568~v191208606.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793773064.571696,
-"laatst": 1793781420.2022376,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1758061": {
-"melding": {
-"titel": "Opnieuw geplaatst: Mercedes Cla-klasse (2022)",
-"bericht": "200 AUTOMAAT Business Solution AMG\n€ 10.400 · 114.460 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-200-automaat-business-solution-amg/o/1758061",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1758061/a84c26eb766ac550050b539a65700bbc~v174515417.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793773064.674972,
-"laatst": 1793773064.674972,
-"keer": 0,
-"fout": ""
-},
 "1822335": {
 "melding": {
 "titel": "Skoda Kamiq (2025)",
@@ -7413,9 +7402,9 @@
 "WhatsApp"
 ],
 "sinds": 1793777939.224608,
-"laatst": 1793777939.224608,
-"keer": 0,
-"fout": ""
+"laatst": 1793784703.6258504,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1822329": {
 "melding": {
@@ -7474,6 +7463,141 @@
 ],
 "sinds": 1793781426.9806664,
 "laatst": 1793781426.9806664,
+"keer": 0,
+"fout": ""
+},
+"1822400": {
+"melding": {
+"titel": "Ford Transit (2024)",
+"bericht": "Custom Doppelkabine Mixto 320\n€ 19.800 · 39.965 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit-custom-doppelkabine-mixto-320/o/1822400",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1822400/3eb4f587aa89c84d974271fa58aba609~v193784303.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793784705.0312479,
+"laatst": 1793784705.0312479,
+"keer": 0,
+"fout": ""
+},
+"1822393": {
+"melding": {
+"titel": "Mercedes Cla-klasse (2026)",
+"bericht": "250+ 85.5 kWh 200KW Pano Clima Navi Camera Launch Edition NAP\n€ 21.500 · 21.054 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-250-85-5-kwh-200kw-pano-clima-navi-camera-launch-edition-nap/o/1822393",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1822393/e9be579b1fdd65bbd98b65b574009427~v193784112.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793784705.2699695,
+"laatst": 1793784705.2699695,
+"keer": 0,
+"fout": ""
+},
+"1822389": {
+"melding": {
+"titel": "Subaru XV (2022)",
+"bericht": "1.6i\n€ 16.000 · 70.234 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/subaru-xv-1-6i/o/1822389",
+"foto": "https://www.schadeautos.nl/cache/picture/1060/1822389/4ce582fb34aacb04968eb3bbdc3b87cc~v193783728.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793784705.498073,
+"laatst": 1793784705.498073,
+"keer": 0,
+"fout": ""
+},
+"1822391": {
+"melding": {
+"titel": "Ford Puma (2023)",
+"bericht": "ST-Line\n€ 10.900 · 112.846 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-st-line/o/1822391",
+"foto": "https://www.schadeautos.nl/cache/picture/931/1822391/543dce08aefc40ea87eb53e7f8a68a8e~v193783868.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793784705.7155666,
+"laatst": 1793784705.7155666,
+"keer": 0,
+"fout": ""
+},
+"1822390": {
+"melding": {
+"titel": "Citroën C3 Aircross (2024)",
+"bericht": "1.2 AUTOMAAT LUXE UITVOERING\n€ 8.450 · 40.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-aircross-1-2-automaat-luxe-uitvoering/o/1822390",
+"foto": "https://www.schadeautos.nl/cache/picture/121/1822390/91edaac70f0e4b6b13e521a953320a02~v193783613.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793784705.9369597,
+"laatst": 1793784705.9369597,
+"keer": 0,
+"fout": ""
+},
+"1822381": {
+"melding": {
+"titel": "Honda Civic (2022)",
+"bericht": "2.0 e:HEV Elegance\n€ 9.450 · 63.433 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-civic-2-0-e-hev-elegance/o/1822381",
+"foto": "https://www.schadeautos.nl/cache/picture/15/1822381/61b1f2fcbd2ca470dc05476e043cc460~v193783259.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793784708.9239447,
+"laatst": 1793784708.9239447,
+"keer": 0,
+"fout": ""
+},
+"1822383": {
+"melding": {
+"titel": "Peugeot 3008 (2026)",
+"bericht": "Elktro 230 Long Range Allure 97KWH\n€ 7.900 · 6.000 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-3008-elktro-230-long-range-allure-97kwh/o/1822383",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1822383/1818857e08453c00f85fe33a6ec887b1~v193783105.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793784709.1504896,
+"laatst": 1793784709.1504896,
+"keer": 0,
+"fout": ""
+},
+"1822370": {
+"melding": {
+"titel": "Renault Zoé (2022)",
+"bericht": "R110 52 kwh\n€ 8.750 · 135.708 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-zoe-r110-52-kwh/o/1822370",
+"foto": "https://www.schadeautos.nl/cache/picture/173/1822370/45ce52baa88240f7491e7ce86cad9e53~v193782993.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793784709.3814228,
+"laatst": 1793784709.3814228,
+"keer": 0,
+"fout": ""
+},
+"1822361": {
+"melding": {
+"titel": "Ford Puma (2025)",
+"bericht": "€ 4.850 · 59.545 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma/o/1822361",
+"foto": "https://www.schadeautos.nl/cache/picture/1026/1822361/a98cfe92749e2fd414b60692a39d5eb6~v193781623.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793784712.4127965,
+"laatst": 1793784712.4127965,
 "keer": 0,
 "fout": ""
 }
