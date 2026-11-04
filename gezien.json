@@ -7601,150 +7601,33 @@
 "1822668",
 "1822667",
 "1822678",
-"1822675"
+"1822675",
+"1822676",
+"1810940",
+"1822679"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822678,
+"hoogste_id": 1822679,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1774404",
+"1754285",
+"1822676",
+"1810940",
+"1794611",
+"1822679",
 "1822678",
 "1805377",
 "1822675",
 "1767045",
 "1822673",
-"1822672",
-"1822671",
-"1822670",
-"1822669",
-"1822668",
-"1822667",
-"1822666"
+"1822672"
 ]
 },
 "wachtrij": {
-"1821858": {
-"melding": {
-"titel": "Mazda CX-30 (2022)",
-"bericht": "2.0e-SkyActiv 137kW M Hybrid Sportive\n€ 13.650 · 128.832 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-30-2-0e-skyactiv-137kw-m-hybrid-sportive/o/1821858",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1821858/1d3c76de2cd5dc273ff85dd0fb683b34~v193699805.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793809162.0158882,
-"laatst": 1793818562.51992,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1822634": {
-"melding": {
-"titel": "Skoda Scala (2024)",
-"bericht": "1.0 TSI 85KW BUSINESS EDITION\n€ 10.350 · 55.696 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-1-0-tsi-85kw-business-edition/o/1822634",
-"foto": "https://www.schadeautos.nl/cache/picture/125/1822634/56f1d3c1cbdcebe4291dbbda85b37f05~v193807912.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793809162.1930208,
-"laatst": 1793809162.1930208,
-"keer": 0,
-"fout": ""
-},
-"1822630": {
-"melding": {
-"titel": "Dacia Jogger (2024)",
-"bericht": "1.0 TCe Expression 7 persoons\n€ 11.250 · 57.125 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-1-0-tce-expression-7-persoons/o/1822630",
-"foto": "https://www.schadeautos.nl/cache/picture/38/1822630/41e4df39d35d4ef7132c6d0258e1a938~v193808012.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793809165.096051,
-"laatst": 1793809165.096051,
-"keer": 0,
-"fout": ""
-},
-"1822629": {
-"melding": {
-"titel": "Opel Astra (2023)",
-"bericht": "exportprijs € 4.300 · 100.250 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra/o/1822629",
-"foto": "https://www.schadeautos.nl/cache/picture/173/1822629/d025bd9d36c605ffd6efb8cb22489d94~v193807348.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793809165.27355,
-"laatst": 1793809165.27355,
-"keer": 0,
-"fout": ""
-},
-"1759036": {
-"melding": {
-"titel": "Opnieuw geplaatst: Renault Kangoo (2025)",
-"bericht": "III Techno\n€ 3.500 · 3.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-kangoo-iii-techno/o/1759036",
-"foto": "https://www.schadeautos.nl/cache/picture/669/1759036/63d076c3b1caf15079d2bb53494e5ec8~v193807115.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793809165.4510388,
-"laatst": 1793809165.4510388,
-"keer": 0,
-"fout": ""
-},
-"1822619": {
-"melding": {
-"titel": "BMW X3 (2025)",
-"bericht": "M50 XDRIVE\n€ 18.937 · 47.119 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x3-m50-xdrive/o/1822619",
-"foto": "https://www.schadeautos.nl/cache/picture/965/1822619/141d0a6e6a30c7161b7bd35c8c008b1d~v193806336.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793809168.2694805,
-"laatst": 1793809168.2694805,
-"keer": 0,
-"fout": ""
-},
-"1822616": {
-"melding": {
-"titel": "Peugeot Rifter (2023)",
-"bericht": "98.024 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-rifter/o/1822616",
-"foto": "https://www.schadeautos.nl/cache/picture/964/1822616/11af139027b499edbbf8f71382b43203~v193806223.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793809168.446619,
-"laatst": 1793809168.446619,
-"keer": 0,
-"fout": ""
-},
-"1822611": {
-"melding": {
-"titel": "Hyundai I-20 (2024)",
-"bericht": "Twist\n€ 11.495 · 24.322 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-twist/o/1822611",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1822611/aebd594c85fc9b932bf42849b678f389~v193806003.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793809168.6223838,
-"laatst": 1793809168.6223838,
-"keer": 0,
-"fout": ""
-},
 "1822659": {
 "melding": {
 "titel": "Volkswagen Polo (2026)",
@@ -7756,9 +7639,9 @@
 "WhatsApp"
 ],
 "sinds": 1793812535.8856843,
-"laatst": 1793812535.8856843,
-"keer": 0,
-"fout": ""
+"laatst": 1793821676.9281313,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1788901": {
 "melding": {
@@ -7832,6 +7715,21 @@
 ],
 "sinds": 1793818563.7665436,
 "laatst": 1793818563.7665436,
+"keer": 0,
+"fout": ""
+},
+"1810940": {
+"melding": {
+"titel": "Opnieuw geplaatst: Lynk & Co 01 (2023)",
+"bericht": "1.5\n€ 8.999 · 74.577 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5/o/1810940",
+"foto": "https://www.schadeautos.nl/cache/picture/67/1810940/b9444efbaaf6eebb751ecc3f80ff9108~v190700722.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793821681.3186443,
+"laatst": 1793821681.3186443,
 "keer": 0,
 "fout": ""
 }
