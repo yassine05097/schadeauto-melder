@@ -7367,75 +7367,80 @@
 "1822369",
 "1822361",
 "1822360",
-"1822359"
+"1822359",
+"1822459",
+"1822449",
+"1822454",
+"1721612",
+"1819590",
+"1822453",
+"1785387",
+"1822450",
+"1822445",
+"1822448",
+"1677530",
+"1784637",
+"1822443",
+"1822439",
+"1822434",
+"1822441",
+"1822438",
+"1804902",
+"1822104",
+"1822435",
+"1822432",
+"1822431",
+"1822426",
+"1757341",
+"1822424",
+"1785784",
+"1822427",
+"1796183",
+"1822421",
+"1822425",
+"1822397",
+"1822423",
+"1809897",
+"1806880",
+"1822420",
+"1769226",
+"1780451",
+"1806891",
+"1768416",
+"1814007",
+"1822411",
+"1712556",
+"1803999",
+"1804002",
+"1769843",
+"1780448",
+"1712257",
+"1822405",
+"1822406",
+"1789828"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822400,
+"hoogste_id": 1822459,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1782462",
-"1822394",
-"1822399",
-"1822400",
-"1815013",
-"1795990",
-"1822393",
-"1738797",
-"1822386",
-"1822389",
-"1822391",
-"1822390"
+"1814728",
+"1816730",
+"1809698",
+"1727315",
+"1822459",
+"1822449",
+"1822454",
+"1721612",
+"1819590",
+"1822453",
+"1809364",
+"1785387"
 ]
 },
 "wachtrij": {
-"1822335": {
-"melding": {
-"titel": "Skoda Kamiq (2025)",
-"bericht": "Selection 1.0 116pk AUTOMAAT ACHTERUITRIJCAMERA STOELVERWARMING\n33.566 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-selection-1-0-116pk-automaat-achteruitrijcamera-stoelverwarming/o/1822335",
-"foto": "https://www.schadeautos.nl/cache/picture/777/1822335/8c107a65d077397bd39999b1ac5c9f9e~v193777397.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793777939.224608,
-"laatst": 1793784703.6258504,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1822329": {
-"melding": {
-"titel": "Kia Picanto (2023)",
-"bericht": "1.0 DPI\n€ 6.450 · 84.901 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi/o/1822329",
-"foto": "https://www.schadeautos.nl/cache/picture/285/1822329/507dfe58d1c303b41c8dcf7c485ac42b~v193776231.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793777939.2531192,
-"laatst": 1793777939.2531192,
-"keer": 0,
-"fout": ""
-},
-"1822328": {
-"melding": {
-"titel": "Kia Picanto (2022)",
-"bericht": "10 DPI\n€ 5.350 · 88.082 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-10-dpi/o/1822328",
-"foto": "https://www.schadeautos.nl/cache/picture/285/1822328/437b89c99c7f78217534e6260b0a4c52~v193775840.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793777939.2831378,
-"laatst": 1793777939.2831378,
-"keer": 0,
-"fout": ""
-},
 "1822348": {
 "melding": {
 "titel": "Seat Arona (2025)",
@@ -7447,9 +7452,9 @@
 "WhatsApp"
 ],
 "sinds": 1793781423.9368696,
-"laatst": 1793781423.9368696,
-"keer": 0,
-"fout": ""
+"laatst": 1793792096.9394627,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1822341": {
 "melding": {
@@ -7598,6 +7603,156 @@
 ],
 "sinds": 1793784712.4127965,
 "laatst": 1793784712.4127965,
+"keer": 0,
+"fout": ""
+},
+"1822449": {
+"melding": {
+"titel": "Kia EV3 (2026)",
+"bericht": "81,4 kWh 204pk Plus Advanced\n€ 17.900 · 12.227 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ev3-81-4-kwh-204pk-plus-advanced/o/1822449",
+"foto": "https://www.schadeautos.nl/cache/picture/375/1822449/ed5895f9db5e314e0eff2f99e5940c54~v193791752.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793792097.6170607,
+"laatst": 1793792097.6170607,
+"keer": 0,
+"fout": ""
+},
+"1721612": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Corsa (2025)",
+"bericht": "1.2 75kW Airco Turbo Edition\n€ 8.200 · 7.862 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-75kw-airco-turbo-edition/o/1721612",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1721612/13af7b88a6dda14f78e9a14319fe2ac4~v171500341.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793792097.6481779,
+"laatst": 1793792097.6481779,
+"keer": 0,
+"fout": ""
+},
+"1785387": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mitsubishi Space-star (2022)",
+"bericht": "1.2 Connect+\n€ 3.900 · 31.724 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mitsubishi-space-star-1-2-connect/o/1785387",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1785387/3e569154ef8053bb96a0309617b261a8~v182727978.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793792097.6780682,
+"laatst": 1793792097.6780682,
+"keer": 0,
+"fout": ""
+},
+"1822450": {
+"melding": {
+"titel": "MG EHS (2022)",
+"bericht": "1.5 TGDI 119KW Autom. Pluginn Hybrid Pano Clima Navi\n€ 5.250 · 72.165 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-ehs-1-5-tgdi-119kw-autom-pluginn-hybrid-pano-clima-navi/o/1822450",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1822450/d46914d7f62a91b3bdaf4e5633de3bd2~v193790577.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793792101.5280223,
+"laatst": 1793792101.5280223,
+"keer": 0,
+"fout": ""
+},
+"1822431": {
+"melding": {
+"titel": "Opel Combo (2025)",
+"bericht": "32.102 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-combo/o/1822431",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1822431/e29a209991ca92ba8790614a026c0e79~v193788211.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793792106.8661022,
+"laatst": 1793792106.8661022,
+"keer": 0,
+"fout": ""
+},
+"1822424": {
+"melding": {
+"titel": "Skoda Karoq (2026)",
+"bericht": "TSI 115pk 4300km VirtualCockpit Climatronic Navi Camera Keyless-Go Stoel/Stuur-Verwarming E-Achterklep\n€ 16.600 · 4.305 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-karoq-tsi-115pk-4300km-virtualcockpit-climatronic-navi-camera-keyless-go-stoel-stuur-verwarming-e-achterklep/o/1822424",
+"foto": "https://www.schadeautos.nl/cache/picture/739/1822424/0d38371b62a8f9ad1d983920324a09f6~v193787826.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793792106.8972073,
+"laatst": 1793792106.8972073,
+"keer": 0,
+"fout": ""
+},
+"1780451": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 308 (2022)",
+"bericht": "1.2 PureTech Active Pack Business\n€ 9.350 · 123.877 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2-puretech-active-pack-business/o/1780451",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1780451/0724bb818079349334d196038ece1869~v181176544.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793792109.4598424,
+"laatst": 1793792109.4598424,
+"keer": 0,
+"fout": ""
+},
+"1814007": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW i5 (2024)",
+"bericht": "eDrive40 84 kWh M Sport HUD H/K 360° ACC Memory Carbon LED\n€ 25.950 · 130.547 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i5-edrive40-84-kwh-m-sport-hud-h-k-360-acc-memory-carbon-led/o/1814007",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1814007/e241d840d6f69f6a49ffa109579f6ec4~v193786740.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793792112.3956866,
+"laatst": 1793792112.3956866,
+"keer": 0,
+"fout": ""
+},
+"1804002": {
+"melding": {
+"titel": "Opnieuw geplaatst: Cupra Terramar (2026)",
+"bericht": "VZ 2.0 TSI 4Drive DSG Sennheiser ACC Memory SHZ LrHZ 360° PDC AHK\n€ 19.950 · 3.451 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-terramar-vz-2-0-tsi-4drive-dsg-sennheiser-acc-memory-shz-lrhz-360-pdc-ahk/o/1804002",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1804002/870ead419e3cb5163db29dae73023552~v193785903.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793792115.5539317,
+"laatst": 1793792115.5539317,
+"keer": 0,
+"fout": ""
+},
+"1780448": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Niro (2024)",
+"bericht": "EV DynamicLine 64.8 kWh\n€ 12.250 · 63.479 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-ev-dynamicline-64-8-kwh/o/1780448",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1780448/a758ad6daf6be04f76e4e56486f5fa5e~v193703670.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793792115.5848467,
+"laatst": 1793792115.5848467,
 "keer": 0,
 "fout": ""
 }
