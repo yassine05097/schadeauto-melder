@@ -7610,15 +7610,19 @@
 "1822683",
 "1822687",
 "1822690",
-"1822689"
+"1822689",
+"1822692",
+"1822691"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822690,
+"hoogste_id": 1822692,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1822692",
+"1822691",
 "1822690",
 "1822689",
 "1822687",
@@ -7628,42 +7632,10 @@
 "1822683",
 "1774404",
 "1754285",
-"1822676",
-"1810940",
-"1794611"
+"1822676"
 ]
 },
 "wachtrij": {
-"1822685": {
-"melding": {
-"titel": "Land Rover Defender (2025)",
-"bericht": "LAND ROVER Defender 110 X-Dynamic SE PANORAMA AHK Camera !!\n€ 49.950 · 38.291 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/land-rover-defender-land-rover-defender-110-x-dynamic-se-panorama-ahk-camera/o/1822685",
-"foto": "https://www.schadeautos.nl/cache/picture/1024/1822685/7e906ae4445f305a09057fc831073f9e~v193824122.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793824540.204155,
-"laatst": 1793835302.964081,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1822684": {
-"melding": {
-"titel": "Audi Rs6 (2022)",
-"bericht": "RS6 Avant 4.0TFSI Quattro Performance PANO AKRAPOVIC HUD VOL\n€ 41.950 · 65.641 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-rs6-rs6-avant-4-0tfsi-quattro-performance-pano-akrapovic-hud-vol/o/1822684",
-"foto": "https://www.schadeautos.nl/cache/picture/1024/1822684/7349e2e0e6d2b9ee7b721940c7913501~v193823457.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793824540.3808322,
-"laatst": 1793824540.3808322,
-"keer": 0,
-"fout": ""
-},
 "1822690": {
 "melding": {
 "titel": "Hyundai Bayon (2025)",
@@ -7675,9 +7647,9 @@
 "WhatsApp"
 ],
 "sinds": 1793830375.4805498,
-"laatst": 1793830375.4805498,
-"keer": 0,
-"fout": ""
+"laatst": 1793837774.2985644,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1822689": {
 "melding": {
@@ -7691,6 +7663,36 @@
 ],
 "sinds": 1793830375.7068603,
 "laatst": 1793830375.7068603,
+"keer": 0,
+"fout": ""
+},
+"1822692": {
+"melding": {
+"titel": "Opel Corsa (2025)",
+"bericht": "GS-LINE Automaat Virtual DriveMode Navi Led Camera LaneAssist Stuurverw. MirrorScreen 74KW / 101PK\n€ 6.950 · 14.900 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-line-automaat-virtual-drivemode-navi-led-camera-laneassist-stuurverw-mirrorscreen-74kw-101pk/o/1822692",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1822692/f8a1dc7a9461593a44108ccc9af18805~v193835991.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793837775.6864533,
+"laatst": 1793837775.6864533,
+"keer": 0,
+"fout": ""
+},
+"1822691": {
+"melding": {
+"titel": "Kia Picanto (2022)",
+"bericht": "1.2 GT-Line Led CarPlay - Navi Camera Leder Ecc Acc 62KW / 84PK\n€ 5.450 · 56.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-2-gt-line-led-carplay-navi-camera-leder-ecc-acc-62kw-84pk/o/1822691",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1822691/2d7cbbc6509d55003b290cefddbe8971~v193835704.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793837775.8735957,
+"laatst": 1793837775.8735957,
 "keer": 0,
 "fout": ""
 }
