@@ -7650,60 +7650,46 @@
 "1822704",
 "1822699",
 "1822702",
-"1822701"
+"1822701",
+"1822792",
+"1822773",
+"1822769",
+"1822771",
+"1822770",
+"1822735",
+"1822763",
+"1822757",
+"1822765",
+"1822764",
+"1822745",
+"1822758",
+"1822741",
+"1822737",
+"1822733",
+"1822725"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822731,
+"hoogste_id": 1822792,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1822731",
-"1822730",
-"1822728",
-"1815725",
-"1814902",
-"1822726",
-"1795580",
-"1820374",
-"1792255",
-"1822723",
-"1822721",
-"1822720"
+"1779135",
+"1822792",
+"1809945",
+"1783406",
+"1822773",
+"1722125",
+"1822769",
+"1822771",
+"1822770",
+"1822735",
+"1791345",
+"1759876"
 ]
 },
 "wachtrij": {
-"1761272": {
-"melding": {
-"titel": "Opnieuw geplaatst: Citroën C3 (2022)",
-"bericht": "III\n€ 4.800 · 96.775 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-iii/o/1761272",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1761272/009320f3e815a78d38f033f7158c1230~v193858430.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793858544.3305612,
-"laatst": 1793867197.688757,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1785251": {
-"melding": {
-"titel": "Opnieuw geplaatst: Porsche 911 (2026)",
-"bericht": "€ 16.335 · 2.167 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-911/o/1785251",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1785251/9d23e5d8c1dba811c93474d4bb4299e8~v193858412.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793858544.3606749,
-"laatst": 1793858544.3606749,
-"keer": 0,
-"fout": ""
-},
 "1822698": {
 "melding": {
 "titel": "BMW X1 (2024)",
@@ -7715,9 +7701,9 @@
 "WhatsApp"
 ],
 "sinds": 1793862797.9675746,
-"laatst": 1793862797.9675746,
-"keer": 0,
-"fout": ""
+"laatst": 1793870874.0718436,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1822696": {
 "melding": {
@@ -7926,6 +7912,81 @@
 ],
 "sinds": 1793867206.5106585,
 "laatst": 1793867206.5106585,
+"keer": 0,
+"fout": ""
+},
+"1822771": {
+"melding": {
+"titel": "Volkswagen Touran (2024)",
+"bericht": "2.0 TDI DSG Trendline Taxi 7 Sitzer\n€ 13.900 · 35.649 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-touran-2-0-tdi-dsg-trendline-taxi-7-sitzer/o/1822771",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822771/b7d38ecfd5929e8d150b006dffcd4452~v193869517.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793870875.0598838,
+"laatst": 1793870875.0598838,
+"keer": 0,
+"fout": ""
+},
+"1822770": {
+"melding": {
+"titel": "Volkswagen Tiguan (2024)",
+"bericht": "2.0 TDI 4Motion R-Line AHK/360/NAVI\n€ 29.900 · 67.456 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-2-0-tdi-4motion-r-line-ahk-360-navi/o/1822770",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822770/76b95848dbbed4719d9d53562e3ba652~v193869513.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793870875.2211223,
+"laatst": 1793870875.2211223,
+"keer": 0,
+"fout": ""
+},
+"1822764": {
+"melding": {
+"titel": "Mercedes GLA (2024)",
+"bericht": "250 PLUGIN HYBRID\n€ 16.700 · 24.246 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-gla-250-plugin-hybrid/o/1822764",
+"foto": "https://www.schadeautos.nl/cache/picture/1026/1822764/46d6702c365bcfcd876e8c2b67acdeb4~v193868976.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793870877.9482613,
+"laatst": 1793870877.9482613,
+"keer": 0,
+"fout": ""
+},
+"1822758": {
+"melding": {
+"titel": "Mini Countryman (2025)",
+"bericht": "SE eDrive ALL4 PANO/HUD/AHK/360/H&K\n€ 25.900 · 24.135 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mini-countryman-se-edrive-all4-pano-hud-ahk-360-h-k/o/1822758",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822758/6f474ef4dd3e2a636acfbc1623702104~v193868306.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793870878.1142974,
+"laatst": 1793870878.1142974,
+"keer": 0,
+"fout": ""
+},
+"1822741": {
+"melding": {
+"titel": "Jeep Avenger (2025)",
+"bericht": "Avenger 54 kWh\n€ 8.950 · 14.059 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-avenger-avenger-54-kwh/o/1822741",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1822741/2e68eaefdec734f47f708e31d84e6871~v193867855.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793870881.0460129,
+"laatst": 1793870881.0460129,
 "keer": 0,
 "fout": ""
 }
