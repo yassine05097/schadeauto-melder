@@ -7624,27 +7624,53 @@
 "1461846",
 "1804362",
 "1769384",
-"1804361"
+"1804361",
+"1822731",
+"1822730",
+"1822728",
+"1822726",
+"1822723",
+"1822721",
+"1822720",
+"1822719",
+"1822715",
+"1799093",
+"1822714",
+"1822712",
+"1822713",
+"1822651",
+"1788397",
+"1706362",
+"1822710",
+"1822711",
+"1822707",
+"1822709",
+"1822703",
+"1822706",
+"1822704",
+"1822699",
+"1822702",
+"1822701"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1822698,
+"hoogste_id": 1822731,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1822698",
-"1792243",
-"1765465",
-"1822696",
-"1822523",
-"1822695",
-"1822693",
-"1822694",
-"1799481",
-"1461846",
-"1804362",
-"1769384"
+"1822731",
+"1822730",
+"1822728",
+"1815725",
+"1814902",
+"1822726",
+"1795580",
+"1820374",
+"1792255",
+"1822723",
+"1822721",
+"1822720"
 ]
 },
 "wachtrij": {
@@ -7659,8 +7685,8 @@
 "WhatsApp"
 ],
 "sinds": 1793858544.3305612,
-"laatst": 1793862796.8468509,
-"keer": 2,
+"laatst": 1793867197.688757,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1785251": {
@@ -7750,6 +7776,156 @@
 ],
 "sinds": 1793862798.4014127,
 "laatst": 1793862798.4014127,
+"keer": 0,
+"fout": ""
+},
+"1822731": {
+"melding": {
+"titel": "Volkswagen Polo (2025)",
+"bericht": "1.0 TSI DSG R-Line KAM/NAVI\n€ 14.900 · 22.237 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-dsg-r-line-kam-navi/o/1822731",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822731/e47f6848da877951926d7a1b12d97370~v193867108.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793867198.7723038,
+"laatst": 1793867198.7723038,
+"keer": 0,
+"fout": ""
+},
+"1822730": {
+"melding": {
+"titel": "BMW iX1 (2025)",
+"bericht": "eDrive20 AHK/KAM/NAVI\n€ 25.900 · 3.619 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-edrive20-ahk-kam-navi/o/1822730",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822730/14fec64d1c89806d4688d470bb520107~v193867106.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793867198.988242,
+"laatst": 1793867198.988242,
+"keer": 0,
+"fout": ""
+},
+"1822720": {
+"melding": {
+"titel": "BMW 5-serie (2026)",
+"bericht": "€ 48.900 · 12.551 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie/o/1822720",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822720/90ad2dff1f2a112c72e6040f76705bcd~v193865910.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793867199.197271,
+"laatst": 1793867199.197271,
+"keer": 0,
+"fout": ""
+},
+"1822719": {
+"melding": {
+"titel": "BMW i4 (2024)",
+"bericht": "eDrive40 Gran Coupe M Sport HUD/360/H&K/NAVI\n€ 34.900 · 35.307 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i4-edrive40-gran-coupe-m-sport-hud-360-h-k-navi/o/1822719",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822719/9110acbbd36d93480778e40103d86f3c~v193865905.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793867202.265667,
+"laatst": 1793867202.265667,
+"keer": 0,
+"fout": ""
+},
+"1799093": {
+"melding": {
+"titel": "Opnieuw geplaatst: Hyundai I-10 (2025)",
+"bericht": "1.0 Premium AUTOMAAT\n€ 11.950 · 3.260 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-premium-automaat/o/1799093",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1799093/40ca4aeaff7f8aa1dd2e973bd606a151~v187238133.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793867202.478086,
+"laatst": 1793867202.478086,
+"keer": 0,
+"fout": ""
+},
+"1822712": {
+"melding": {
+"titel": "Volkswagen (2023)",
+"bericht": "GOLF TSI 110 PK NAVI CLIMA CAMERA LED PDC PRIVACY GLASS B.J 04-2023\n€ 12.950 · 50.800 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-tsi-110-pk-navi-clima-camera-led-pdc-privacy-glass-b-j-04-2023/o/1822712",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1822712/18e2f782b41a7df9eb3d7c4272b5187b~v193865326.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793867202.690965,
+"laatst": 1793867202.690965,
+"keer": 0,
+"fout": ""
+},
+"1822709": {
+"melding": {
+"titel": "BMW 3-serie (2025)",
+"bericht": "0d xDrive Touring M Sport HUD/60/NAVI\n€ 29.900 · 17.392 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-0d-xdrive-touring-m-sport-hud-60-navi/o/1822709",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822709/67bb6ddb2d033bb5b830e37fe23a007d~v193864709.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793867205.8778138,
+"laatst": 1793867205.8778138,
+"keer": 0,
+"fout": ""
+},
+"1822704": {
+"melding": {
+"titel": "Volkswagen Up! (2023)",
+"bericht": "1.0 5 Drs\n€ 6.250 · 91.532 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-up-1-0-5-drs/o/1822704",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793867206.088245,
+"laatst": 1793867206.088245,
+"keer": 0,
+"fout": ""
+},
+"1822702": {
+"melding": {
+"titel": "BMW 2-serie (2026)",
+"bericht": "0i Active Tourer M Sport AHK/KAM/H&K/NAVI\n€ 24.900 · 8.112 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-2-serie-0i-active-tourer-m-sport-ahk-kam-h-k-navi/o/1822702",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822702/80c793a7e9df2578c0773b0ed59be3fc~v193863508.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793867206.300843,
+"laatst": 1793867206.300843,
+"keer": 0,
+"fout": ""
+},
+"1822701": {
+"melding": {
+"titel": "Audi Q7 (2024)",
+"bericht": "60 TFSIe quattro S line PANO/360/B&O/NAVI\n€ 52.900 · 41.528 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q7-60-tfsie-quattro-s-line-pano-360-b-o-navi/o/1822701",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1822701/c6bfd82eadb8e9c367284f46ef6a4589~v193863504.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793867206.5106585,
+"laatst": 1793867206.5106585,
 "keer": 0,
 "fout": ""
 }
