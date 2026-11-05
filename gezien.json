@@ -8041,210 +8041,42 @@
 "1823218",
 "1823246",
 "1823238",
-"1823237"
+"1823237",
+"1823312",
+"1780693",
+"1823308",
+"1823306",
+"1823305",
+"1823303",
+"1823302",
+"1823301",
+"1823300",
+"1823298",
+"1811482",
+"1823270"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1823286,
+"hoogste_id": 1823312,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1823283",
-"1823285",
-"1823286",
-"1823281",
-"1823279",
-"1823256",
-"1823273",
-"1823257",
-"1823271",
-"1823263",
-"1823260",
-"1823269"
+"1823312",
+"1780693",
+"1821581",
+"1823308",
+"1823306",
+"1823305",
+"1823303",
+"1823302",
+"1823301",
+"1823300",
+"1817709",
+"1823298"
 ]
 },
 "wachtrij": {
-"1807150": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW X1 (2022)",
-"bericht": "xDrive25e\n€ 8.500 · 51.264 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive25e/o/1807150",
-"foto": "https://www.schadeautos.nl/cache/picture/1010/1807150/5a77f448574b0dba5fbe2f0e3dcedb7d~v189627592.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885819.9956493,
-"laatst": 1793896465.8743463,
-"keer": 2,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1823034": {
-"melding": {
-"titel": "Hyundai Kona (2024)",
-"bericht": "Electric N-Line 65.4 Kwh Bjr.2024\n€ 21.500 · 38.672 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-electric-n-line-65-4-kwh-bjr-2024/o/1823034",
-"foto": "https://www.schadeautos.nl/cache/picture/375/1823034/8e3f4d0386e77745c0528dcff6b356ef~v193882606.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885820.02475,
-"laatst": 1793885820.02475,
-"keer": 0,
-"fout": ""
-},
-"1821288": {
-"melding": {
-"titel": "Peugeot 308 (2022)",
-"bericht": "1.2PT 96kW Automaat Active Pack Business\n€ 11.950 · 133.059 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-2pt-96kw-automaat-active-pack-business/o/1821288",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1821288/8e2c7ee08db59f93d75953c0a46f2f2c~v193447280.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885820.055139,
-"laatst": 1793885820.055139,
-"keer": 0,
-"fout": ""
-},
-"1823077": {
-"melding": {
-"titel": "Mercedes GLS (2024)",
-"bericht": "450 Automaat 270-KW AMG 4-MATIC 7-Persoons\nexportprijs € 49.950 · 31.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-gls-450-automaat-270-kw-amg-4-matic-7-persoons/o/1823077",
-"foto": "https://www.schadeautos.nl/cache/picture/28/1823077/dcb3522d30aa555d924d35fe71170896~v193884368.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885822.9648855,
-"laatst": 1793885822.9648855,
-"keer": 0,
-"fout": ""
-},
-"1823074": {
-"melding": {
-"titel": "Volkswagen Passat (2024)",
-"bericht": "1.5 eTSI DSG Aut. MildHybrid Climat Leder/Alcantar Navi Camera Keyless-Start E.Comfort Stoelen...\nexportprijs € 11.950 · 123.832 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-passat-1-5-etsi-dsg-aut-mildhybrid-climat-leder-alcantar-navi-camera-keyless-start-e-comfort-stoelen/o/1823074",
-"foto": "https://www.schadeautos.nl/cache/picture/739/1823074/f0bc27ecf57ccee91f0a3555b4858b36~v193884025.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885822.994321,
-"laatst": 1793885822.994321,
-"keer": 0,
-"fout": ""
-},
-"1823075": {
-"melding": {
-"titel": "Renault Clio (2023)",
-"bericht": "1.0 TCe 90 Evolution\n€ 7.500 · 71.754 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-1-0-tce-90-evolution/o/1823075",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1823075/e915511d80a47a8361f5c2c7fc473629~v193884093.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885825.5946429,
-"laatst": 1793885825.5946429,
-"keer": 0,
-"fout": ""
-},
-"1823072": {
-"melding": {
-"titel": "Peugeot 308 (2023)",
-"bericht": "GT LINE\n€ 10.700 · 111.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-gt-line/o/1823072",
-"foto": "https://www.schadeautos.nl/cache/picture/977/1823072/68bec22fa944ea62a0dd2489d5d02750~v193885579.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885825.6248286,
-"laatst": 1793885825.6248286,
-"keer": 0,
-"fout": ""
-},
-"1821453": {
-"melding": {
-"titel": "Suzuki Vitara (2024)",
-"bericht": "1.4Boosterjet 95kW Select Smart Hybrid\n€ 10.850 · 41.763 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-vitara-1-4boosterjet-95kw-select-smart-hybrid/o/1821453",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1821453/6bc36ce4a33d9094fd346805cde63adb~v193609892.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885825.6546526,
-"laatst": 1793885825.6546526,
-"keer": 0,
-"fout": ""
-},
-"1823045": {
-"melding": {
-"titel": "Hyundai Tucson (2025)",
-"bericht": "1.6 T-GDi 118 Kw Hybrid 2WD\n€ 22.500 · 30.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-118-kw-hybrid-2wd/o/1823045",
-"foto": "https://www.schadeautos.nl/cache/picture/13/1823045/dfc627da7fecf4fb05038bbcc774c8f2~v193883039.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885825.6847548,
-"laatst": 1793885825.6847548,
-"keer": 0,
-"fout": ""
-},
-"1819185": {
-"melding": {
-"titel": "Ford Puma (2024)",
-"bericht": "1.0EcoBoost 92kW Hybrid Titanium\n€ 12.950 · 26.077 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-1-0ecoboost-92kw-hybrid-titanium/o/1819185",
-"foto": "https://www.schadeautos.nl/cache/picture/345/1819185/56d815422afd5b4358332e46a894c3e5~v193008127.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885831.5161269,
-"laatst": 1793885831.5161269,
-"keer": 0,
-"fout": ""
-},
-"1823042": {
-"melding": {
-"titel": "Audi A3 (2023)",
-"bericht": "40 TFSI e S Line Advanced edition Pano ACC PDC Clima Cruise\n€ 23.950 · 96.441 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-40-tfsi-e-s-line-advanced-edition-pano-acc-pdc-clima-cruise/o/1823042",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1823042/09200e628a918415e187e71ca5f4b174~v193882435.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885834.0189211,
-"laatst": 1793885834.0189211,
-"keer": 0,
-"fout": ""
-},
-"1823036": {
-"melding": {
-"titel": "Volkswagen Polo (2024)",
-"bericht": "1.0 TSI DSG Life ACC Navi Virtual Apple/Android SHZ PDC Clima\n€ 14.950 · 42.448 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-dsg-life-acc-navi-virtual-apple-android-shz-pdc-clima/o/1823036",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1823036/c369a7ad72f2b65e66bbf4ce748b9b0b~v193882329.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793885834.049076,
-"laatst": 1793885834.049076,
-"keer": 0,
-"fout": ""
-},
 "1823182": {
 "melding": {
 "titel": "Volkswagen (2025)",
@@ -8256,9 +8088,9 @@
 "WhatsApp"
 ],
 "sinds": 1793889380.4341605,
-"laatst": 1793889380.4341605,
-"keer": 0,
-"fout": ""
+"laatst": 1793900100.8128517,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1823159": {
 "melding": {
@@ -8752,6 +8584,96 @@
 ],
 "sinds": 1793896477.6735125,
 "laatst": 1793896477.6735125,
+"keer": 0,
+"fout": ""
+},
+"1823308": {
+"melding": {
+"titel": "Volkswagen Golf (2022)",
+"bericht": "LIFE\n€ 4.961 · 90.354 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-life/o/1823308",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1823308/0b528d6fe3a4e81810e3c93e3f9c6841~v193898909.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793900103.0484555,
+"laatst": 1793900103.0484555,
+"keer": 0,
+"fout": ""
+},
+"1823306": {
+"melding": {
+"titel": "Hyundai I-20 (2023)",
+"bericht": "€ 7.600 · 51.111 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20/o/1823306",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1823306/a51f193c92c1969c7db6cdc75f3c0ce6~v193898047.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793900103.0961752,
+"laatst": 1793900103.0961752,
+"keer": 0,
+"fout": ""
+},
+"1823301": {
+"melding": {
+"titel": "BMW 1-serie (2025)",
+"bericht": "€ 17.800 · 30.579 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie/o/1823301",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1823301/e8c2b64236b6afc75f9ee6bea9df05e4~v193898017.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793900103.205862,
+"laatst": 1793900103.205862,
+"keer": 0,
+"fout": ""
+},
+"1823300": {
+"melding": {
+"titel": "BMW 3-serie (2023)",
+"bericht": "€ 16.300 · 48.760 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie/o/1823300",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1823300/fede7f75c3e5581430405d4ce3245c51~v193898011.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793900103.2412663,
+"laatst": 1793900103.2412663,
+"keer": 0,
+"fout": ""
+},
+"1823298": {
+"melding": {
+"titel": "Dacia Sandero (2025)",
+"bericht": "1.0 BENZ\n31.439 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-1-0-benz/o/1823298",
+"foto": "https://www.schadeautos.nl/cache/picture/1061/1823298/404e184496d47ee74c4a723e674c8392~v193897125.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793900103.2762733,
+"laatst": 1793900103.2762733,
+"keer": 0,
+"fout": ""
+},
+"1811482": {
+"melding": {
+"titel": "Opnieuw geplaatst: Seat Arona (2025)",
+"bericht": "1.0 BENZ\n€ 11.677 · 5.560 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-arona-1-0-benz/o/1811482",
+"foto": "https://www.schadeautos.nl/cache/picture/1061/1811482/77588db5f64bbbaee589cea308a22aa4~v193897121.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793900106.120049,
+"laatst": 1793900106.120049,
 "keer": 0,
 "fout": ""
 }
