@@ -8076,120 +8076,37 @@
 "1823337",
 "1823336",
 "1752673",
-"1801698"
+"1801698",
+"1823346",
+"1823347",
+"1823345",
+"1823344",
+"1823339",
+"1823341",
+"1823342"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1823340,
+"hoogste_id": 1823347,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1823346",
+"1823347",
+"1823345",
+"1823344",
+"1823339",
+"1823341",
+"1823342",
 "1823340",
 "1806672",
 "1805919",
 "1823338",
-"1823337",
-"1823336",
-"1752673",
-"1801698",
-"1823335",
-"1823334",
-"1823333",
-"1823332"
+"1823337"
 ]
 },
 "wachtrij": {
-"1823308": {
-"melding": {
-"titel": "Volkswagen Golf (2022)",
-"bericht": "LIFE\n€ 4.961 · 90.354 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-life/o/1823308",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1823308/0b528d6fe3a4e81810e3c93e3f9c6841~v193898909.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793900103.0484555,
-"laatst": 1793908950.6637754,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1823306": {
-"melding": {
-"titel": "Hyundai I-20 (2023)",
-"bericht": "€ 7.600 · 51.111 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20/o/1823306",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1823306/a51f193c92c1969c7db6cdc75f3c0ce6~v193898047.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793900103.0961752,
-"laatst": 1793900103.0961752,
-"keer": 0,
-"fout": ""
-},
-"1823301": {
-"melding": {
-"titel": "BMW 1-serie (2025)",
-"bericht": "€ 17.800 · 30.579 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie/o/1823301",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1823301/e8c2b64236b6afc75f9ee6bea9df05e4~v193898017.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793900103.205862,
-"laatst": 1793900103.205862,
-"keer": 0,
-"fout": ""
-},
-"1823300": {
-"melding": {
-"titel": "BMW 3-serie (2023)",
-"bericht": "€ 16.300 · 48.760 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie/o/1823300",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1823300/fede7f75c3e5581430405d4ce3245c51~v193898011.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793900103.2412663,
-"laatst": 1793900103.2412663,
-"keer": 0,
-"fout": ""
-},
-"1823298": {
-"melding": {
-"titel": "Dacia Sandero (2025)",
-"bericht": "1.0 BENZ\n31.439 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-1-0-benz/o/1823298",
-"foto": "https://www.schadeautos.nl/cache/picture/1061/1823298/404e184496d47ee74c4a723e674c8392~v193897125.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793900103.2762733,
-"laatst": 1793900103.2762733,
-"keer": 0,
-"fout": ""
-},
-"1811482": {
-"melding": {
-"titel": "Opnieuw geplaatst: Seat Arona (2025)",
-"bericht": "1.0 BENZ\n€ 11.677 · 5.560 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-arona-1-0-benz/o/1811482",
-"foto": "https://www.schadeautos.nl/cache/picture/1061/1811482/77588db5f64bbbaee589cea308a22aa4~v193897121.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793900106.120049,
-"laatst": 1793900106.120049,
-"keer": 0,
-"fout": ""
-},
 "1823335": {
 "melding": {
 "titel": "Opel Corsa-E (2025)",
@@ -8201,9 +8118,9 @@
 "WhatsApp"
 ],
 "sinds": 1793902549.4551287,
-"laatst": 1793902549.4551287,
-"keer": 0,
-"fout": ""
+"laatst": 1793911745.0535657,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1823334": {
 "melding": {
@@ -8442,6 +8359,81 @@
 ],
 "sinds": 1793908953.3208296,
 "laatst": 1793908953.3208296,
+"keer": 0,
+"fout": ""
+},
+"1823346": {
+"melding": {
+"titel": "DFSK Navor E5 (2025)",
+"bericht": "1.5 PHEV 218PK Aut. 7-Pers. PANO VOL!\n€ 12.950 · 28.638 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dfsk-navor-e5-1-5-phev-218pk-aut-7-pers-pano-vol/o/1823346",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1823346/25103b65e0bc321d4cf09496d5a3013b~v193910443.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793911746.2197933,
+"laatst": 1793911746.2197933,
+"keer": 0,
+"fout": ""
+},
+"1823347": {
+"melding": {
+"titel": "Opel Corsa (2025)",
+"bericht": "1.2 Turbo Hybrid GS\n€ 8.950 · 23.400 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-hybrid-gs/o/1823347",
+"foto": "https://www.schadeautos.nl/cache/picture/289/1823347/04640fd596b1ea282da56c37e5f829ff~v193910648.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793911746.3342786,
+"laatst": 1793911746.3342786,
+"keer": 0,
+"fout": ""
+},
+"1823345": {
+"melding": {
+"titel": "Leapmotor C10 (2026)",
+"bericht": "Design REEV Hybrid\n€ 12.500 · 24.167 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/leapmotor-c10-design-reev-hybrid/o/1823345",
+"foto": "https://www.schadeautos.nl/cache/picture/289/1823345/eadb58f548dca34bb4738c1901ce9c91~v193909958.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793911746.441668,
+"laatst": 1793911746.441668,
+"keer": 0,
+"fout": ""
+},
+"1823339": {
+"melding": {
+"titel": "Renault Scenic (2024)",
+"bericht": "E-TECH EV87 Long Range 220 Techno\n€ 15.950 · 31.024 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-e-tech-ev87-long-range-220-techno/o/1823339",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1823339/8260ee6c0e97378b7c75c26c65370f4f~v193908613.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793911746.551776,
+"laatst": 1793911746.551776,
+"keer": 0,
+"fout": ""
+},
+"1823342": {
+"melding": {
+"titel": "Toyota Hilux (2024)",
+"bericht": "TOYOTA Hilux Double Cab GR Sport 4x4 LED Leder Camera VOLL\n€ 32.950 · 25.079 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-hilux-toyota-hilux-double-cab-gr-sport-4x4-led-leder-camera-voll/o/1823342",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1823342/62c130084c9f4aa76a6beeee4d8ea8dc~v193909117.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793911746.660609,
+"laatst": 1793911746.660609,
 "keer": 0,
 "fout": ""
 }
