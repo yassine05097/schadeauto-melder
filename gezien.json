@@ -8009,27 +8009,59 @@
 "1821545",
 "1823187",
 "1823185",
-"1790733"
+"1790733",
+"1823283",
+"1823285",
+"1823286",
+"1823281",
+"1823279",
+"1823256",
+"1823273",
+"1823257",
+"1823271",
+"1823263",
+"1823260",
+"1823269",
+"1823268",
+"1823267",
+"1823266",
+"1823261",
+"1823262",
+"1823247",
+"1823255",
+"1781611",
+"1823245",
+"1772973",
+"1782940",
+"1723336",
+"1734827",
+"1823249",
+"1823248",
+"1823252",
+"1823218",
+"1823246",
+"1823238",
+"1823237"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1823235,
+"hoogste_id": 1823286,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1823217",
-"1814386",
-"1822834",
-"1822967",
-"1624835",
-"1818551",
-"1787039",
-"1823225",
-"1784371",
-"1813154",
-"1823226",
-"1809623"
+"1823283",
+"1823285",
+"1823286",
+"1823281",
+"1823279",
+"1823256",
+"1823273",
+"1823257",
+"1823271",
+"1823263",
+"1823260",
+"1823269"
 ]
 },
 "wachtrij": {
@@ -8044,8 +8076,8 @@
 "WhatsApp"
 ],
 "sinds": 1793885819.9956493,
-"laatst": 1793892611.7445967,
-"keer": 1,
+"laatst": 1793896465.8743463,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1823034": {
@@ -8540,6 +8572,186 @@
 ],
 "sinds": 1793892633.4938855,
 "laatst": 1793892633.4938855,
+"keer": 0,
+"fout": ""
+},
+"1823256": {
+"melding": {
+"titel": "Hyundai I-10 (2022)",
+"bericht": "Comfort Navi NAP!\n€ 3.950 · 80.591 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-comfort-navi-nap/o/1823256",
+"foto": "https://www.schadeautos.nl/cache/picture/1032/1823256/31a56ede59b5ea84f4b6fd7a67213575~v193895667.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896467.1236207,
+"laatst": 1793896467.1236207,
+"keer": 0,
+"fout": ""
+},
+"1823273": {
+"melding": {
+"titel": "Volkswagen Golf (2023)",
+"bericht": "GTI EDITION NAVI CLIMA CAMERA LED VIRTUEEL DASH B.J 05-2023\n14.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-gti-edition-navi-clima-camera-led-virtueel-dash-b-j-05-2023/o/1823273",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1823273/ae24645a26f3cb8cb3615b5b6372d10a~v193895368.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896467.3417263,
+"laatst": 1793896467.3417263,
+"keer": 0,
+"fout": ""
+},
+"1823268": {
+"melding": {
+"titel": "Jeep Avenger (2025)",
+"bericht": "ALTITUDE\n€ 11.450 · 10.708 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-avenger-altitude/o/1823268",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1823268/97684e15e4d535271caf7d1a84fd2259~v193894428.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896470.20067,
+"laatst": 1793896470.20067,
+"keer": 0,
+"fout": ""
+},
+"1823267": {
+"melding": {
+"titel": "Skoda Kamiq (2026)",
+"bericht": "SELECTION\n€ 13.855 · 15.009 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-selection/o/1823267",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1823267/21d2c0d77992e074984f7369d77859c1~v193894423.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896470.4268541,
+"laatst": 1793896470.4268541,
+"keer": 0,
+"fout": ""
+},
+"1823261": {
+"melding": {
+"titel": "Volkswagen T-Cross (2024)",
+"bericht": "T-CROSS AUTOMAAT 116 PK NAVI CLIMA CAMERA B.J 12-2024\n€ 15.950 · 19.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-t-cross-automaat-116-pk-navi-clima-camera-b-j-12-2024/o/1823261",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1823261/f86624ea67cf6163618bbf1c5d143624~v193894188.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896470.6476445,
+"laatst": 1793896470.6476445,
+"keer": 0,
+"fout": ""
+},
+"1823255": {
+"melding": {
+"titel": "Toyota Yaris Cross (2023)",
+"bericht": "5 AUTOMAAT HYBRIDE NAVI CLIMA CAMERA PDC B.J 06-2023\n€ 14.950 · 79.500 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-5-automaat-hybride-navi-clima-camera-pdc-b-j-06-2023/o/1823255",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1823255/1cd8061103cec64d93d294cefeb450fe~v193893582.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896470.8679376,
+"laatst": 1793896470.8679376,
+"keer": 0,
+"fout": ""
+},
+"1823245": {
+"melding": {
+"titel": "Cupra Born (2022)",
+"bericht": "150kw Essential 62kw/h , Navi, Cruise & Climate\n€ 18.750 · 124.000 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-born-150kw-essential-62kw-h-navi-cruise-climate/o/1823245",
+"foto": "https://www.schadeautos.nl/cache/picture/344/1823245/2e7c4f03a664142c4b95bb1a58dca3b9~v193892875.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896471.087208,
+"laatst": 1793896471.087208,
+"keer": 0,
+"fout": ""
+},
+"1782940": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Ceed (2023)",
+"bericht": "1.0 T-GDi Navi Camera Clima Motorschade DynamicLine\n€ 9.630 · 189.499 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0-t-gdi-navi-camera-clima-motorschade-dynamicline/o/1782940",
+"foto": "https://www.schadeautos.nl/cache/picture/66/1782940/42fc61a41a1d339ad405dd5d2c7022a1~v181852563.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896474.0952258,
+"laatst": 1793896474.0952258,
+"keer": 0,
+"fout": ""
+},
+"1734827": {
+"melding": {
+"titel": "Opnieuw geplaatst: Mercedes C-klasse (2022)",
+"bericht": "180 Automaat AMG Line MOTORSCHADE Digi Dash Clima\n€ 21.700 · 83.517 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-c-klasse-180-automaat-amg-line-motorschade-digi-dash-clima/o/1734827",
+"foto": "https://www.schadeautos.nl/cache/picture/66/1734827/4549d805ae448219b2eec6337bdca00b~v168206906.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896474.313568,
+"laatst": 1793896474.313568,
+"keer": 0,
+"fout": ""
+},
+"1823249": {
+"melding": {
+"titel": "Hyundai I-20 (2024)",
+"bericht": "AUTOMAAT 100 PK PREMIUM SPORT BOSE NAVI CLIMA CAMERA LED B.J 12-2024\n€ 12.950 · 16.400 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-automaat-100-pk-premium-sport-bose-navi-clima-camera-led-b-j-12-2024/o/1823249",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1823249/50848555fad18ecc15e7e5548b26743a~v193893071.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896474.531681,
+"laatst": 1793896474.531681,
+"keer": 0,
+"fout": ""
+},
+"1823238": {
+"melding": {
+"titel": "Peugeot 308 (2023)",
+"bericht": "1.6 Plug-in Hybrid 180 Active Pack 150Pk *Navi/Clima/Stoelverwarming\n€ 11.450 · 166.582 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-1-6-plug-in-hybrid-180-active-pack-150pk-navi-clima-stoelverwarming/o/1823238",
+"foto": "https://www.schadeautos.nl/cache/picture/711/1823238/5063078b94174a44919fc0cc96625a8c~v193892443.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896477.4535758,
+"laatst": 1793896477.4535758,
+"keer": 0,
+"fout": ""
+},
+"1823237": {
+"melding": {
+"titel": "Hyundai Bayon (2025)",
+"bericht": "AUTOMAAT GDI 100 PK NAVI AIRCO CAMERA LED VIRT DASH B.J 11/2025\n€ 12.750 · 1.800 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-automaat-gdi-100-pk-navi-airco-camera-led-virt-dash-b-j-11-2025/o/1823237",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1823237/26a3cc1ebd586d67604d8251e141f6e3~v193892495.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793896477.6735125,
+"laatst": 1793896477.6735125,
 "keer": 0,
 "fout": ""
 }
