@@ -7966,165 +7966,73 @@
 "1823126",
 "1823125",
 "1823123",
-"1823122"
+"1823122",
+"1823217",
+"1822834",
+"1787039",
+"1823225",
+"1784371",
+"1813154",
+"1823226",
+"1823211",
+"1823235",
+"1823232",
+"1823231",
+"1823219",
+"1823216",
+"1823215",
+"1823214",
+"1823213",
+"1823212",
+"1823210",
+"1823204",
+"1823206",
+"1823202",
+"1822749",
+"1822747",
+"1822752",
+"1822748",
+"1822750",
+"1822753",
+"1822755",
+"1823203",
+"1823201",
+"1823199",
+"1823198",
+"1823193",
+"1823194",
+"1823196",
+"1821901",
+"1823184",
+"1761334",
+"1823189",
+"1821545",
+"1823187",
+"1823185",
+"1790733"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1823183,
+"hoogste_id": 1823235,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1823183",
-"1817421",
-"1823169",
-"1823172",
-"1823124",
-"1823182",
-"1823168",
-"1823164",
-"1823165",
-"1823159",
-"1823156",
-"1823157"
+"1823217",
+"1814386",
+"1822834",
+"1822967",
+"1624835",
+"1818551",
+"1787039",
+"1823225",
+"1784371",
+"1813154",
+"1823226",
+"1809623"
 ]
 },
 "wachtrij": {
-"1822979": {
-"melding": {
-"titel": "Tesla Model 3 (2025)",
-"bericht": "78Kwh Long Range Premium RWD 320Pk *Navi/Clima/Camera/Leder/Panorama\n€ 27.150 · 30.331 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-78kwh-long-range-premium-rwd-320pk-navi-clima-camera-leder-panorama/o/1822979",
-"foto": "https://www.schadeautos.nl/cache/picture/711/1822979/ba13612e482e1e0399921cc3c096eeae~v193880838.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793881174.3084006,
-"laatst": 1793889378.9527733,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1822977": {
-"melding": {
-"titel": "Mercedes Cla-klasse (2022)",
-"bericht": "SHOOTING BRAKE\n€ 14.000 · 79.000 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse-shooting-brake/o/1822977",
-"foto": "https://www.schadeautos.nl/cache/picture/977/1822977/aa4207f3c84ed347203868da2ddca498~v193880014.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793881178.0947862,
-"laatst": 1793881178.0947862,
-"keer": 0,
-"fout": ""
-},
-"1822974": {
-"melding": {
-"titel": "Kia Picanto (2022)",
-"bericht": "1.0 DPi ComfortLine\n€ 5.350 · 105.674 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline/o/1822974",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1822974/eaad05ecf75825902082e2d767a2e18e~v193879328.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793881178.2212713,
-"laatst": 1793881178.2212713,
-"keer": 0,
-"fout": ""
-},
-"1822971": {
-"melding": {
-"titel": "Peugeot 508 (2022)",
-"bericht": "ALLURE PACK\n€ 11.400 · 90.000 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-508-allure-pack/o/1822971",
-"foto": "https://www.schadeautos.nl/cache/picture/977/1822971/d797d361546deff9ebf3fc50ad47bf81~v193879113.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793881181.8286378,
-"laatst": 1793881181.8286378,
-"keer": 0,
-"fout": ""
-},
-"1822969": {
-"melding": {
-"titel": "Porsche Cayenne (2025)",
-"bericht": "E-Hybrid Black Edition Pano/HUD/BOSE\n€ 64.900 · 7.524 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-cayenne-e-hybrid-black-edition-pano-hud-bose/o/1822969",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1822969/b4240be961a13bdf937a21de29cd7fb1~v193880306.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793881181.9577093,
-"laatst": 1793881181.9577093,
-"keer": 0,
-"fout": ""
-},
-"1822970": {
-"melding": {
-"titel": "BMW X3 (2022)",
-"bericht": "XDRIVE30E\n€ 23.777 · 99.472 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x3-xdrive30e/o/1822970",
-"foto": "https://www.schadeautos.nl/cache/picture/965/1822970/89c1a885de69b36817197abdbeca3b28~v193879110.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793881182.093704,
-"laatst": 1793881182.093704,
-"keer": 0,
-"fout": ""
-},
-"1822967": {
-"melding": {
-"titel": "Suzuki Swift (2024)",
-"bericht": "SWIFT 1.2 Style Smart Hybrid rijdbaar\n€ 8.950 · 52.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-swift-swift-1-2-style-smart-hybrid-rijdbaar/o/1822967",
-"foto": "https://www.schadeautos.nl/cache/picture/709/1822967/2a178e9ba9c6929b98535473220f0c56~v193879156.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793881182.220201,
-"laatst": 1793881182.220201,
-"keer": 0,
-"fout": ""
-},
-"1822962": {
-"melding": {
-"titel": "Peugeot 208 (2022)",
-"bericht": "ACTIVE\n€ 6.750 · 46.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-active/o/1822962",
-"foto": "https://www.schadeautos.nl/cache/picture/977/1822962/11ad44fe970a56a410e435bca0cc2dfc~v193878213.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793881184.8971653,
-"laatst": 1793881184.8971653,
-"keer": 0,
-"fout": ""
-},
-"1807307": {
-"melding": {
-"titel": "Opnieuw geplaatst: Kia Ceed (2022)",
-"bericht": "1.0 T-GDi DynamicLine\n€ 8.500 · 144.285 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0-t-gdi-dynamicline/o/1807307",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1807307/5e5ef34cb3ae67b8bbd80c934489024f~v189648181.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793881185.0222604,
-"laatst": 1793881185.0222604,
-"keer": 0,
-"fout": ""
-},
 "1807150": {
 "melding": {
 "titel": "Opnieuw geplaatst: BMW X1 (2022)",
@@ -8136,9 +8044,9 @@
 "WhatsApp"
 ],
 "sinds": 1793885819.9956493,
-"laatst": 1793885819.9956493,
-"keer": 0,
-"fout": ""
+"laatst": 1793892611.7445967,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1823034": {
 "melding": {
@@ -8407,6 +8315,231 @@
 ],
 "sinds": 1793889387.4800532,
 "laatst": 1793889387.4800532,
+"keer": 0,
+"fout": ""
+},
+"1823226": {
+"melding": {
+"titel": "Renault Captur (2022)",
+"bericht": "1.3T Hybrid 160 aut RS-Line\n€ 13.750 · 77.565 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-captur-1-3t-hybrid-160-aut-rs-line/o/1823226",
+"foto": "https://www.schadeautos.nl/cache/picture/707/1823226/13291de97ae4a7772003a9224d96c74d~v193892062.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892613.5410454,
+"laatst": 1793892613.5410454,
+"keer": 0,
+"fout": ""
+},
+"1823232": {
+"melding": {
+"titel": "Hyundai ioniq 5 (2026)",
+"bericht": "exportprijs € 29.500 · 9.444 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-ioniq-5/o/1823232",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823232/e106854cf4096f46a337c12a10a4d4be~v193892048.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892617.201334,
+"laatst": 1793892617.201334,
+"keer": 0,
+"fout": ""
+},
+"1823215": {
+"melding": {
+"titel": "Citroën C3 (2023)",
+"bericht": "exportprijs € 6.400 · 43.359 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1823215",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823215/14730a1fcafa933c5a897d83e4b2389b~v193891238.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892621.5618644,
+"laatst": 1793892621.5618644,
+"keer": 0,
+"fout": ""
+},
+"1823214": {
+"melding": {
+"titel": "Citroën C3 Aircross (2023)",
+"bericht": "exportprijs € 5.950 · 38.865 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-aircross/o/1823214",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823214/224eee04848cc3213599f660cfe6ee71~v193891229.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892621.7787044,
+"laatst": 1793892621.7787044,
+"keer": 0,
+"fout": ""
+},
+"1823213": {
+"melding": {
+"titel": "Citroën C3 (2022)",
+"bericht": "exportprijs € 4.400 · 13.093 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1823213",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823213/e848849d73704d9f5772db98f5a0f1c6~v193891209.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892621.9951932,
+"laatst": 1793892621.9951932,
+"keer": 0,
+"fout": ""
+},
+"1823212": {
+"melding": {
+"titel": "Peugeot Partner (2022)",
+"bericht": "exportprijs € 2.600 · 108.797 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-partner/o/1823212",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823212/0ba17861f6dc5d23c4eddbee1e4e79e4~v193891203.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892622.2027924,
+"laatst": 1793892622.2027924,
+"keer": 0,
+"fout": ""
+},
+"1823202": {
+"melding": {
+"titel": "Peugeot 2008 (2022)",
+"bericht": "1.2 PureTech Allure Pack\n€ 9.950 · 110.871 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-1-2-puretech-allure-pack/o/1823202",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1823202/e488c8fcbe1901809015cd2e24f9b52e~v193890893.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892625.405154,
+"laatst": 1793892625.405154,
+"keer": 0,
+"fout": ""
+},
+"1822749": {
+"melding": {
+"titel": "BMW 1-serie (2025)",
+"bericht": "120 Automaat Pano Digi Dash Navi Camera\n€ 25.830 · 33.952 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-120-automaat-pano-digi-dash-navi-camera/o/1822749",
+"foto": "https://www.schadeautos.nl/cache/picture/66/1822749/c1c7e48e8d8745ac8a19df84bfd42643~v193869130.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892625.6225069,
+"laatst": 1793892625.6225069,
+"keer": 0,
+"fout": ""
+},
+"1823203": {
+"melding": {
+"titel": "Renault Trafic (2022)",
+"bericht": "exportprijs € 5.950 · 133.306 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-trafic/o/1823203",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823203/e08a830946ef0f10f43e2bad15dfda0a~v193890836.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892629.1545606,
+"laatst": 1793892629.1545606,
+"keer": 0,
+"fout": ""
+},
+"1823199": {
+"melding": {
+"titel": "Opel Corsa (2024)",
+"bericht": "exportprijs € 5.500 · 4.432 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa/o/1823199",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823199/94223e4e153864589d2d30f6098ff5f9~v193890602.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892629.3714645,
+"laatst": 1793892629.3714645,
+"keer": 0,
+"fout": ""
+},
+"1823198": {
+"melding": {
+"titel": "BYD SEAL (2025)",
+"bericht": "exportprijs € 15.900 · 69.922 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/byd-seal/o/1823198",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823198/a1f0a3df0fbdd51bc3cd87b0fd717c25~v193890587.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892629.5885196,
+"laatst": 1793892629.5885196,
+"keer": 0,
+"fout": ""
+},
+"1823196": {
+"melding": {
+"titel": "Peugeot Partner (2024)",
+"bericht": "exportprijs € 5.500 · 20.663 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-partner/o/1823196",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823196/8a6628410202586b600198f0aea6c47a~v193890256.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892629.8098538,
+"laatst": 1793892629.8098538,
+"keer": 0,
+"fout": ""
+},
+"1821901": {
+"melding": {
+"titel": "Tesla Model 3 (2025)",
+"bericht": "60kWh 208kW RWD\n€ 27.750 · 34.312 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-60kwh-208kw-rwd/o/1821901",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1821901/e41b215a1bf2101946e8040825409f8e~v193702054.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892630.0204856,
+"laatst": 1793892630.0204856,
+"keer": 0,
+"fout": ""
+},
+"1823189": {
+"melding": {
+"titel": "Dacia Bigster (2026)",
+"bericht": "JOURNEY\n1.212 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-bigster-journey/o/1823189",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1823189/1c348b3eef92ef717104703c29a7c076~v193889911.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892633.2719247,
+"laatst": 1793892633.2719247,
+"keer": 0,
+"fout": ""
+},
+"1823187": {
+"melding": {
+"titel": "Skoda Elroq (2025)",
+"bericht": "60 Sportline\n€ 18.900 · 55.895 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-elroq-60-sportline/o/1823187",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1823187/9b98eefd4c84583f96a09a7de0cd6c6a~v193889779.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793892633.4938855,
+"laatst": 1793892633.4938855,
 "keer": 0,
 "fout": ""
 }
