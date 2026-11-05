@@ -8083,15 +8083,19 @@
 "1823344",
 "1823339",
 "1823341",
-"1823342"
+"1823342",
+"1823349",
+"1823348"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1823347,
+"hoogste_id": 1823349,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1823349",
+"1823348",
 "1823346",
 "1823347",
 "1823345",
@@ -8099,194 +8103,12 @@
 "1823339",
 "1823341",
 "1823342",
-"1823340",
 "1806672",
 "1805919",
-"1823338",
-"1823337"
+"1823338"
 ]
 },
 "wachtrij": {
-"1823335": {
-"melding": {
-"titel": "Opel Corsa-E (2025)",
-"bericht": "exportprijs € 5.900 · 53.215 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-e/o/1823335",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823335/bd9e458761ff5efbe76fcb7f79a3c25f~v193902317.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902549.4551287,
-"laatst": 1793911745.0535657,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1823334": {
-"melding": {
-"titel": "Citroën C3 (2023)",
-"bericht": "exportprijs € 3.400 · 44.434 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1823334",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823334/cd38e2d5af6579aaddde543ebe83b24e~v193902315.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902549.6331964,
-"laatst": 1793902549.6331964,
-"keer": 0,
-"fout": ""
-},
-"1823332": {
-"melding": {
-"titel": "Renault Express (2024)",
-"bericht": "exportprijs € 4.500 · 47.351 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-express/o/1823332",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823332/bc4c18e75ab8ca65db6d2e067b8bbfb5~v193902049.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902549.8111472,
-"laatst": 1793902549.8111472,
-"keer": 0,
-"fout": ""
-},
-"1823328": {
-"melding": {
-"titel": "Opel Vivaro (2025)",
-"bericht": "exportprijs € 9.900 · 10.370 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vivaro/o/1823328",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823328/83bee0b859444830ec1c3206e497ea6d~v193901745.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902549.9875758,
-"laatst": 1793902549.9875758,
-"keer": 0,
-"fout": ""
-},
-"1823324": {
-"melding": {
-"titel": "Peugeot 308 (2022)",
-"bericht": "exportprijs € 5.750 · 98.479 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308/o/1823324",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823324/d32d13b253776bd1b0c22c1b42c7031e~v193901564.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902550.1625252,
-"laatst": 1793902550.1625252,
-"keer": 0,
-"fout": ""
-},
-"1823323": {
-"melding": {
-"titel": "DS Automobiles DS 4 (2022)",
-"bericht": "DS4\nexportprijs € 5.850 · 81.875 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ds-automobiles-ds-4-ds4/o/1823323",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823323/d0a88d4592ca9115d090cd06006a62a5~v193901554.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902550.3379076,
-"laatst": 1793902550.3379076,
-"keer": 0,
-"fout": ""
-},
-"1823322": {
-"melding": {
-"titel": "Opel Astra (2023)",
-"bericht": "exportprijs € 6.650 · 49.301 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra/o/1823322",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823322/6f32d203a3a2f03bea32470211abec37~v193901551.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902550.5173686,
-"laatst": 1793902550.5173686,
-"keer": 0,
-"fout": ""
-},
-"1823320": {
-"melding": {
-"titel": "Audi A3 (2022)",
-"bericht": "exportprijs € 7.800 · 96.084 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3/o/1823320",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823320/d448dc879824a7b1019cef07cee27576~v193901541.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902553.4611993,
-"laatst": 1793902553.4611993,
-"keer": 0,
-"fout": ""
-},
-"1823319": {
-"melding": {
-"titel": "BMW 1-serie (2023)",
-"bericht": "116\nexportprijs € 7.600 · 81.948 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-1-serie-116/o/1823319",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823319/09c7241b5e06ab8c32e71279846423aa~v193901536.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902553.6408174,
-"laatst": 1793902553.6408174,
-"keer": 0,
-"fout": ""
-},
-"1823318": {
-"melding": {
-"titel": "Toyota Yaris (2023)",
-"bericht": "exportprijs € 6.950 · 33.683 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris/o/1823318",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823318/e0a9cff0bc459809518dd43b11348d1a~v193901531.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902553.8192964,
-"laatst": 1793902553.8192964,
-"keer": 0,
-"fout": ""
-},
-"1823317": {
-"melding": {
-"titel": "Citroën C3 Aircross (2025)",
-"bericht": "exportprijs € 11.900 · 5.805 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-aircross/o/1823317",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1823317/a346fe1d193f6172382692d42ca1cf7a~v193901507.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902554.0002778,
-"laatst": 1793902554.0002778,
-"keer": 0,
-"fout": ""
-},
-"1823314": {
-"melding": {
-"titel": "Mercedes B-klasse (2023)",
-"bericht": "€ 8.800 · 200.000 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-b-klasse/o/1823314",
-"foto": "https://www.schadeautos.nl/cache/picture/173/1823314/320495538320a00179c070d34c50b2d2~v193900449.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793902554.1822805,
-"laatst": 1793902554.1822805,
-"keer": 0,
-"fout": ""
-},
 "1806672": {
 "melding": {
 "titel": "Opnieuw geplaatst: Volkswagen T-Roc (2024)",
@@ -8298,9 +8120,9 @@
 "WhatsApp"
 ],
 "sinds": 1793908952.4334385,
-"laatst": 1793908952.4334385,
-"keer": 0,
-"fout": ""
+"laatst": 1793914092.9146266,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1823338": {
 "melding": {
@@ -8434,6 +8256,36 @@
 ],
 "sinds": 1793911746.660609,
 "laatst": 1793911746.660609,
+"keer": 0,
+"fout": ""
+},
+"1823349": {
+"melding": {
+"titel": "Kia Picanto (2025)",
+"bericht": "1.2 GT-Line Automaat Led Keyless Leder Camera Navi Lane-Assist 58KW / 79PK\n€ 8.900 · 11.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-2-gt-line-automaat-led-keyless-leder-camera-navi-lane-assist-58kw-79pk/o/1823349",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1823349/be8cc8437d8926107919fce9251d6feb~v193913889.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793914094.4408886,
+"laatst": 1793914094.4408886,
+"keer": 0,
+"fout": ""
+},
+"1823348": {
+"melding": {
+"titel": "Peugeot 308 (2023)",
+"bericht": "SW Allure Automaat Virtual Keyless Camera Navi Led 96KW / 131PK\n€ 4.950 · 100.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-sw-allure-automaat-virtual-keyless-camera-navi-led-96kw-131pk/o/1823348",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1823348/838e590b0bba7d459164ed1dbc1051a4~v193913585.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793914094.4811156,
+"laatst": 1793914094.4811156,
 "keer": 0,
 "fout": ""
 }
