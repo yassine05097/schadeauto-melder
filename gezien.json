@@ -8113,27 +8113,44 @@
 "1788915",
 "1823377",
 "1804309",
-"1823378"
+"1823378",
+"1823430",
+"1823429",
+"1823428",
+"1823424",
+"1823423",
+"1823411",
+"1823420",
+"1823422",
+"1823418",
+"1823412",
+"1823413",
+"1823407",
+"1823410",
+"1823409",
+"1823403",
+"1823405",
+"1823401"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1823393,
+"hoogste_id": 1823430,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1647258",
-"1813464",
-"1809377",
-"1663136",
-"1823393",
-"1646604",
-"1823392",
-"1823390",
-"1804307",
-"1817970",
-"1823389",
-"1788915"
+"1823430",
+"1808392",
+"1823429",
+"1792532",
+"1696203",
+"1823428",
+"1823424",
+"1823423",
+"1823411",
+"1823420",
+"1823422",
+"1754297"
 ]
 },
 "wachtrij": {
@@ -8148,8 +8165,8 @@
 "WhatsApp"
 ],
 "sinds": 1793950810.7542622,
-"laatst": 1793954131.3690667,
-"keer": 2,
+"laatst": 1793957407.6894534,
+"keer": 3,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1823372": {
@@ -8314,6 +8331,111 @@
 ],
 "sinds": 1793954132.3904297,
 "laatst": 1793954132.3904297,
+"keer": 0,
+"fout": ""
+},
+"1823428": {
+"melding": {
+"titel": "Kia Cee d (2026)",
+"bericht": "20.100 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-cee-d/o/1823428",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1823428/c2262b8cd6d6e70b473de204f1eecf9e~v193956510.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793957408.9698598,
+"laatst": 1793957408.9698598,
+"keer": 0,
+"fout": ""
+},
+"1823423": {
+"melding": {
+"titel": "Zeekr (2026)",
+"bericht": "7GT 75Kwh Pano\n€ 16.750 · 3.265 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/zeekr-7gt-75kwh-pano/o/1823423",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1823423/fb72cee66241fb901241765e8fde0bff~v193956238.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793957409.0758932,
+"laatst": 1793957409.0758932,
+"keer": 0,
+"fout": ""
+},
+"1823422": {
+"melding": {
+"titel": "Opel Astra (2024)",
+"bericht": "exportprijs € 5.850 · 73.867 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra/o/1823422",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823422/24e16c4c48d265c29ff46d4d7b0d4408~v193956090.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793957409.1890419,
+"laatst": 1793957409.1890419,
+"keer": 0,
+"fout": ""
+},
+"1823412": {
+"melding": {
+"titel": "Renault Mégane E-Tech (2022)",
+"bericht": "EVO 60 Optimum 220 PK AUTOMAAT\n€ 13.500 · 148.117 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-e-tech-evo-60-optimum-220-pk-automaat/o/1823412",
+"foto": "https://www.schadeautos.nl/cache/picture/104/1823412/1b1f349aa19fe942bb878da2fb6b510d~v193955742.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793957411.8129518,
+"laatst": 1793957411.8129518,
+"keer": 0,
+"fout": ""
+},
+"1823413": {
+"melding": {
+"titel": "Peugeot 208 (2025)",
+"bericht": "exportprijs € 7.500 · 2.538 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1823413",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823413/c911d7ca923d03e43f605b6b46ea8eeb~v193955582.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793957411.9217625,
+"laatst": 1793957411.9217625,
+"keer": 0,
+"fout": ""
+},
+"1823409": {
+"melding": {
+"titel": "Opel Vivaro (2025)",
+"bericht": "exportprijs € 7.950 · 50.461 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-vivaro/o/1823409",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1823409/89d390b09b16e1eb1267e4b88317ba3c~v193955400.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793957412.015082,
+"laatst": 1793957412.015082,
+"keer": 0,
+"fout": ""
+},
+"1823405": {
+"melding": {
+"titel": "Fiat 500 (2024)",
+"bericht": "1.0 HYBRIDE\n€ 5.200 · 4.003 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybride/o/1823405",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1823405/b374f641f4b06335cd2e382a6d7c6966~v193954908.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793957414.688127,
+"laatst": 1793957414.688127,
 "keer": 0,
 "fout": ""
 }
