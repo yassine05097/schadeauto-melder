@@ -8231,195 +8231,62 @@
 "1823525",
 "1823522",
 "1823521",
-"1823508"
+"1823508",
+"1812798",
+"1823625",
+"1823619",
+"1808071",
+"1648636",
+"1740545",
+"1728348",
+"1752740",
+"1789016",
+"1823609",
+"1794223",
+"1814273",
+"1823617",
+"1823612",
+"1823615",
+"1823608",
+"1823611",
+"1823610",
+"1821591",
+"1823606",
+"1823607",
+"1823603",
+"1823600",
+"1823604",
+"1744762",
+"1774598",
+"1823599",
+"1823598",
+"1821423",
+"1823596",
+"1805939",
+"1823595"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1823587,
+"hoogste_id": 1823625,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1823587",
-"1819570",
-"1823586",
-"1823585",
-"1823568",
-"1823581",
-"1823577",
-"1823575",
-"1823573",
-"1710702",
-"1823552",
-"1823561"
+"1812798",
+"1823625",
+"1823225",
+"1822585",
+"1822490",
+"1823619",
+"1815714",
+"1808071",
+"1648636",
+"1740545",
+"1728348",
+"1752740"
 ]
 },
 "wachtrij": {
-"1704610": {
-"melding": {
-"titel": "Opnieuw geplaatst: BMW 5-serie (2024)",
-"bericht": "Touring 530e Autom. Panoramadak Navi Clima\n€ 31.250 · 36.084 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-touring-530e-autom-panoramadak-navi-clima/o/1704610",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1704610/0592a444e4a7da9833c00aa8ff4698c9~v158811564.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793961051.6833265,
-"laatst": 1793971422.9225464,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1813354": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Golf (2026)",
-"bericht": "VIII Lim. 1.5 TSI 85 kW Life\n€ 10.200 · 6.404 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-viii-lim-1-5-tsi-85-kw-life/o/1813354",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1813354/77df811cf82ed89afdaf4b0129864e67~v191300946.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793961054.25717,
-"laatst": 1793961054.25717,
-"keer": 0,
-"fout": ""
-},
-"1810625": {
-"melding": {
-"titel": "Opnieuw geplaatst: DS Automobiles DS 4 (2024)",
-"bericht": "Opera\n€ 11.800 · 42.671 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ds-automobiles-ds-4-opera/o/1810625",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1810625/bb44b5122e827e28043304833492663b~v190673210.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793961054.3331404,
-"laatst": 1793961054.3331404,
-"keer": 0,
-"fout": ""
-},
-"1823450": {
-"melding": {
-"titel": "Maserati Ghibli (2024)",
-"bericht": "GT Mild-Hybrid 221KW Facelift\n€ 16.900 · 19.564 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/maserati-ghibli-gt-mild-hybrid-221kw-facelift/o/1823450",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1823450/ec6b316d720509c77cba0d439d8e57be~v193959511.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793961054.4063509,
-"laatst": 1793961054.4063509,
-"keer": 0,
-"fout": ""
-},
-"1823449": {
-"melding": {
-"titel": "Volkswagen Polo (2026)",
-"bericht": "VI R-Line TSI Design-Paket Pro Cockpit\n€ 10.900 · 1 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-vi-r-line-tsi-design-paket-pro-cockpit/o/1823449",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1823449/d1b783b47bcab2110d47367933f6816c~v193959507.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793961054.4893417,
-"laatst": 1793961054.4893417,
-"keer": 0,
-"fout": ""
-},
-"1644456": {
-"melding": {
-"titel": "Opnieuw geplaatst: Ford Focus (2024)",
-"bericht": "Wagon 1.0 EcoBoost Hybrid Titanium Stoel/Stuurverw. Navigatie Camera\n€ 9.950 · 14.779 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon-1-0-ecoboost-hybrid-titanium-stoel-stuurverw-navigatie-camera/o/1644456",
-"foto": "https://www.schadeautos.nl/cache/picture/644/1644456/623a30c5ade964922e5a1134ae794748~v193958876.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793961057.1458902,
-"laatst": 1793961057.1458902,
-"keer": 0,
-"fout": ""
-},
-"1823489": {
-"melding": {
-"titel": "Volkswagen ID.3 (2023)",
-"bericht": "€ 12.705 · 42.864 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-3/o/1823489",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1823489/05f27dcefd375972a00ef181f42cc33b~v193963707.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793964355.5923257,
-"laatst": 1793964355.5923257,
-"keer": 0,
-"fout": ""
-},
-"1823484": {
-"melding": {
-"titel": "MG ZS (2024)",
-"bericht": "Luxury\n€ 10.890 · 76.379 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs-luxury/o/1823484",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1823484/6a305fd03303d463aaa47be2a9b1ed75~v193963260.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793964355.635579,
-"laatst": 1793964355.635579,
-"keer": 0,
-"fout": ""
-},
-"1823479": {
-"melding": {
-"titel": "Fiat 500 (2023)",
-"bericht": "€ 6.000 · 25.542 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500/o/1823479",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1823479/b20cf257922942d4c72580114061b5de~v193962827.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793964355.6793458,
-"laatst": 1793964355.6793458,
-"keer": 0,
-"fout": ""
-},
-"1823469": {
-"melding": {
-"titel": "BMW X5 (2024)",
-"bericht": "50 e xDrive M Sport\n€ 47.795 · 97.184 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5-50-e-xdrive-m-sport/o/1823469",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1823469/2db8e2c6b7976a72afd615a7c2aebcc7~v193962325.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793964358.2350523,
-"laatst": 1793964358.2350523,
-"keer": 0,
-"fout": ""
-},
-"1823471": {
-"melding": {
-"titel": "Kia Picanto (2022)",
-"bericht": "1.0 DPi ComfortLine\n€ 5.500 · 62.242 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline/o/1823471",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1823471/79af8f6211dba2f142b1b55671673567~v193961667.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793964358.277436,
-"laatst": 1793964358.277436,
-"keer": 0,
-"fout": ""
-},
 "1823519": {
 "melding": {
 "titel": "Citroën Berlingo (2023)",
@@ -8431,9 +8298,9 @@
 "WhatsApp"
 ],
 "sinds": 1793967303.9920824,
-"laatst": 1793967303.9920824,
-"keer": 0,
-"fout": ""
+"laatst": 1793975321.5120835,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1823516": {
 "melding": {
@@ -8612,6 +8479,66 @@
 ],
 "sinds": 1793971434.4970047,
 "laatst": 1793971434.4970047,
+"keer": 0,
+"fout": ""
+},
+"1823609": {
+"melding": {
+"titel": "Mazda CX-30 (2023)",
+"bericht": "2.0 e-SkyActiv-X M Hybrid Luxury REST BPM €2300,-!!!\n€ 13.950 · 37.068 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-30-2-0-e-skyactiv-x-m-hybrid-luxury-rest-bpm-eur2300/o/1823609",
+"foto": "https://www.schadeautos.nl/cache/picture/252/1823609/f7adcde3f8ba943c2b9e266b1b79619b~v193973766.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793975325.9353213,
+"laatst": 1793975325.9353213,
+"keer": 0,
+"fout": ""
+},
+"1823615": {
+"melding": {
+"titel": "Peugeot 208 (2024)",
+"bericht": "ALLURE\n24.047 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-allure/o/1823615",
+"foto": "https://www.schadeautos.nl/cache/picture/926/1823615/ed8cf20147bf2e38a149e1ede2867ef7~v193973612.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793975326.1453338,
+"laatst": 1793975326.1453338,
+"keer": 0,
+"fout": ""
+},
+"1823599": {
+"melding": {
+"titel": "Mercedes EQB (2023)",
+"bericht": "250+ Business 7p. 71kWh Pano Burmeister Memory\n€ 16.950 · 131.841 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-250-business-7p-71kwh-pano-burmeister-memory/o/1823599",
+"foto": "https://www.schadeautos.nl/cache/picture/644/1823599/97f4c7aa05161ab5de23c972d21bbdfa~v193972843.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793975332.5625885,
+"laatst": 1793975332.5625885,
+"keer": 0,
+"fout": ""
+},
+"1823596": {
+"melding": {
+"titel": "Ford Focus (2022)",
+"bericht": "Wagon 1.0 EcoBoost 125PK Hybrid Navi Climate Cruise PDC Trekh.\n€ 6.950 · 63.843 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-wagon-1-0-ecoboost-125pk-hybrid-navi-climate-cruise-pdc-trekh/o/1823596",
+"foto": "https://www.schadeautos.nl/cache/picture/644/1823596/d8fbfe20f3e032d97ecf6c7393f1bef7~v193971635.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793975335.5676754,
+"laatst": 1793975335.5676754,
 "keer": 0,
 "fout": ""
 }
