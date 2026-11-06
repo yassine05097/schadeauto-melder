@@ -8157,180 +8157,44 @@
 "1800203",
 "1823440",
 "1773917",
-"1789315"
+"1789315",
+"1823486",
+"1823487",
+"1823489",
+"1823481",
+"1823484",
+"1823480",
+"1823483",
+"1823479",
+"1823470",
+"1823469",
+"1823473",
+"1823471",
+"1780045",
+"1786703"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1823462,
+"hoogste_id": 1823489,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1779416",
-"1823462",
-"1805754",
-"1823459",
-"1704610",
-"1823456",
-"1823442",
-"1817201",
-"1823455",
-"1810254",
-"1823457",
-"1815372"
+"1823486",
+"1823487",
+"1798127",
+"1823489",
+"1812226",
+"1823481",
+"1823484",
+"1823480",
+"1823483",
+"1817053",
+"1823479",
+"1821752"
 ]
 },
 "wachtrij": {
-"1823373": {
-"melding": {
-"titel": "Renault Clio (2025)",
-"bericht": "Clio V 1.0\n€ 4.700 · 56.431 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-clio-v-1-0/o/1823373",
-"foto": "https://www.schadeautos.nl/cache/picture/909/1823373/652a8a75644591b3300e1455fe33a8c4~v193950637.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793950810.7542622,
-"laatst": 1793961050.745375,
-"keer": 4,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1823372": {
-"melding": {
-"titel": "Opel Movano (2023)",
-"bericht": "C 2.2 CDTI\n€ 8.450 · 43.110 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-movano-c-2-2-cdti/o/1823372",
-"foto": "https://www.schadeautos.nl/cache/picture/909/1823372/ed47a8122df3bc97fc3386a61276b09b~v193950600.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793950810.9251738,
-"laatst": 1793950810.9251738,
-"keer": 0,
-"fout": ""
-},
-"1823370": {
-"melding": {
-"titel": "Hyundai I-20 (2026)",
-"bericht": "1.0-66 Kw Automaat Trend\n€ 14.300 · 2.820 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-0-66-kw-automaat-trend/o/1823370",
-"foto": "https://www.schadeautos.nl/cache/picture/13/1823370/bc3cea06c261654dc496afc9e4819396~v193948201.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793950814.012698,
-"laatst": 1793950814.012698,
-"keer": 0,
-"fout": ""
-},
-"1823363": {
-"melding": {
-"titel": "Suzuki Swift (2025)",
-"bericht": "1.2- 61 Kw E-Hybrid Automaat\n€ 13.300 · 12.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-swift-1-2-61-kw-e-hybrid-automaat/o/1823363",
-"foto": "https://www.schadeautos.nl/cache/picture/13/1823363/6fd977f5d20c1cc5dcc37874a3268d48~v193947242.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793950814.1773741,
-"laatst": 1793950814.1773741,
-"keer": 0,
-"fout": ""
-},
-"1823365": {
-"melding": {
-"titel": "Mercedes EQB (2025)",
-"bericht": "250+ Pano Led Stoelverw.\n€ 19.950 · 71.884 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqb-250-pano-led-stoelverw/o/1823365",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1823365/111ba7ef94dd5fae3c4fbbf383b82944~v193947072.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793950814.3391032,
-"laatst": 1793950814.3391032,
-"keer": 0,
-"fout": ""
-},
-"1823362": {
-"melding": {
-"titel": "Jaguar XF (2025)",
-"bericht": "20d Aut. Rsport Pano Navi Led\n€ 2.850 · 142.426 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/jaguar-xf-20d-aut-rsport-pano-navi-led/o/1823362",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1823362/12b8e56f79209acf8c0077e661b04fcb~v193946832.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793950814.5025,
-"laatst": 1793950814.5025,
-"keer": 0,
-"fout": ""
-},
-"1823360": {
-"melding": {
-"titel": "Ford Tourneo Courier (2024)",
-"bericht": "Active 1.0 Ecoboost\n€ 13.650 · 11.863 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-tourneo-courier-active-1-0-ecoboost/o/1823360",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1823360/dc63d6548f841f5148efeb759b060869~v193946659.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793950814.6667333,
-"laatst": 1793950814.6667333,
-"keer": 0,
-"fout": ""
-},
-"1823359": {
-"melding": {
-"titel": "Hyundai Tucson (2023)",
-"bericht": "1.6 T-GDI Aut. MHEV Leder Stoeverw Navi Led\n€ 13.950 · 31.833 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-aut-mhev-leder-stoeverw-navi-led/o/1823359",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1823359/9fd8e2a17bbec6a1ac344b3505fdc7ee~v193946535.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793950814.8283265,
-"laatst": 1793950814.8283265,
-"keer": 0,
-"fout": ""
-},
-"1823358": {
-"melding": {
-"titel": "Opel Corsa (2025)",
-"bericht": "1.2 Aut. Led Camera Airco\n€ 9.950 · 6.264 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-aut-led-camera-airco/o/1823358",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1823358/f389ccd3949e4aa8d2fd3eef254751e7~v193946412.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793950814.9891677,
-"laatst": 1793950814.9891677,
-"keer": 0,
-"fout": ""
-},
-"1823357": {
-"melding": {
-"titel": "Kia Ceed (2023)",
-"bericht": "1.0 T-GDI GT-Line Pano Navi Stoelverw.\n€ 12.950 · 75.347 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-ceed-1-0-t-gdi-gt-line-pano-navi-stoelverw/o/1823357",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1823357/76561664fc2ef74d6cb03e67dfa05a79~v193946296.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1793950815.1477652,
-"laatst": 1793950815.1477652,
-"keer": 0,
-"fout": ""
-},
 "1809377": {
 "melding": {
 "titel": "Opnieuw geplaatst: Hyundai Kona (2025)",
@@ -8342,9 +8206,9 @@
 "WhatsApp"
 ],
 "sinds": 1793954132.2588232,
-"laatst": 1793954132.2588232,
-"keer": 0,
-"fout": ""
+"laatst": 1793964354.590437,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1823392": {
 "melding": {
@@ -8553,6 +8417,81 @@
 ],
 "sinds": 1793961057.1458902,
 "laatst": 1793961057.1458902,
+"keer": 0,
+"fout": ""
+},
+"1823489": {
+"melding": {
+"titel": "Volkswagen ID.3 (2023)",
+"bericht": "€ 12.705 · 42.864 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-id-3/o/1823489",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1823489/05f27dcefd375972a00ef181f42cc33b~v193963707.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793964355.5923257,
+"laatst": 1793964355.5923257,
+"keer": 0,
+"fout": ""
+},
+"1823484": {
+"melding": {
+"titel": "MG ZS (2024)",
+"bericht": "Luxury\n€ 10.890 · 76.379 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs-luxury/o/1823484",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1823484/6a305fd03303d463aaa47be2a9b1ed75~v193963260.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793964355.635579,
+"laatst": 1793964355.635579,
+"keer": 0,
+"fout": ""
+},
+"1823479": {
+"melding": {
+"titel": "Fiat 500 (2023)",
+"bericht": "€ 6.000 · 25.542 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500/o/1823479",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1823479/b20cf257922942d4c72580114061b5de~v193962827.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793964355.6793458,
+"laatst": 1793964355.6793458,
+"keer": 0,
+"fout": ""
+},
+"1823469": {
+"melding": {
+"titel": "BMW X5 (2024)",
+"bericht": "50 e xDrive M Sport\n€ 47.795 · 97.184 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5-50-e-xdrive-m-sport/o/1823469",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1823469/2db8e2c6b7976a72afd615a7c2aebcc7~v193962325.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793964358.2350523,
+"laatst": 1793964358.2350523,
+"keer": 0,
+"fout": ""
+},
+"1823471": {
+"melding": {
+"titel": "Kia Picanto (2022)",
+"bericht": "1.0 DPi ComfortLine\n€ 5.500 · 62.242 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline/o/1823471",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1823471/79af8f6211dba2f142b1b55671673567~v193961667.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1793964358.277436,
+"laatst": 1793964358.277436,
 "keer": 0,
 "fout": ""
 }
