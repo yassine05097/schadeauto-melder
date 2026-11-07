@@ -8347,30 +8347,228 @@
 "1823744",
 "1823764",
 "1823763",
-"1823779"
+"1823779",
+"1823871",
+"1823867",
+"1823857",
+"1823854",
+"1823853",
+"1823852",
+"1823851",
+"1823850",
+"1823846",
+"1823820",
+"1823802",
+"1823844",
+"1819002",
+"1762809",
+"1656328",
+"1823845",
+"1823842",
+"1823840",
+"1823837",
+"1789135",
+"1790501",
+"1790112",
+"1823832",
+"1823827",
+"1823822",
+"1790475",
+"1823798",
+"1822560",
+"1823783",
+"1823782",
+"1823781",
+"1823780"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1823779,
+"hoogste_id": 1823871,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1823678",
-"1823226",
-"1823099",
-"1822106",
-"1820803",
-"1823779",
-"1799112",
-"1822967",
-"1823764",
-"1823763",
-"1823747",
-"1823753"
+"1823871",
+"1823867",
+"1823857",
+"1823854",
+"1823853",
+"1823852",
+"1823851",
+"1823850",
+"1814164",
+"1794039",
+"1819031",
+"1792586"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1823871": {
+"melding": {
+"titel": "Audi E-tron (2022)",
+"bericht": "Q8 E-tron 55 95kwh 21.457 KM! Origineel NL NAP Auto laad niet op! 408PK!\n€ 15.900 · 21.457 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-e-tron-q8-e-tron-55-95kwh-21-457-km-origineel-nl-nap-auto-laad-niet-op-408pk/o/1823871",
+"foto": "https://www.schadeautos.nl/cache/picture/1048/1823871/485004d214319e07acbf2c8d52f7fabd~v194057124.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057488.156877,
+"laatst": 1794057488.156877,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1823852": {
+"melding": {
+"titel": "Citroën C4 (2022)",
+"bericht": "1.2 BENZ\n119.056 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c4-1-2-benz/o/1823852",
+"foto": "https://www.schadeautos.nl/cache/picture/1061/1823852/076eeb148933cf1e164b8cf4541b3bc7~v194054623.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057488.3369446,
+"laatst": 1794057488.3369446,
+"keer": 0,
+"fout": ""
+},
+"1823820": {
+"melding": {
+"titel": "Volvo Xc-60 (2022)",
+"bericht": "2.0 Recharge T6 AWD Inscription Automaat Pano NAP !\n€ 18.350 · 68.526 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc-60-2-0-recharge-t6-awd-inscription-automaat-pano-nap/o/1823820",
+"foto": "https://www.schadeautos.nl/cache/picture/364/1823820/0c8245eb870d1375563d92d62084893e~v194043881.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057491.4893208,
+"laatst": 1794057491.4893208,
+"keer": 0,
+"fout": ""
+},
+"1823802": {
+"melding": {
+"titel": "Ford Kuga (2023)",
+"bericht": "2.5 PHEV ST-Line Automaat Virtual 80999 Km NAP !\n€ 12.650 · 80.999 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-2-5-phev-st-line-automaat-virtual-80999-km-nap/o/1823802",
+"foto": "https://www.schadeautos.nl/cache/picture/364/1823802/6e4b432fc866e709a8e53fa9f8cbc30b~v194041726.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057491.6660047,
+"laatst": 1794057491.6660047,
+"keer": 0,
+"fout": ""
+},
+"1823844": {
+"melding": {
+"titel": "Opel Astra (2023)",
+"bericht": "1.2 Business Edition Navi Clima NAP !\n€ 8.650 · 93.969 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-2-business-edition-navi-clima-nap/o/1823844",
+"foto": "https://www.schadeautos.nl/cache/picture/364/1823844/96d8205f052801a315a74b73a4b94c94~v194051834.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057491.8429785,
+"laatst": 1794057491.8429785,
+"keer": 0,
+"fout": ""
+},
+"1823840": {
+"melding": {
+"titel": "Suzuki Vitara (2022)",
+"bericht": "1.4 BOOSTERJET SMART HYBRID-LEDER-NAVI-PANO-CAMERA\n€ 16.250 · 86.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-vitara-1-4-boosterjet-smart-hybrid-leder-navi-pano-camera/o/1823840",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1823840/e7ac95dd96c660ad9f2a13542b057319~v194050468.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057494.6448429,
+"laatst": 1794057494.6448429,
+"keer": 0,
+"fout": ""
+},
+"1823827": {
+"melding": {
+"titel": "Kia e-Niro (2024)",
+"bericht": "EXECUTIVE LINE 64.8 kWH -SCHUIFDAK-NAVI-CAMERA-LEDER-CLIMA\n€ 22.450 · 10.134 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-e-niro-executive-line-64-8-kwh-schuifdak-navi-camera-leder-clima/o/1823827",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1823827/525c63bbf4bfe22cb80f008fd63d3a68~v194046173.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057494.8233209,
+"laatst": 1794057494.8233209,
+"keer": 0,
+"fout": ""
+},
+"1823822": {
+"melding": {
+"titel": "Tesla Model 3 (2023)",
+"bericht": "RWD Plus 60 kWh-GLAZENDAK-CAMERA-NAVI-LEDER-PDC\nexportprijs € 15.750 · 108.230 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-3-rwd-plus-60-kwh-glazendak-camera-navi-leder-pdc/o/1823822",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1823822/1c99bdb926423fba098f152fffbf7b5c~v194044445.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057495.0041342,
+"laatst": 1794057495.0041342,
+"keer": 0,
+"fout": ""
+},
+"1823798": {
+"melding": {
+"titel": "Cupra Leon (2025)",
+"bericht": "2.0 TSI 245 kW 4Drive VZ\n€ 19.900 · 10.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-leon-2-0-tsi-245-kw-4drive-vz/o/1823798",
+"foto": "https://www.schadeautos.nl/cache/picture/323/1823798/320d232094f9a64177445d8c975fe362~v194042644.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057498.1060843,
+"laatst": 1794057498.1060843,
+"keer": 0,
+"fout": ""
+},
+"1822560": {
+"melding": {
+"titel": "Hyundai I-10 (2022)",
+"bericht": "HYUNDAI I10 1.0I 2022 AUTOMAAT\n€ 8.500 · 37.848 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-hyundai-i10-1-0i-2022-automaat/o/1822560",
+"foto": "https://www.schadeautos.nl/cache/picture/982/1822560/13309e98802b00c2700e5ca13d9e37ca~v193800733.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057498.2827141,
+"laatst": 1794057498.2827141,
+"keer": 0,
+"fout": ""
+},
+"1823782": {
+"melding": {
+"titel": "Opel Crossland (2022)",
+"bericht": "X/CROSSLAND\n€ 4.800 · 50.144 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-crossland-x-crossland/o/1823782",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1823782/4593900777bd323bd1d08f75c70a1a70~v194034854.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794057501.0801094,
+"laatst": 1794057501.0801094,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
