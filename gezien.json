@@ -8434,30 +8434,198 @@
 "1823947",
 "1823946",
 "1823967",
-"1823965"
+"1823965",
+"1766516",
+"1824013",
+"1824016",
+"1751447",
+"1812243",
+"1767978",
+"1824007",
+"1824003",
+"1824002",
+"1803335",
+"1782551",
+"1805835",
+"1807892",
+"1808973",
+"1823988",
+"1823987",
+"1823985",
+"1823984",
+"1823982",
+"1823981",
+"1823980",
+"1823979",
+"1823977",
+"1823976",
+"1823974",
+"1823973",
+"1823972",
+"1790260",
+"1823970",
+"1788552",
+"1787259",
+"1823969"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1823967,
+"hoogste_id": 1824016,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1823967",
-"1780914",
-"1808348",
-"1811830",
-"1800111",
-"1760025",
-"1823965",
-"1812331",
-"1698899",
-"1757766",
-"1823964",
-"1823963"
+"1819811",
+"1758836",
+"1766516",
+"1814781",
+"1814790",
+"1822623",
+"1803508",
+"1819114",
+"1823117",
+"1824013",
+"1815169",
+"1780001"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1824013": {
+"melding": {
+"titel": "Zeekr 7X (2026)",
+"bericht": "100 kwh LONG RANGE LEER NAV CAM 19.000KM\n€ 29.950 · 19.000 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/zeekr-7x-100-kwh-long-range-leer-nav-cam-19-000km/o/1824013",
+"foto": "https://www.schadeautos.nl/cache/picture/33/1824013/f8df97e72158ce50a5d0e153728fe70c~v194213095.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794213861.0439885,
+"laatst": 1794213861.0439885,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1812243": {
+"melding": {
+"titel": "Opnieuw geplaatst: Ford Focus (2022)",
+"bericht": "1.0 EcoBoost Hybrid Titanium\n€ 7.700 · 141.216 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-1-0-ecoboost-hybrid-titanium/o/1812243",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1812243/9e8e6b479cd25411f4e028037239ba97~v190944913.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794213863.545067,
+"laatst": 1794213863.545067,
+"keer": 0,
+"fout": ""
+},
+"1803335": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 208 (2022)",
+"bericht": "1.2 PT Active Pack\n€ 4.950 · 84.463 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-pt-active-pack/o/1803335",
+"foto": "https://www.schadeautos.nl/cache/picture/252/1803335/6cd94eeae76abf5cc79c8d0f5dc6d5a9~v188596767.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794213866.2879226,
+"laatst": 1794213866.2879226,
+"keer": 0,
+"fout": ""
+},
+"1807892": {
+"melding": {
+"titel": "Opnieuw geplaatst: Hyundai I-30 (2025)",
+"bericht": "Wagon 1.5 T-GDI MHEV N Line\n€ 12.750 · 24.254 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-30-wagon-1-5-t-gdi-mhev-n-line/o/1807892",
+"foto": "https://www.schadeautos.nl/cache/picture/1060/1807892/6dee71c447c0f8294fb661e92b7dc38a~v189809324.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794213868.9664574,
+"laatst": 1794213868.9664574,
+"keer": 0,
+"fout": ""
+},
+"1823985": {
+"melding": {
+"titel": "Mercedes (2025)",
+"bericht": "180d ACC Navi Apple/Android Camera PDC AHK Clima\n€ 13.950 · 18.551 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-180d-acc-navi-apple-android-camera-pdc-ahk-clima/o/1823985",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1823985/4cd9457835a6f038e01f74bfacd2489f~v194209339.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794213871.588008,
+"laatst": 1794213871.588008,
+"keer": 0,
+"fout": ""
+},
+"1823981": {
+"melding": {
+"titel": "Opel Corsa-E (2025)",
+"bericht": "Yes 50 kWh Clima Cruise PDC Apple/Android\n€ 14.950 · 25.336 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-e-yes-50-kwh-clima-cruise-pdc-apple-android/o/1823981",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1823981/4fed080ef2b2c00aa1c2ab8f1a2c1954~v194209190.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794213871.6182492,
+"laatst": 1794213871.6182492,
+"keer": 0,
+"fout": ""
+},
+"1823977": {
+"melding": {
+"titel": "Audi Q4 (2024)",
+"bericht": "45 Quattro 82 kWh Advanced Edition ACC Camera SHZ LED Matrix Clima\n€ 25.950 · 56.701 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-45-quattro-82-kwh-advanced-edition-acc-camera-shz-led-matrix-clima/o/1823977",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1823977/42fcd405185449548f981e8aec7b8f50~v194209110.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794213874.148833,
+"laatst": 1794213874.148833,
+"keer": 0,
+"fout": ""
+},
+"1823974": {
+"melding": {
+"titel": "Kia Picanto (2023)",
+"bericht": "1.0 DPi DynamicLine Cruise Apple/Android Camera PDC Airco\n€ 5.950 · 69.402 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-dynamicline-cruise-apple-android-camera-pdc-airco/o/1823974",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1823974/f1bf72294994ed80c47c5482a07c958e~v194209068.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794213874.1786673,
+"laatst": 1794213874.1786673,
+"keer": 0,
+"fout": ""
+},
+"1823973": {
+"melding": {
+"titel": "MG EHS (2022)",
+"bericht": "1.5 TGDI Luxury H/K Pano ACC Navi Leder SHZ Apple/Android 360° PDC Clima\n€ 10.450 · 94.700 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-ehs-1-5-tgdi-luxury-h-k-pano-acc-navi-leder-shz-apple-android-360-pdc-clima/o/1823973",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1823973/c665a2c16ee59e2be00908b2018d1dc3~v194209056.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794213874.209257,
+"laatst": 1794213874.209257,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
