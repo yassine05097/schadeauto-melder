@@ -9253,44 +9253,115 @@
 "1824908",
 "1813201",
 "1777473",
-"1745646"
+"1745646",
+"1825712",
+"1825704",
+"1825709",
+"1825707",
+"1825706",
+"1825703",
+"1824156",
+"1825701",
+"1824305",
+"1825697",
+"1825694",
+"1754534",
+"1825693",
+"1799886",
+"1825692",
+"1825691",
+"1825690",
+"1825689",
+"1825686",
+"1825683",
+"1825682",
+"1825679",
+"1825680",
+"1825678",
+"1825676",
+"1825167"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1825664,
+"hoogste_id": 1825712,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1777473",
-"1745646",
 "1812903",
-"1815661",
-"1683582",
-"1719498",
-"1824807",
-"1825387",
-"1823159",
-"1808468",
-"1813973",
-"1821883"
+"1768867",
+"1825712",
+"1825704",
+"1825709",
+"1825707",
+"1815200",
+"1819991",
+"1825706",
+"1825703",
+"1822358",
+"1819575"
 ]
 },
 "wachtrij": {
-"1745646": {
+"1825704": {
 "melding": {
-"titel": "Opnieuw geplaatst: Nissan Qashqai (2022)",
-"bericht": "1.5 Tekna plus automaat\n€ 11.800 · 73.577 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-qashqai-1-5-tekna-plus-automaat/o/1745646",
-"foto": "https://www.schadeautos.nl/cache/picture/984/1745646/744ab670ec5229fa9141e1d3dfefb71a~v171003170.jpg"
+"titel": "Kia Picanto (2022)",
+"bericht": "1.0 DPI COMFORTLINE\n€ 3.850 · 186.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline/o/1825704",
+"foto": "https://www.schadeautos.nl/cache/picture/5/1825704/86f78581f53d83edba472c7472004057~v194555847.jpg"
 },
 "kanalen": [
 "WhatsApp"
 ],
-"sinds": 1794532408.9284332,
-"laatst": 1794532408.9284332,
+"sinds": 1794556782.3632429,
+"laatst": 1794556782.3632429,
 "keer": 1,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1825707": {
+"melding": {
+"titel": "Dacia Sandero (2022)",
+"bericht": "III ESSENTIA\n€ 3.900 · 39.281 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-iii-essentia/o/1825707",
+"foto": "https://www.schadeautos.nl/cache/picture/932/1825707/d852bcfcb9543b5b242cb8039939c3dd~v194555944.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794556782.4632268,
+"laatst": 1794556782.4632268,
+"keer": 0,
+"fout": ""
+},
+"1825691": {
+"melding": {
+"titel": "BMW M2 (2025)",
+"bericht": "Coupe 353KW Harman hud Leder\n€ 42.900 · 31.772 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m2-coupe-353kw-harman-hud-leder/o/1825691",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1825691/65dfc3e04ea8ff36c6af53b7f81db54d~v194553503.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794556787.5782,
+"laatst": 1794556787.5782,
+"keer": 0,
+"fout": ""
+},
+"1825686": {
+"melding": {
+"titel": "Lynk & Co 01 (2023)",
+"bericht": "1.5 TD PHEV 192 kW Pano Led AHK FULL\n€ 10.450 · 65.000 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-td-phev-192-kw-pano-led-ahk-full/o/1825686",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1825686/e417609a473b7be6271d5c96dbd2c9b5~v194552305.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794556787.685891,
+"laatst": 1794556787.685891,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
