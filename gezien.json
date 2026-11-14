@@ -9480,136 +9480,34 @@
 "1811410",
 "1824120",
 "1825924",
-"1826074"
+"1826074",
+"1826152",
+"1756185",
+"1826149",
+"1826148"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1826136,
+"hoogste_id": 1826152,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1352628",
-"1826136",
-"1826135",
-"1826134",
-"1826126",
-"1826132",
-"1826129",
-"1826128",
-"1797239",
-"1826119",
-"1824938",
-"1806690"
+"1826152",
+"1801430",
+"1707328",
+"1756185",
+"1823257",
+"1824743",
+"1775976",
+"1795737",
+"1819407",
+"1824449",
+"1826149",
+"1823854"
 ]
 },
-"wachtrij": {
-"1826100": {
-"melding": {
-"titel": "Hyundai I-20 (2025)",
-"bericht": "1.0 T-GDI Comfort Automaat Navi Clima 30643 Km NAP !\n€ 9.950 · 30.643 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-1-0-t-gdi-comfort-automaat-navi-clima-30643-km-nap/o/1826100",
-"foto": "https://www.schadeautos.nl/cache/picture/364/1826100/de223f15d464969d8481de483e95d109~v194649396.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794669299.5374312,
-"laatst": 1794669299.5374312,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1826103": {
-"melding": {
-"titel": "Volkswagen Up! (2023)",
-"bericht": "€ 7.750 · 82.819 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-up/o/1826103",
-"foto": "https://www.schadeautos.nl/cache/picture/125/1826103/0dac3fbed81525c35e234a08f4c3f3ee~v194660007.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794669299.6128159,
-"laatst": 1794669299.6128159,
-"keer": 0,
-"fout": ""
-},
-"1826105": {
-"melding": {
-"titel": "BMW iX1 (2025)",
-"bericht": "20 e-Drive M-Sport\n€ 22.800 · 43.031 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-20-e-drive-m-sport/o/1826105",
-"foto": "https://www.schadeautos.nl/cache/picture/13/1826105/01d36ce68e07d7d010f986726545ab12~v194656091.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794669302.2968311,
-"laatst": 1794669302.2968311,
-"keer": 0,
-"fout": ""
-},
-"1826104": {
-"melding": {
-"titel": "Porsche Panamera (2022)",
-"bericht": "Sport Turismo 4 E-Hybrid Platinum Editi\n€ 30.900 · 61.500 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-panamera-sport-turismo-4-e-hybrid-platinum-editi/o/1826104",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794669305.5053456,
-"laatst": 1794669305.5053456,
-"keer": 0,
-"fout": ""
-},
-"1826102": {
-"melding": {
-"titel": "Volkswagen Golf (2023)",
-"bericht": "8 TSI 1.5 STYLE 150 PK NAVI CLIMA CRUISE LED TREKHAAK B.J 2023\n€ 12.500 · 67.800 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-1-5-style-150-pk-navi-clima-cruise-led-trekhaak-b-j-2023/o/1826102",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1826102/52156918307bf847b96675e21cb26e98~v194653021.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794669305.587015,
-"laatst": 1794669305.587015,
-"keer": 0,
-"fout": ""
-},
-"1826092": {
-"melding": {
-"titel": "Hyundai I-10 (2022)",
-"bericht": "1.0 Comfort WEINIG KM REST BPM €800,-!!!\n€ 6.500 · 53.703 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort-weinig-km-rest-bpm-eur800/o/1826092",
-"foto": "https://www.schadeautos.nl/cache/picture/252/1826092/5d986cba83de42867f783dc150ec3334~v194647543.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794669308.5793493,
-"laatst": 1794669308.5793493,
-"keer": 0,
-"fout": ""
-},
-"1826091": {
-"melding": {
-"titel": "Dacia Sandero (2024)",
-"bericht": "0.9 lpg\n€ 11.150 · 53.055 km · lpg",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-0-9-lpg/o/1826091",
-"foto": "https://www.schadeautos.nl/cache/picture/138/1826091/66e94581158ba2ab1fab1063af865fc1~v194647168.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794669308.654741,
-"laatst": 1794669308.654741,
-"keer": 0,
-"fout": ""
-}
-},
+"wachtrij": {},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
