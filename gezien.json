@@ -9421,151 +9421,31 @@
 "1826041",
 "1826042",
 "1826039",
-"1826036"
+"1826036",
+"1826066"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1826065,
+"hoogste_id": 1826066,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1825870",
+"1823967",
+"1823099",
+"1821373",
+"1826066",
 "1815749",
 "1811830",
 "1824414",
 "1826065",
 "1826064",
 "1826063",
-"1826062",
-"1826061",
-"1823346",
-"1826059",
-"1826058",
-"1826056"
+"1826062"
 ]
 },
-"wachtrij": {
-"1826065": {
-"melding": {
-"titel": "Mercedes Vito (2026)",
-"bericht": "PRO 116 CDI Aut Led Navi\nexportprijs € 26.950 · 9.978 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-vito-pro-116-cdi-aut-led-navi/o/1826065",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1826065/d29410f1158fccd4381bea94768b522d~v194597254.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794606875.0473201,
-"laatst": 1794606875.0473201,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1826064": {
-"melding": {
-"titel": "Ford Transit (2026)",
-"bericht": "E-Transit Custom Dubbelcabine Led Navi\n€ 20.950 · 2.085 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit-e-transit-custom-dubbelcabine-led-navi/o/1826064",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1826064/052da442ec7659bb336c2c45c7fb66c6~v194597120.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794606875.1525185,
-"laatst": 1794606875.1525185,
-"keer": 0,
-"fout": ""
-},
-"1826062": {
-"melding": {
-"titel": "Hyundai Tucson (2022)",
-"bericht": "1.6 T-GDI PHEV AWD N-Line\n€ 12.950 · 107.164 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-phev-awd-n-line/o/1826062",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1826062/203d1411e9b9a48ada4a85c0b746ff0c~v194596866.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794606875.2576363,
-"laatst": 1794606875.2576363,
-"keer": 0,
-"fout": ""
-},
-"1826059": {
-"melding": {
-"titel": "Kia Picanto (2025)",
-"bericht": "exportprijs € 7.500 · 17.004 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto/o/1826059",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1826059/4c9a6d4a816d860d7997bb6b1034531d~v194593747.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794606875.3563056,
-"laatst": 1794606875.3563056,
-"keer": 0,
-"fout": ""
-},
-"1826058": {
-"melding": {
-"titel": "Peugeot e-208 (2024)",
-"bericht": "exportprijs € 4.900 · 19.806 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-e-208/o/1826058",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1826058/8f21f6098c4e28c62dfa5bbd8abd9434~v194593714.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794606875.458621,
-"laatst": 1794606875.458621,
-"keer": 0,
-"fout": ""
-},
-"1826056": {
-"melding": {
-"titel": "Ford Ranger (2023)",
-"bericht": "exportprijs € 11.900 · 52.021 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-ranger/o/1826056",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1826056/46aa20569073e9744a960bfb361e2da0~v194593471.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794606875.561982,
-"laatst": 1794606875.561982,
-"keer": 0,
-"fout": ""
-},
-"1826052": {
-"melding": {
-"titel": "Audi A6 avant (2022)",
-"bericht": "€ 12.400 · 239.000 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-avant/o/1826052",
-"foto": "https://www.schadeautos.nl/cache/picture/173/1826052/0e48c0d58c096bf788e8aab60a0e8100~v194590464.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794606878.1674967,
-"laatst": 1794606878.1674967,
-"keer": 0,
-"fout": ""
-},
-"1826042": {
-"melding": {
-"titel": "Ford Transit Connect (2023)",
-"bericht": "1.0 TURBO\n73.079 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-transit-connect-1-0-turbo/o/1826042",
-"foto": "https://www.schadeautos.nl/cache/picture/909/1826042/a9804bbcd1ee714ba5c42d81666d440c~v194588016.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1794606880.8673782,
-"laatst": 1794606880.8673782,
-"keer": 0,
-"fout": ""
-}
-},
+"wachtrij": {},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
