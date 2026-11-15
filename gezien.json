@@ -9488,44 +9488,188 @@
 "1826177",
 "1777893",
 "1824164",
-"1824595"
+"1824595",
+"1826217",
+"1795665",
+"1826216",
+"1826213",
+"1826211",
+"1826212",
+"1826210",
+"1826209",
+"1826208",
+"1826207",
+"1826206",
+"1801841",
+"1826205",
+"1826204",
+"1826203",
+"1826202",
+"1826201",
+"1824979",
+"1826200",
+"1826199",
+"1826198",
+"1826196",
+"1826187",
+"1826179"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1826177,
+"hoogste_id": 1826217,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1826177",
-"1822141",
-"1802406",
-"1825249",
-"1777893",
-"1821215",
-"1824164",
-"1807592",
-"1824595",
-"1808183",
-"1820157",
-"1816446"
+"1826217",
+"1795665",
+"1777473",
+"1826216",
+"1825500",
+"1823798",
+"1826213",
+"1826211",
+"1826212",
+"1826210",
+"1826209",
+"1826208"
 ]
 },
 "wachtrij": {
-"1824164": {
+"1826212": {
 "melding": {
-"titel": "Volkswagen Polo (2026)",
-"bericht": "1.0 TSI 2026\n€ 9.750 · 15.080 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-2026/o/1824164",
-"foto": "https://www.schadeautos.nl/cache/picture/1056/1824164/1b737cb710574a667f8aa07c7d3a698d~v194227182.jpg"
+"titel": "Volkswagen Golf (2023)",
+"bericht": "TSI 110 PK NAVI CLIMA CAMERA LED PDC PRIVACY GLASS B.J 04-2023\n€ 12.500 · 51.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-tsi-110-pk-navi-clima-camera-led-pdc-privacy-glass-b-j-04-2023/o/1826212",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1826212/5abaa498a3120d8eb9dee73813c1c7cb~v194756975.jpg"
 },
 "kanalen": [
 "WhatsApp"
 ],
-"sinds": 1794739320.6465015,
-"laatst": 1794739320.6465015,
+"sinds": 1794763478.3880928,
+"laatst": 1794763478.3880928,
 "keer": 1,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1826210": {
+"melding": {
+"titel": "Volkswagen Tiguan (2024)",
+"bericht": "1.5 AUTOMAAT 150 PK NAVI CLIMA CAMERA VIR DASHBOARD LED TREKHAAK B.J 2024\n€ 19.500 · 50.800 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-automaat-150-pk-navi-clima-camera-vir-dashboard-led-trekhaak-b-j-2024/o/1826210",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1826210/baf3790453e438832bbe9d3b7ef17df2~v194756290.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794763478.5734527,
+"laatst": 1794763478.5734527,
+"keer": 0,
+"fout": ""
+},
+"1826209": {
+"melding": {
+"titel": "Volkswagen Caddy Combi (2025)",
+"bericht": "5 PERSOONS BENZINE 116 PK CLIMA CAMERA TREKHAAK B.J 05-2025\n€ 16.500 · 28.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-combi-5-persoons-benzine-116-pk-clima-camera-trekhaak-b-j-05-2025/o/1826209",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1826209/9c9a3ea58461d7e9c141653251def0e7~v194755989.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794763478.75704,
+"laatst": 1794763478.75704,
+"keer": 0,
+"fout": ""
+},
+"1826208": {
+"melding": {
+"titel": "Dacia Jogger (2024)",
+"bericht": "EXTREEM EDITION 110 PK NAVI CLIMA CAMERA 5 P B.J 06-2024\n€ 11.950 · 38.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreem-edition-110-pk-navi-clima-camera-5-p-b-j-06-2024/o/1826208",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1826208/8d19909b8a40ce80705999e8dde76b7e~v194755646.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794763478.9314682,
+"laatst": 1794763478.9314682,
+"keer": 0,
+"fout": ""
+},
+"1826207": {
+"melding": {
+"titel": "Volkswagen T-Cross (2024)",
+"bericht": "T-CROSS AUTOMAAT 116 PK NAVI CLIMA CAMERA LED B.J 06-2024\n€ 14.950 · 16.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-t-cross-automaat-116-pk-navi-clima-camera-led-b-j-06-2024/o/1826207",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1826207/cd2a1ce13ba88069a69fb7cf1840db97~v194755238.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794763481.7820034,
+"laatst": 1794763481.7820034,
+"keer": 0,
+"fout": ""
+},
+"1826206": {
+"melding": {
+"titel": "Opel Corsa (2024)",
+"bericht": "GS SPORT 100 PK NAVI CLIMA CAMERA VIRT DASH LED B.J 2024\n€ 9.900 · 8.600 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-gs-sport-100-pk-navi-clima-camera-virt-dash-led-b-j-2024/o/1826206",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1826206/2c9acbb43e23c427368b8d9602a6dab7~v194754860.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794763481.9603527,
+"laatst": 1794763481.9603527,
+"keer": 0,
+"fout": ""
+},
+"1826205": {
+"melding": {
+"titel": "Hyundai Kona (2023)",
+"bericht": "N LINE SPORT 1.0 T-GDI CLIMA CAMERA APP LED B.J 04-2023\n€ 11.750 · 12.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-n-line-sport-1-0-t-gdi-clima-camera-app-led-b-j-04-2023/o/1826205",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1826205/090622a53e857e5487262feccfa0a39b~v194752840.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794763482.1370206,
+"laatst": 1794763482.1370206,
+"keer": 0,
+"fout": ""
+},
+"1826203": {
+"melding": {
+"titel": "Skoda Superb (2023)",
+"bericht": "Combi 1.4 TSI iV Business Edition Plus HSR-81-D.\n€ 10.850 · 72.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-superb-combi-1-4-tsi-iv-business-edition-plus-hsr-81-d/o/1826203",
+"foto": "https://www.schadeautos.nl/cache/picture/67/1826203/1ae449cfa13c9a8dac63197ac9554bd5~v194751785.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794763482.320174,
+"laatst": 1794763482.320174,
+"keer": 0,
+"fout": ""
+},
+"1826198": {
+"melding": {
+"titel": "Hyundai Bayon (2025)",
+"bericht": "AUTOMAAT GDI 100 PK NAVI AIRCO CAMERA LED VIRT DASH B.J 11/2025\n€ 12.990 · 1.800 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-automaat-gdi-100-pk-navi-airco-camera-led-virt-dash-b-j-11-2025/o/1826198",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1826198/6001dce1f311c33d27ba945823c523c5~v194746109.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794763489.4764044,
+"laatst": 1794763489.4764044,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
