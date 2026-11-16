@@ -9528,30 +9528,282 @@
 "1826224",
 "1826223",
 "1826220",
-"1826218"
+"1826218",
+"1826321",
+"1824572",
+"1724115",
+"1826320",
+"1826318",
+"1826319",
+"1826317",
+"1826316",
+"1826314",
+"1826312",
+"1826303",
+"1826298",
+"1826311",
+"1826310",
+"1826304",
+"1826294",
+"1826302",
+"1826301",
+"1826300",
+"1826299",
+"1826295",
+"1826293",
+"1783792",
+"1826289",
+"1826288",
+"1826287",
+"1826285",
+"1826276",
+"1826275",
+"1826264",
+"1826263",
+"1826261",
+"1826260",
+"1826259",
+"1826258",
+"1826253",
+"1826252",
+"1826251",
+"1826250",
+"1826249",
+"1826054"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1826242,
+"hoogste_id": 1826321,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1826242",
-"1826233",
-"1826232",
-"1788218",
-"1805950",
-"1825089",
-"1808000",
-"1808001",
-"1801831",
-"1764131",
-"1801830",
-"1805148"
+"1826321",
+"1822029",
+"1820608",
+"1824572",
+"1724115",
+"1826320",
+"1826318",
+"1826319",
+"1744138",
+"1742087",
+"1826317",
+"1826316"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1824572": {
+"melding": {
+"titel": "Volvo XC40 (2023)",
+"bericht": "1.5 T4 Plug-in Hybrid 155KW Plus Bright Clima Navi\n€ 12.750 · 88.705 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc40-1-5-t4-plug-in-hybrid-155kw-plus-bright-clima-navi/o/1824572",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1824572/c9d535ea58bd7011cc4e2b6d724b7b95~v194817794.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817957.862132,
+"laatst": 1794817957.862132,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1826318": {
+"melding": {
+"titel": "Hyundai I-10 (2026)",
+"bericht": "1.0 Comfort\n€ 11.300 · 8.369 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort/o/1826318",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1826318/6de224db3f43fd7a6c12c232b67127d2~v194817611.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817957.9615836,
+"laatst": 1794817957.9615836,
+"keer": 0,
+"fout": ""
+},
+"1826310": {
+"melding": {
+"titel": "Hyundai I-10 (2025)",
+"bericht": "€ 7.999 · 19.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10/o/1826310",
+"foto": "https://www.schadeautos.nl/cache/picture/987/1826310/6bf4d022d1ef7d3e4c53ce07cd8e205e~v194816012.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817960.6584482,
+"laatst": 1794817960.6584482,
+"keer": 0,
+"fout": ""
+},
+"1826294": {
+"melding": {
+"titel": "Suzuki Ignis (2024)",
+"bericht": "€ 3.400 · 3.398 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-ignis/o/1826294",
+"foto": "https://www.schadeautos.nl/cache/picture/1026/1826294/261208176de3e88ba21f629835bd3420~v194814939.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817963.3469782,
+"laatst": 1794817963.3469782,
+"keer": 0,
+"fout": ""
+},
+"1826295": {
+"melding": {
+"titel": "Kia Picanto (2024)",
+"bericht": "1.0 DPi Aut. DynamicLine Cruise Apple/Android Camera PDC Airco\n€ 12.450 · 58.321 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-aut-dynamicline-cruise-apple-android-camera-pdc-airco/o/1826295",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1826295/e243b4d737741fa7346aaa9ad974e50b~v194814867.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817963.4514058,
+"laatst": 1794817963.4514058,
+"keer": 0,
+"fout": ""
+},
+"1783792": {
+"melding": {
+"titel": "Opnieuw geplaatst: Hyundai Bayon (2024)",
+"bericht": "€ 3.500 · 32.813 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon/o/1783792",
+"foto": "https://www.schadeautos.nl/cache/picture/1026/1783792/fd2871d8c5a6c4d8e132bb6cd7d25a84~v186362150.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817963.5491042,
+"laatst": 1794817963.5491042,
+"keer": 0,
+"fout": ""
+},
+"1826289": {
+"melding": {
+"titel": "BMW iX1 (2024)",
+"bericht": "eDrive20 67 kWh Pano ACC Navi Virtual Leder SHZ Camera PDC Clima\n€ 19.950 · 43.550 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-edrive20-67-kwh-pano-acc-navi-virtual-leder-shz-camera-pdc-clima/o/1826289",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1826289/ad6a411593a4e528e9aea93b22a72732~v194814119.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817963.654656,
+"laatst": 1794817963.654656,
+"keer": 0,
+"fout": ""
+},
+"1826285": {
+"melding": {
+"titel": "Mazda 3 (2023)",
+"bericht": "2.0 e-SkyActiv-G M Hybrid 150 Homura HUD ACC Navi SHZ Camera PDC AHK Clima\n€ 9.250 · 40.626 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-3-2-0-e-skyactiv-g-m-hybrid-150-homura-hud-acc-navi-shz-camera-pdc-ahk-clima/o/1826285",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1826285/a3e4b8fb76f7eeb947b121683c9f7aa8~v194813568.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817966.2968514,
+"laatst": 1794817966.2968514,
+"keer": 0,
+"fout": ""
+},
+"1826264": {
+"melding": {
+"titel": "Citroën C3 (2022)",
+"bericht": "III YOU!\n€ 5.300 · 59.829 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-iii-you/o/1826264",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1826264/f7d0286a06e5704ceec070ed2bfdd84e~v194811529.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817966.3979118,
+"laatst": 1794817966.3979118,
+"keer": 0,
+"fout": ""
+},
+"1826261": {
+"melding": {
+"titel": "Volkswagen Taigo (2023)",
+"bericht": "LIFE\n€ 10.164 · 36.180 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-taigo-life/o/1826261",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1826261/a874a81b32a6b875e82a6e3855f0c42e~v194811521.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817969.1288452,
+"laatst": 1794817969.1288452,
+"keer": 0,
+"fout": ""
+},
+"1826258": {
+"melding": {
+"titel": "Seat Ateca (2022)",
+"bericht": "MOVE\n€ 7.986 · 76.218 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ateca-move/o/1826258",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1826258/211bbe6cbcd80d0fd6ec91630c5ae168~v194811512.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817969.2353911,
+"laatst": 1794817969.2353911,
+"keer": 0,
+"fout": ""
+},
+"1826253": {
+"melding": {
+"titel": "Suzuki Swift (2025)",
+"bericht": "1.2 SH Automaat Clima\n€ 9.950 · 5.678 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-swift-1-2-sh-automaat-clima/o/1826253",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1826253/bb468a6c130ef479a2ab686ba3a7e257~v194810675.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817969.3480253,
+"laatst": 1794817969.3480253,
+"keer": 0,
+"fout": ""
+},
+"1826252": {
+"melding": {
+"titel": "Opel Corsa (2023)",
+"bericht": "1.5 D Elegance Navi Airco\n€ 9.450 · 142.071 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-5-d-elegance-navi-airco/o/1826252",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1826252/abdffe207a1b429722baedd16d3dd9e7~v194810518.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817969.4488733,
+"laatst": 1794817969.4488733,
+"keer": 0,
+"fout": ""
+},
+"1826249": {
+"melding": {
+"titel": "Hyundai Tucson (2022)",
+"bericht": "1.6 T-GDI PHEV AWD N-Line\n€ 12.950 · 107.164 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-tucson-1-6-t-gdi-phev-awd-n-line/o/1826249",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1826249/918e8bcb510be941967fc6df1a0f0e2d~v194810112.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1794817969.5471587,
+"laatst": 1794817969.5471587,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
