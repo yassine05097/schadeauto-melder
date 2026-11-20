@@ -10359,15 +10359,17 @@
 "1828052",
 "1828049",
 "1828047",
-"1828048"
+"1828048",
+"1828083"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1828082,
+"hoogste_id": 1828083,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1828083",
 "1828082",
 "1828081",
 "1828080",
@@ -10378,235 +10380,24 @@
 "1828075",
 "1821740",
 "1822634",
-"1821277",
-"1820839"
+"1821277"
 ]
 },
 "wachtrij": {
-"1828082": {
+"1828083": {
 "melding": {
-"titel": "BMW i5 (2026)",
-"bericht": "eDrive40 Touring M Sport Pro B&W/PANO/HUD/360\n€ 44.900 · 19.279 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i5-edrive40-touring-m-sport-pro-b-w-pano-hud-360/o/1828082",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1828082/86ad726b6a3f34bed4083ec8a19d2bd3~v195127122.jpg"
+"titel": "Hyundai Bayon (2025)",
+"bericht": "AUTOMAAT NAVI AIRCO CAMERA 102 PK B.J 11-2025\n€ 12.950 · 1.825 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-automaat-navi-airco-camera-102-pk-b-j-11-2025/o/1828083",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1828083/277e5e563195d4807d26d28730b769fa~v195139868.jpg"
 },
 "kanalen": [
 "WhatsApp"
 ],
-"sinds": 1795130073.3585744,
-"laatst": 1795130073.3585744,
+"sinds": 1795147191.6480029,
+"laatst": 1795147191.6480029,
 "keer": 1,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1828081": {
-"melding": {
-"titel": "BMW i5 (2024)",
-"bericht": "eDrive40 Touring M Sport 360/HUD/H&K/INNOV.\n€ 24.900 · 27.783 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-i5-edrive40-touring-m-sport-360-hud-h-k-innov/o/1828081",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1828081/b23206f74e039eb19a1ddb24675fa570~v195127117.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130073.57847,
-"laatst": 1795130073.57847,
-"keer": 0,
-"fout": ""
-},
-"1828080": {
-"melding": {
-"titel": "BMW X5 (2024)",
-"bericht": "xDrive40d M Sport Pro PANO/HUD/360/AHK/H&K\n€ 57.900 · 47.925 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5-xdrive40d-m-sport-pro-pano-hud-360-ahk-h-k/o/1828080",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1828080/57eaad43425ed6cc8fa2df8c09c86976~v195127113.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130073.7993383,
-"laatst": 1795130073.7993383,
-"keer": 0,
-"fout": ""
-},
-"1828079": {
-"melding": {
-"titel": "BMW M3 (2026)",
-"bericht": "Competition xDrive CARBON/HUD/H&K/530PS\n€ 69.900 · 7.100 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m3-competition-xdrive-carbon-hud-h-k-530ps/o/1828079",
-"foto": "https://www.schadeautos.nl/cache/picture/1018/1828079/2a2c4ed8dbc81fc39079fd62da79666f~v195127107.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130074.0251658,
-"laatst": 1795130074.0251658,
-"keer": 0,
-"fout": ""
-},
-"1828074": {
-"melding": {
-"titel": "Volkswagen T-Roc (2022)",
-"bericht": "1.5 TSI DSG R-Line\n€ 17.990 · 18.184 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5-tsi-dsg-r-line/o/1828074",
-"foto": "https://www.schadeautos.nl/cache/picture/13/1828074/60792bdac2c486f6b7ac08e8d2caf90c~v195114676.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130076.9064908,
-"laatst": 1795130076.9064908,
-"keer": 0,
-"fout": ""
-},
-"1828067": {
-"melding": {
-"titel": "Dacia Jogger (2022)",
-"bericht": "EXTREME\n€ 7.018 · 111.424 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreme/o/1828067",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1828067/e0fa783cb8b9ccf34f79c95385d9b038~v195112154.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130079.8000543,
-"laatst": 1795130079.8000543,
-"keer": 0,
-"fout": ""
-},
-"1828066": {
-"melding": {
-"titel": "Nissan Micra (2022)",
-"bericht": "1.0 IG-T ACENTA\n€ 7.623 · 58.302 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-micra-1-0-ig-t-acenta/o/1828066",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1828066/d1eadb29deeb92b7d6a3ee4eda819b95~v195112149.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130080.0262313,
-"laatst": 1795130080.0262313,
-"keer": 0,
-"fout": ""
-},
-"1828065": {
-"melding": {
-"titel": "Peugeot Expert (2023)",
-"bericht": "€ 14.883 · 82.344 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-expert/o/1828065",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1828065/56130ea1ffdd4d211c8be022c20717d4~v195112144.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130080.247097,
-"laatst": 1795130080.247097,
-"keer": 0,
-"fout": ""
-},
-"1828063": {
-"melding": {
-"titel": "Seat Ibiza (2023)",
-"bericht": "€ 9.499 · 70.587 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza/o/1828063",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1828063/b396b29fa102fb8f32457a0508e97c87~v195112136.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130080.4684992,
-"laatst": 1795130080.4684992,
-"keer": 0,
-"fout": ""
-},
-"1828062": {
-"melding": {
-"titel": "Opel Corsa (2022)",
-"bericht": "47.147 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa/o/1828062",
-"foto": "https://www.schadeautos.nl/cache/picture/964/1828062/c81e22c519607d00f6ec9b0a0ab19cdc~v195112129.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130080.6967263,
-"laatst": 1795130080.6967263,
-"keer": 0,
-"fout": ""
-},
-"1828059": {
-"melding": {
-"titel": "Volkswagen Multivan (2023)",
-"bericht": "exportprijs € 12.900 · 100.000 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-multivan/o/1828059",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1828059/9bfe3154d5cd1f32f746b8fe441f9a34~v195111496.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130080.9167557,
-"laatst": 1795130080.9167557,
-"keer": 0,
-"fout": ""
-},
-"1828058": {
-"melding": {
-"titel": "Peugeot Partner (2024)",
-"bericht": "exportprijs € 7.300 · 37.123 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-partner/o/1828058",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1828058/501a08f80f58e8f4b8700576f69cee0a~v195111484.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130081.1378312,
-"laatst": 1795130081.1378312,
-"keer": 0,
-"fout": ""
-},
-"1828054": {
-"melding": {
-"titel": "Audi E-tron (2022)",
-"bericht": "exportprijs € 20.900 · 19.255 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-e-tron/o/1828054",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1828054/00ac9431eaac78d996b48982af3cefc3~v195109991.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130081.359323,
-"laatst": 1795130081.359323,
-"keer": 0,
-"fout": ""
-},
-"1828047": {
-"melding": {
-"titel": "Volkswagen Polo (2023)",
-"bericht": "1.0 TSI Life 5-drs Navi Clima\n€ 11.750 · 127.121 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-5-drs-navi-clima/o/1828047",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1828047/1914e532bd9497da63699afcf70e17f6~v195106612.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130084.343318,
-"laatst": 1795130084.343318,
-"keer": 0,
-"fout": ""
-},
-"1828048": {
-"melding": {
-"titel": "Hyundai I-20 (2024)",
-"bericht": "AUTOMAAT 100 PK PREMIUM SPORT BOSE NAVI CLIMA CAMERA LED B.J 12-2024\n€ 12.950 · 16.295 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-20-automaat-100-pk-premium-sport-bose-navi-clima-camera-led-b-j-12-2024/o/1828048",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1828048/0a7ceff4f204a7cde6268598cfa550d8~v195106909.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795130084.5707433,
-"laatst": 1795130084.5707433,
-"keer": 0,
-"fout": ""
 }
 },
 "storing": {},
