@@ -10647,267 +10647,72 @@
 "1828619",
 "1828616",
 "1828597",
-"1828592"
+"1828592",
+"1828707",
+"1828706",
+"1828705",
+"1828704",
+"1828703",
+"1828701",
+"1828699",
+"1828698",
+"1678527",
+"1828697",
+"1828696",
+"1828695",
+"1828694",
+"1828693",
+"1828692"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1828690,
+"hoogste_id": 1828707,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1822834",
-"1797524",
-"1826602",
-"1811303",
-"1826203",
-"1827079",
-"1810940",
-"1813403",
-"1817065",
-"1828690",
-"1828684",
-"1827776"
+"1824874",
+"1828707",
+"1828706",
+"1828705",
+"1828704",
+"1828703",
+"1828701",
+"1828699",
+"1828698",
+"1678527",
+"1828697",
+"1828696"
 ]
 },
 "wachtrij": {
-"1827776": {
+"1828706": {
 "melding": {
-"titel": "Volkswagen Golf (2026)",
-"bericht": "1.5 eTSI 150PK DSG7 Energy\n€ 17.990 · 18.604 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-1-5-etsi-150pk-dsg7-energy/o/1827776",
-"foto": "https://www.schadeautos.nl/cache/picture/871/1827776/d54e581bb546dc6b2a8a507c1f29ae6a~v195083521.jpg"
+"titel": "Fiat 500 (2022)",
+"bericht": "1.0 Hybride Navi Airco 68.000 KM 6-Bak\n€ 6.450 · 68.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybride-navi-airco-68-000-km-6-bak/o/1828706",
+"foto": "https://www.schadeautos.nl/cache/picture/480/1828706/87a5c1c85218fbe0753b94f1b8af3364~v195372754.jpg"
 },
 "kanalen": [
 "WhatsApp"
 ],
-"sinds": 1795365784.9768763,
-"laatst": 1795365784.9768763,
+"sinds": 1795385166.3384514,
+"laatst": 1795385166.3384514,
 "keer": 1,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
-"1828674": {
+"1828705": {
 "melding": {
-"titel": "Dacia Sandero (2024)",
-"bericht": "STEPWAY 110 PK EXTREEM NAVI CLIMA CAMERA LED B.J 2024\n€ 11.500 · 23.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero-stepway-110-pk-extreem-navi-clima-camera-led-b-j-2024/o/1828674",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1828674/8b532b1dc6c166190c7bc661c5b11297~v195355039.jpg"
+"titel": "Volkswagen Transporter (2025)",
+"bericht": "CARAVELLE 8 PERSOONS KLIMA AIRCO NAVI EURO6\nexportprijs € 22.850 · 6.300 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-transporter-caravelle-8-persoons-klima-airco-navi-euro6/o/1828705",
+"foto": "https://www.schadeautos.nl/cache/picture/33/1828705/fa0e93680b36461c9b0eaf0fa91b0f6d~v195372670.jpg"
 },
 "kanalen": [
 "WhatsApp"
 ],
-"sinds": 1795365787.7892687,
-"laatst": 1795365787.7892687,
-"keer": 0,
-"fout": ""
-},
-"1828672": {
-"melding": {
-"titel": "Hyundai ioniq 5 (2023)",
-"bericht": "€ 16.335 · 141.971 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-ioniq-5/o/1828672",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1828672/17ff717e947dc399c3c51d8825d55779~v195354700.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365787.974205,
-"laatst": 1795365787.974205,
-"keer": 0,
-"fout": ""
-},
-"1828667": {
-"melding": {
-"titel": "BMW X1 (2022)",
-"bericht": "sDrive\n€ 13.068 · 114.881 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-sdrive/o/1828667",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1828667/be9ab7d5d828426f65fe6c3f07ea8918~v195353630.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365788.1494095,
-"laatst": 1795365788.1494095,
-"keer": 0,
-"fout": ""
-},
-"1717365": {
-"melding": {
-"titel": "Opnieuw geplaatst: Dacia Jogger (2024)",
-"bericht": "Extreme\n€ 9.150 · 12.350 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-jogger-extreme/o/1717365",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1717365/cfc8b711d2a52ad52d3ee6b217c0de77~v162268274.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365790.9769835,
-"laatst": 1795365790.9769835,
-"keer": 0,
-"fout": ""
-},
-"1798749": {
-"melding": {
-"titel": "Opnieuw geplaatst: Hyundai Kona (2023)",
-"bericht": "Twist\n€ 3.630 · 44.428 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-twist/o/1798749",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1798749/8ef7848da0fef7cb5af49b14f7bce326~v187161056.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365791.1522727,
-"laatst": 1795365791.1522727,
-"keer": 0,
-"fout": ""
-},
-"1786803": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Golf (2022)",
-"bericht": "Variant Life\n€ 7.865 · 147.792 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-variant-life/o/1786803",
-"foto": "https://www.schadeautos.nl/cache/picture/814/1786803/e3c3bcff8b26ffdbd27e71dbae04f93a~v183002841.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365791.326914,
-"laatst": 1795365791.326914,
-"keer": 0,
-"fout": ""
-},
-"1828635": {
-"melding": {
-"titel": "Volkswagen T-Cross (2023)",
-"bericht": "AUTOMAAT NAVI CLIMA CAMERA CRUISE B.J 09-2023\n€ 11.750 · 57.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-automaat-navi-clima-camera-cruise-b-j-09-2023/o/1828635",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1828635/67feb2eecb6a8a03749b212ac48fbfbc~v195347349.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365794.3061802,
-"laatst": 1795365794.3061802,
-"keer": 0,
-"fout": ""
-},
-"1828632": {
-"melding": {
-"titel": "Volkswagen Caddy (2025)",
-"bericht": "1.5 PERSOONS BENZINE 116 PK CLIMA CAMERA TREKHAAK B.J 05-2025\n€ 16.900 · 28.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-1-5-persoons-benzine-116-pk-clima-camera-trekhaak-b-j-05-2025/o/1828632",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1828632/85d4208d15daf7c55623b5cead663a63~v195346915.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365794.4865513,
-"laatst": 1795365794.4865513,
-"keer": 0,
-"fout": ""
-},
-"1824135": {
-"melding": {
-"titel": "Volkswagen Golf (2023)",
-"bericht": "8 GTE 204 PK PLUG IN HYBRIDE AUTOMAAT STYLE NAVI CLIMA CAMERA LED B.J 2023\n€ 14.950 · 21.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-gte-204-pk-plug-in-hybride-automaat-style-navi-clima-camera-led-b-j-2023/o/1824135",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1824135/0fb6a5d6fa410616e9bc097b06cf5094~v195140261.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365794.662922,
-"laatst": 1795365794.662922,
-"keer": 0,
-"fout": ""
-},
-"1828626": {
-"melding": {
-"titel": "Hyundai Kona (2023)",
-"bericht": "N LINE SPORT 1.0 T-GDI CLIMA CAMERA APP LED B.J 04-2023\n€ 11.750 · 14.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-n-line-sport-1-0-t-gdi-clima-camera-app-led-b-j-04-2023/o/1828626",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1828626/f97f16eb316d0059e963f099f0e60e73~v195346005.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365794.8391266,
-"laatst": 1795365794.8391266,
-"keer": 0,
-"fout": ""
-},
-"1827249": {
-"melding": {
-"titel": "Audi A6 (2023)",
-"bericht": "50 TFSI e Quattro 250KW Autom. S Edition Pano Clima Navi Led NAP\n€ 24.950 · 118.404 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a6-50-tfsi-e-quattro-250kw-autom-s-edition-pano-clima-navi-led-nap/o/1827249",
-"foto": "https://www.schadeautos.nl/cache/picture/585/1827249/b71327ef3fd544ca62c1f85c54ddca98~v194994639.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365795.015677,
-"laatst": 1795365795.015677,
-"keer": 0,
-"fout": ""
-},
-"1828621": {
-"melding": {
-"titel": "Volkswagen Golf (2023)",
-"bericht": "TSI 110 PK NAVI CLIMA CAMERA LED PDC PRIVACY GLASS B.J 04-2023\n€ 12.500 · 51.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-tsi-110-pk-navi-clima-camera-led-pdc-privacy-glass-b-j-04-2023/o/1828621",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1828621/a952e076be14e1db294962433460ac53~v195345099.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365795.1930888,
-"laatst": 1795365795.1930888,
-"keer": 0,
-"fout": ""
-},
-"1828620": {
-"melding": {
-"titel": "Volkswagen Golf (2022)",
-"bericht": "8 TSI SPORT 110 PK NAVI CLIMA PDC CRUISE B.J 09-2022\n€ 11.500 · 48.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-sport-110-pk-navi-clima-pdc-cruise-b-j-09-2022/o/1828620",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1828620/cd44bad8d6aec6f9bed5403ec6e12d76~v195344606.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365795.369121,
-"laatst": 1795365795.369121,
-"keer": 0,
-"fout": ""
-},
-"1828619": {
-"melding": {
-"titel": "Volkswagen Golf (2023)",
-"bericht": "8 TSI 1.5 STYLE 150 PK NAVI CLIMA CRUISE LED TREKHAAK B.J 2023\n€ 11.950 · 67.900 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-tsi-1-5-style-150-pk-navi-clima-cruise-led-trekhaak-b-j-2023/o/1828619",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1828619/7ea04488e18f77394983db3af569b06f~v195344178.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365795.545645,
-"laatst": 1795365795.545645,
-"keer": 0,
-"fout": ""
-},
-"1828616": {
-"melding": {
-"titel": "Toyota Yaris Cross (2023)",
-"bericht": "AUTOMAAT HYBRIDE NAVI CLIMA CAMERA PDC B.J 06-2023\n€ 14.950 · 79.500 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-automaat-hybride-navi-clima-camera-pdc-b-j-06-2023/o/1828616",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1828616/95e13573632dbade4e35d7fc2868a2d3~v195343788.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795365798.5226712,
-"laatst": 1795365798.5226712,
+"sinds": 1795385166.3693812,
+"laatst": 1795385166.3693812,
 "keer": 0,
 "fout": ""
 }
