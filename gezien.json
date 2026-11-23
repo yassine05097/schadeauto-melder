@@ -10662,61 +10662,31 @@
 "1828695",
 "1828694",
 "1828693",
-"1828692"
+"1828692",
+"1828708"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1828707,
+"hoogste_id": 1828708,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1828467",
+"1757766",
+"1826066",
+"1825870",
+"1698899",
+"1828708",
 "1824874",
 "1828707",
 "1828706",
 "1828705",
 "1828704",
-"1828703",
-"1828701",
-"1828699",
-"1828698",
-"1678527",
-"1828697",
-"1828696"
+"1828703"
 ]
 },
-"wachtrij": {
-"1828706": {
-"melding": {
-"titel": "Fiat 500 (2022)",
-"bericht": "1.0 Hybride Navi Airco 68.000 KM 6-Bak\n€ 6.450 · 68.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybride-navi-airco-68-000-km-6-bak/o/1828706",
-"foto": "https://www.schadeautos.nl/cache/picture/480/1828706/87a5c1c85218fbe0753b94f1b8af3364~v195372754.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795385166.3384514,
-"laatst": 1795385166.3384514,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1828705": {
-"melding": {
-"titel": "Volkswagen Transporter (2025)",
-"bericht": "CARAVELLE 8 PERSOONS KLIMA AIRCO NAVI EURO6\nexportprijs € 22.850 · 6.300 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-transporter-caravelle-8-persoons-klima-airco-navi-euro6/o/1828705",
-"foto": "https://www.schadeautos.nl/cache/picture/33/1828705/fa0e93680b36461c9b0eaf0fa91b0f6d~v195372670.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795385166.3693812,
-"laatst": 1795385166.3693812,
-"keer": 0,
-"fout": ""
-}
-},
+"wachtrij": {},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
