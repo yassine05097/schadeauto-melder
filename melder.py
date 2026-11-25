@@ -39,6 +39,13 @@ CATEGORIEEN = {
     "personenautos": 1,
     "bestelwagens": 2,
 }
+# Openbare pagina per categorie met de 5 nieuwste advertenties (nieuwste eerst). Sinds
+# november 2026 toont de zoekpagina alleen nog resultaten aan browsers; dan lezen we deze.
+NIEUWSTE_URL = {
+    "personenautos": BASIS_URL + "/nl/schadeauto",
+    "bestelwagens": BASIS_URL + "/nl/schade-bestelwagen",
+}
+ZOEKPAGINA_OPNIEUW = 3600       # lege zoekpagina: elk uur kijken of hij weer werkt
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/129.0 Safari/537.36 schadeauto-melder/1.0"
@@ -59,6 +66,7 @@ MIN_POGINGEN = 30                # ...maar pas na minstens zoveel echte pogingen
 VERZEND_BUDGET = 200             # na zoveel seconden versturen: rest volgende ronde
 MAX_WHATSAPP_PER_RONDE = 5       # gratis CallMeBot niet overspoelen (anders pauzeren ze je)
 OUD_DUBBEL = 3 * 3600            # al via een ander kanaal gemeld en ouder dan dit: niet meer nasturen
+KANAAL_STORING_PAUZE = 3600      # kanaal waarvoor al gewaarschuwd is: hooguit één poging per uur
 STORING_MELDEN_NA = 30 * 60      # website zo lang onleesbaar: stuur één waarschuwing
 # Advertentie-ID's lopen op. Staat er bovenaan een ID dat ruim onder het hoogste bekende
 # ID ligt, dan is het een oudere advertentie die opnieuw geplaatst is (vaak prijsverlaging).
@@ -198,7 +206,8 @@ def kanalen(config):
 
 def nieuwe_status():
     return {"gezien": [], "gestart": {}, "hoogste_id": 0, "nulmeting_id": 0,
-            "vorige_top": {}, "wachtrij": {}, "storing": {}, "kanaal_storing": {}}
+            "vorige_top": {}, "wachtrij": {}, "storing": {}, "kanaal_storing": {},
+            "zoekpagina_leeg": {}}
 
 
 def laad_status():
@@ -231,6 +240,8 @@ def laad_status():
                               if isinstance(v, dict) and "melding" in v}
         status["storing"] = dict(data.get("storing", {}))
         status["kanaal_storing"] = dict(data.get("kanaal_storing", {}))
+        status["zoekpagina_leeg"] = {str(k): float(v)
+                                     for k, v in data.get("zoekpagina_leeg", {}).items()}
         return status
     except (ValueError, TypeError, AttributeError) as fout:
         log.error("Kon %s niet lezen (%s); begin opnieuw met een nulmeting.",
@@ -358,6 +369,10 @@ def lees_advertenties(pagina_html):
 
 def zoek_url(categorie, pagina):
     return ZOEK_URL.format(slug=categorie, categorie_id=CATEGORIEEN[categorie], pagina=pagina)
+
+
+def nieuwste_url(categorie):
+    return NIEUWSTE_URL[categorie]
 
 
 # --------------------------------------------------------------------------- meldingen
@@ -630,6 +645,14 @@ def controleer(config, dry_run=False):
     opnieuw_nulmeting = not eerste_keer and status["nulmeting_id"] == 0
     gezien = set(status["gezien"])
     ronde = {"start": time.monotonic(), "verstuurd": 0, "kapot": set(), "wa": 0}
+    # Kanalen waarvoor al gewaarschuwd is (bijv. WhatsApp op pauze bij CallMeBot): hooguit één
+    # poging per uur, zodat we die dienst niet elke minuut lastigvallen.
+    if not dry_run:
+        for naam, info in status["kanaal_storing"].items():
+            if time.time() - info.get("geprobeerd", 0) < KANAAL_STORING_PAUZE:
+                ronde["kapot"].add(naam)
+            else:
+                info["geprobeerd"] = time.time()
 
     def opslaan():
         if not dry_run:
@@ -652,21 +675,44 @@ def controleer(config, dry_run=False):
             nieuw_in_categorie = 0
             gelezen = 0
             nieuw_op_pagina = []
+            # Geeft de zoekpagina niets terug, dan lezen we de openbare lijst met de nieuwste
+            # advertenties. Elk uur kijken we of de zoekpagina weer werkt.
+            leeg_sinds = status["zoekpagina_leeg"].get(categorie, 0)
+            nieuwste_modus = bool(leeg_sinds) and time.time() - leeg_sinds < ZOEKPAGINA_OPNIEUW
 
             for pagina in range(config["max_paginas"]):
                 if pagina:
                     time.sleep(config["pauze_tussen_paginas_sec"])
-                advertenties = lees_advertenties(haal_op(zoek_url(categorie, pagina)))
+                if nieuwste_modus:
+                    advertenties = lees_advertenties(haal_op(nieuwste_url(categorie)))
+                else:
+                    advertenties = lees_advertenties(haal_op(zoek_url(categorie, pagina)))
+                    if pagina == 0 and not advertenties:
+                        if not leeg_sinds:
+                            log.warning("%s: de zoekpagina van schadeautos.nl geeft niets terug; "
+                                        "ik lees nu de lijst met de nieuwste advertenties.",
+                                        categorie)
+                        if not dry_run:
+                            status["zoekpagina_leeg"][categorie] = time.time()
+                        nieuwste_modus = True
+                        time.sleep(config["pauze_tussen_paginas_sec"])
+                        advertenties = lees_advertenties(haal_op(nieuwste_url(categorie)))
+                    elif pagina == 0 and leeg_sinds:
+                        log.info("%s: de zoekpagina werkt weer; ik lees weer alle pagina's.",
+                                 categorie)
+                        if not dry_run:
+                            status["zoekpagina_leeg"].pop(categorie, None)
+                bron = nieuwste_url(categorie) if nieuwste_modus else zoek_url(categorie, pagina)
                 if not advertenties:
                     if pagina == 0:
-                        raise WebsiteFout("geen advertenties gevonden op " + zoek_url(categorie, 0))
+                        raise WebsiteFout("geen advertenties gevonden op " + bron)
                     if not nulmeting:
                         log.warning("%s: pagina %d was leeg; volgende ronde lees ik verder.",
                                     categorie, pagina + 1)
                         afgebroken = True
                     break
                 if all(a["bouwjaar"] is None for a in advertenties):
-                    raise WebsiteFout("bouwjaar niet te lezen op " + zoek_url(categorie, pagina))
+                    raise WebsiteFout("bouwjaar niet te lezen op " + bron)
                 if dry_run and nulmeting:
                     log.info("[dry-run] %s: eerste keer (nulmeting). De advertenties die er nu "
                              "staan worden onthouden; er gaan nog geen meldingen uit.", categorie)
@@ -714,6 +760,15 @@ def controleer(config, dry_run=False):
 
                 if dry_run and pagina == 0:
                     break
+                if nieuwste_modus:
+                    # Deze lijst heeft maar één pagina. Is alles erop nieuw, dan zijn er
+                    # misschien meer tegelijk geplaatst dan we kunnen zien.
+                    if (not nulmeting and vorige_top and nieuw_op_pagina
+                            and len(nieuw_op_pagina) == len(advertenties)):
+                        log.warning("%s: alle %d nieuwste advertenties zijn nieuw; er zijn er "
+                                    "mogelijk meer tegelijk geplaatst die ik niet kan zien.",
+                                    categorie, len(advertenties))
+                    break
                 # Nieuwste staan bovenaan. Bij zijn we als deze pagina niets nieuws had én we
                 # in deze ronde de advertenties tegenkwamen die vorige ronde bovenaan stonden.
                 # (Alleen opnieuw geplaatste, al bekende advertenties is geen reden om te stoppen.)
@@ -752,7 +807,8 @@ def _meld_storing(config, fout):
     storing = status["storing"]
     nu = time.time()
     # Draaide de melder een tijd niet (laptop uit), dan telt die tijd niet als storing.
-    if not storing.get("sinds") or nu - storing.get("laatst", storing["sinds"]) > 20 * 60:
+    # Ruim genomen: op GitHub zit er vaak 30-45 minuten tussen twee runs.
+    if not storing.get("sinds") or nu - storing.get("laatst", storing["sinds"]) > 90 * 60:
         storing["sinds"], storing["keer"] = nu, 0
     storing["laatst"] = nu
     storing["keer"] = storing.get("keer", 0) + 1
@@ -1025,7 +1081,16 @@ def main():
         except Exception as fout:  # noqa: BLE001
             if not isinstance(fout, (WebsiteFout, *NETWERKFOUTEN)):
                 log.exception("Controle mislukt")
-            sys.exit(1)
+                sys.exit(1)
+            # Storing bij schadeautos.nl: daarover krijg je na een half uur een melding.
+            # Alleen als die melding nergens aankomt, eindigen we met een fout, zodat GitHub
+            # je mailt. (Anders zou GitHub bij elke run een foutmail sturen.)
+            storing = (laad_status() or nieuwe_status())["storing"]
+            if (storing.get("sinds") and not storing.get("gemeld")
+                    and time.time() - storing["sinds"] > STORING_MELDEN_NA
+                    and storing.get("keer", 0) >= 3):
+                sys.exit(1)
+            return
         # Komt een auto via géén enkel kanaal aan, eindig dan met een fout: op GitHub wordt de
         # run dan rood en krijg je een e-mail. (Lukt één kanaal niet maar een ander wel, dan
         # krijg je daarover een melding via dat andere kanaal. De Windows-taak negeert dit.)
