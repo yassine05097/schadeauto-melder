@@ -10758,38 +10758,81 @@
 "1828732",
 "1767044",
 "1792393",
-"1828725"
+"1828725",
+"1718448",
+"1829323",
+"1739917",
+"1830016"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1828894,
+"hoogste_id": 1830016,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1828894",
-"1827163",
-"1826602",
-"1828889",
-"1828451",
-"1828888",
-"1828886",
-"1828880",
-"1828221",
-"1828875",
-"1786850",
-"1828874"
+"1718448",
+"1829323",
+"1739917",
+"1825463",
+"1830016"
 ]
 },
-"wachtrij": {},
-"storing": {
-"sinds": 1795605731.4571297,
-"keer": 1,
-"laatst": 1795605731.4571297
+"wachtrij": {
+"1718448": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW iX1 (2024)",
+"bericht": "225KW (306PK) haman kardon panoramadak\n€ 27.450 · 17.676 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-ix1-225kw-306pk-haman-kardon-panoramadak/o/1718448",
+"foto": "https://www.schadeautos.nl/cache/picture/146/1718448/f903e47c094594f8ecbbc7931dffebfd~v162511456.jpg"
 },
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795634113.1505477,
+"laatst": 1795634113.1505477,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
+},
+"1829323": {
+"melding": {
+"titel": "Volkswagen Arteon (2022)",
+"bericht": "1.4 TSI E-Hybrid R-Line Pano Head-Up\n€ 17.500 · 84.426 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-arteon-1-4-tsi-e-hybrid-r-line-pano-head-up/o/1829323",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1829323/477cd63ef240a089bb7a169c888279fe~v195520288.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795634113.4468338,
+"laatst": 1795634113.4468338,
+"keer": 0,
+"fout": ""
+},
+"1830016": {
+"melding": {
+"titel": "Opel Astra (2024)",
+"bericht": "GS 1.2T 360view Design-Pack Virtual Navi Keyless Led Lane-Assist Sfeerverl. Acc 96KW / 131PK\n€ 7.260 · 50.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-gs-1-2t-360view-design-pack-virtual-navi-keyless-led-lane-assist-sfeerverl-acc-96kw-131pk/o/1830016",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1830016/c858090d099f152e04a1d8c139008483~v195632089.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795634113.6907086,
+"laatst": 1795634113.6907086,
+"keer": 0,
+"fout": ""
+}
+},
+"storing": {},
 "kanaal_storing": {
 "WhatsApp": {
-"sinds": 1791487272.8609586
+"sinds": 1791487272.8609586,
+"geprobeerd": 1795634105.9715436
 }
+},
+"zoekpagina_leeg": {
+"personenautos": 1795634106.6128745
 }
 }
