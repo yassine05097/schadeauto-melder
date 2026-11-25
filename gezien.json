@@ -10768,20 +10768,21 @@
 "1829708",
 "1830023",
 "1722345",
-"1830027"
+"1830027",
+"1830029"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830027,
+"hoogste_id": 1830029,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830029",
 "1722345",
 "1830027",
 "1830026",
-"1824085",
-"1819755"
+"1824085"
 ]
 },
 "wachtrij": {
@@ -10842,6 +10843,21 @@
 ],
 "sinds": 1795637036.7019587,
 "laatst": 1795637036.7019587,
+"keer": 0,
+"fout": ""
+},
+"1830029": {
+"melding": {
+"titel": "Hyundai Kona (2023)",
+"bericht": "EV Comfort 64 kWh\n€ 6.500 · 97.781 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-ev-comfort-64-kwh/o/1830029",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1830029/aeb1d8c29ebaa4bc17c6f3b9bfeff6de~v195638091.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795638323.583345,
+"laatst": 1795638323.583345,
 "keer": 0,
 "fout": ""
 }
