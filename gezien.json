@@ -10762,20 +10762,24 @@
 "1718448",
 "1829323",
 "1739917",
-"1830016"
+"1830016",
+"1830026",
+"1824085",
+"1829708",
+"1830023"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830016,
+"hoogste_id": 1830026,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1718448",
-"1829323",
-"1739917",
-"1825463",
-"1830016"
+"1830026",
+"1824085",
+"1819755",
+"1829708",
+"1830023"
 ]
 },
 "wachtrij": {
@@ -10821,6 +10825,21 @@
 ],
 "sinds": 1795634113.6907086,
 "laatst": 1795634113.6907086,
+"keer": 0,
+"fout": ""
+},
+"1830023": {
+"melding": {
+"titel": "BMW 3-serie (2025)",
+"bericht": "FACELIFT 330i Touring xDrive 245PK Steptronic M-Sport\n€ 29.990 · 13.468 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-facelift-330i-touring-xdrive-245pk-steptronic-m-sport/o/1830023",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1830023/49dab6c7fc50bed97136f63118a5d1a9~v195635034.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795637036.7019587,
+"laatst": 1795637036.7019587,
 "keer": 0,
 "fout": ""
 }
