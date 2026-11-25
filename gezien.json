@@ -10781,20 +10781,22 @@
 "1830035",
 "1830034",
 "1830036",
-"1830033"
+"1830033",
+"1830039",
+"1830038"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830036,
+"hoogste_id": 1830039,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830039",
+"1830038",
 "1830036",
 "1830034",
-"1830033",
-"1830035",
-"1830031"
+"1830033"
 ]
 },
 "wachtrij": {
@@ -10930,6 +10932,21 @@
 ],
 "sinds": 1795640724.2628489,
 "laatst": 1795640724.2628489,
+"keer": 0,
+"fout": ""
+},
+"1830038": {
+"melding": {
+"titel": "Citroën C3 (2023)",
+"bericht": "1.2 PureTech 83PK Shine Luxe\n€ 8.450 · 66.003 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-puretech-83pk-shine-luxe/o/1830038",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1830038/1420ecb14529fa31bab685c499b7e75c~v195640696.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795641029.6062882,
+"laatst": 1795641029.6062882,
 "keer": 0,
 "fout": ""
 }
