@@ -10783,20 +10783,21 @@
 "1830036",
 "1830033",
 "1830039",
-"1830038"
+"1830038",
+"1830041"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830039,
+"hoogste_id": 1830041,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830041",
 "1830039",
 "1830038",
 "1830036",
-"1830034",
-"1830033"
+"1830034"
 ]
 },
 "wachtrij": {
@@ -10947,6 +10948,21 @@
 ],
 "sinds": 1795641029.6062882,
 "laatst": 1795641029.6062882,
+"keer": 0,
+"fout": ""
+},
+"1830041": {
+"melding": {
+"titel": "Honda Hr-v (2026)",
+"bericht": "1.5 e:HEV Adv St Pl\n€ 17.500 · 4.419 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-hr-v-1-5-e-hev-adv-st-pl/o/1830041",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1830041/092f602319ab7cea3566a04b9f620564~v195641466.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795641631.0803983,
+"laatst": 1795641631.0803983,
 "keer": 0,
 "fout": ""
 }
