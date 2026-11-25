@@ -10772,7 +10772,11 @@
 "1830029",
 "1829688",
 "1829685",
-"1829837"
+"1829837",
+"1829976",
+"1829975",
+"1829959",
+"1829958"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -10781,11 +10785,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1812867",
-"1829688",
-"1829685",
-"1828049",
-"1829837"
+"1829708",
+"1829976",
+"1829975",
+"1829959",
+"1829958"
 ]
 },
 "wachtrij": {
@@ -10876,6 +10880,21 @@
 ],
 "sinds": 1795638640.0338213,
 "laatst": 1795638640.0338213,
+"keer": 0,
+"fout": ""
+},
+"1829958": {
+"melding": {
+"titel": "Mercedes EQE (2024)",
+"bericht": "€ 409.500 · 23.751 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqe/o/1829958",
+"foto": "https://www.schadeautos.nl/cache/picture/1024/1829958/96ecea1d91bb32a29345ae02bb74fc31~v195622783.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795638931.3118632,
+"laatst": 1795638931.3118632,
 "keer": 0,
 "fout": ""
 }
