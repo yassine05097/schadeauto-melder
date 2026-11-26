@@ -10907,7 +10907,8 @@
 "1830203",
 "1830211",
 "1830210",
-"1830218"
+"1830218",
+"1827410"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -10916,29 +10917,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1827410",
 "1830218",
 "1772208",
 "1821732",
-"1830135",
-"1782683"
+"1830135"
 ]
 },
 "wachtrij": {
-"1830120": {
-"melding": {
-"titel": "Tesla Model Y (2023)",
-"bericht": "75kWh Long Range 258KW AWD Clima Navi Pano NAP\n€ 26.450 · 112.622 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-75kwh-long-range-258kw-awd-clima-navi-pano-nap/o/1830120",
-"foto": "https://www.schadeautos.nl/cache/picture/585/1830120/cd75b987211c41444c9730f5abf3c0d5~v195686208.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795686332.9679284,
-"laatst": 1795686332.9679284,
-"keer": 0,
-"fout": ""
-},
 "1830123": {
 "melding": {
 "titel": "Renault Clio (2023)",
