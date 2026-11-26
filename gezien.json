@@ -10885,7 +10885,8 @@
 "1830177",
 "1827824",
 "1697749",
-"1830178"
+"1830178",
+"1828747"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -10894,29 +10895,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1828747",
 "1830178",
 "1830177",
 "1827824",
-"1778357",
-"1697749"
+"1778357"
 ]
 },
 "wachtrij": {
-"1697793": {
-"melding": {
-"titel": "Opnieuw geplaatst: Renault Mégane E-Tech (2024)",
-"bericht": "Charge Equilibre\n€ 11.250 · 58.213 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-megane-e-tech-charge-equilibre/o/1697793",
-"foto": "https://www.schadeautos.nl/cache/picture/38/1697793/7e592dee48974228e746ec0c0a28fa9c~v156794313.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795683326.7655208,
-"laatst": 1795683326.7655208,
-"keer": 0,
-"fout": ""
-},
 "1830089": {
 "melding": {
 "titel": "Dacia Sandero (2024)",
