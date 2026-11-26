@@ -10880,20 +10880,21 @@
 "1827268",
 "1827277",
 "1830168",
-"1830175"
+"1830175",
+"1830176"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830175,
+"hoogste_id": 1830176,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830176",
 "1830175",
 "1815169",
 "1830168",
-"1807014",
-"1776848"
+"1807014"
 ]
 },
 "wachtrij": {
@@ -11209,6 +11210,21 @@
 ],
 "sinds": 1795692032.1515298,
 "laatst": 1795692032.1515298,
+"keer": 0,
+"fout": ""
+},
+"1830176": {
+"melding": {
+"titel": "Seat Ibiza (2022)",
+"bericht": "AUTOMAAT 1.0 EcoTSI FR Business Intense 110PK\n€ 8.950 · 101.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-automaat-1-0-ecotsi-fr-business-intense-110pk/o/1830176",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795693529.0765147,
+"laatst": 1795693529.0765147,
 "keer": 0,
 "fout": ""
 }
