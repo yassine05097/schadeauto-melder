@@ -10972,38 +10972,26 @@
 "1830302",
 "1830301",
 "1830300",
-"1830296"
+"1830296",
+"1830307",
+"1830305",
+"1829043"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830302,
+"hoogste_id": 1830307,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830307",
+"1830305",
+"1829043",
 "1830302",
-"1830301",
-"1830300",
-"1830296",
-"1823449"
+"1830301"
 ]
 },
 "wachtrij": {
-"1830191": {
-"melding": {
-"titel": "Jeep Avenger (2026)",
-"bericht": "Black Edition Mild-Hybrid Automatik\n€ 10.900 · 13.361 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-avenger-black-edition-mild-hybrid-automatik/o/1830191",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1830191/ec8467b2f8fcf1fb4c02b3f176137eb4~v195695354.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795695631.6300304,
-"laatst": 1795695631.6300304,
-"keer": 0,
-"fout": ""
-},
 "1830197": {
 "melding": {
 "titel": "Opel Corsa (2026)",
@@ -11331,6 +11319,21 @@
 ],
 "sinds": 1795706136.9412827,
 "laatst": 1795706136.9412827,
+"keer": 0,
+"fout": ""
+},
+"1830305": {
+"melding": {
+"titel": "Mercedes Cla-klasse (2023)",
+"bericht": "€ 13.900 · 73.331 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-cla-klasse/o/1830305",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1830305/d4ff42d340e48c02760ada42cb771a71~v195706109.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795706433.3025587,
+"laatst": 1795706433.3025587,
 "keer": 0,
 "fout": ""
 }
