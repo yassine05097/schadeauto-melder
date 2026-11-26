@@ -10894,38 +10894,25 @@
 "1830186",
 "1830182",
 "1829670",
-"1830187"
+"1830187",
+"1830191",
+"1830190"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830187,
+"hoogste_id": 1830191,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1828773",
-"1830182",
-"1829670",
-"1830187",
-"1806999"
+"1757926",
+"1805636",
+"1434390",
+"1830191",
+"1830190"
 ]
 },
 "wachtrij": {
-"1830092": {
-"melding": {
-"titel": "Seres 3 (2022)",
-"bericht": "Luxury 120kw Elektro, Panorama, Leer, DAB+, 360 camera\n€ 9.995 · 49.000 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seres-3-luxury-120kw-elektro-panorama-leer-dab-360-camera/o/1830092",
-"foto": "https://www.schadeautos.nl/cache/picture/344/1830092/51273f1b799911bb7a0b88254e0b5a29~v195684020.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795684531.7533526,
-"laatst": 1795684531.7533526,
-"keer": 0,
-"fout": ""
-},
 "1830111": {
 "melding": {
 "titel": "Volvo XC40 (2022)",
@@ -11148,6 +11135,21 @@
 ],
 "sinds": 1795694734.4738834,
 "laatst": 1795694734.4738834,
+"keer": 0,
+"fout": ""
+},
+"1830191": {
+"melding": {
+"titel": "Jeep Avenger (2026)",
+"bericht": "Black Edition Mild-Hybrid Automatik\n€ 10.900 · 13.361 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/jeep-avenger-black-edition-mild-hybrid-automatik/o/1830191",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1830191/ec8467b2f8fcf1fb4c02b3f176137eb4~v195695354.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795695631.6300304,
+"laatst": 1795695631.6300304,
 "keer": 0,
 "fout": ""
 }
