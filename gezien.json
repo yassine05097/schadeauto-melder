@@ -10813,20 +10813,21 @@
 "1829116",
 "1830069",
 "1830067",
-"1830071"
+"1830071",
+"1830073"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830071,
+"hoogste_id": 1830073,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830073",
 "1828016",
 "1830071",
 "1829958",
-"1830069",
-"1830067"
+"1830069"
 ]
 },
 "wachtrij": {
@@ -11007,6 +11008,21 @@
 ],
 "sinds": 1795680930.1302364,
 "laatst": 1795680930.1302364,
+"keer": 0,
+"fout": ""
+},
+"1830073": {
+"melding": {
+"titel": "Volkswagen T-Cross (2025)",
+"bericht": "1.0 TSI 85 kW Goal\n€ 13.900 · 22.353 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-cross-1-0-tsi-85-kw-goal/o/1830073",
+"foto": "https://www.schadeautos.nl/cache/picture/323/1830073/4faea6c6a2d939ca92b9774b27936746~v195681854.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795682124.4801064,
+"laatst": 1795682124.4801064,
 "keer": 0,
 "fout": ""
 }
