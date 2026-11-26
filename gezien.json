@@ -11015,20 +11015,21 @@
 "1829691",
 "1830370",
 "1830378",
-"1830379"
+"1830379",
+"1830382"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830379,
+"hoogste_id": 1830382,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830382",
+"1822062",
 "1821277",
 "1830379",
-"1830253",
-"1828374",
-"1830302"
+"1830253"
 ]
 },
 "wachtrij": {
@@ -11059,6 +11060,21 @@
 ],
 "sinds": 1795724133.6021056,
 "laatst": 1795724133.6021056,
+"keer": 0,
+"fout": ""
+},
+"1830382": {
+"melding": {
+"titel": "Peugeot 308 (2026)",
+"bericht": "GT Plug-in Hybride Pano Memory Led Alcantara Focal-Sound Camera Standkachel Stuurverw. 143KW/195PK\n€ 10.285 · 40.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-gt-plug-in-hybride-pano-memory-led-alcantara-focal-sound-camera-standkachel-stuurverw-143kw-195pk/o/1830382",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1830382/298f04805e65e48484630768e876d7db~v195724976.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795725039.6277473,
+"laatst": 1795725039.6277473,
 "keer": 0,
 "fout": ""
 }
