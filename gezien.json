@@ -10802,7 +10802,8 @@
 "1767423",
 "1830050",
 "1830053",
-"1829640"
+"1829640",
+"1719798"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -10811,11 +10812,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818310",
-"1822450",
-"1830053",
-"1829640",
-"1828374"
+"1821950",
+"1818843",
+"1718448",
+"1789114",
+"1719798"
 ]
 },
 "wachtrij": {
@@ -10951,6 +10952,21 @@
 ],
 "sinds": 1795675834.0278835,
 "laatst": 1795675834.0278835,
+"keer": 0,
+"fout": ""
+},
+"1719798": {
+"melding": {
+"titel": "Opnieuw geplaatst: BMW 3-serie (2024)",
+"bericht": "320i 2.0 TwinPower Turbo 16V Combi/o Benzine 1.998cc 135kW (184pk) RWD\n€ 29.995 · 15.625 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-320i-2-0-twinpower-turbo-16v-combi-o-benzine-1-998cc-135kw-184pk-rwd/o/1719798",
+"foto": "https://www.schadeautos.nl/cache/picture/146/1719798/4145858ecdc10abf2a153a497a974283~v188505152.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795679430.6210828,
+"laatst": 1795679430.6210828,
 "keer": 0,
 "fout": ""
 }
