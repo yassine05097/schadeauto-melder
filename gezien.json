@@ -10948,7 +10948,8 @@
 "1830263",
 "1830267",
 "1830272",
-"1830271"
+"1830271",
+"1830265"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -10957,29 +10958,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830265",
 "1830272",
 "1818355",
 "1830271",
-"1818815",
-"1830263"
+"1818815"
 ]
 },
 "wachtrij": {
-"1821053": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volvo V-60 (2025)",
-"bericht": "2.0 B4 DCT Core ACC Navi Virtual Memory Leder SHZ LrHZ Camera PDC Clima\n€ 19.450 · 29.410 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-v-60-2-0-b4-dct-core-acc-navi-virtual-memory-leder-shz-lrhz-camera-pdc-clima/o/1821053",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1821053/0ca1a0ce36631ab16041ecc7446c41db~v195691989.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795692032.1515298,
-"laatst": 1795692032.1515298,
-"keer": 0,
-"fout": ""
-},
 "1830176": {
 "melding": {
 "titel": "Seat Ibiza (2022)",
