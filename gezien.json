@@ -10906,20 +10906,21 @@
 "1830212",
 "1830203",
 "1830211",
-"1830210"
+"1830210",
+"1830218"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830213,
+"hoogste_id": 1830218,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830218",
 "1772208",
 "1821732",
 "1830135",
-"1782683",
-"1788673"
+"1782683"
 ]
 },
 "wachtrij": {
@@ -11175,6 +11176,21 @@
 ],
 "sinds": 1795696526.5760288,
 "laatst": 1795696526.5760288,
+"keer": 0,
+"fout": ""
+},
+"1830218": {
+"melding": {
+"titel": "Peugeot 308 (2023)",
+"bericht": "GT LINE AUTOMAAT 130 PK NAVI CLIMA CAMERA LED TREKH B.J 2023\n€ 10.900 · 61.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-gt-line-automaat-130-pk-navi-clima-camera-led-trekh-b-j-2023/o/1830218",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1830218/287e9706f2a03c343a9cb493d3f33310~v195696903.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795697129.1987226,
+"laatst": 1795697129.1987226,
 "keer": 0,
 "fout": ""
 }
