@@ -11016,20 +11016,22 @@
 "1830370",
 "1830378",
 "1830379",
-"1830382"
+"1830382",
+"1830388",
+"1830386"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830382,
+"hoogste_id": 1830388,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1805951",
-"1825290",
-"1793161",
-"1825292",
-"1829493"
+"1830388",
+"1830386",
+"1767440",
+"1767423",
+"1749782"
 ]
 },
 "wachtrij": {
@@ -11060,6 +11062,21 @@
 ],
 "sinds": 1795725039.6277473,
 "laatst": 1795725039.6277473,
+"keer": 0,
+"fout": ""
+},
+"1830386": {
+"melding": {
+"titel": "Suzuki Swift (2026)",
+"bericht": "1.2 SMART HYBRID / AUTOMAAT / NAVI / CAMERA / CRUISE\n€ 12.750 · 968 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-swift-1-2-smart-hybrid-automaat-navi-camera-cruise/o/1830386",
+"foto": "https://www.schadeautos.nl/cache/picture/302/1830386/ffe11cba621cac08b792ab7b19293be5~v195731514.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795732240.8294976,
+"laatst": 1795732240.8294976,
 "keer": 0,
 "fout": ""
 }
