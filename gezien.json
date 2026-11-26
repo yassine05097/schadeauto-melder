@@ -10924,20 +10924,24 @@
 "1830235",
 "1830238",
 "1830236",
-"1830237"
+"1830237",
+"1830245",
+"1830247",
+"1830246",
+"1830240"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830238,
+"hoogste_id": 1830247,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830237",
-"1830235",
-"1830236",
-"1810080",
-"1728233"
+"1830245",
+"1830247",
+"1830246",
+"1830240",
+"1830237"
 ]
 },
 "wachtrij": {
@@ -11193,6 +11197,36 @@
 ],
 "sinds": 1795698634.828472,
 "laatst": 1795698634.828472,
+"keer": 0,
+"fout": ""
+},
+"1830246": {
+"melding": {
+"titel": "Mazda CX-30 (2023)",
+"bericht": "53.013 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-30/o/1830246",
+"foto": "https://www.schadeautos.nl/cache/picture/964/1830246/20397f09f12af3e7c4d1aab251a131d7~v195699966.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795700124.17154,
+"laatst": 1795700124.17154,
+"keer": 0,
+"fout": ""
+},
+"1830240": {
+"melding": {
+"titel": "BMW 5-serie (2022)",
+"bericht": "530e Touring M-Sport Panoramadak\n€ 27.500 · 70.484 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530e-touring-m-sport-panoramadak/o/1830240",
+"foto": "https://www.schadeautos.nl/cache/picture/942/1830240/80ad49592243470f2f097f3658dff59f~v195699531.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795700124.2729707,
+"laatst": 1795700124.2729707,
 "keer": 0,
 "fout": ""
 }
