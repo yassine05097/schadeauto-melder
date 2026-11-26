@@ -10956,38 +10956,25 @@
 "1830277",
 "1830276",
 "1830270",
-"1830281"
+"1830281",
+"1830289",
+"1830287"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830281,
+"hoogste_id": 1830289,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830289",
+"1830287",
 "1824251",
 "1808608",
-"1830281",
-"1830270",
-"1830279"
+"1830281"
 ]
 },
 "wachtrij": {
-"1830176": {
-"melding": {
-"titel": "Seat Ibiza (2022)",
-"bericht": "AUTOMAAT 1.0 EcoTSI FR Business Intense 110PK\n€ 8.950 · 101.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/seat-ibiza-automaat-1-0-ecotsi-fr-business-intense-110pk/o/1830176",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795693529.0765147,
-"laatst": 1795693529.0765147,
-"keer": 0,
-"fout": ""
-},
 "1827824": {
 "melding": {
 "titel": "Volvo Xc-60 (2023)",
@@ -11300,6 +11287,21 @@
 ],
 "sinds": 1795703724.4202232,
 "laatst": 1795703724.4202232,
+"keer": 0,
+"fout": ""
+},
+"1830289": {
+"melding": {
+"titel": "Toyota Aygo (2023)",
+"bericht": "X 1.0 VVT-I 53KW Clima Navi Camera Led MT First NAP\n€ 9.950 · 71.552 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-aygo-x-1-0-vvt-i-53kw-clima-navi-camera-led-mt-first-nap/o/1830289",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1830289/b19f75639833d64a184ab0fe663ad10f~v195704553.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795704631.7284853,
+"laatst": 1795704631.7284853,
 "keer": 0,
 "fout": ""
 }
