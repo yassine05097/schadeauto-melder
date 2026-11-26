@@ -10793,20 +10793,21 @@
 "1830048",
 "1810126",
 "1826366",
-"1716159"
+"1716159",
+"1830049"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830048,
+"hoogste_id": 1830049,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830049",
 "1826366",
 "1716159",
-"1810126",
-"1828470",
-"1830048"
+"1820862",
+"1810126"
 ]
 },
 "wachtrij": {
@@ -10867,6 +10868,21 @@
 ],
 "sinds": 1795674644.9513874,
 "laatst": 1795674644.9513874,
+"keer": 0,
+"fout": ""
+},
+"1830049": {
+"melding": {
+"titel": "Kia Sportage (2023)",
+"bericht": "€ 13.500 · 63.079 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage/o/1830049",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1830049/bb6d2f76aaec4a06643e40c1ecab0d58~v195674609.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795675234.1386325,
+"laatst": 1795675234.1386325,
 "keer": 0,
 "fout": ""
 }
