@@ -10982,7 +10982,9 @@
 "1829048",
 "1830315",
 "1830333",
-"1830331"
+"1830331",
+"1830332",
+"1830317"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -10991,29 +10993,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830332",
+"1830317",
 "1830333",
 "1816183",
-"1802454",
-"1809372",
-"1830331"
+"1802454"
 ]
 },
 "wachtrij": {
-"1830218": {
-"melding": {
-"titel": "Peugeot 308 (2023)",
-"bericht": "GT LINE AUTOMAAT 130 PK NAVI CLIMA CAMERA LED TREKH B.J 2023\n€ 10.900 · 61.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-gt-line-automaat-130-pk-navi-clima-camera-led-trekh-b-j-2023/o/1830218",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1830218/287e9706f2a03c343a9cb493d3f33310~v195696903.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795697129.1987226,
-"laatst": 1795697129.1987226,
-"keer": 0,
-"fout": ""
-},
 "1830219": {
 "melding": {
 "titel": "Volkswagen ID.3 (2026)",
@@ -11311,6 +11298,21 @@
 ],
 "sinds": 1795707631.1805456,
 "laatst": 1795707631.1805456,
+"keer": 0,
+"fout": ""
+},
+"1830317": {
+"melding": {
+"titel": "Peugeot 308 (2026)",
+"bericht": "GT Plug-in Hybride Pano Memory Led Alcantara Focal-Sound Camera Standkachel Stuurverw. 143KW/195PK\n€ 10.285 · 40.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-gt-plug-in-hybride-pano-memory-led-alcantara-focal-sound-camera-standkachel-stuurverw-143kw-195pk/o/1830317",
+"foto": "https://www.schadeautos.nl/cache/picture/1013/1830317/25c4bac5c37aecefefa31d44d0da0d67~v195706948.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795707931.7458384,
+"laatst": 1795707931.7458384,
 "keer": 0,
 "fout": ""
 }
