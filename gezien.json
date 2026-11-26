@@ -10833,20 +10833,23 @@
 "1830092",
 "1829820",
 "1830102",
-"1830106"
+"1830106",
+"1830111",
+"1830110",
+"1830109"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830106,
+"hoogste_id": 1830111,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830106",
-"1741321",
-"1818570",
-"1819614",
-"1812130"
+"1830111",
+"1829820",
+"1830110",
+"1791085",
+"1830109"
 ]
 },
 "wachtrij": {
@@ -11117,6 +11120,36 @@
 ],
 "sinds": 1795684531.7533526,
 "laatst": 1795684531.7533526,
+"keer": 0,
+"fout": ""
+},
+"1830111": {
+"melding": {
+"titel": "Volvo XC40 (2022)",
+"bericht": "XC40 (XZ) SUV 1.5 T4 Plug-in Hybrid 12V (B3154T10) [155kW] (06-2020/.= =2E.)\n€ 11.995 · 141.835 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc40-xc40-xz-suv-1-5-t4-plug-in-hybrid-12v-b3154t10-155kw-06-2020-2e/o/1830111",
+"foto": "https://www.schadeautos.nl/cache/picture/693/1830111/42cadbf82c7940de48f5c855ed0936a1~v195685640.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795685732.5389826,
+"laatst": 1795685732.5389826,
+"keer": 0,
+"fout": ""
+},
+"1830110": {
+"melding": {
+"titel": "Dacia Bigster (2026)",
+"bericht": "EXTREME 4WD\n€ 16.950 · 4.351 km · lpg",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-bigster-extreme-4wd/o/1830110",
+"foto": "https://www.schadeautos.nl/cache/picture/965/1830110/cee470b03846ce10b8ff9a41d5260afe~v195685455.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795685732.5662572,
+"laatst": 1795685732.5662572,
 "keer": 0,
 "fout": ""
 }
