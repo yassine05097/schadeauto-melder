@@ -10897,20 +10897,24 @@
 "1830187",
 "1830191",
 "1830190",
-"1829679"
+"1829679",
+"1830197",
+"1830194",
+"1829566",
+"1830193"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830191,
+"hoogste_id": 1830197,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1791327",
-"1829679",
-"1824391",
-"1757926",
-"1805636"
+"1830197",
+"1830194",
+"1829566",
+"1830193",
+"1791327"
 ]
 },
 "wachtrij": {
@@ -11151,6 +11155,51 @@
 ],
 "sinds": 1795695631.6300304,
 "laatst": 1795695631.6300304,
+"keer": 0,
+"fout": ""
+},
+"1830197": {
+"melding": {
+"titel": "Opel Corsa (2026)",
+"bericht": "1.2 Turbo GS-Line PDC Clima Cruise LED Apple/ Android\n€ 9.750 · 5.331 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-gs-line-pdc-clima-cruise-led-apple-android/o/1830197",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795696243.4848056,
+"laatst": 1795696243.4848056,
+"keer": 0,
+"fout": ""
+},
+"1830194": {
+"melding": {
+"titel": "Audi Rs3 (2026)",
+"bericht": "2.5 TFSI Quattro Keramik 280km/h HUD Sonos ACC Schalenzitse Camera Matrix\n€ 39.750 · 5.389 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-rs3-2-5-tfsi-quattro-keramik-280km-h-hud-sonos-acc-schalenzitse-camera-matrix/o/1830194",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1830194/7ac50a1cea8a1918196069cfc93a5244~v195696200.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795696243.6616013,
+"laatst": 1795696243.6616013,
+"keer": 0,
+"fout": ""
+},
+"1830193": {
+"melding": {
+"titel": "Audi A1 (2024)",
+"bericht": "S LINE SPORT EDITION NAVI CLIMA LED CRUISE B.J 08/2024\n€ 15.950 · 48.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-s-line-sport-edition-navi-clima-led-cruise-b-j-08-2024/o/1830193",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1830193/c1a78414456d632fbe705c7778c27d36~v195696174.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795696243.837871,
+"laatst": 1795696243.837871,
 "keer": 0,
 "fout": ""
 }
