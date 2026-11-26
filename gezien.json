@@ -11008,38 +11008,25 @@
 "1806111",
 "1825798",
 "1729069",
-"1830363"
+"1830363",
+"1829096",
+"1830365"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830363,
+"hoogste_id": 1830365,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1829096",
+"1830365",
 "1830363",
 "1706950",
-"1822559",
-"1815241",
-"1825798"
+"1822559"
 ]
 },
 "wachtrij": {
-"1830259": {
-"melding": {
-"titel": "Kia Picanto (2024)",
-"bericht": "1.0 DPi ComfortLine 67pk\n€ 8.950 · 33.620 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-comfortline-67pk/o/1830259",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1830259/71f8543873c1c49a0cc8cf59b9a2cba1~v195701463.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795701654.9042053,
-"laatst": 1795701654.9042053,
-"keer": 0,
-"fout": ""
-},
 "1829300": {
 "melding": {
 "titel": "Ford Fiesta (2022)",
@@ -11051,9 +11038,9 @@
 "WhatsApp"
 ],
 "sinds": 1795701927.6198423,
-"laatst": 1795701927.6198423,
-"keer": 0,
-"fout": ""
+"laatst": 1795712725.8555317,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1830262": {
 "melding": {
@@ -11354,13 +11341,28 @@
 "laatst": 1795710926.1125963,
 "keer": 0,
 "fout": ""
+},
+"1830365": {
+"melding": {
+"titel": "Citroën C5 (2022)",
+"bericht": "AIRCROSS FEEL\n€ 7.200 · 112.210 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c5-aircross-feel/o/1830365",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1830365/c014b7011993fb6a478168095836bc97~v195712424.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795712726.813064,
+"laatst": 1795712726.813064,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
 "sinds": 1791487272.8609586,
-"geprobeerd": 1795708857.1940129
+"geprobeerd": 1795712722.378905
 }
 },
 "zoekpagina_leeg": {
