@@ -10901,20 +10901,25 @@
 "1830197",
 "1830194",
 "1829566",
-"1830193"
+"1830193",
+"1830213",
+"1830212",
+"1830203",
+"1830211",
+"1830210"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830197,
+"hoogste_id": 1830213,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830197",
-"1830194",
-"1829566",
-"1830193",
-"1791327"
+"1830213",
+"1830212",
+"1830203",
+"1830211",
+"1830210"
 ]
 },
 "wachtrij": {
@@ -11200,6 +11205,21 @@
 ],
 "sinds": 1795696243.837871,
 "laatst": 1795696243.837871,
+"keer": 0,
+"fout": ""
+},
+"1830211": {
+"melding": {
+"titel": "Audi A3 (2022)",
+"bericht": "Sportback 30 TFSI DSG S-Line Edition ACC Visual Clima Apple/Android\n€ 13.950 · 116.174 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-sportback-30-tfsi-dsg-s-line-edition-acc-visual-clima-apple-android/o/1830211",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1830211/2cd08f2c636f180eb519b31245af1d6c~v195696430.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795696526.5760288,
+"laatst": 1795696526.5760288,
 "keer": 0,
 "fout": ""
 }
