@@ -10794,7 +10794,9 @@
 "1810126",
 "1826366",
 "1716159",
-"1830049"
+"1830049",
+"1749782",
+"1562905"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -10803,11 +10805,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830049",
-"1826366",
-"1716159",
-"1820862",
-"1810126"
+"1749782",
+"1746632",
+"1562905",
+"1793040",
+"1830049"
 ]
 },
 "wachtrij": {
@@ -10883,6 +10885,36 @@
 ],
 "sinds": 1795675234.1386325,
 "laatst": 1795675234.1386325,
+"keer": 0,
+"fout": ""
+},
+"1749782": {
+"melding": {
+"titel": "Opnieuw geplaatst: Opel Astra (2024)",
+"bericht": "L Lim. 5-trg. GS Turbo 96KW S-S GS\n€ 9.900 · 45.945 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-l-lim-5-trg-gs-turbo-96kw-s-s-gs/o/1749782",
+"foto": "https://www.schadeautos.nl/picture/998/m/1749782/wigho0ahe29c3l5kjddi8jypcilbm2kk~v195675510.jpeg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795675528.3805716,
+"laatst": 1795675528.3805716,
+"keer": 0,
+"fout": ""
+},
+"1562905": {
+"melding": {
+"titel": "Opnieuw geplaatst: Peugeot 2008 (2022)",
+"bericht": "e II Allure Pack Full Elektro\n€ 8.900 · 51.285 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-e-ii-allure-pack-full-elektro/o/1562905",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1562905/3c30c7d3857cbad91c5d14b195696036~v195675504.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795675528.4833431,
+"laatst": 1795675528.4833431,
 "keer": 0,
 "fout": ""
 }
