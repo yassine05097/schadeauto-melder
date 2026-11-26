@@ -10976,83 +10976,27 @@
 "1830307",
 "1830305",
 "1829043",
-"1738049"
+"1738049",
+"1830320",
+"1830330",
+"1829048",
+"1830315"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830307,
+"hoogste_id": 1830330,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1823281",
-"1738049",
-"1830307",
-"1830305",
-"1829043"
+"1830320",
+"1830330",
+"1829048",
+"1813107",
+"1830315"
 ]
 },
 "wachtrij": {
-"1830197": {
-"melding": {
-"titel": "Opel Corsa (2026)",
-"bericht": "1.2 Turbo GS-Line PDC Clima Cruise LED Apple/ Android\n€ 9.750 · 5.331 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-turbo-gs-line-pdc-clima-cruise-led-apple-android/o/1830197",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795696243.4848056,
-"laatst": 1795696243.4848056,
-"keer": 0,
-"fout": ""
-},
-"1830194": {
-"melding": {
-"titel": "Audi Rs3 (2026)",
-"bericht": "2.5 TFSI Quattro Keramik 280km/h HUD Sonos ACC Schalenzitse Camera Matrix\n€ 39.750 · 5.389 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-rs3-2-5-tfsi-quattro-keramik-280km-h-hud-sonos-acc-schalenzitse-camera-matrix/o/1830194",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1830194/7ac50a1cea8a1918196069cfc93a5244~v195696200.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795696243.6616013,
-"laatst": 1795696243.6616013,
-"keer": 0,
-"fout": ""
-},
-"1830193": {
-"melding": {
-"titel": "Audi A1 (2024)",
-"bericht": "S LINE SPORT EDITION NAVI CLIMA LED CRUISE B.J 08/2024\n€ 15.950 · 48.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-s-line-sport-edition-navi-clima-led-cruise-b-j-08-2024/o/1830193",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1830193/c1a78414456d632fbe705c7778c27d36~v195696174.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795696243.837871,
-"laatst": 1795696243.837871,
-"keer": 0,
-"fout": ""
-},
-"1830211": {
-"melding": {
-"titel": "Audi A3 (2022)",
-"bericht": "Sportback 30 TFSI DSG S-Line Edition ACC Visual Clima Apple/Android\n€ 13.950 · 116.174 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-sportback-30-tfsi-dsg-s-line-edition-acc-visual-clima-apple-android/o/1830211",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1830211/2cd08f2c636f180eb519b31245af1d6c~v195696430.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795696526.5760288,
-"laatst": 1795696526.5760288,
-"keer": 0,
-"fout": ""
-},
 "1830218": {
 "melding": {
 "titel": "Peugeot 308 (2023)",
@@ -11335,6 +11279,21 @@
 ],
 "sinds": 1795706433.3025587,
 "laatst": 1795706433.3025587,
+"keer": 0,
+"fout": ""
+},
+"1830315": {
+"melding": {
+"titel": "Audi Q4 (2024)",
+"bericht": "E-TRON SPORTBACK 210.KW / 83.KWh\nexportprijs € 18.500 · 59.681 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-e-tron-sportback-210-kw-83-kwh/o/1830315",
+"foto": "https://www.schadeautos.nl/cache/picture/72/1830315/640e13be68eced7232f04b1e3979d212~v195707031.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795707327.5028107,
+"laatst": 1795707327.5028107,
 "keer": 0,
 "fout": ""
 }
