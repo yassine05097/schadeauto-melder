@@ -10928,38 +10928,24 @@
 "1830245",
 "1830247",
 "1830246",
-"1830240"
+"1830240",
+"1830248"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830247,
+"hoogste_id": 1830248,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830248",
 "1828374",
 "1830245",
 "1830247",
-"1830246",
-"1830240"
+"1830246"
 ]
 },
 "wachtrij": {
-"1829879": {
-"melding": {
-"titel": "Audi Q3 (2022)",
-"bericht": "45 TFSI SPORTBACK E TRON 225 PK\n€ 15.900 · 69.700 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q3-45-tfsi-sportback-e-tron-225-pk/o/1829879",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1829879/68784bbc507bc8ef6f2213f99498c9ec~v195689462.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795689634.259843,
-"laatst": 1795689634.259843,
-"keer": 0,
-"fout": ""
-},
 "1830157": {
 "melding": {
 "titel": "Fiat 500 (2026)",
