@@ -10968,20 +10968,24 @@
 "1829960",
 "1829964",
 "1829965",
-"1829967"
+"1829967",
+"1830302",
+"1830301",
+"1830300",
+"1830296"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830293,
+"hoogste_id": 1830302,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1716766",
-"1829960",
-"1829964",
-"1829965",
-"1829967"
+"1830302",
+"1830301",
+"1830300",
+"1830296",
+"1823449"
 ]
 },
 "wachtrij": {
@@ -11314,6 +11318,21 @@
 "laatst": 1795705259.3639119,
 "keer": 0,
 "fout": ""
+},
+"1830301": {
+"melding": {
+"titel": "Peugeot 2008 (2022)",
+"bericht": "exportprijs € 5.500 · 95.599 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008/o/1830301",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830301/13f6363f4390da9a16354b522d5b59fb~v195705676.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795706136.9412827,
+"laatst": 1795706136.9412827,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
@@ -11324,6 +11343,6 @@
 }
 },
 "zoekpagina_leeg": {
-"personenautos": 1795702532.1077578
+"personenautos": 1795706133.6496627
 }
 }
