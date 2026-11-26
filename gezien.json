@@ -10998,53 +10998,28 @@
 "1830350",
 "1830349",
 "1830308",
-"1830343"
+"1830343",
+"1830360",
+"1830359",
+"1830358",
+"1830357",
+"1830356"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830350,
+"hoogste_id": 1830360,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830343",
-"1830308",
-"1830346",
-"1705043",
-"1830345"
+"1830360",
+"1830359",
+"1830358",
+"1830357",
+"1830356"
 ]
 },
 "wachtrij": {
-"1830246": {
-"melding": {
-"titel": "Mazda CX-30 (2023)",
-"bericht": "53.013 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mazda-cx-30/o/1830246",
-"foto": "https://www.schadeautos.nl/cache/picture/964/1830246/20397f09f12af3e7c4d1aab251a131d7~v195699966.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795700124.17154,
-"laatst": 1795700124.17154,
-"keer": 0,
-"fout": ""
-},
-"1830240": {
-"melding": {
-"titel": "BMW 5-serie (2022)",
-"bericht": "530e Touring M-Sport Panoramadak\n€ 27.500 · 70.484 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-5-serie-530e-touring-m-sport-panoramadak/o/1830240",
-"foto": "https://www.schadeautos.nl/cache/picture/942/1830240/80ad49592243470f2f097f3658dff59f~v195699531.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795700124.2729707,
-"laatst": 1795700124.2729707,
-"keer": 0,
-"fout": ""
-},
 "1829565": {
 "melding": {
 "titel": "BMW X1 (2026)",
@@ -11342,6 +11317,51 @@
 ],
 "sinds": 1795710036.3736176,
 "laatst": 1795710036.3736176,
+"keer": 0,
+"fout": ""
+},
+"1830360": {
+"melding": {
+"titel": "Citroën C3 (2025)",
+"bericht": "IV YOU\n€ 10.600 · 35.680 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-iv-you/o/1830360",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1830360/69b059490b444231d5a6bf74d7ebf504~v195710778.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795710925.6906767,
+"laatst": 1795710925.6906767,
+"keer": 0,
+"fout": ""
+},
+"1830359": {
+"melding": {
+"titel": "Renault Scenic (2023)",
+"bericht": "IV EXECUTIVE\n€ 12.400 · 85.793 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-scenic-iv-executive/o/1830359",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1830359/296683b268a1f41b607c524b3bc36283~v195710776.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795710925.9008915,
+"laatst": 1795710925.9008915,
+"keer": 0,
+"fout": ""
+},
+"1830356": {
+"melding": {
+"titel": "Peugeot 2008 (2023)",
+"bericht": "ACTIVE\n€ 9.600 · 65.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-active/o/1830356",
+"foto": "https://www.schadeautos.nl/cache/picture/977/1830356/80221f8772f046544146b8a450bce30d~v195710766.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795710926.1125963,
+"laatst": 1795710926.1125963,
 "keer": 0,
 "fout": ""
 }
