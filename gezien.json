@@ -10837,68 +10837,24 @@
 "1830111",
 "1830110",
 "1830109",
-"1830119"
+"1830119",
+"1830120"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830119,
+"hoogste_id": 1830120,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830120",
 "1827249",
 "1830119",
 "1793943",
-"1814077",
-"1820668"
+"1814077"
 ]
 },
 "wachtrij": {
-"1830049": {
-"melding": {
-"titel": "Kia Sportage (2023)",
-"bericht": "€ 13.500 · 63.079 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-sportage/o/1830049",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1830049/bb6d2f76aaec4a06643e40c1ecab0d58~v195674609.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795675234.1386325,
-"laatst": 1795675234.1386325,
-"keer": 0,
-"fout": ""
-},
-"1749782": {
-"melding": {
-"titel": "Opnieuw geplaatst: Opel Astra (2024)",
-"bericht": "L Lim. 5-trg. GS Turbo 96KW S-S GS\n€ 9.900 · 45.945 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-l-lim-5-trg-gs-turbo-96kw-s-s-gs/o/1749782",
-"foto": "https://www.schadeautos.nl/picture/998/m/1749782/wigho0ahe29c3l5kjddi8jypcilbm2kk~v195675510.jpeg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795675528.3805716,
-"laatst": 1795675528.3805716,
-"keer": 0,
-"fout": ""
-},
-"1562905": {
-"melding": {
-"titel": "Opnieuw geplaatst: Peugeot 2008 (2022)",
-"bericht": "e II Allure Pack Full Elektro\n€ 8.900 · 51.285 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-2008-e-ii-allure-pack-full-elektro/o/1562905",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1562905/3c30c7d3857cbad91c5d14b195696036~v195675504.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795675528.4833431,
-"laatst": 1795675528.4833431,
-"keer": 0,
-"fout": ""
-},
 "1812580": {
 "melding": {
 "titel": "Opnieuw geplaatst: Peugeot 3008 (2023)",
@@ -10910,9 +10866,9 @@
 "WhatsApp"
 ],
 "sinds": 1795675833.849879,
-"laatst": 1795675833.849879,
-"keer": 0,
-"fout": ""
+"laatst": 1795686332.15101,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1767440": {
 "melding": {
@@ -11168,13 +11124,28 @@
 "laatst": 1795686031.6230087,
 "keer": 0,
 "fout": ""
+},
+"1830120": {
+"melding": {
+"titel": "Tesla Model Y (2023)",
+"bericht": "75kWh Long Range 258KW AWD Clima Navi Pano NAP\n€ 26.450 · 112.622 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/tesla-model-y-75kwh-long-range-258kw-awd-clima-navi-pano-nap/o/1830120",
+"foto": "https://www.schadeautos.nl/cache/picture/585/1830120/cd75b987211c41444c9730f5abf3c0d5~v195686208.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795686332.9679284,
+"laatst": 1795686332.9679284,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
 "sinds": 1791487272.8609586,
-"geprobeerd": 1795682439.8132544
+"geprobeerd": 1795686328.6239293
 }
 },
 "zoekpagina_leeg": {
