@@ -10836,20 +10836,21 @@
 "1830106",
 "1830111",
 "1830110",
-"1830109"
+"1830109",
+"1830119"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830111,
+"hoogste_id": 1830119,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830111",
-"1829820",
-"1830110",
-"1791085",
-"1830109"
+"1827249",
+"1830119",
+"1793943",
+"1814077",
+"1820668"
 ]
 },
 "wachtrij": {
@@ -11150,6 +11151,21 @@
 ],
 "sinds": 1795685732.5662572,
 "laatst": 1795685732.5662572,
+"keer": 0,
+"fout": ""
+},
+"1830119": {
+"melding": {
+"titel": "Dacia Duster (2023)",
+"bericht": "1.0\n€ 8.800 · 109.274 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-duster-1-0/o/1830119",
+"foto": "https://www.schadeautos.nl/cache/picture/909/1830119/4de34f4f2284513917a34c6a75e53cd8~v195685993.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795686031.6230087,
+"laatst": 1795686031.6230087,
 "keer": 0,
 "fout": ""
 }
