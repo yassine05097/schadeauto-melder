@@ -10988,20 +10988,23 @@
 "1830336",
 "1830335",
 "1830338",
-"1830339"
+"1830339",
+"1826835",
+"1830152",
+"1830340"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830339,
+"hoogste_id": 1830340,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1826835",
+"1830152",
+"1830340",
 "1830339",
-"1830320",
-"1738049",
-"1830307",
-"1829043"
+"1830335"
 ]
 },
 "wachtrij": {
@@ -11302,6 +11305,36 @@
 ],
 "sinds": 1795708230.4917438,
 "laatst": 1795708230.4917438,
+"keer": 0,
+"fout": ""
+},
+"1826835": {
+"melding": {
+"titel": "Hyundai Kona (2024)",
+"bericht": "1.6 GDI HEV Comfort Smart Navi Clima\n€ 18.250 · 78.683 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-1-6-gdi-hev-comfort-smart-navi-clima/o/1826835",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1826835/bc94de9572aab55351bf934f1c858850~v194914856.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795709127.023563,
+"laatst": 1795709127.023563,
+"keer": 0,
+"fout": ""
+},
+"1830152": {
+"melding": {
+"titel": "DongFeng Box (2025)",
+"bericht": "BOX Launch Edition 42 kWh nwpr 24000 rijdbaar geen onderdelen nodig\n€ 12.950 · 17.000 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dongfeng-box-box-launch-edition-42-kwh-nwpr-24000-rijdbaar-geen-onderdelen-nodig/o/1830152",
+"foto": "https://www.schadeautos.nl/cache/picture/709/1830152/a53af7b6ffe1869644acb58680edf0ec~v195689991.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795709127.233474,
+"laatst": 1795709127.233474,
 "keer": 0,
 "fout": ""
 }
