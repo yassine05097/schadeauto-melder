@@ -10785,23 +10785,43 @@
 "1830039",
 "1830038",
 "1830041",
-"1830043"
+"1830043",
+"1830047",
+"1830046",
+"1830045",
+"1830044"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830043,
+"hoogste_id": 1830047,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1829708",
-"1829976",
-"1829975",
-"1829959",
-"1829958"
+"1830047",
+"1830046",
+"1830045",
+"1830044",
+"1830043"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1830044": {
+"melding": {
+"titel": "Volkswagen Polo (2025)",
+"bericht": "1.0 TSI Life Edition\n€ 12.850 · 22.238 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-polo-1-0-tsi-life-edition/o/1830044",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1830044/67c292eb0577ab0f301bd88ce16a3776~v195671716.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795672231.9019513,
+"laatst": 1795672231.9019513,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
