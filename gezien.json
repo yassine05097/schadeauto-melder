@@ -10860,20 +10860,23 @@
 "1830151",
 "1810551",
 "1830149",
-"1829879"
+"1829879",
+"1763718",
+"1830157",
+"1830150"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830151,
+"hoogste_id": 1830157,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1829879",
-"1827521",
-"1816244",
-"1830147",
-"1830151"
+"1763718",
+"1812528",
+"1830157",
+"1812265",
+"1830150"
 ]
 },
 "wachtrij": {
@@ -10888,9 +10891,9 @@
 "WhatsApp"
 ],
 "sinds": 1795679430.6210828,
-"laatst": 1795679430.6210828,
-"keer": 0,
-"fout": ""
+"laatst": 1795689934.3335238,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1830059": {
 "melding": {
@@ -11206,13 +11209,28 @@
 "laatst": 1795689634.259843,
 "keer": 0,
 "fout": ""
+},
+"1830157": {
+"melding": {
+"titel": "Fiat 500 (2026)",
+"bericht": "HYBRID BERLINE TORIN\n€ 7.139 · 2.619 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-hybrid-berline-torin/o/1830157",
+"foto": "https://www.schadeautos.nl/cache/picture/932/1830157/69130873d960f60a1e11201f9fe36ac1~v195689908.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795689937.1793451,
+"laatst": 1795689937.1793451,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
 "sinds": 1791487272.8609586,
-"geprobeerd": 1795686328.6239293
+"geprobeerd": 1795689930.931195
 }
 },
 "zoekpagina_leeg": {
