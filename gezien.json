@@ -10804,20 +10804,22 @@
 "1830053",
 "1829640",
 "1719798",
-"1830057"
+"1830057",
+"1830059",
+"1717714"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830057,
+"hoogste_id": 1830059,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1823094",
+"1830059",
+"1717714",
 "1830057",
-"1823132",
-"1815527",
-"1819471",
-"1826303"
+"1823132"
 ]
 },
 "wachtrij": {
@@ -10968,6 +10970,21 @@
 ],
 "sinds": 1795679430.6210828,
 "laatst": 1795679430.6210828,
+"keer": 0,
+"fout": ""
+},
+"1830059": {
+"melding": {
+"titel": "Ford Kuga (2022)",
+"bericht": "1.5 TDCI ECOBLUE\n€ 6.050 · 249.597 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-1-5-tdci-ecoblue/o/1830059",
+"foto": "https://www.schadeautos.nl/picture/915/m/1830059/gyd4h3hdbgnzumw9x91fe0g0poos02xw~v195680011.jpeg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795680050.1912694,
+"laatst": 1795680050.1912694,
 "keer": 0,
 "fout": ""
 }
