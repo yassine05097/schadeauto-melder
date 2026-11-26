@@ -10886,53 +10886,27 @@
 "1827824",
 "1697749",
 "1830178",
-"1828747"
+"1828747",
+"1830184",
+"1830183",
+"1829567",
+"1830181"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830178,
+"hoogste_id": 1830184,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1828747",
-"1830178",
-"1830177",
-"1827824",
-"1778357"
+"1830184",
+"1830183",
+"1829567",
+"1830181",
+"1828747"
 ]
 },
 "wachtrij": {
-"1830089": {
-"melding": {
-"titel": "Dacia Sandero (2024)",
-"bericht": "exportprijs € 8.500 · 42.794 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero/o/1830089",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1830089/cd520ce5538c4c466a9e24e3bf0fa21e~v195683492.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795683650.7935958,
-"laatst": 1795683650.7935958,
-"keer": 0,
-"fout": ""
-},
-"1830088": {
-"melding": {
-"titel": "Volkswagen Golf (2023)",
-"bericht": "exportprijs € 4.400 · 35.915 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf/o/1830088",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1830088/19ae17660019064e8c08ac98d8583a1e~v195683488.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795683650.9198303,
-"laatst": 1795683650.9198303,
-"keer": 0,
-"fout": ""
-},
 "1830098": {
 "melding": {
 "titel": "Audi A1 (2024)",
@@ -11202,6 +11176,21 @@
 "laatst": 1795693836.4211383,
 "keer": 0,
 "fout": ""
+},
+"1830184": {
+"melding": {
+"titel": "Volkswagen Golf (2024)",
+"bericht": "exportprijs € 7.950 · 27.418 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf/o/1830184",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830184/6cb52a50a190276860d4f762f557b3f5~v195694636.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795694734.4738834,
+"laatst": 1795694734.4738834,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
@@ -11212,6 +11201,6 @@
 }
 },
 "zoekpagina_leeg": {
-"personenautos": 1795690852.228228
+"personenautos": 1795694731.3954313
 }
 }
