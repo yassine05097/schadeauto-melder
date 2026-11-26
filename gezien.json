@@ -10929,38 +10929,27 @@
 "1830247",
 "1830246",
 "1830240",
-"1830248"
+"1830248",
+"1768727",
+"1830255",
+"1829565",
+"1830252"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830248,
+"hoogste_id": 1830255,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830248",
-"1828374",
-"1830245",
-"1830247",
-"1830246"
+"1768727",
+"1830255",
+"1829565",
+"1830252",
+"1830248"
 ]
 },
 "wachtrij": {
-"1830157": {
-"melding": {
-"titel": "Fiat 500 (2026)",
-"bericht": "HYBRID BERLINE TORIN\n€ 7.139 · 2.619 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-hybrid-berline-torin/o/1830157",
-"foto": "https://www.schadeautos.nl/cache/picture/932/1830157/69130873d960f60a1e11201f9fe36ac1~v195689908.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795689937.1793451,
-"laatst": 1795689937.1793451,
-"keer": 0,
-"fout": ""
-},
 "1830164": {
 "melding": {
 "titel": "Opel Corsa (2023)",
@@ -11198,6 +11187,21 @@
 ],
 "sinds": 1795700124.2729707,
 "laatst": 1795700124.2729707,
+"keer": 0,
+"fout": ""
+},
+"1829565": {
+"melding": {
+"titel": "BMW X1 (2026)",
+"bericht": "XDRIVE25E 100kW Automaat Pano Optimized Edition\n€ 28.400 · 4.327 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x1-xdrive25e-100kw-automaat-pano-optimized-edition/o/1829565",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1829565/eaccb8d5dbe1104220ba41b3332c9e7d~v195591604.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795701035.3453062,
+"laatst": 1795701035.3453062,
 "keer": 0,
 "fout": ""
 }
