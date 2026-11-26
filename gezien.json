@@ -10822,20 +10822,22 @@
 "1829452",
 "1829487",
 "1697793",
-"1830077"
+"1830077",
+"1830089",
+"1830088"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830080,
+"hoogste_id": 1830089,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1697793",
-"1830077",
-"1828042",
-"1797133",
-"1830080"
+"1809011",
+"1818570",
+"1819614",
+"1830089",
+"1830088"
 ]
 },
 "wachtrij": {
@@ -11046,6 +11048,36 @@
 ],
 "sinds": 1795683326.7655208,
 "laatst": 1795683326.7655208,
+"keer": 0,
+"fout": ""
+},
+"1830089": {
+"melding": {
+"titel": "Dacia Sandero (2024)",
+"bericht": "exportprijs € 8.500 · 42.794 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/dacia-sandero/o/1830089",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830089/cd520ce5538c4c466a9e24e3bf0fa21e~v195683492.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795683650.7935958,
+"laatst": 1795683650.7935958,
+"keer": 0,
+"fout": ""
+},
+"1830088": {
+"melding": {
+"titel": "Volkswagen Golf (2023)",
+"bericht": "exportprijs € 4.400 · 35.915 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf/o/1830088",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830088/19ae17660019064e8c08ac98d8583a1e~v195683488.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795683650.9198303,
+"laatst": 1795683650.9198303,
 "keer": 0,
 "fout": ""
 }
