@@ -10848,20 +10848,24 @@
 "1754718",
 "1830134",
 "1829681",
-"1829873"
+"1829873",
+"1830135",
+"1828165",
+"1830144",
+"1828120"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830134,
+"hoogste_id": 1830144,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1812383",
-"1829681",
-"1824791",
-"1829873",
-"1830134"
+"1830135",
+"1828165",
+"1830144",
+"1828120",
+"1812383"
 ]
 },
 "wachtrij": {
@@ -11147,6 +11151,21 @@
 ],
 "sinds": 1795686928.1329522,
 "laatst": 1795686928.1329522,
+"keer": 0,
+"fout": ""
+},
+"1830135": {
+"melding": {
+"titel": "Fiat 500 (2023)",
+"bericht": "1.0 Hybrid RED\n€ 5.250 · 15.054 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/fiat-500-1-0-hybrid-red/o/1830135",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1830135/c68c7baccbe907066c351030efe84540~v195687962.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795688431.6861258,
+"laatst": 1795688431.6861258,
 "keer": 0,
 "fout": ""
 }
