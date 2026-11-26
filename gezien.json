@@ -10829,7 +10829,8 @@
 "1830091",
 "1830098",
 "1830097",
-"1830096"
+"1830096",
+"1830092"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -10838,29 +10839,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830092",
 "1741321",
 "1824135",
 "1830098",
-"1830097",
-"1830096"
+"1830097"
 ]
 },
 "wachtrij": {
-"1810126": {
-"melding": {
-"titel": "Opnieuw geplaatst: Suzuki Swift (2024)",
-"bericht": "1.2 SELECT Smart Hybride\n€ 9.950 · 44.000 km",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-swift-1-2-select-smart-hybride/o/1810126",
-"foto": "https://www.schadeautos.nl/cache/picture/63/1810126/00bcdb2d56fd65a7ea7f0a5030c5f9b2~v190495603.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795673729.7058446,
-"laatst": 1795673729.7058446,
-"keer": 0,
-"fout": ""
-},
 "1826366": {
 "melding": {
 "titel": "Audi A5 (2025)",
@@ -11128,6 +11114,21 @@
 ],
 "sinds": 1795684233.7945547,
 "laatst": 1795684233.7945547,
+"keer": 0,
+"fout": ""
+},
+"1830092": {
+"melding": {
+"titel": "Seres 3 (2022)",
+"bericht": "Luxury 120kw Elektro, Panorama, Leer, DAB+, 360 camera\n€ 9.995 · 49.000 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/seres-3-luxury-120kw-elektro-panorama-leer-dab-360-camera/o/1830092",
+"foto": "https://www.schadeautos.nl/cache/picture/344/1830092/51273f1b799911bb7a0b88254e0b5a29~v195684020.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795684531.7533526,
+"laatst": 1795684531.7533526,
 "keer": 0,
 "fout": ""
 }
