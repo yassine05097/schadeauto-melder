@@ -10832,38 +10832,24 @@
 "1830096",
 "1830092",
 "1829820",
-"1830102"
+"1830102",
+"1830106"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830102,
+"hoogste_id": 1830106,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830102",
-"1829820",
-"1830092",
+"1830106",
 "1741321",
-"1824135"
+"1818570",
+"1819614",
+"1812130"
 ]
 },
 "wachtrij": {
-"1826366": {
-"melding": {
-"titel": "Audi A5 (2025)",
-"bericht": "Avant TFSI e-hybrid Quattro 220 kW S-LINE\n€ 34.900 · 24.461 km · hybride",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a5-avant-tfsi-e-hybrid-quattro-220-kw-s-line/o/1826366",
-"foto": "https://www.schadeautos.nl/cache/picture/998/1826366/7d0ea26d1a485724de59515cba66378f~v195674309.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795674644.9513874,
-"laatst": 1795674644.9513874,
-"keer": 0,
-"fout": ""
-},
 "1830049": {
 "melding": {
 "titel": "Kia Sportage (2023)",
