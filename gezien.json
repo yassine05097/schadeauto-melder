@@ -10816,20 +10816,24 @@
 "1830071",
 "1830073",
 "1830075",
-"1828754"
+"1828754",
+"1797133",
+"1830080",
+"1829452",
+"1829487"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830075,
+"hoogste_id": 1830080,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1828754",
-"1825099",
-"1830075",
-"1830073",
-"1828016"
+"1797133",
+"1830080",
+"1829452",
+"1829487",
+"1817928"
 ]
 },
 "wachtrij": {
@@ -11025,6 +11029,36 @@
 ],
 "sinds": 1795682124.4801064,
 "laatst": 1795682124.4801064,
+"keer": 0,
+"fout": ""
+},
+"1830080": {
+"melding": {
+"titel": "Hyundai Kona (2023)",
+"bericht": "N LINE SPORT 1.0 T-GDI CLIMA CAMERA APP LED B.J 04-2023\n72.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-kona-n-line-sport-1-0-t-gdi-clima-camera-app-led-b-j-04-2023/o/1830080",
+"foto": "https://www.schadeautos.nl/cache/picture/947/1830080/a4af2e188758c3e1e44ba6b665af6746~v195682930.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795683032.8157709,
+"laatst": 1795683032.8157709,
+"keer": 0,
+"fout": ""
+},
+"1829452": {
+"melding": {
+"titel": "Volkswagen T-Roc (2025)",
+"bericht": "LIFE GOAL 1.0 TSI | KLIMA | CARPLAY | STOELVERWARMING |\n€ 15.250 · 17.848 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-life-goal-1-0-tsi-klima-carplay-stoelverwarming/o/1829452",
+"foto": "https://www.schadeautos.nl/cache/picture/1006/1829452/36f3e707870ce1101f135abd83ddf181~v195533017.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795683033.0359771,
+"laatst": 1795683033.0359771,
 "keer": 0,
 "fout": ""
 }
