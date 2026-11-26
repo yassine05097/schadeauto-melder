@@ -10838,20 +10838,22 @@
 "1830110",
 "1830109",
 "1830119",
-"1830120"
+"1830120",
+"1830123",
+"1830122"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830120,
+"hoogste_id": 1830123,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830120",
-"1827249",
-"1830119",
-"1793943",
-"1814077"
+"1693096",
+"1828323",
+"1830123",
+"1830122",
+"1820652"
 ]
 },
 "wachtrij": {
@@ -11137,6 +11139,21 @@
 ],
 "sinds": 1795686332.9679284,
 "laatst": 1795686332.9679284,
+"keer": 0,
+"fout": ""
+},
+"1830123": {
+"melding": {
+"titel": "Renault Clio (2023)",
+"bericht": "Clio V (RJAB) Hatchback 5-drs 1.0 TCe 90 12V (H4D-480(H4D-F4)) [67kW] = (08-2020/...)\n€ 7.995 · 67.433 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-clio-clio-v-rjab-hatchback-5-drs-1-0-tce-90-12v-h4d-480-h4d-f4-67kw-08-2020/o/1830123",
+"foto": "https://www.schadeautos.nl/cache/picture/693/1830123/273d09dc00f712e6168eea3972900fb3~v195686484.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795686631.214291,
+"laatst": 1795686631.214291,
 "keer": 0,
 "fout": ""
 }
