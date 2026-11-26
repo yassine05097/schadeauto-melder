@@ -10789,20 +10789,21 @@
 "1830047",
 "1830046",
 "1830045",
-"1830044"
+"1830044",
+"1830048"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830047,
+"hoogste_id": 1830048,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830048",
 "1830047",
 "1830046",
 "1830045",
-"1830044",
-"1830043"
+"1830044"
 ]
 },
 "wachtrij": {
@@ -10818,6 +10819,21 @@
 ],
 "sinds": 1795672231.9019513,
 "laatst": 1795672231.9019513,
+"keer": 0,
+"fout": ""
+},
+"1830048": {
+"melding": {
+"titel": "Citroën C3 Aircross (2026)",
+"bericht": "1.2 Aut. 7 Stoelen Airco Camera\n€ 14.950 · 10.665 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-aircross-1-2-aut-7-stoelen-airco-camera/o/1830048",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1830048/c072448313aa8ec7eeaeaa1b83258bb8~v195672200.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795672523.0132673,
+"laatst": 1795672523.0132673,
 "keer": 0,
 "fout": ""
 }
