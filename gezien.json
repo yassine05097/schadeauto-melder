@@ -11160,7 +11160,8 @@
 "1830460",
 "1830611",
 "1830619",
-"1830499"
+"1830499",
+"1830606"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11169,44 +11170,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830302",
+"1830240",
+"1830606",
 "1830610",
-"1830460",
-"1830611",
-"1830619",
-"1830499"
+"1830460"
 ]
 },
 "wachtrij": {
-"1830509": {
-"melding": {
-"titel": "MG ZS EV (2023)",
-"bericht": "72,6 KWH Long Range / Panorama / Leer\n€ 13.850 · 60.024 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs-ev-72-6-kwh-long-range-panorama-leer/o/1830509",
-"foto": "https://www.schadeautos.nl/cache/picture/451/1830509/f1d5cbef56d6e11b0802f42bfdfd658a~v195773307.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795773655.9079828,
-"laatst": 1795773655.9079828,
-"keer": 0,
-"fout": ""
-},
-"1830503": {
-"melding": {
-"titel": "Audi A1 (2024)",
-"bericht": "S LINE SPORT EDITION NAVI CLIMA LED CRUISE B.J 08/2024\n€ 15.950 · 48.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a1-s-line-sport-edition-navi-clima-led-cruise-b-j-08-2024/o/1830503",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1830503/fd6e09ce2fe6fe5c2357f1c1a364d88f~v195773378.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795773656.0353372,
-"laatst": 1795773656.0353372,
-"keer": 0,
-"fout": ""
-},
 "1830531": {
 "melding": {
 "titel": "BMW X7 (2025)",
@@ -11218,9 +11189,9 @@
 "WhatsApp"
 ],
 "sinds": 1795773932.9677548,
-"laatst": 1795773932.9677548,
-"keer": 0,
-"fout": ""
+"laatst": 1795784735.470384,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1828991": {
 "melding": {
@@ -11617,7 +11588,7 @@
 "kanaal_storing": {
 "WhatsApp": {
 "sinds": 1791487272.8609586,
-"geprobeerd": 1795781125.0886514
+"geprobeerd": 1795784731.8619747
 }
 },
 "zoekpagina_leeg": {
