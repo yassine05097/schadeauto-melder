@@ -11247,23 +11247,40 @@
 "1830717",
 "1830720",
 "1830722",
-"1830721"
+"1830721",
+"1830723"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830722,
+"hoogste_id": 1830723,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830723",
 "1830722",
 "1830721",
 "1830720",
-"1830471",
-"1830553"
+"1830471"
 ]
 },
-"wachtrij": {},
+"wachtrij": {
+"1830723": {
+"melding": {
+"titel": "Volkswagen Golf (2023)",
+"bericht": "2.0 GTI DSG Panorama dak\n€ 21.000 · 58.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-2-0-gti-dsg-panorama-dak/o/1830723",
+"foto": "https://www.schadeautos.nl/cache/picture/13/1830723/f7ccf71a3b161de4c3a63bbd11b721df~v195814390.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795815055.5814893,
+"laatst": 1795815055.5814893,
+"keer": 0,
+"fout": ""
+}
+},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
