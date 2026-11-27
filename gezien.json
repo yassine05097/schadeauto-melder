@@ -11150,20 +11150,25 @@
 "1830609",
 "1830526",
 "1829179",
-"1830613"
+"1830613",
+"1830612",
+"1830615",
+"1830608",
+"1827335",
+"1830457"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830613,
+"hoogste_id": 1830615,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830526",
-"1828521",
-"1829179",
-"1830613",
-"1821414"
+"1830612",
+"1830615",
+"1830608",
+"1827335",
+"1830457"
 ]
 },
 "wachtrij": {
@@ -11584,6 +11589,21 @@
 ],
 "sinds": 1795783533.600635,
 "laatst": 1795783533.600635,
+"keer": 0,
+"fout": ""
+},
+"1830615": {
+"melding": {
+"titel": "Toyota Yaris (2023)",
+"bericht": "€ 7.900 · 56.679 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris/o/1830615",
+"foto": "https://www.schadeautos.nl/cache/picture/1026/1830615/52cb1f66d3d28868d4376ce3f7d55217~v195784000.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795784127.1951373,
+"laatst": 1795784127.1951373,
 "keer": 0,
 "fout": ""
 }
