@@ -11108,20 +11108,22 @@
 "1830473",
 "1830552",
 "1670974",
-"1827415"
+"1827415",
+"1829496",
+"1830557"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830552,
+"hoogste_id": 1830557,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1829496",
+"1830557",
 "1827415",
-"1830552",
 "1810404",
-"1670974",
-"1830544"
+"1670974"
 ]
 },
 "wachtrij": {
@@ -11452,6 +11454,21 @@
 ],
 "sinds": 1795777264.5934296,
 "laatst": 1795777264.5934296,
+"keer": 0,
+"fout": ""
+},
+"1829496": {
+"melding": {
+"titel": "Volkswagen Caddy (2024)",
+"bericht": "MAXI MODIFIED PARTITION WALL\n€ 15.730 · 136.594 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-maxi-modified-partition-wall/o/1829496",
+"foto": "https://www.schadeautos.nl/cache/picture/125/1829496/0bba5d57ca3043bed08a90fd4fe5a8a7~v195537744.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795777841.1898146,
+"laatst": 1795777841.1898146,
 "keer": 0,
 "fout": ""
 }
