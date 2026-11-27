@@ -11241,38 +11241,24 @@
 "1830711",
 "1830710",
 "1830130",
-"1830714"
+"1830714",
+"1830715"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830714,
+"hoogste_id": 1830715,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830715",
 "1830130",
 "1830714",
 "1830712",
-"1830711",
-"1830710"
+"1830711"
 ]
 },
 "wachtrij": {
-"1830634": {
-"melding": {
-"titel": "Volkswagen Caddy (2024)",
-"bericht": "CADDY CARGO 2.0 TDI 55KW MAXI\n€ 8.470 · 10.480 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-caddy-caddy-cargo-2-0-tdi-55kw-maxi/o/1830634",
-"foto": "https://www.schadeautos.nl/cache/picture/125/1830634/8111604b169c608d9edc39f0a3f7e8ae~v195788159.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795788335.2251515,
-"laatst": 1795788335.2251515,
-"keer": 0,
-"fout": ""
-},
 "1830650": {
 "melding": {
 "titel": "Audi A3 (2025)",
