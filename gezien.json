@@ -11085,38 +11085,24 @@
 "1830509",
 "1824113",
 "1830494",
-"1830503"
+"1830503",
+"1830531"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830509,
+"hoogste_id": 1830531,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830531",
+"1828708",
+"1828707",
 "1830509",
-"1824113",
-"1830494",
-"1830503",
-"1813186"
+"1824113"
 ]
 },
 "wachtrij": {
-"1830396": {
-"melding": {
-"titel": "Volkswagen Amarok (2023)",
-"bericht": "€ 30.855 · 79.000 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-amarok/o/1830396",
-"foto": "https://www.schadeautos.nl/cache/picture/987/1830396/3a710e0475e9ef26a6f4913eec670e8b~v195762812.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795762856.4457333,
-"laatst": 1795773651.1668262,
-"keer": 3,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
 "1830399": {
 "melding": {
 "titel": "Skoda Octavia (2025)",
@@ -11399,6 +11385,21 @@
 ],
 "sinds": 1795773656.0353372,
 "laatst": 1795773656.0353372,
+"keer": 0,
+"fout": ""
+},
+"1830531": {
+"melding": {
+"titel": "BMW X7 (2025)",
+"bericht": "xDrive40d M Sport Pro 7-Sitzer PANO/HUD/AHK\n€ 74.900 · 26.381 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x7-xdrive40d-m-sport-pro-7-sitzer-pano-hud-ahk/o/1830531",
+"foto": "https://www.schadeautos.nl/picture/1018/m/1830531/vardam3ii3lepngpii55aox9hi4h9evt~v195773910.jpeg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795773932.9677548,
+"laatst": 1795773932.9677548,
 "keer": 0,
 "fout": ""
 }
