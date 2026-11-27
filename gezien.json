@@ -11093,7 +11093,10 @@
 "1830521",
 "1830533",
 "1828991",
-"1830536"
+"1830536",
+"1730844",
+"1830534",
+"1830535"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11102,29 +11105,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1825136",
-"1827069",
-"1828991",
-"1830536",
-"1823967"
+"1824422",
+"1730844",
+"1821043",
+"1830534",
+"1830535"
 ]
 },
 "wachtrij": {
-"1830399": {
-"melding": {
-"titel": "Skoda Octavia (2025)",
-"bericht": "Combi 1.5 TSI mHEV 110 kW Ambition\n€ 21.900 · 22.092 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-combi-1-5-tsi-mhev-110-kw-ambition/o/1830399",
-"foto": "https://www.schadeautos.nl/picture/323/m/1830399/sbvuq8hajjb0mncl6n2vnw6fz7sbjt8p~v195764289.jpeg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795764324.0302432,
-"laatst": 1795764324.0302432,
-"keer": 0,
-"fout": ""
-},
 "1825001": {
 "melding": {
 "titel": "Opnieuw geplaatst: Opel Corsa (2025)",
@@ -11424,13 +11412,24 @@
 "laatst": 1795774875.3662474,
 "keer": 0,
 "fout": ""
+},
+"1830535": {
+"melding": {
+"titel": "Citroën C3 (2022)",
+"bericht": "1.2 PT C-Series\n€ 6.250 · 86.613 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3-1-2-pt-c-series/o/1830535",
+"foto": "https://www.schadeautos.nl/cache/picture/230/1830535/3e0475fdfaeb8bd1dac5d695fda19208~v195774779.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795775446.251876,
+"laatst": 1795775446.251876,
+"keer": 0,
+"fout": ""
 }
 },
-"storing": {
-"sinds": 1795775210.7148216,
-"keer": 1,
-"laatst": 1795775210.7148216
-},
+"storing": {},
 "kanaal_storing": {
 "WhatsApp": {
 "sinds": 1791487272.8609586,
