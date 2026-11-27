@@ -11147,38 +11147,26 @@
 "1830602",
 "1830584",
 "1830607",
-"1830609"
+"1830609",
+"1830526",
+"1829179",
+"1830613"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830609,
+"hoogste_id": 1830613,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1821414",
-"1830607",
-"1830609",
-"1830598",
-"1819177"
+"1830526",
+"1828521",
+"1829179",
+"1830613",
+"1821414"
 ]
 },
 "wachtrij": {
-"1829205": {
-"melding": {
-"titel": "Polestar 2 (2025)",
-"bericht": "82KWH 350 KW PERF 4WD PANORAMA\n€ 18.850 · 52.954 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/polestar-2-82kwh-350-kw-perf-4wd-panorama/o/1829205",
-"foto": "https://www.schadeautos.nl/cache/picture/451/1829205/6d21617144e494daea0096c668e1a15a~v195510332.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795773032.4941602,
-"laatst": 1795773032.4941602,
-"keer": 0,
-"fout": ""
-},
 "1830509": {
 "melding": {
 "titel": "MG ZS EV (2023)",
