@@ -11220,68 +11220,26 @@
 "1768962",
 "1830686",
 "1830679",
-"1830685"
+"1830685",
+"1830690",
+"1830689",
+"1830680"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830686,
+"hoogste_id": 1830690,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1825879",
-"1768962",
-"1830686",
-"1830679",
-"1830685"
+"1830690",
+"1830689",
+"1830680",
+"1791907",
+"1814017"
 ]
 },
 "wachtrij": {
-"1830597": {
-"melding": {
-"titel": "Volkswagen Tiguan (2023)",
-"bericht": "Allspace\nexportprijs € 14.500 · 65.254 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-allspace/o/1830597",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1830597/57abfad663b0e73da6ebedce71588ea7~v195782291.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795782341.1341128,
-"laatst": 1795782341.1341128,
-"keer": 0,
-"fout": ""
-},
-"1830596": {
-"melding": {
-"titel": "Peugeot 208 (2024)",
-"bericht": "exportprijs € 8.200 · 17.225 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1830596",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1830596/d97d69ec51ea746bdbecc4355a46a525~v195782270.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795782341.3945403,
-"laatst": 1795782341.3945403,
-"keer": 0,
-"fout": ""
-},
-"1830595": {
-"melding": {
-"titel": "Opel Grandland (2023)",
-"bericht": "X\nexportprijs € 9.500 · 42.287 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-grandland-x/o/1830595",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1830595/4369ea78b577377dc99a5dbbb9b1cff9~v195782263.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795782341.660556,
-"laatst": 1795782341.660556,
-"keer": 0,
-"fout": ""
-},
 "1830573": {
 "melding": {
 "titel": "Lynk & Co (2022)",
@@ -11684,6 +11642,36 @@
 ],
 "sinds": 1795793128.374263,
 "laatst": 1795793128.374263,
+"keer": 0,
+"fout": ""
+},
+"1830690": {
+"melding": {
+"titel": "Peugeot Partner (2025)",
+"bericht": "exportprijs € 6.500 · 14.157 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-partner/o/1830690",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830690/f0523cae88b6629699bc17d04df27d19~v195793364.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795793442.8951032,
+"laatst": 1795793442.8951032,
+"keer": 0,
+"fout": ""
+},
+"1830689": {
+"melding": {
+"titel": "Nissan Primastar (2025)",
+"bericht": "exportprijs € 10.700 · 54.283 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/nissan-primastar/o/1830689",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830689/dab00752a64cbbd21620e8f8b5e630ca~v195793351.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795793442.9397552,
+"laatst": 1795793442.9397552,
 "keer": 0,
 "fout": ""
 }
