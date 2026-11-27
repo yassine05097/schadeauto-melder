@@ -11141,38 +11141,27 @@
 "1830588",
 "1830573",
 "1830578",
-"1830599"
+"1830599",
+"1830598",
+"1830604",
+"1830602",
+"1830584"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830599,
+"hoogste_id": 1830604,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830573",
-"1830578",
-"1830599",
-"1830597",
-"1830596"
+"1830598",
+"1819177",
+"1830604",
+"1830602",
+"1830584"
 ]
 },
 "wachtrij": {
-"1830453": {
-"melding": {
-"titel": "Volvo EX30 (2025)",
-"bericht": "EX 30 69kWh Ext. range Core Edition\n€ 17.600 · 24.180 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-ex30-ex-30-69kwh-ext-range-core-edition/o/1830453",
-"foto": "https://www.schadeautos.nl/cache/picture/375/1830453/8abc6c6b811bc63518fb91e0c565a080~v195771498.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795771849.5477371,
-"laatst": 1795771849.5477371,
-"keer": 0,
-"fout": ""
-},
 "1744030": {
 "melding": {
 "titel": "Opnieuw geplaatst: Hyundai I-10 (2022)",
@@ -11575,6 +11564,36 @@
 ],
 "sinds": 1795782645.4247596,
 "laatst": 1795782645.4247596,
+"keer": 0,
+"fout": ""
+},
+"1830604": {
+"melding": {
+"titel": "Ford Explorer (2025)",
+"bericht": "exportprijs € 13.900 · 58.959 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-explorer/o/1830604",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830604/dcc533b812214dd96b5636d46c5cf637~v195782836.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795782926.1616378,
+"laatst": 1795782926.1616378,
+"keer": 0,
+"fout": ""
+},
+"1830584": {
+"melding": {
+"titel": "Volvo Xc-60 (2022)",
+"bericht": "B4 PLUS DARK AWD PANORAMADAK LEER LED ACC\n€ 15.900 · 68.290 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc-60-b4-plus-dark-awd-panoramadak-leer-led-acc/o/1830584",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1830584/f966ab1fa94a31e4d0dbfd6e3d06cc48~v195782329.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795782926.2679408,
+"laatst": 1795782926.2679408,
 "keer": 0,
 "fout": ""
 }
