@@ -11426,7 +11426,11 @@
 "fout": ""
 }
 },
-"storing": {},
+"storing": {
+"sinds": 1795775210.7148216,
+"keer": 1,
+"laatst": 1795775210.7148216
+},
 "kanaal_storing": {
 "WhatsApp": {
 "sinds": 1791487272.8609586,
