@@ -11133,20 +11133,25 @@
 "1830585",
 "1830583",
 "1830582",
-"1830581"
+"1830581",
+"1830597",
+"1830596",
+"1830595",
+"1830589",
+"1830588"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830585,
+"hoogste_id": 1830597,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830585",
-"1830583",
-"1830582",
-"1830581",
-"1830567"
+"1830597",
+"1830596",
+"1830595",
+"1830589",
+"1830588"
 ]
 },
 "wachtrij": {
@@ -11494,6 +11499,51 @@
 "laatst": 1795782043.5038095,
 "keer": 0,
 "fout": ""
+},
+"1830597": {
+"melding": {
+"titel": "Volkswagen Tiguan (2023)",
+"bericht": "Allspace\nexportprijs € 14.500 · 65.254 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-allspace/o/1830597",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830597/57abfad663b0e73da6ebedce71588ea7~v195782291.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795782341.1341128,
+"laatst": 1795782341.1341128,
+"keer": 0,
+"fout": ""
+},
+"1830596": {
+"melding": {
+"titel": "Peugeot 208 (2024)",
+"bericht": "exportprijs € 8.200 · 17.225 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1830596",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830596/d97d69ec51ea746bdbecc4355a46a525~v195782270.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795782341.3945403,
+"laatst": 1795782341.3945403,
+"keer": 0,
+"fout": ""
+},
+"1830595": {
+"melding": {
+"titel": "Opel Grandland (2023)",
+"bericht": "X\nexportprijs € 9.500 · 42.287 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-grandland-x/o/1830595",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830595/4369ea78b577377dc99a5dbbb9b1cff9~v195782263.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795782341.660556,
+"laatst": 1795782341.660556,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
@@ -11504,6 +11554,6 @@
 }
 },
 "zoekpagina_leeg": {
-"personenautos": 1795778724.1339536
+"personenautos": 1795782333.9932346
 }
 }
