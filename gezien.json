@@ -11234,7 +11234,8 @@
 "1830699",
 "1830700",
 "1830706",
-"1830707"
+"1830707",
+"1830702"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11243,29 +11244,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830702",
 "1830707",
 "1811820",
 "1791918",
-"1830706",
-"1826507"
+"1830706"
 ]
 },
 "wachtrij": {
-"1830624": {
-"melding": {
-"titel": "Peugeot 208 (2024)",
-"bericht": "1.2 Hybrid 100 e-DCS6 GT\n€ 15.750 · 26.573 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-hybrid-100-e-dcs6-gt/o/1830624",
-"foto": "https://www.schadeautos.nl/cache/picture/707/1830624/0fb1e0a6965de79c0cb37d3d3525b607~v195784949.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795785038.5348072,
-"laatst": 1795785038.5348072,
-"keer": 0,
-"fout": ""
-},
 "1830530": {
 "melding": {
 "titel": "Mercedes A-klasse (2023)",
@@ -11608,6 +11594,21 @@
 ],
 "sinds": 1795795835.8546283,
 "laatst": 1795795835.8546283,
+"keer": 0,
+"fout": ""
+},
+"1830702": {
+"melding": {
+"titel": "Volkswagen Tiguan (2026)",
+"bericht": "2.0 TSI 4Motion Life Energy\n€ 23.950 · 3.332 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-2-0-tsi-4motion-life-energy/o/1830702",
+"foto": "https://www.schadeautos.nl/cache/picture/163/1830702/3bc4e5e418ba8d7303175b3bf88f1b5e~v195795401.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795796130.2113714,
+"laatst": 1795796130.2113714,
 "keer": 0,
 "fout": ""
 }
