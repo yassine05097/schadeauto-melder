@@ -11258,9 +11258,9 @@
 "personenautos": [
 "1830722",
 "1830721",
-"1830720",
 "1830471",
-"1830553"
+"1830553",
+"1830717"
 ]
 },
 "wachtrij": {
@@ -11275,9 +11275,9 @@
 "WhatsApp"
 ],
 "sinds": 1795793128.374263,
-"laatst": 1795793128.374263,
-"keer": 0,
-"fout": ""
+"laatst": 1795803927.9646196,
+"keer": 1,
+"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1830690": {
 "melding": {
@@ -11434,7 +11434,7 @@
 "kanaal_storing": {
 "WhatsApp": {
 "sinds": 1791487272.8609586,
-"geprobeerd": 1795800324.1914418
+"geprobeerd": 1795803924.2637403
 }
 },
 "zoekpagina_leeg": {
