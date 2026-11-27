@@ -11187,53 +11187,27 @@
 "1830652",
 "1830656",
 "1830650",
-"1830653"
+"1830653",
+"1830663",
+"1830658",
+"1830642",
+"1830659"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830656,
+"hoogste_id": 1830663,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830653",
-"1735662",
-"1819193",
-"1818231",
-"1818543"
+"1830663",
+"1830658",
+"1830642",
+"1830659",
+"1692931"
 ]
 },
 "wachtrij": {
-"1830547": {
-"melding": {
-"titel": "Toyota Rav-4 (2024)",
-"bericht": "2.5 AUTOMAAT Hybrid Dynamic\n€ 24.950 · 39.026 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-rav-4-2-5-automaat-hybrid-dynamic/o/1830547",
-"foto": "https://www.schadeautos.nl/cache/picture/49/1830547/f8751870c0669c49528eb27062138dd5~v195777947.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795778727.7592363,
-"laatst": 1795778727.7592363,
-"keer": 0,
-"fout": ""
-},
-"1830558": {
-"melding": {
-"titel": "Volkswagen Golf (2022)",
-"bericht": "8 1.4 e 150pk Aut Hybrid Style Elektrisch/ Benzine 2002 Camera alcantara stoelen massage standkachel\n€ 14.250 · 84.924 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-1-4-e-150pk-aut-hybrid-style-elektrisch-benzine-2002-camera-alcantara-stoelen-massage-standkachel/o/1830558",
-"foto": "https://www.schadeautos.nl/cache/picture/360/1830558/7e4ffe2dad69dbcfca9970cfd6a9c46c~v195778355.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795778727.8008716,
-"laatst": 1795778727.8008716,
-"keer": 0,
-"fout": ""
-},
 "1830569": {
 "melding": {
 "titel": "Toyota Yaris Cross (2022)",
