@@ -11174,38 +11174,26 @@
 "1650581",
 "1829095",
 "1824143",
-"1830316"
+"1830316",
+"1830631",
+"1800712",
+"1830633"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830627,
+"hoogste_id": 1830633,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1818132",
-"1819031",
-"1830316",
-"1826546",
-"1650581"
+"1830631",
+"1774936",
+"1800712",
+"1830633",
+"1799299"
 ]
 },
 "wachtrij": {
-"1830538": {
-"melding": {
-"titel": "Peugeot 308 (2023)",
-"bericht": "GT LINE AUTOMAAT 130 PK 5/DRS HB NAVI CLIMA CAMERA LED TREKH B.J 2023\n€ 10.750 · 61.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-308-gt-line-automaat-130-pk-5-drs-hb-navi-clima-camera-led-trekh-b-j-2023/o/1830538",
-"foto": "https://www.schadeautos.nl/cache/picture/947/1830538/0f8c8b490bf9896f10751780dfa24759~v195775566.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795775731.1823168,
-"laatst": 1795775731.1823168,
-"keer": 0,
-"fout": ""
-},
 "1830545": {
 "melding": {
 "titel": "Opel Corsa (2024)",
