@@ -11243,38 +11243,24 @@
 "1830130",
 "1830714",
 "1830715",
-"1830716"
+"1830716",
+"1830717"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830716,
+"hoogste_id": 1830717,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830717",
 "1830716",
 "1830715",
 "1830130",
-"1830714",
-"1830712"
+"1830714"
 ]
 },
 "wachtrij": {
-"1830650": {
-"melding": {
-"titel": "Audi A3 (2025)",
-"bericht": "S-Line 1.5 30 e-TFSI automaat\n€ 11.900 · 25.350 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-s-line-1-5-30-e-tfsi-automaat/o/1830650",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1830650/21e3a3e63ef823b6177aea597b5caa5d~v195788366.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795788941.186233,
-"laatst": 1795788941.186233,
-"keer": 0,
-"fout": ""
-},
 "1830653": {
 "melding": {
 "titel": "Skoda Scala (2025)",
@@ -11572,6 +11558,21 @@
 ],
 "sinds": 1795799731.672024,
 "laatst": 1795799731.672024,
+"keer": 0,
+"fout": ""
+},
+"1830717": {
+"melding": {
+"titel": "MG ZS (2026)",
+"bericht": "Hybrid + Facelift\n€ 16.800 · 14 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mg-zs-hybrid-facelift/o/1830717",
+"foto": "https://www.schadeautos.nl/cache/picture/13/1830717/2c02adea3fa0e7b1e89372b8ae08a83f~v195799742.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795800032.2694492,
+"laatst": 1795800032.2694492,
 "keer": 0,
 "fout": ""
 }
