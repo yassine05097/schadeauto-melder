@@ -11264,36 +11264,6 @@
 ]
 },
 "wachtrij": {
-"1830712": {
-"melding": {
-"titel": "Peugeot 208 (2023)",
-"bericht": "II ACTIVE PACK\n€ 6.400 · 90.023 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-ii-active-pack/o/1830712",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1830712/56cc6323e0579de1546a1cb3b1e8551f~v195797925.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795798230.0982292,
-"laatst": 1795807845.5707052,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1830711": {
-"melding": {
-"titel": "Opel Corsa (2026)",
-"bericht": "EDITION\n€ 8.500 · 5.482 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-edition/o/1830711",
-"foto": "https://www.schadeautos.nl/cache/picture/914/1830711/eb63d74de8ca8d2ca0ac5a70513fd083~v195797921.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795798230.1341932,
-"laatst": 1795798230.1341932,
-"keer": 0,
-"fout": ""
-},
 "1830714": {
 "melding": {
 "titel": "Peugeot 5008 (2026)",
@@ -11363,6 +11333,6 @@
 }
 },
 "zoekpagina_leeg": {
-"personenautos": 1795805430.8328729
+"personenautos": 1795809036.2383611
 }
 }
