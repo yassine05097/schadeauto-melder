@@ -11036,20 +11036,25 @@
 "1825001",
 "1830401",
 "1830402",
-"1714140"
+"1714140",
+"1827832",
+"1797942",
+"1830404",
+"1830344",
+"1830306"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830402,
+"hoogste_id": 1830404,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1767044",
-"1830402",
-"1817493",
-"1714140",
-"1811694"
+"1827832",
+"1797942",
+"1830404",
+"1830344",
+"1830306"
 ]
 },
 "wachtrij": {
@@ -11095,6 +11100,21 @@
 ],
 "sinds": 1795765229.6806862,
 "laatst": 1795765229.6806862,
+"keer": 0,
+"fout": ""
+},
+"1830306": {
+"melding": {
+"titel": "Mercedes GLA (2023)",
+"bericht": "250 e Business Line\n€ 15.350 · 43.444 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-gla-250-e-business-line/o/1830306",
+"foto": "https://www.schadeautos.nl/cache/picture/51/1830306/28cfef378ea8566f8d3885904e738b35~v195706181.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795765830.6782188,
+"laatst": 1795765830.6782188,
 "keer": 0,
 "fout": ""
 }
