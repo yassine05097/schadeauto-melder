@@ -11231,38 +11231,24 @@
 "1830696",
 "1830693",
 "1830665",
-"1830699"
+"1830699",
+"1830700"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830699,
+"hoogste_id": 1830700,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1810838",
+"1830700",
 "1830665",
 "1830699",
-"1830698",
-"1830696",
-"1829864"
+"1830698"
 ]
 },
 "wachtrij": {
-"1830607": {
-"melding": {
-"titel": "Cupra Born (2022)",
-"bericht": "62Kwh Adrenaline One 204Pk 3Fase 88% Soh *Navi/clima/Camera/Stoelverwarming\n€ 17.450 · 154.791 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/cupra-born-62kwh-adrenaline-one-204pk-3fase-88-soh-navi-clima-camera-stoelverwarming/o/1830607",
-"foto": "https://www.schadeautos.nl/cache/picture/711/1830607/2a7cb65f7a941716446df95a51b5c63c~v195783134.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795783533.600635,
-"laatst": 1795783533.600635,
-"keer": 0,
-"fout": ""
-},
 "1830615": {
 "melding": {
 "titel": "Toyota Yaris (2023)",
