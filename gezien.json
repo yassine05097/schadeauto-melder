@@ -11236,38 +11236,26 @@
 "1830706",
 "1830707",
 "1830702",
-"1830704"
+"1830704",
+"1830712",
+"1830711",
+"1830710"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830707,
+"hoogste_id": 1830712,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830712",
+"1830711",
+"1830710",
 "1830704",
-"1811830",
-"1830655",
-"1828374",
-"1830240"
+"1811830"
 ]
 },
 "wachtrij": {
-"1830638": {
-"melding": {
-"titel": "Honda Jazz (2026)",
-"bericht": "1.5 e:HEV Advance Crosstar\n€ 13.350 · 3.552 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-jazz-1-5-e-hev-advance-crosstar/o/1830638",
-"foto": "https://www.schadeautos.nl/cache/picture/2/1830638/ed1c6d400e94fab6e086c39c74879a21~v195786838.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795787133.766557,
-"laatst": 1795787133.766557,
-"keer": 0,
-"fout": ""
-},
 "1830637": {
 "melding": {
 "titel": "Opel Astra (2024)",
@@ -11565,6 +11553,36 @@
 ],
 "sinds": 1795796130.2113714,
 "laatst": 1795796130.2113714,
+"keer": 0,
+"fout": ""
+},
+"1830712": {
+"melding": {
+"titel": "Peugeot 208 (2023)",
+"bericht": "II ACTIVE PACK\n€ 6.400 · 90.023 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-ii-active-pack/o/1830712",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1830712/56cc6323e0579de1546a1cb3b1e8551f~v195797925.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795798230.0982292,
+"laatst": 1795798230.0982292,
+"keer": 0,
+"fout": ""
+},
+"1830711": {
+"melding": {
+"titel": "Opel Corsa (2026)",
+"bericht": "EDITION\n€ 8.500 · 5.482 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-edition/o/1830711",
+"foto": "https://www.schadeautos.nl/cache/picture/914/1830711/eb63d74de8ca8d2ca0ac5a70513fd083~v195797921.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795798230.1341932,
+"laatst": 1795798230.1341932,
 "keer": 0,
 "fout": ""
 }
