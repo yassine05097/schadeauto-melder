@@ -11244,38 +11244,24 @@
 "1830714",
 "1830715",
 "1830716",
-"1830717"
+"1830717",
+"1830720"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830717,
+"hoogste_id": 1830720,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830720",
 "1830471",
 "1830553",
 "1830717",
-"1830715",
-"1830130"
+"1830715"
 ]
 },
 "wachtrij": {
-"1830670": {
-"melding": {
-"titel": "BYD SEAL (2023)",
-"bericht": "exportprijs € 14.900 · 5.038 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/byd-seal/o/1830670",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1830670/1c58fdf0c7936aa538c2047ce7fe6808~v195790555.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795790742.8008564,
-"laatst": 1795790742.8008564,
-"keer": 0,
-"fout": ""
-},
 "1830673": {
 "melding": {
 "titel": "Porsche 911 (2024)",
