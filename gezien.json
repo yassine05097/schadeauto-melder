@@ -11066,7 +11066,9 @@
 "1779869",
 "1830448",
 "1830447",
-"1830442"
+"1830442",
+"1830419",
+"1830446"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11075,11 +11077,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830454",
-"1779869",
-"1830448",
-"1830447",
-"1830442"
+"1828374",
+"1830240",
+"1830419",
+"1830446",
+"1830454"
 ]
 },
 "wachtrij": {
@@ -11260,6 +11262,36 @@
 ],
 "sinds": 1795770332.1984153,
 "laatst": 1795770332.1984153,
+"keer": 0,
+"fout": ""
+},
+"1830419": {
+"melding": {
+"titel": "Ford Kuga (2024)",
+"bericht": "ST-LINE ALCANTARA LED ACC\n€ 12.300 · 27.740 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-kuga-st-line-alcantara-led-acc/o/1830419",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1830419/c20a96fa43150be97312fa1c48c25e07~v195768448.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795770634.7290466,
+"laatst": 1795770634.7290466,
+"keer": 0,
+"fout": ""
+},
+"1830446": {
+"melding": {
+"titel": "Audi A3 (2023)",
+"bericht": "2.0 30 TDI 16V Sedan 4Dr Diesel 1.968cc 85kW (116pk) FWD S-Line\n€ 12.750 · 52.052 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-a3-2-0-30-tdi-16v-sedan-4dr-diesel-1-968cc-85kw-116pk-fwd-s-line/o/1830446",
+"foto": "https://www.schadeautos.nl/cache/picture/146/1830446/bf1f954478e09bda89aab9d860e58e1f~v195770183.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795770634.7714288,
+"laatst": 1795770634.7714288,
 "keer": 0,
 "fout": ""
 }
