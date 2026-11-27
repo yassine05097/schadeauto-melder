@@ -11122,38 +11122,27 @@
 "1830563",
 "1830569",
 "1830566",
-"1830567"
+"1830567",
+"1828925",
+"1830564",
+"1829537",
+"1830570"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830569,
+"hoogste_id": 1830570,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830566",
-"1830567",
-"1830569",
-"1830565",
-"1830561"
+"1825032",
+"1828925",
+"1830564",
+"1829537",
+"1830570"
 ]
 },
 "wachtrij": {
-"1830438": {
-"melding": {
-"titel": "Hyundai I-10 (2023)",
-"bericht": "1.0 Comfort\n€ 7.750 · 43.609 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort/o/1830438",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795769441.1288438,
-"laatst": 1795769441.1288438,
-"keer": 0,
-"fout": ""
-},
 "1830435": {
 "melding": {
 "titel": "Ford Focus (2023)",
@@ -11496,6 +11485,36 @@
 ],
 "sinds": 1795780239.2141542,
 "laatst": 1795780239.2141542,
+"keer": 0,
+"fout": ""
+},
+"1830564": {
+"melding": {
+"titel": "Toyota Rav-4 (2024)",
+"bericht": "2.5 Hybrid AWD Limited Navi Clima\n€ 27.250 · 63.409 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-rav-4-2-5-hybrid-awd-limited-navi-clima/o/1830564",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1830564/3c1aa264869b8a0f705c7872bc4ad2f5~v195779769.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795780525.9106278,
+"laatst": 1795780525.9106278,
+"keer": 0,
+"fout": ""
+},
+"1829537": {
+"melding": {
+"titel": "Renault Master (2023)",
+"bericht": "Dci 165 Krismar Dubbelcabine\nexportprijs € 21.950 · 592.030 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-master-dci-165-krismar-dubbelcabine/o/1829537",
+"foto": "https://www.schadeautos.nl/cache/picture/861/1829537/3d6209eea3c9e748a7f7918426e269b4~v195543452.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795780526.1326976,
+"laatst": 1795780526.1326976,
 "keer": 0,
 "fout": ""
 }
