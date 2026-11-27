@@ -11263,23 +11263,7 @@
 "1830553"
 ]
 },
-"wachtrij": {
-"1830721": {
-"melding": {
-"titel": "Volkswagen Taigo (2024)",
-"bericht": "exportprijs € 5.850 · 55.646 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-taigo/o/1830721",
-"foto": "https://www.schadeautos.nl/picture/819/m/1830721/hb9i8wh79poznxw3x8sxx42gevt6z901~v195802995.jpeg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795803030.5252597,
-"laatst": 1795811727.5218382,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-}
-},
+"wachtrij": {},
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
