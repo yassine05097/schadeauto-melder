@@ -11186,7 +11186,8 @@
 "1830634",
 "1830652",
 "1830656",
-"1830650"
+"1830650",
+"1830653"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11195,11 +11196,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830653",
 "1735662",
 "1819193",
 "1818231",
-"1818543",
-"1817892"
+"1818543"
 ]
 },
 "wachtrij": {
@@ -11620,6 +11621,21 @@
 ],
 "sinds": 1795788941.186233,
 "laatst": 1795788941.186233,
+"keer": 0,
+"fout": ""
+},
+"1830653": {
+"melding": {
+"titel": "Skoda Scala (2025)",
+"bericht": "MONTE CARLO PANORAMADAK LED ACC AMUNDSEN\n€ 9.900 · 14.561 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-monte-carlo-panoramadak-led-acc-amundsen/o/1830653",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1830653/d844314735371f6bdde61aefaa5fec07~v195788986.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795789530.9082599,
+"laatst": 1795789530.9082599,
 "keer": 0,
 "fout": ""
 }
