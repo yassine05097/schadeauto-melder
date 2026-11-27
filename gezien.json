@@ -11216,68 +11216,27 @@
 "1830432",
 "1824271",
 "1830681",
-"1830672"
+"1830672",
+"1768962",
+"1830686",
+"1830679",
+"1830685"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830681,
+"hoogste_id": 1830686,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1811178",
-"1830672",
-"1791916",
-"1812504",
-"1824271"
+"1825879",
+"1768962",
+"1830686",
+"1830679",
+"1830685"
 ]
 },
 "wachtrij": {
-"1830583": {
-"melding": {
-"titel": "Opel (2024)",
-"bericht": "50 kWh Edition Camera Cruise Clima Apple/Android\n€ 12.750 · 16.895 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-50-kwh-edition-camera-cruise-clima-apple-android/o/1830583",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1830583/79d051ab8b10bd79dc73775a4c1f1851~v195781993.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795782043.0064037,
-"laatst": 1795792537.7353942,
-"keer": 1,
-"fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
-},
-"1830582": {
-"melding": {
-"titel": "Kia Picanto (2025)",
-"bericht": "1.0 DPI DynamicLine Aut. Cruise Navi Virtual Apple/Android Camera PDC Airco\n€ 12.950 · 23.823 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-dynamicline-aut-cruise-navi-virtual-apple-android-camera-pdc-airco/o/1830582",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1830582/a79c257e02f01050c8750e321e467391~v195781980.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795782043.2438064,
-"laatst": 1795782043.2438064,
-"keer": 0,
-"fout": ""
-},
-"1830581": {
-"melding": {
-"titel": "Lynk & Co 01 (2023)",
-"bericht": "1.5 Pano 360° Memory Infinity ACC SHZ AHK Navi\n€ 13.450 · 55.360 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-pano-360-memory-infinity-acc-shz-ahk-navi/o/1830581",
-"foto": "https://www.schadeautos.nl/cache/picture/366/1830581/0dd7e65039566161d6e91f55983500d1~v195781950.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795782043.5038095,
-"laatst": 1795782043.5038095,
-"keer": 0,
-"fout": ""
-},
 "1830597": {
 "melding": {
 "titel": "Volkswagen Tiguan (2023)",
@@ -11710,6 +11669,21 @@
 ],
 "sinds": 1795792547.0272927,
 "laatst": 1795792547.0272927,
+"keer": 0,
+"fout": ""
+},
+"1830686": {
+"melding": {
+"titel": "Peugeot 208 (2026)",
+"bericht": "exportprijs € 4.750 · 12.802 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208/o/1830686",
+"foto": "https://www.schadeautos.nl/cache/picture/819/1830686/f4b149ed1203cc9306538f2029b5fcde~v195792913.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795793128.374263,
+"laatst": 1795793128.374263,
 "keer": 0,
 "fout": ""
 }
