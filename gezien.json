@@ -11070,7 +11070,10 @@
 "1830419",
 "1830446",
 "1830445",
-"1830465"
+"1830465",
+"1830453",
+"1828948",
+"1830463"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11079,11 +11082,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830465",
-"1771373",
-"1828278",
-"1830445",
-"1826445"
+"1830453",
+"1822358",
+"1828948",
+"1830463",
+"1795022"
 ]
 },
 "wachtrij": {
@@ -11309,6 +11312,21 @@
 ],
 "sinds": 1795771231.958151,
 "laatst": 1795771231.958151,
+"keer": 0,
+"fout": ""
+},
+"1830453": {
+"melding": {
+"titel": "Volvo EX30 (2025)",
+"bericht": "EX 30 69kWh Ext. range Core Edition\n€ 17.600 · 24.180 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-ex30-ex-30-69kwh-ext-range-core-edition/o/1830453",
+"foto": "https://www.schadeautos.nl/cache/picture/375/1830453/8abc6c6b811bc63518fb91e0c565a080~v195771498.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795771849.5477371,
+"laatst": 1795771849.5477371,
 "keer": 0,
 "fout": ""
 }
