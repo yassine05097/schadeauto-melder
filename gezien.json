@@ -11164,20 +11164,21 @@
 "1830606",
 "1830620",
 "1830622",
-"1830621"
+"1830621",
+"1830624"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830622,
+"hoogste_id": 1830624,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830624",
 "1828284",
 "1830620",
 "1830622",
-"1830621",
-"1830302"
+"1830621"
 ]
 },
 "wachtrij": {
@@ -11568,6 +11569,21 @@
 ],
 "sinds": 1795784127.1951373,
 "laatst": 1795784127.1951373,
+"keer": 0,
+"fout": ""
+},
+"1830624": {
+"melding": {
+"titel": "Peugeot 208 (2024)",
+"bericht": "1.2 Hybrid 100 e-DCS6 GT\n€ 15.750 · 26.573 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-208-1-2-hybrid-100-e-dcs6-gt/o/1830624",
+"foto": "https://www.schadeautos.nl/cache/picture/707/1830624/0fb1e0a6965de79c0cb37d3d3525b607~v195784949.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795785038.5348072,
+"laatst": 1795785038.5348072,
 "keer": 0,
 "fout": ""
 }
