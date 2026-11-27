@@ -11126,7 +11126,8 @@
 "1828925",
 "1830564",
 "1829537",
-"1830570"
+"1830570",
+"1829159"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11135,29 +11136,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1804312",
+"1824572",
+"1829159",
 "1825032",
-"1828925",
-"1830564",
-"1829537",
-"1830570"
+"1828925"
 ]
 },
 "wachtrij": {
-"1830435": {
-"melding": {
-"titel": "Ford Focus (2023)",
-"bericht": "ST SPORT1.0 HYRIDE AUTOMAAT\n€ 10.500 · 87.500 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-st-sport1-0-hyride-automaat/o/1830435",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1830435/1bf8d2aa68f640d754dc01e1d95aabbe~v195769395.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795769730.6677601,
-"laatst": 1795769730.6677601,
-"keer": 0,
-"fout": ""
-},
 "1830454": {
 "melding": {
 "titel": "Audi Q6 (2024)",
