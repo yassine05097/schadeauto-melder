@@ -11059,7 +11059,9 @@
 "1830417",
 "1771580",
 "1813534",
-"1830438"
+"1830438",
+"1723033",
+"1830435"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11068,11 +11070,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1781401",
-"1789195",
-"1830438",
-"1826538",
-"1813534"
+"1746493",
+"1742087",
+"1723033",
+"1830435",
+"1781401"
 ]
 },
 "wachtrij": {
@@ -11087,8 +11089,8 @@
 "WhatsApp"
 ],
 "sinds": 1795762856.4457333,
-"laatst": 1795766128.477728,
-"keer": 1,
+"laatst": 1795769730.1182888,
+"keer": 2,
 "fout": "CallMeBot zegt:  Your Account is Paused due to technical issues. Please send the word \" resume \" to your bot (+34 623 80 11 90) to re-enable the service for your number. Or, You can also use the button below: Thank you and sorry for the inconvenience. Example: (Stuur 'resume' via WhatsApp naar de CallMeBot-bot.)"
 },
 "1830399": {
@@ -11210,13 +11212,28 @@
 "laatst": 1795769441.1288438,
 "keer": 0,
 "fout": ""
+},
+"1830435": {
+"melding": {
+"titel": "Ford Focus (2023)",
+"bericht": "ST SPORT1.0 HYRIDE AUTOMAAT\n€ 10.500 · 87.500 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-focus-st-sport1-0-hyride-automaat/o/1830435",
+"foto": "https://www.schadeautos.nl/cache/picture/104/1830435/1bf8d2aa68f640d754dc01e1d95aabbe~v195769395.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795769730.6677601,
+"laatst": 1795769730.6677601,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
 "kanaal_storing": {
 "WhatsApp": {
 "sinds": 1791487272.8609586,
-"geprobeerd": 1795766124.7563372
+"geprobeerd": 1795769726.667846
 }
 },
 "zoekpagina_leeg": {
