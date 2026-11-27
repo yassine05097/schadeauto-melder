@@ -11119,38 +11119,24 @@
 "1731328",
 "1830565",
 "1830561",
-"1830563"
+"1830563",
+"1830569"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830565,
+"hoogste_id": 1830569,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830569",
 "1830565",
 "1830561",
 "1830563",
-"1731328",
-"1825452"
+"1731328"
 ]
 },
 "wachtrij": {
-"1830429": {
-"melding": {
-"titel": "Opel Astra (2023)",
-"bericht": "1.2t Edition 5 Drs\n€ 11.950 · 65.034 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-2t-edition-5-drs/o/1830429",
-"foto": "https://www.schadeautos.nl/gfx/build-year.png"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795768832.5929189,
-"laatst": 1795768832.5929189,
-"keer": 0,
-"fout": ""
-},
 "1813534": {
 "melding": {
 "titel": "Opnieuw geplaatst: Porsche Taycan (2024)",
@@ -11493,6 +11479,21 @@
 ],
 "sinds": 1795778727.8008716,
 "laatst": 1795778727.8008716,
+"keer": 0,
+"fout": ""
+},
+"1830569": {
+"melding": {
+"titel": "Toyota Yaris Cross (2022)",
+"bericht": "1.5 HYBRID DYNAMIC\n€ 12.950 · 63.000 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-yaris-cross-1-5-hybrid-dynamic/o/1830569",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795779933.6992416,
+"laatst": 1795779933.6992416,
 "keer": 0,
 "fout": ""
 }
