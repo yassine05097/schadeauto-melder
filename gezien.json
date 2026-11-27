@@ -11253,29 +11253,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830471",
+"1830553",
 "1830717",
 "1830715",
-"1830130",
-"1830714",
-"1830712"
+"1830130"
 ]
 },
 "wachtrij": {
-"1786731": {
-"melding": {
-"titel": "Opnieuw geplaatst: Volkswagen Arteon (2022)",
-"bericht": "1.4 TSI eHy R Bns+\n€ 12.750 · 104.636 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-arteon-1-4-tsi-ehy-r-bns/o/1786731",
-"foto": "https://www.schadeautos.nl/cache/picture/230/1786731/73e689307accec19b056fd3e4c016a24~v183000019.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795790446.1048005,
-"laatst": 1795790446.1048005,
-"keer": 0,
-"fout": ""
-},
 "1830670": {
 "melding": {
 "titel": "BYD SEAL (2023)",
@@ -11555,6 +11540,6 @@
 }
 },
 "zoekpagina_leeg": {
-"personenautos": 1795797933.0519338
+"personenautos": 1795801533.8348062
 }
 }
