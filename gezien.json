@@ -11058,20 +11058,21 @@
 "1830429",
 "1830417",
 "1771580",
-"1813534"
+"1813534",
+"1830438"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830429,
+"hoogste_id": 1830438,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1813534",
-"1830269",
-"1830429",
-"1830417",
-"1820116"
+"1781401",
+"1789195",
+"1830438",
+"1826538",
+"1813534"
 ]
 },
 "wachtrij": {
@@ -11192,6 +11193,21 @@
 ],
 "sinds": 1795769136.7545345,
 "laatst": 1795769136.7545345,
+"keer": 0,
+"fout": ""
+},
+"1830438": {
+"melding": {
+"titel": "Hyundai I-10 (2023)",
+"bericht": "1.0 Comfort\n€ 7.750 · 43.609 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-i-10-1-0-comfort/o/1830438",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795769441.1288438,
+"laatst": 1795769441.1288438,
 "keer": 0,
 "fout": ""
 }
