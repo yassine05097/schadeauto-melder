@@ -11177,20 +11177,21 @@
 "1830316",
 "1830631",
 "1800712",
-"1830633"
+"1830633",
+"1830638"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830633,
+"hoogste_id": 1830638,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830638",
 "1830631",
 "1774936",
 "1800712",
-"1830633",
-"1799299"
+"1830633"
 ]
 },
 "wachtrij": {
@@ -11596,6 +11597,21 @@
 ],
 "sinds": 1795786526.521092,
 "laatst": 1795786526.521092,
+"keer": 0,
+"fout": ""
+},
+"1830638": {
+"melding": {
+"titel": "Honda Jazz (2026)",
+"bericht": "1.5 e:HEV Advance Crosstar\n€ 13.350 · 3.552 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/honda-jazz-1-5-e-hev-advance-crosstar/o/1830638",
+"foto": "https://www.schadeautos.nl/cache/picture/2/1830638/ed1c6d400e94fab6e086c39c74879a21~v195786838.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795787133.766557,
+"laatst": 1795787133.766557,
 "keer": 0,
 "fout": ""
 }
