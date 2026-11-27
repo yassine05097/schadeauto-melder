@@ -11242,20 +11242,21 @@
 "1830710",
 "1830130",
 "1830714",
-"1830715"
+"1830715",
+"1830716"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830715,
+"hoogste_id": 1830716,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830716",
 "1830715",
 "1830130",
 "1830714",
-"1830712",
-"1830711"
+"1830712"
 ]
 },
 "wachtrij": {
@@ -11556,6 +11557,21 @@
 ],
 "sinds": 1795798854.2803292,
 "laatst": 1795798854.2803292,
+"keer": 0,
+"fout": ""
+},
+"1830716": {
+"melding": {
+"titel": "Ford Puma (2025)",
+"bericht": "1.0 EcoBoost Hybrid ST-Line\n€ 12.250 · 24.179 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-1-0-ecoboost-hybrid-st-line/o/1830716",
+"foto": "https://www.schadeautos.nl/cache/picture/1028/1830716/48e4c71877a722c1239ade9eac5f20ba~v195799352.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795799731.672024,
+"laatst": 1795799731.672024,
 "keer": 0,
 "fout": ""
 }
