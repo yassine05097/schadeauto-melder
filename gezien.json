@@ -11226,53 +11226,26 @@
 "1830680",
 "1830691",
 "1830687",
-"1830683"
+"1830683",
+"1830698",
+"1830696",
+"1830693"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830691,
+"hoogste_id": 1830698,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830691",
-"1830687",
-"1830683",
-"1830690",
-"1830689"
+"1830698",
+"1830696",
+"1829864",
+"1830693",
+"1830146"
 ]
 },
 "wachtrij": {
-"1830604": {
-"melding": {
-"titel": "Ford Explorer (2025)",
-"bericht": "exportprijs € 13.900 · 58.959 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-explorer/o/1830604",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1830604/dcc533b812214dd96b5636d46c5cf637~v195782836.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795782926.1616378,
-"laatst": 1795782926.1616378,
-"keer": 0,
-"fout": ""
-},
-"1830584": {
-"melding": {
-"titel": "Volvo Xc-60 (2022)",
-"bericht": "B4 PLUS DARK AWD PANORAMADAK LEER LED ACC\n€ 15.900 · 68.290 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/volvo-xc-60-b4-plus-dark-awd-panoramadak-leer-led-acc/o/1830584",
-"foto": "https://www.schadeautos.nl/cache/picture/734/1830584/f966ab1fa94a31e4d0dbfd6e3d06cc48~v195782329.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795782926.2679408,
-"laatst": 1795782926.2679408,
-"keer": 0,
-"fout": ""
-},
 "1830607": {
 "melding": {
 "titel": "Cupra Born (2022)",
@@ -11657,6 +11630,6 @@
 }
 },
 "zoekpagina_leeg": {
-"personenautos": 1795790127.3002088
+"personenautos": 1795794032.714067
 }
 }
