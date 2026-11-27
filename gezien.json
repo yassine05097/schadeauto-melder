@@ -11170,7 +11170,10 @@
 "1829330",
 "1830627",
 "1830530",
-"1830626"
+"1830626",
+"1650581",
+"1829095",
+"1824143"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11179,29 +11182,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830627",
-"1830530",
-"1830626",
-"1830625",
-"1829330"
+"1650581",
+"1829116",
+"1829095",
+"1824143",
+"1830627"
 ]
 },
 "wachtrij": {
-"1828991": {
-"melding": {
-"titel": "Xpeng G6 (2024)",
-"bericht": "RWD Standard Range 66KWh\n€ 20.250 · 32.632 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/xpeng-g6-rwd-standard-range-66kwh/o/1828991",
-"foto": "https://www.schadeautos.nl/cache/picture/1028/1828991/42957c9ac1f93e9a16e01c3aa3ec4370~v195445113.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795774875.3662474,
-"laatst": 1795774875.3662474,
-"keer": 0,
-"fout": ""
-},
 "1830535": {
 "melding": {
 "titel": "Citroën C3 (2022)",
@@ -11604,6 +11592,21 @@
 ],
 "sinds": 1795785634.6426249,
 "laatst": 1795785634.6426249,
+"keer": 0,
+"fout": ""
+},
+"1824143": {
+"melding": {
+"titel": "Opnieuw geplaatst: Kia Picanto (2024)",
+"bericht": "Edition 7 Comfortline 1.0 DPi, Airco, Cruise\n€ 7.995 · 71.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-edition-7-comfortline-1-0-dpi-airco-cruise/o/1824143",
+"foto": "https://www.schadeautos.nl/cache/picture/344/1824143/0cd3702f7a7577ea7022b515fd1b8cb2~v195785528.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795785929.6609268,
+"laatst": 1795785929.6609268,
 "keer": 0,
 "fout": ""
 }
