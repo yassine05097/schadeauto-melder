@@ -11198,20 +11198,21 @@
 "1830648",
 "1830668",
 "1786731",
-"1830670"
+"1830670",
+"1830673"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830670,
+"hoogste_id": 1830673,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830673",
 "1830670",
 "1830668",
 "1786731",
-"1830664",
-"1830662"
+"1830664"
 ]
 },
 "wachtrij": {
@@ -11647,6 +11648,21 @@
 ],
 "sinds": 1795790742.8008564,
 "laatst": 1795790742.8008564,
+"keer": 0,
+"fout": ""
+},
+"1830673": {
+"melding": {
+"titel": "Porsche 911 (2024)",
+"bericht": "4.0 GT3 RS Weissach PCCB PASM Lift Bose Camera Cruise\n€ 228.950 · 6.649 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-911-4-0-gt3-rs-weissach-pccb-pasm-lift-bose-camera-cruise/o/1830673",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1830673/a01ca9723896fddb2c577d45165fec9e~v195790869.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795791034.5612624,
+"laatst": 1795791034.5612624,
 "keer": 0,
 "fout": ""
 }
