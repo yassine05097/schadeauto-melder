@@ -11207,7 +11207,10 @@
 "1830428",
 "1830434",
 "1830655",
-"1828975"
+"1828975",
+"1830426",
+"1830666",
+"1830441"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11216,11 +11219,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1825435",
-"1830428",
-"1830434",
-"1830655",
-"1828975"
+"1789172",
+"1830426",
+"1830666",
+"1812535",
+"1830441"
 ]
 },
 "wachtrij": {
@@ -11641,6 +11644,21 @@
 ],
 "sinds": 1795791654.4053955,
 "laatst": 1795791654.4053955,
+"keer": 0,
+"fout": ""
+},
+"1830666": {
+"melding": {
+"titel": "Toyota bZ4X (2026)",
+"bericht": "Touring Executive AWD 75kWh 381pk\n€ 19.500 · 2.491 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-bz4x-touring-executive-awd-75kwh-381pk/o/1830666",
+"foto": "https://www.schadeautos.nl/cache/picture/7/1830666/6da42f89369c9795de7eb9ceaa6e204e~v195791695.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795791929.0777698,
+"laatst": 1795791929.0777698,
 "keer": 0,
 "fout": ""
 }
