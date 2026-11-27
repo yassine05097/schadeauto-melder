@@ -11223,53 +11223,26 @@
 "1830685",
 "1830690",
 "1830689",
-"1830680"
+"1830680",
+"1830691",
+"1830687",
+"1830683"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830690,
+"hoogste_id": 1830691,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830691",
+"1830687",
+"1830683",
 "1830690",
-"1830689",
-"1830680",
-"1791907",
-"1814017"
+"1830689"
 ]
 },
 "wachtrij": {
-"1830573": {
-"melding": {
-"titel": "Lynk & Co (2022)",
-"bericht": "01 1.5 179Pk *Navi/Clima/Camera/Stoelverwarming/Panorama\n€ 14.250 · 35.783 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-179pk-navi-clima-camera-stoelverwarming-panorama/o/1830573",
-"foto": "https://www.schadeautos.nl/cache/picture/711/1830573/010bda65a2ca2a3197bea1c9c5f1bc22~v195781867.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795782645.2466795,
-"laatst": 1795782645.2466795,
-"keer": 0,
-"fout": ""
-},
-"1830599": {
-"melding": {
-"titel": "Citroën C3 (2023)",
-"bericht": "exportprijs € 3.950 · 31.042 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/citroen-c3/o/1830599",
-"foto": "https://www.schadeautos.nl/cache/picture/819/1830599/01c8001ffcc35cc99ec81aac59daa357~v195782317.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795782645.4247596,
-"laatst": 1795782645.4247596,
-"keer": 0,
-"fout": ""
-},
 "1830604": {
 "melding": {
 "titel": "Ford Explorer (2025)",
