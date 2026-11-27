@@ -11052,20 +11052,21 @@
 "1830415",
 "1762098",
 "1830413",
-"1754367"
+"1754367",
+"1830421"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830415,
+"hoogste_id": 1830421,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830421",
+"1810889",
 "1827738",
 "1829879",
-"1772756",
-"1827546",
-"1789111"
+"1772756"
 ]
 },
 "wachtrij": {
@@ -11141,6 +11142,21 @@
 ],
 "sinds": 1795766129.4798055,
 "laatst": 1795766129.4798055,
+"keer": 0,
+"fout": ""
+},
+"1830421": {
+"melding": {
+"titel": "Skoda Kamiq (2024)",
+"bericht": "1.0 TSI Automaat Business Edition ( 28454 Km )\n€ 12.750 · 28.454 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-1-0-tsi-automaat-business-edition-28454-km/o/1830421",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795768524.7196925,
+"laatst": 1795768524.7196925,
 "keer": 0,
 "fout": ""
 }
