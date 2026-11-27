@@ -11112,20 +11112,23 @@
 "1829496",
 "1830557",
 "1830551",
-"1830553"
+"1830553",
+"1830547",
+"1830558",
+"1830556"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830557,
+"hoogste_id": 1830558,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1810404",
-"1670974",
-"1821392",
-"1821405",
-"1821422"
+"1825452",
+"1830547",
+"1830558",
+"1830556",
+"1830551"
 ]
 },
 "wachtrij": {
@@ -11473,6 +11476,36 @@
 "laatst": 1795777841.1898146,
 "keer": 0,
 "fout": ""
+},
+"1830547": {
+"melding": {
+"titel": "Toyota Rav-4 (2024)",
+"bericht": "2.5 AUTOMAAT Hybrid Dynamic\n€ 24.950 · 39.026 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-rav-4-2-5-automaat-hybrid-dynamic/o/1830547",
+"foto": "https://www.schadeautos.nl/cache/picture/49/1830547/f8751870c0669c49528eb27062138dd5~v195777947.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795778727.7592363,
+"laatst": 1795778727.7592363,
+"keer": 0,
+"fout": ""
+},
+"1830558": {
+"melding": {
+"titel": "Volkswagen Golf (2022)",
+"bericht": "8 1.4 e 150pk Aut Hybrid Style Elektrisch/ Benzine 2002 Camera alcantara stoelen massage standkachel\n€ 14.250 · 84.924 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-golf-8-1-4-e-150pk-aut-hybrid-style-elektrisch-benzine-2002-camera-alcantara-stoelen-massage-standkachel/o/1830558",
+"foto": "https://www.schadeautos.nl/cache/picture/360/1830558/7e4ffe2dad69dbcfca9970cfd6a9c46c~v195778355.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795778727.8008716,
+"laatst": 1795778727.8008716,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
@@ -11483,6 +11516,6 @@
 }
 },
 "zoekpagina_leeg": {
-"personenautos": 1795774848.880832
+"personenautos": 1795778724.1339536
 }
 }
