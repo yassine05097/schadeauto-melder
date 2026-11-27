@@ -11245,38 +11245,25 @@
 "1830715",
 "1830716",
 "1830717",
-"1830720"
+"1830720",
+"1830722",
+"1830721"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830720,
+"hoogste_id": 1830722,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830722",
+"1830721",
 "1830720",
 "1830471",
-"1830553",
-"1830717",
-"1830715"
+"1830553"
 ]
 },
 "wachtrij": {
-"1830666": {
-"melding": {
-"titel": "Toyota bZ4X (2026)",
-"bericht": "Touring Executive AWD 75kWh 381pk\n€ 19.500 · 2.491 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-bz4x-touring-executive-awd-75kwh-381pk/o/1830666",
-"foto": "https://www.schadeautos.nl/cache/picture/7/1830666/6da42f89369c9795de7eb9ceaa6e204e~v195791695.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795791929.0777698,
-"laatst": 1795791929.0777698,
-"keer": 0,
-"fout": ""
-},
 "1830423": {
 "melding": {
 "titel": "Volvo EX30 (2025)",
@@ -11484,6 +11471,21 @@
 ],
 "sinds": 1795800032.2694492,
 "laatst": 1795800032.2694492,
+"keer": 0,
+"fout": ""
+},
+"1830721": {
+"melding": {
+"titel": "Volkswagen Taigo (2024)",
+"bericht": "exportprijs € 5.850 · 55.646 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-taigo/o/1830721",
+"foto": "https://www.schadeautos.nl/picture/819/m/1830721/hb9i8wh79poznxw3x8sxx42gevt6z901~v195802995.jpeg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795803030.5252597,
+"laatst": 1795803030.5252597,
 "keer": 0,
 "fout": ""
 }
