@@ -11191,20 +11191,24 @@
 "1830663",
 "1830658",
 "1830642",
-"1830659"
+"1830659",
+"1830664",
+"1830662",
+"1830661",
+"1830648"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830663,
+"hoogste_id": 1830664,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830663",
-"1830658",
-"1830642",
-"1830659",
-"1692931"
+"1830664",
+"1830662",
+"1830661",
+"1830648",
+"1830663"
 ]
 },
 "wachtrij": {
@@ -11612,6 +11616,21 @@
 "laatst": 1795789530.9082599,
 "keer": 0,
 "fout": ""
+},
+"1830661": {
+"melding": {
+"titel": "BMW 3-serie (2022)",
+"bericht": "320e PLUG-IN TOURING\n€ 16.500 · 97.364 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-3-serie-320e-plug-in-touring/o/1830661",
+"foto": "https://www.schadeautos.nl/cache/picture/734/1830661/9202eae669e7839657d946e0ff756a44~v195789810.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795790131.4334774,
+"laatst": 1795790131.4334774,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
@@ -11622,6 +11641,6 @@
 }
 },
 "zoekpagina_leeg": {
-"personenautos": 1795786244.4467
+"personenautos": 1795790127.3002088
 }
 }
