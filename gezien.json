@@ -11029,20 +11029,21 @@
 "1806355",
 "1830394",
 "1830395",
-"1830396"
+"1830396",
+"1830399"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830396,
+"hoogste_id": 1830399,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830399",
 "1830396",
 "1830395",
 "1830394",
-"1806698",
-"1830392"
+"1806698"
 ]
 },
 "wachtrij": {
@@ -11058,6 +11059,21 @@
 ],
 "sinds": 1795762856.4457333,
 "laatst": 1795762856.4457333,
+"keer": 0,
+"fout": ""
+},
+"1830399": {
+"melding": {
+"titel": "Skoda Octavia (2025)",
+"bericht": "Combi 1.5 TSI mHEV 110 kW Ambition\n€ 21.900 · 22.092 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-octavia-combi-1-5-tsi-mhev-110-kw-ambition/o/1830399",
+"foto": "https://www.schadeautos.nl/picture/323/m/1830399/sbvuq8hajjb0mncl6n2vnw6fz7sbjt8p~v195764289.jpeg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795764324.0302432,
+"laatst": 1795764324.0302432,
 "keer": 0,
 "fout": ""
 }
