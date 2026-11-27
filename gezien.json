@@ -11061,20 +11061,25 @@
 "1813534",
 "1830438",
 "1723033",
-"1830435"
+"1830435",
+"1830454",
+"1779869",
+"1830448",
+"1830447",
+"1830442"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830438,
+"hoogste_id": 1830454,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1746493",
-"1723033",
-"1781401",
-"1789195",
-"1830438"
+"1830454",
+"1779869",
+"1830448",
+"1830447",
+"1830442"
 ]
 },
 "wachtrij": {
@@ -11225,6 +11230,36 @@
 ],
 "sinds": 1795769730.6677601,
 "laatst": 1795769730.6677601,
+"keer": 0,
+"fout": ""
+},
+"1830454": {
+"melding": {
+"titel": "Audi Q6 (2024)",
+"bericht": "e-tron quattro S line AHK/360/NAVI\n€ 42.900 · 63.811 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q6-e-tron-quattro-s-line-ahk-360-navi/o/1830454",
+"foto": "https://www.schadeautos.nl/picture/1018/m/1830454/63xvu8shib9ys57egdy6g8qidykdrqgn~v195770308.jpeg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795770332.1115658,
+"laatst": 1795770332.1115658,
+"keer": 0,
+"fout": ""
+},
+"1779869": {
+"melding": {
+"titel": "Opnieuw geplaatst: Skoda Kamiq (2023)",
+"bericht": "1.0TSI 81kW Automaat Business Edition\n€ 12.800 · 182.887 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-1-0tsi-81kw-automaat-business-edition/o/1779869",
+"foto": "https://www.schadeautos.nl/cache/picture/345/1779869/3cf2ca3bdcc24aea53de6743559eb7f5~v181076380.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795770332.1984153,
+"laatst": 1795770332.1984153,
 "keer": 0,
 "fout": ""
 }
