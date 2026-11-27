@@ -11235,7 +11235,8 @@
 "1830700",
 "1830706",
 "1830707",
-"1830702"
+"1830702",
+"1830704"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11244,29 +11245,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830704",
+"1811830",
 "1830655",
-"1830702",
-"1830707",
-"1811820",
-"1791918"
+"1828374",
+"1830240"
 ]
 },
 "wachtrij": {
-"1830316": {
-"melding": {
-"titel": "Audi Q5 (2025)",
-"bericht": "2.0 TFSI Quattro S-line 2025 LAST MODEL! 7864 KM!\n€ 37.900 · 7.864 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q5-2-0-tfsi-quattro-s-line-2025-last-model-7864-km/o/1830316",
-"foto": "https://www.schadeautos.nl/cache/picture/1048/1830316/c9262f5450c6247d55ab2e18edb3aef4~v195706889.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795786526.521092,
-"laatst": 1795786526.521092,
-"keer": 0,
-"fout": ""
-},
 "1830638": {
 "melding": {
 "titel": "Honda Jazz (2026)",
