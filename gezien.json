@@ -11202,7 +11202,12 @@
 "1830673",
 "1830674",
 "1830669",
-"1830667"
+"1830667",
+"1825435",
+"1830428",
+"1830434",
+"1830655",
+"1828975"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11211,44 +11216,14 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1830674",
-"1830669",
-"1830667",
-"1830673",
-"1830670"
+"1825435",
+"1830428",
+"1830434",
+"1830655",
+"1828975"
 ]
 },
 "wachtrij": {
-"1830564": {
-"melding": {
-"titel": "Toyota Rav-4 (2024)",
-"bericht": "2.5 Hybrid AWD Limited Navi Clima\n€ 27.250 · 63.409 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/toyota-rav-4-2-5-hybrid-awd-limited-navi-clima/o/1830564",
-"foto": "https://www.schadeautos.nl/cache/picture/309/1830564/3c1aa264869b8a0f705c7872bc4ad2f5~v195779769.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795780525.9106278,
-"laatst": 1795780525.9106278,
-"keer": 0,
-"fout": ""
-},
-"1829537": {
-"melding": {
-"titel": "Renault Master (2023)",
-"bericht": "Dci 165 Krismar Dubbelcabine\nexportprijs € 21.950 · 592.030 km · diesel",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/renault-master-dci-165-krismar-dubbelcabine/o/1829537",
-"foto": "https://www.schadeautos.nl/cache/picture/861/1829537/3d6209eea3c9e748a7f7918426e269b4~v195543452.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795780526.1326976,
-"laatst": 1795780526.1326976,
-"keer": 0,
-"fout": ""
-},
 "1830571": {
 "melding": {
 "titel": "Dacia Sandero (2023)",
@@ -11651,6 +11626,21 @@
 ],
 "sinds": 1795791034.5612624,
 "laatst": 1795791034.5612624,
+"keer": 0,
+"fout": ""
+},
+"1828975": {
+"melding": {
+"titel": "Porsche Macan (2022)",
+"bericht": "2.0T Autom. Panoramadak Navi Clima\n€ 36.500 · 128.385 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-macan-2-0t-autom-panoramadak-navi-clima/o/1828975",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1828975/711f41a6a111823522f46e68455ef886~v195444433.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795791654.4053955,
+"laatst": 1795791654.4053955,
 "keer": 0,
 "fout": ""
 }
