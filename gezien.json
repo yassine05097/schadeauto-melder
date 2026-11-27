@@ -11057,7 +11057,8 @@
 "1830269",
 "1830429",
 "1830417",
-"1771580"
+"1771580",
+"1813534"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11066,11 +11067,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1813534",
 "1830269",
 "1830429",
 "1830417",
-"1820116",
-"1771580"
+"1820116"
 ]
 },
 "wachtrij": {
@@ -11176,6 +11177,21 @@
 ],
 "sinds": 1795768832.5929189,
 "laatst": 1795768832.5929189,
+"keer": 0,
+"fout": ""
+},
+"1813534": {
+"melding": {
+"titel": "Opnieuw geplaatst: Porsche Taycan (2024)",
+"bericht": "4S Sport Tourismo Panoramadak Navi Clima\n€ 69.500 · 53.959 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/porsche-taycan-4s-sport-tourismo-panoramadak-navi-clima/o/1813534",
+"foto": "https://www.schadeautos.nl/cache/picture/309/1813534/8f0e5094305086780f1b7df589ee3176~v191365002.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795769136.7545345,
+"laatst": 1795769136.7545345,
 "keer": 0,
 "fout": ""
 }
