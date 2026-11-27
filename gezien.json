@@ -11239,38 +11239,25 @@
 "1830704",
 "1830712",
 "1830711",
-"1830710"
+"1830710",
+"1830130",
+"1830714"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830712,
+"hoogste_id": 1830714,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830130",
+"1830714",
 "1830712",
 "1830711",
-"1830710",
-"1830704",
-"1811830"
+"1830710"
 ]
 },
 "wachtrij": {
-"1830637": {
-"melding": {
-"titel": "Opel Astra (2024)",
-"bericht": "Sport Tourer Ultimate 130pk Automaat, Panorama, Head-Up, 360 Camera\n€ 8.995 · 52.000 km · benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-sport-tourer-ultimate-130pk-automaat-panorama-head-up-360-camera/o/1830637",
-"foto": "https://www.schadeautos.nl/cache/picture/344/1830637/1f5e6630e0b2baf87df7d2ba8b0157d3~v195787087.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795787730.003772,
-"laatst": 1795787730.003772,
-"keer": 0,
-"fout": ""
-},
 "1830639": {
 "melding": {
 "titel": "Leapmotor B10 (2026)",
@@ -11583,6 +11570,21 @@
 ],
 "sinds": 1795798230.1341932,
 "laatst": 1795798230.1341932,
+"keer": 0,
+"fout": ""
+},
+"1830714": {
+"melding": {
+"titel": "Peugeot 5008 (2026)",
+"bericht": "1.2 - 107 Kw Hybride GT-Line 7 personen\n€ 21.990 · 15.090 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-5008-1-2-107-kw-hybride-gt-line-7-personen/o/1830714",
+"foto": "https://www.schadeautos.nl/cache/picture/13/1830714/d5b0cf459a0c9d9b5707643d9d122d35~v195798424.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795798854.2803292,
+"laatst": 1795798854.2803292,
 "keer": 0,
 "fout": ""
 }
