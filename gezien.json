@@ -11129,38 +11129,27 @@
 "1830570",
 "1829159",
 "1830571",
-"1830572"
+"1830572",
+"1830585",
+"1830583",
+"1830582",
+"1830581"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830572,
+"hoogste_id": 1830585,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1752861",
-"1830572",
-"1830571",
-"1804312",
-"1824572"
+"1830585",
+"1830583",
+"1830582",
+"1830581",
+"1830567"
 ]
 },
 "wachtrij": {
-"1830445": {
-"melding": {
-"titel": "Suzuki Vitara (2026)",
-"bericht": "E 61 KWH AUTOMAAT 2026\n€ 12.500 · 5.000 km · elektrisch",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/suzuki-vitara-e-61-kwh-automaat-2026/o/1830445",
-"foto": "https://www.schadeautos.nl/cache/picture/104/1830445/0622fe145f123281521a8601dbc409cc~v195770838.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795771231.958151,
-"laatst": 1795771231.958151,
-"keer": 0,
-"fout": ""
-},
 "1830453": {
 "melding": {
 "titel": "Volvo EX30 (2025)",
@@ -11458,6 +11447,51 @@
 ],
 "sinds": 1795781131.8547654,
 "laatst": 1795781131.8547654,
+"keer": 0,
+"fout": ""
+},
+"1830583": {
+"melding": {
+"titel": "Opel (2024)",
+"bericht": "50 kWh Edition Camera Cruise Clima Apple/Android\n€ 12.750 · 16.895 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-50-kwh-edition-camera-cruise-clima-apple-android/o/1830583",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1830583/79d051ab8b10bd79dc73775a4c1f1851~v195781993.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795782043.0064037,
+"laatst": 1795782043.0064037,
+"keer": 0,
+"fout": ""
+},
+"1830582": {
+"melding": {
+"titel": "Kia Picanto (2025)",
+"bericht": "1.0 DPI DynamicLine Aut. Cruise Navi Virtual Apple/Android Camera PDC Airco\n€ 12.950 · 23.823 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-picanto-1-0-dpi-dynamicline-aut-cruise-navi-virtual-apple-android-camera-pdc-airco/o/1830582",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1830582/a79c257e02f01050c8750e321e467391~v195781980.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795782043.2438064,
+"laatst": 1795782043.2438064,
+"keer": 0,
+"fout": ""
+},
+"1830581": {
+"melding": {
+"titel": "Lynk & Co 01 (2023)",
+"bericht": "1.5 Pano 360° Memory Infinity ACC SHZ AHK Navi\n€ 13.450 · 55.360 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/lynk-co-01-1-5-pano-360-memory-infinity-acc-shz-ahk-navi/o/1830581",
+"foto": "https://www.schadeautos.nl/cache/picture/366/1830581/0dd7e65039566161d6e91f55983500d1~v195781950.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795782043.5038095,
+"laatst": 1795782043.5038095,
 "keer": 0,
 "fout": ""
 }
