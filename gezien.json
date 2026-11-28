@@ -11293,20 +11293,24 @@
 "1499318",
 "1829188",
 "1830780",
-"1830769"
+"1830769",
+"1830788",
+"1830786",
+"1830785",
+"1830775"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830782,
+"hoogste_id": 1830788,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1822190",
-"1830780",
-"1830769",
-"1829188",
-"1628395"
+"1820204",
+"1830788",
+"1830786",
+"1830785",
+"1830775"
 ]
 },
 "wachtrij": {
@@ -11532,6 +11536,51 @@
 ],
 "sinds": 1795866041.1547542,
 "laatst": 1795866041.1547542,
+"keer": 0,
+"fout": ""
+},
+"1830786": {
+"melding": {
+"titel": "Opel Astra (2026)",
+"bericht": "1.2 T Hybrid Automaat Navi Clima 12342 Km NAP !\n€ 17.950 · 12.342 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-astra-1-2-t-hybrid-automaat-navi-clima-12342-km-nap/o/1830786",
+"foto": "https://www.schadeautos.nl/cache/picture/364/1830786/c7b132e0e0eb663b5e2d51332b5c039a~v195868914.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795869632.0171537,
+"laatst": 1795869632.0171537,
+"keer": 0,
+"fout": ""
+},
+"1830785": {
+"melding": {
+"titel": "Peugeot e-208 (2023)",
+"bericht": "EV Active 50 kWh Navi Clima NAP !\n€ 10.950 · 13.500 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/peugeot-e-208-ev-active-50-kwh-navi-clima-nap/o/1830785",
+"foto": "https://www.schadeautos.nl/cache/picture/364/1830785/29a56f70432db42a7cd31475c53efe10~v195868316.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795869632.143658,
+"laatst": 1795869632.143658,
+"keer": 0,
+"fout": ""
+},
+"1830775": {
+"melding": {
+"titel": "Opel Corsa (2023)",
+"bericht": "1.2 Level 4 Automaat Navi NAP !\n€ 8.350 · 95.879 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/opel-corsa-1-2-level-4-automaat-navi-nap/o/1830775",
+"foto": "https://www.schadeautos.nl/cache/picture/364/1830775/512ace2d8a6c757d96837c98c2b547f1~v195864206.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795869632.2682247,
+"laatst": 1795869632.2682247,
 "keer": 0,
 "fout": ""
 }
