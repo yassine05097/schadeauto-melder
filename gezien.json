@@ -11301,20 +11301,21 @@
 "1829525",
 "1830793",
 "1507026",
-"1830794"
+"1830794",
+"1830795"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830794,
+"hoogste_id": 1830795,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830795",
 "1830794",
 "1828374",
 "1802406",
-"1811830",
-"1830302"
+"1811830"
 ]
 },
 "wachtrij": {
@@ -11540,6 +11541,21 @@
 ],
 "sinds": 1795871430.9384272,
 "laatst": 1795871430.9384272,
+"keer": 0,
+"fout": ""
+},
+"1830795": {
+"melding": {
+"titel": "Skoda Kamiq (2026)",
+"bericht": "Selection 1.0 116pk AUTOMAAT ACHTERUITRIJCAMERA STOELVERWARMING\n33.566 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-kamiq-selection-1-0-116pk-automaat-achteruitrijcamera-stoelverwarming/o/1830795",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1830795/a05773ddbaa6e723388aebab2e6a9b54~v195872148.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795872324.8981783,
+"laatst": 1795872324.8981783,
 "keer": 0,
 "fout": ""
 }
