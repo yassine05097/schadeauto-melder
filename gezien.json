@@ -11311,20 +11311,21 @@
 "1780234",
 "1830807",
 "1830808",
-"1830809"
+"1830809",
+"1830811"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830809,
+"hoogste_id": 1830811,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830811",
 "1806758",
 "1830809",
 "1830645",
-"1830807",
-"1830808"
+"1830807"
 ]
 },
 "wachtrij": {
@@ -11490,6 +11491,21 @@
 ],
 "sinds": 1795878048.9087543,
 "laatst": 1795878048.9087543,
+"keer": 0,
+"fout": ""
+},
+"1830811": {
+"melding": {
+"titel": "Skoda Scala (2026)",
+"bericht": "TOUR 1.5 150Pk Automaat Stoelverwarming Achteruitrij camera\n15.500 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/skoda-scala-tour-1-5-150pk-automaat-stoelverwarming-achteruitrij-camera/o/1830811",
+"foto": "https://www.schadeautos.nl/cache/picture/777/1830811/8ded6baa00133da234e93e974bd3fca4~v195878037.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795878324.3677433,
+"laatst": 1795878324.3677433,
 "keer": 0,
 "fout": ""
 }
