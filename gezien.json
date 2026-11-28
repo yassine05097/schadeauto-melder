@@ -11262,20 +11262,21 @@
 "1830740",
 "1830746",
 "1807076",
-"1826364"
+"1826364",
+"1830759"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830746,
+"hoogste_id": 1830759,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830759",
 "1830664",
 "1807076",
 "1826364",
-"1830746",
-"1807592"
+"1830746"
 ]
 },
 "wachtrij": {
@@ -11291,6 +11292,21 @@
 ],
 "sinds": 1795849253.2019231,
 "laatst": 1795849253.2019231,
+"keer": 0,
+"fout": ""
+},
+"1830759": {
+"melding": {
+"titel": "Ford Puma (2026)",
+"bericht": "NEW MODEL! 1.0 EcoBoost Hybrid 155PK Aut. Titanium\n€ 18.990 · 6.288 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-new-model-1-0-ecoboost-hybrid-155pk-aut-titanium/o/1830759",
+"foto": "https://www.schadeautos.nl/cache/picture/871/1830759/1d5a18c4c67ea0766c5aa6ec134d737d~v195858402.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795859129.582196,
+"laatst": 1795859129.582196,
 "keer": 0,
 "fout": ""
 }
