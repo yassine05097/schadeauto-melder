@@ -11283,20 +11283,22 @@
 "1830776",
 "1721035",
 "1793551",
-"1787470"
+"1787470",
+"1830779",
+"1830778"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830776,
+"hoogste_id": 1830779,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830779",
+"1830778",
 "1808389",
 "1787470",
-"1721035",
-"1793551",
-"1814939"
+"1721035"
 ]
 },
 "wachtrij": {
@@ -11492,6 +11494,21 @@
 ],
 "sinds": 1795864832.2221398,
 "laatst": 1795864832.2221398,
+"keer": 0,
+"fout": ""
+},
+"1830778": {
+"melding": {
+"titel": "Hyundai Bayon (2026)",
+"bericht": "\\\"Prime\\\" 74kw Automaat, Navi, Climate & Cruise, DAB+, Camera\n€ 8.995 · 6.400 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/hyundai-bayon-prime-74kw-automaat-navi-climate-cruise-dab-camera/o/1830778",
+"foto": "https://www.schadeautos.nl/cache/picture/344/1830778/a0fa0a997e17e1954e19b938999ac3dd~v195865265.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795865442.2115223,
+"laatst": 1795865442.2115223,
 "keer": 0,
 "fout": ""
 }
