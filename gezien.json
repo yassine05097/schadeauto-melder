@@ -11276,20 +11276,21 @@
 "1794034",
 "1830766",
 "1830768",
-"1830767"
+"1830767",
+"1830772"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830768,
+"hoogste_id": 1830772,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830772",
 "1828342",
 "1830768",
 "1830767",
-"1830766",
-"1760017"
+"1830766"
 ]
 },
 "wachtrij": {
@@ -11395,6 +11396,21 @@
 ],
 "sinds": 1795861843.6119623,
 "laatst": 1795861843.6119623,
+"keer": 0,
+"fout": ""
+},
+"1830772": {
+"melding": {
+"titel": "BMW X5 (2023)",
+"bericht": "50e xDrive M Sport Individual FULL\n€ 55.900 · 17.564 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5-50e-xdrive-m-sport-individual-full/o/1830772",
+"foto": "https://www.schadeautos.nl/picture/998/m/1830772/3kpc952c58jc9sjuor0r7pt0qa86gh33~v195862708.jpeg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795862730.3268938,
+"laatst": 1795862730.3268938,
 "keer": 0,
 "fout": ""
 }
