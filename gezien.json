@@ -11279,20 +11279,21 @@
 "1830767",
 "1830772",
 "1830774",
-"1830773"
+"1830773",
+"1830776"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830774,
+"hoogste_id": 1830776,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830776",
 "1830152",
 "1830774",
 "1830773",
-"1830772",
-"1828342"
+"1830772"
 ]
 },
 "wachtrij": {
@@ -11443,6 +11444,21 @@
 ],
 "sinds": 1795863030.3201318,
 "laatst": 1795863030.3201318,
+"keer": 0,
+"fout": ""
+},
+"1830776": {
+"melding": {
+"titel": "BMW M1 (2026)",
+"bericht": "35 xDrive HUD/AHK/360/H&K/ICONIC GLOW/NAVI\n€ 24.900 · 3.986 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-m1-35-xdrive-hud-ahk-360-h-k-iconic-glow-navi/o/1830776",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1830776/3812843c4b21b022bb9f94e615ed81da~v195863907.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795864230.6170518,
+"laatst": 1795864230.6170518,
 "keer": 0,
 "fout": ""
 }
