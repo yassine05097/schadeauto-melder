@@ -11263,20 +11263,23 @@
 "1830746",
 "1807076",
 "1826364",
-"1830759"
+"1830759",
+"1830761",
+"1830763",
+"1830762"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830759,
+"hoogste_id": 1830763,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830761",
+"1830763",
+"1830762",
 "1830759",
-"1830664",
-"1807076",
-"1826364",
-"1830746"
+"1830664"
 ]
 },
 "wachtrij": {
@@ -11307,6 +11310,51 @@
 ],
 "sinds": 1795859129.582196,
 "laatst": 1795859129.582196,
+"keer": 0,
+"fout": ""
+},
+"1830761": {
+"melding": {
+"titel": "Volkswagen Transporter (2022)",
+"bericht": "2.0 TDI 28 ECONOMY BUSINESS\n€ 7.750 · 286.414 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-transporter-2-0-tdi-28-economy-business/o/1830761",
+"foto": "https://www.schadeautos.nl/cache/picture/125/1830761/7a922ecf5cf77b53b54a2147ca7bc6bc~v195858678.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795859431.8197498,
+"laatst": 1795859431.8197498,
+"keer": 0,
+"fout": ""
+},
+"1830763": {
+"melding": {
+"titel": "Mercedes GLC (2026)",
+"bericht": "200 4Matic Coupe Pano Burm AHK\n€ 18.900 · 8.053 km · hybride",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-glc-200-4matic-coupe-pano-burm-ahk/o/1830763",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1830763/b45fb25615832640952eef0d26c6f218~v195859113.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795859431.901169,
+"laatst": 1795859431.901169,
+"keer": 0,
+"fout": ""
+},
+"1830762": {
+"melding": {
+"titel": "Mercedes GLE (2023)",
+"bericht": "350 de 4Matic Advanced Plus Pano 245KW\n€ 30.900 · 61.201 km · hybride diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-gle-350-de-4matic-advanced-plus-pano-245kw/o/1830762",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1830762/ba78d2e08f30f83e749fcdab54c6f45d~v195859107.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795859431.9817457,
+"laatst": 1795859431.9817457,
 "keer": 0,
 "fout": ""
 }
