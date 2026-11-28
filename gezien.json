@@ -11320,20 +11320,21 @@
 "1830834",
 "1830835",
 "1830839",
-"1830840"
+"1830840",
+"1830841"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830840,
+"hoogste_id": 1830841,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830841",
 "1830840",
 "1830839",
 "1830834",
-"1830835",
-"1702687"
+"1830835"
 ]
 },
 "wachtrij": {
@@ -11499,6 +11500,21 @@
 ],
 "sinds": 1795886130.5645795,
 "laatst": 1795886130.5645795,
+"keer": 0,
+"fout": ""
+},
+"1830841": {
+"melding": {
+"titel": "Audi E-tron (2022)",
+"bericht": "Sportback 55 quattro S line\n€ 14.883 · 50.969 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-e-tron-sportback-55-quattro-s-line/o/1830841",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1830841/44e05224cdc86820ef84c4239e8037b7~v195886382.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795886724.2410839,
+"laatst": 1795886724.2410839,
 "keer": 0,
 "fout": ""
 }
