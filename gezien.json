@@ -11280,7 +11280,9 @@
 "1830772",
 "1830774",
 "1830773",
-"1830776"
+"1830776",
+"1721035",
+"1793551"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11289,11 +11291,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1829323",
-"1829679",
-"1813148",
-"1816917",
-"1830776"
+"1721035",
+"1793551",
+"1814939",
+"1826617",
+"1816918"
 ]
 },
 "wachtrij": {
@@ -11459,6 +11461,36 @@
 ],
 "sinds": 1795864230.6170518,
 "laatst": 1795864230.6170518,
+"keer": 0,
+"fout": ""
+},
+"1721035": {
+"melding": {
+"titel": "Opnieuw geplaatst: DS Automobiles DS 7 Crossback (2022)",
+"bericht": "1.2 PureTech Bussines Automaat NAP Nederlandse Auto\n€ 14.250 · 159.000 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/ds-automobiles-ds-7-crossback-1-2-puretech-bussines-automaat-nap-nederlandse-auto/o/1721035",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1721035/ffc3fe1b9ba6b0a1cce3331e1dd59eef~v163382703.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795864832.0400686,
+"laatst": 1795864832.0400686,
+"keer": 0,
+"fout": ""
+},
+"1793551": {
+"melding": {
+"titel": "Opnieuw geplaatst: Volkswagen T-Roc (2023)",
+"bericht": "1.5 TSI Life Bussines Iq Light NAP Nederlandse Auto\n€ 12.500 · 98.988 km · benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-t-roc-1-5-tsi-life-bussines-iq-light-nap-nederlandse-auto/o/1793551",
+"foto": "https://www.schadeautos.nl/cache/picture/899/1793551/ce55a6b51774d911cb7647eeea5ff47b~v185311443.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795864832.2221398,
+"laatst": 1795864832.2221398,
 "keer": 0,
 "fout": ""
 }
