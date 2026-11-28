@@ -11318,20 +11318,21 @@
 "1830823",
 "1702687",
 "1830834",
-"1830835"
+"1830835",
+"1830839"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830835,
+"hoogste_id": 1830839,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830839",
 "1830834",
 "1830835",
 "1702687",
-"1830823",
-"1830822"
+"1830823"
 ]
 },
 "wachtrij": {
@@ -11469,6 +11470,21 @@
 "laatst": 1795879230.7465658,
 "keer": 0,
 "fout": ""
+},
+"1830839": {
+"melding": {
+"titel": "Kia Niro (2022)",
+"bericht": "Pulse\n€ 14.762 · 100.415 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/kia-niro-pulse/o/1830839",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1830839/2c123726e4aff2a5ea8cf0f4393bdfee~v195884663.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795885526.1721997,
+"laatst": 1795885526.1721997,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
@@ -11479,6 +11495,6 @@
 }
 },
 "zoekpagina_leeg": {
-"personenautos": 1795881649.1964717
+"personenautos": 1795885522.7164338
 }
 }
