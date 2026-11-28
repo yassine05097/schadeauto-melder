@@ -11319,20 +11319,21 @@
 "1702687",
 "1830834",
 "1830835",
-"1830839"
+"1830839",
+"1830840"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830839,
+"hoogste_id": 1830840,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1830840",
 "1830839",
 "1830834",
 "1830835",
-"1702687",
-"1830823"
+"1702687"
 ]
 },
 "wachtrij": {
@@ -11483,6 +11484,21 @@
 ],
 "sinds": 1795885526.1721997,
 "laatst": 1795885526.1721997,
+"keer": 0,
+"fout": ""
+},
+"1830840": {
+"melding": {
+"titel": "Audi Q4 (2024)",
+"bericht": "e-tron Sportback 45 quattro S Line\n€ 24.563 · 121.320 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-q4-e-tron-sportback-45-quattro-s-line/o/1830840",
+"foto": "https://www.schadeautos.nl/cache/picture/814/1830840/a4fbb58f3c0e19470a8a98b037817cb2~v195885498.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795886130.5645795,
+"laatst": 1795886130.5645795,
 "keer": 0,
 "fout": ""
 }
