@@ -11285,7 +11285,8 @@
 "1793551",
 "1787470",
 "1830779",
-"1830778"
+"1830778",
+"1830741"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
@@ -11294,11 +11295,11 @@
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1827618",
+"1830741",
+"1828541",
 "1830779",
-"1830778",
-"1808389",
-"1787470",
-"1721035"
+"1830778"
 ]
 },
 "wachtrij": {
@@ -11511,6 +11512,21 @@
 "laatst": 1795865442.2115223,
 "keer": 0,
 "fout": ""
+},
+"1830741": {
+"melding": {
+"titel": "Volkswagen Tiguan (2024)",
+"bericht": "1.5 eHybrid R-Line Business PHEV-HUD-360 CAMERA-KEYLESS\nexportprijs € 30.250 · 86.700 km · hybride benzine",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/volkswagen-tiguan-1-5-ehybrid-r-line-business-phev-hud-360-camera-keyless/o/1830741",
+"foto": "https://www.schadeautos.nl/cache/picture/898/1830741/88323e323d8d1fc28ac73d412cd46aea~v195855988.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795866041.1547542,
+"laatst": 1795866041.1547542,
+"keer": 0,
+"fout": ""
 }
 },
 "storing": {},
@@ -11521,6 +11537,6 @@
 }
 },
 "zoekpagina_leeg": {
-"personenautos": 1795862430.3737733
+"personenautos": 1795866038.2529862
 }
 }
