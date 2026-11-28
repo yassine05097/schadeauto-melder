@@ -11270,38 +11270,24 @@
 "1758055",
 "1802926",
 "1690363",
-"1634691"
+"1634691",
+"1830765"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830763,
+"hoogste_id": 1830765,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
-"1802926",
-"1690363",
-"1634691",
-"1673450",
-"1758055"
+"1830765",
+"1792887",
+"1816742",
+"1829096",
+"1818132"
 ]
 },
 "wachtrij": {
-"1830725": {
-"melding": {
-"titel": "Ford Puma (2023)",
-"bericht": "Ford Puma ST-Line Hybrid Navi Kamera Klimatronik\n€ 9.500 · 180.000 km · hybride benzine",
-"link": "https://www.schadeautos.nl/nl/schade/personenautos/ford-puma-ford-puma-st-line-hybrid-navi-kamera-klimatronik/o/1830725",
-"foto": "https://www.schadeautos.nl/cache/picture/397/1830725/e7c093152087a8168e9e1662097489a6~v195848950.jpg"
-},
-"kanalen": [
-"WhatsApp"
-],
-"sinds": 1795849253.2019231,
-"laatst": 1795849253.2019231,
-"keer": 0,
-"fout": ""
-},
 "1830759": {
 "melding": {
 "titel": "Ford Puma (2026)",
@@ -11359,6 +11345,21 @@
 ],
 "sinds": 1795859431.9817457,
 "laatst": 1795859431.9817457,
+"keer": 0,
+"fout": ""
+},
+"1830765": {
+"melding": {
+"titel": "Mercedes EQV (2024)",
+"bericht": "300 LANG Exclusive\n€ 27.900 · 78.524 km · elektrisch",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/mercedes-eqv-300-lang-exclusive/o/1830765",
+"foto": "https://www.schadeautos.nl/gfx/build-year.png"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795860325.1050928,
+"laatst": 1795860325.1050928,
 "keer": 0,
 "fout": ""
 }
