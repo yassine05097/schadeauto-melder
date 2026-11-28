@@ -11274,20 +11274,22 @@
 "1830765",
 "1748432",
 "1794034",
-"1830766"
+"1830766",
+"1830768",
+"1830767"
 ],
 "gestart": {
 "personenautos": "2026-10-07 18:42:13"
 },
-"hoogste_id": 1830766,
+"hoogste_id": 1830768,
 "nulmeting_id": 1813787,
 "vorige_top": {
 "personenautos": [
+"1828342",
+"1830768",
+"1830767",
 "1830766",
-"1760017",
-"1746433",
-"1797411",
-"1748432"
+"1760017"
 ]
 },
 "wachtrij": {
@@ -11363,6 +11365,36 @@
 ],
 "sinds": 1795860325.1050928,
 "laatst": 1795860325.1050928,
+"keer": 0,
+"fout": ""
+},
+"1830768": {
+"melding": {
+"titel": "Audi S6 (2022)",
+"bericht": "Limo 3.0 TDI quattro HUD/360/B&O/LUFT/SHZ\n€ 29.900 · 70.316 km · diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/audi-s6-limo-3-0-tdi-quattro-hud-360-b-o-luft-shz/o/1830768",
+"foto": "https://www.schadeautos.nl/cache/picture/1018/1830768/aaa807b4d509dd74b4d0f16bca8a0003~v195861530.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795861843.5819597,
+"laatst": 1795861843.5819597,
+"keer": 0,
+"fout": ""
+},
+"1830767": {
+"melding": {
+"titel": "BMW X5 (2025)",
+"bericht": "30d xDrive M Sport 210KW Pano Leder\n€ 49.500 · 44.176 km · hybride diesel",
+"link": "https://www.schadeautos.nl/nl/schade/personenautos/bmw-x5-30d-xdrive-m-sport-210kw-pano-leder/o/1830767",
+"foto": "https://www.schadeautos.nl/cache/picture/998/1830767/e637300ffd77aebd9a575f233a2815e6~v195861514.jpg"
+},
+"kanalen": [
+"WhatsApp"
+],
+"sinds": 1795861843.6119623,
+"laatst": 1795861843.6119623,
 "keer": 0,
 "fout": ""
 }
